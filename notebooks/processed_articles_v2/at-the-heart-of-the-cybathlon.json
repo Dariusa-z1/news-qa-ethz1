@@ -1,0 +1,266 @@
+{
+  "filename": "at-the-heart-of-the-cybathlon.md",
+  "original_filename": "at-the-heart-of-the-cybathlon.html",
+  "source_path": "en_internal/2016/10/at-the-heart-of-the-cybathlon.html",
+  "date": "2016-10",
+  "title": "At The Heart Of The Cybathlon",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "More than 70 teams from 25 countries will go head to head at the Swiss Arena in Kloten on 8 October. People with physical disabilities will compete in six challenging disciplines, supported by the latest technological assistance systems. Such a major event requires significant preparation: Roland Sigrist, Dario Wyss and Nicole Kasielke have been working hard to organise the upcoming competition for months. “life” introduces the organisers and their helpers.\n\nThis issue also includes an interview with Marcel Zurbuchen. As the Partner Organisations Coordinator, he is primarily responsible for catering and retail services at ETH Zurich.\n\nWe also pay a visit to the new video studio, which opened in late September, have a look at the Study Centre, and hear some thoughts from Hugo Bretscher, ETH Zurich’s recently retired General Secretary."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "More than 70",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "the Swiss Arena in Kloten",
+        "label": "ORG",
+        "start": 61,
+        "end": 86
+      },
+      {
+        "text": "8 October",
+        "label": "DATE",
+        "start": 90,
+        "end": 99
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 151,
+        "end": 154
+      },
+      {
+        "text": "Roland Sigrist",
+        "label": "PERSON",
+        "start": 291,
+        "end": 305
+      },
+      {
+        "text": "Dario Wyss",
+        "label": "PERSON",
+        "start": 307,
+        "end": 317
+      },
+      {
+        "text": "Nicole Kasielke",
+        "label": "PERSON",
+        "start": 322,
+        "end": 337
+      },
+      {
+        "text": "months",
+        "label": "DATE",
+        "start": 402,
+        "end": 408
+      },
+      {
+        "text": "Marcel Zurbuchen",
+        "label": "PERSON",
+        "start": 505,
+        "end": 521
+      },
+      {
+        "text": "the Partner Organisations Coordinator",
+        "label": "ORG",
+        "start": 526,
+        "end": 563
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 629,
+        "end": 639
+      },
+      {
+        "text": "late September",
+        "label": "DATE",
+        "start": 702,
+        "end": 716
+      },
+      {
+        "text": "the Study Centre",
+        "label": "FAC",
+        "start": 733,
+        "end": 749
+      },
+      {
+        "text": "Hugo Bretscher",
+        "label": "PERSON",
+        "start": 779,
+        "end": 793
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 795,
+        "end": 807
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dario Wyss",
+        "ETH Zurich’s",
+        "Hugo Bretscher",
+        "Marcel Zurbuchen",
+        "Nicole Kasielke",
+        "Roland Sigrist"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "the Partner Organisations Coordinator",
+        "the Swiss Arena in Kloten"
+      ],
+      "LOCATION": [
+        "the Study Centre"
+      ],
+      "DATE": [
+        "8 October",
+        "late September",
+        "months"
+      ],
+      "MISC": [
+        "More than 70",
+        "six"
+      ]
+    },
+    "entity_counts": {
+      "More than 70": 1,
+      "the Swiss Arena in Kloten": 1,
+      "8 October": 1,
+      "six": 1,
+      "Roland Sigrist": 1,
+      "Dario Wyss": 1,
+      "Nicole Kasielke": 1,
+      "months": 1,
+      "Marcel Zurbuchen": 1,
+      "the Partner Organisations Coordinator": 1,
+      "ETH Zurich": 1,
+      "late September": 1,
+      "the Study Centre": 1,
+      "Hugo Bretscher": 1,
+      "ETH Zurich’s": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "at-the-heart-of-the-cybathlon.md",
+      "title": "En Internal/2016/10/at The Heart Of The Cybathlon",
+      "language": "en",
+      "source_path": "en_internal/2016/10/at-the-heart-of-the-cybathlon.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dario Wyss",
+        "ETH Zurich’s",
+        "Hugo Bretscher",
+        "Marcel Zurbuchen",
+        "Nicole Kasielke",
+        "Roland Sigrist"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "More than 70"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Hugo Bretscher",
+        "The Heart",
+        "Study Centre",
+        "General Secretary",
+        "En Internal",
+        "Swiss Arena",
+        "Dario Wyss",
+        "Nicole Kasielke",
+        "ETH Zurich",
+        "Marcel Zurbuchen",
+        "Of The",
+        "Partner Organisations",
+        "Cybathlon More",
+        "Roland Sigrist"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "the Partner Organisations Coordinator",
+        "the Swiss Arena in Kloten"
+      ],
+      "locations": [
+        "the Study Centre"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "More than 70",
+        "the Swiss Arena in Kloten",
+        "8 October",
+        "six",
+        "Roland Sigrist",
+        "Dario Wyss",
+        "Nicole Kasielke",
+        "months",
+        "Marcel Zurbuchen",
+        "the Partner Organisations Coordinator"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 895
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hugo Bretscher",
+        "Roland Sigrist",
+        "the Partner Organisations Coordinator",
+        "2016",
+        "Dario Wyss",
+        "Nicole Kasielke",
+        "Marcel Zurbuchen",
+        "the Swiss Arena in Kloten",
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "More than 70"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

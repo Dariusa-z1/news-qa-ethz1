@@ -1,0 +1,160 @@
+{
+  "filename": "optical-society-of-america-archive-now-accessible.md",
+  "original_filename": "optical-society-of-america-archive-now-accessible.html",
+  "source_path": "en_internal/2016/09/optical-society-of-america-archive-now-accessible.html",
+  "date": "2016-09",
+  "title": "Optical Society Of America Archive Now Accessible",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The archive contains all publications since the society was founded in 1916 right up to 2015:\n\nThe research papers from the fields of optics and photonics also include historically interesting documents, such as the report on the 1947 society meeting, where physicist Edwin Herbert Land showcased the first polaroid camera as the \"most exciting part of the program\".\n\nAccess is possible from the ETH Zurich network or on ETH-Bibliothek premises."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Society Of America Archive Now Accessible",
+        "label": "ORG",
+        "start": 28,
+        "end": 69
+      },
+      {
+        "text": "Edwin Herbert Land",
+        "label": "PERSON",
+        "start": 267,
+        "end": 285
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 300,
+        "end": 305
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 419,
+        "end": 433
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Edwin Herbert Land"
+      ],
+      "ORG": [
+        "ETH-Bibliothek",
+        "Society Of America Archive Now Accessible"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "Society Of America Archive Now Accessible": 1,
+      "Edwin Herbert Land": 1,
+      "first": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "optical-society-of-america-archive-now-accessible.md",
+      "title": "En Internal/2016/09/optical Society Of America Archive Now Accessible",
+      "language": "en",
+      "source_path": "en_internal/2016/09/optical-society-of-america-archive-now-accessible.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "1916",
+        "1947",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Edwin Herbert Land"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Now Accessible",
+        "Edwin Herbert",
+        "Society Of",
+        "En Internal",
+        "ETH Zurich",
+        "America Archive"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "Society Of America Archive Now Accessible"
+      ],
+      "locations": [],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Society Of America Archive Now Accessible",
+        "Edwin Herbert Land",
+        "first",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 515
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "Society Of America Archive Now Accessible",
+        "2015",
+        "Edwin Herbert Land",
+        "2016",
+        "1947",
+        "1916"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "what",
+        "how",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

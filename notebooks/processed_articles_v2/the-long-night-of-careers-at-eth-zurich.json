@@ -1,0 +1,197 @@
+{
+  "filename": "the-long-night-of-careers-at-eth-zurich.md",
+  "original_filename": "the-long-night-of-careers-at-eth-zurich.html",
+  "source_path": "en_internal/2015/11/the-long-night-of-careers-at-eth-zurich.html",
+  "date": "2015-11",
+  "title": "The Long Night Of Careers At Eth Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The \"Long Night of the Careers (LNoC)\" will take place this year for the second time on the 12th of November at ETH Zurich. This event is aimed at students, doctorates, post-docs and alumni, and will be held in the ETH main building. Visitors can take advantage of an exceptional platform to meet former ETH students, company representatives and like-minded people in a direct and casual environment.\n\nIn 2015, the \"Long Night of the Careers (LNoC)\" is being held at 12 universities and university-level institutions.\n\nFurther information www.ethz.ch/lnoc ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Zurich",
+        "label": "FAC",
+        "start": 49,
+        "end": 59
+      },
+      {
+        "text": "The \"Long Night of the Careers (LNoC",
+        "label": "LAW",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 55,
+        "end": 64
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 73,
+        "end": 79
+      },
+      {
+        "text": "the 12th of November",
+        "label": "DATE",
+        "start": 88,
+        "end": 108
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 112,
+        "end": 122
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 215,
+        "end": 218
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 304,
+        "end": 307
+      },
+      {
+        "text": "the \"Long Night of the Careers (LNoC",
+        "label": "PRODUCT",
+        "start": 410,
+        "end": 446
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Eth Zurich"
+      ],
+      "DATE": [
+        "the 12th of November",
+        "this year"
+      ],
+      "MISC": [
+        "The \"Long Night of the Careers (LNoC",
+        "second",
+        "the \"Long Night of the Careers (LNoC"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Eth Zurich": 1,
+      "The \"Long Night of the Careers (LNoC": 1,
+      "this year": 1,
+      "second": 1,
+      "the 12th of November": 1,
+      "ETH Zurich": 1,
+      "the \"Long Night of the Careers (LNoC": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-long-night-of-careers-at-eth-zurich.md",
+      "title": "En Internal/2015/11/the Long Night Of Careers At Eth Zurich",
+      "language": "en",
+      "source_path": "en_internal/2015/11/the-long-night-of-careers-at-eth-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2015-11",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "The \"Long Night of the Careers (LNoC",
+        "second",
+        "the \"Long Night of the Careers (LNoC"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Of Careers",
+        "Long Night",
+        "Zurich The",
+        "En Internal",
+        "At Eth",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Eth Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Eth Zurich",
+        "The \"Long Night of the Careers (LNoC",
+        "this year",
+        "second",
+        "the 12th of November",
+        "ETH Zurich",
+        "the \"Long Night of the Careers (LNoC"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 617
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "The \"Long Night of the Careers (LNoC",
+        "second",
+        "the \"Long Night of the Careers (LNoC",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

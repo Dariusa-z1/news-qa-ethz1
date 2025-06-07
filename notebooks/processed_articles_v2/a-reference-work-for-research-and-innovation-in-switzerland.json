@@ -1,0 +1,320 @@
+{
+  "filename": "a-reference-work-for-research-and-innovation-in-switzerland.md",
+  "original_filename": "a-reference-work-for-research-and-innovation-in-switzerland.html",
+  "source_path": "en_internal/2016/04/a-reference-work-for-research-and-innovation-in-switzerland.html",
+  "date": "2016-04",
+  "title": "A Reference Work For Research And Innovation In Switzerland",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Johann N. Schneider-Ammann. (Photo: Alessandro Della Bella)\n\nAt roughly 230 pages, “Research and Innovation in Switzerland 2016” is a comprehensive report published by the State Secretariat for Education, Research and Innovation (SERI), and serves as a reference work in the discussions around research and innovation in Switzerland. However, as SERI explains in its press release , the report is not intended to suggest controls for the Swiss research and innovation system.\n\nThe study reveals the Swiss research and innovation system to be highly competitive, both on a national and international level. The overall quality of working conditions in Switzerland, the excellence of its workforce along the entire supply chain, and the variety of local scientific networks were highlighted as particular assets.\n\nHowever, according to SERI the research and innovation environment is constantly changing, and the preservation of an international outlook is vital for Switzerland's research and innovation sector. Emphasis should also be placed on attracting and retaining skilled workers.\n\nThe report goes on to suggest that the structure and organisation of Swiss research and innovation are both flexible and effective. The high standards at ETH Zurich and ETH Lausanne are mentioned several times as being particularly valuable location factors for research and innovation.\n\nThe report names Google, IBM Research – Zurich and Disney Research Zurich as examples of ETH’s long-standing and successful collaborations in the field of science and technology."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 68,
+        "end": 79
+      },
+      {
+        "text": "Johann N. Schneider-Ammann",
+        "label": "PERSON",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "roughly 230",
+        "label": "CARDINAL",
+        "start": 63,
+        "end": 74
+      },
+      {
+        "text": "Research and Innovation",
+        "label": "WORK_OF_ART",
+        "start": 83,
+        "end": 106
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 110,
+        "end": 121
+      },
+      {
+        "text": "the State Secretariat for Education",
+        "label": "ORG",
+        "start": 167,
+        "end": 202
+      },
+      {
+        "text": "Research and Innovation",
+        "label": "ORG",
+        "start": 204,
+        "end": 227
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 320,
+        "end": 331
+      },
+      {
+        "text": "SERI",
+        "label": "ORG",
+        "start": 345,
+        "end": 349
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 437,
+        "end": 442
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 497,
+        "end": 502
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 649,
+        "end": 660
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 962,
+        "end": 973
+      },
+      {
+        "text": "Emphasis",
+        "label": "ORG",
+        "start": 1008,
+        "end": 1016
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1153,
+        "end": 1158
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1238,
+        "end": 1248
+      },
+      {
+        "text": "ETH Lausanne",
+        "label": "PERSON",
+        "start": 1253,
+        "end": 1265
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 1388,
+        "end": 1394
+      },
+      {
+        "text": "IBM Research",
+        "label": "ORG",
+        "start": 1396,
+        "end": 1408
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1411,
+        "end": 1417
+      },
+      {
+        "text": "Disney Research Zurich",
+        "label": "ORG",
+        "start": 1422,
+        "end": 1444
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1460,
+        "end": 1463
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Lausanne",
+        "Johann N. Schneider-Ammann"
+      ],
+      "ORG": [
+        "Disney Research Zurich",
+        "ETH",
+        "ETH Zurich",
+        "Emphasis",
+        "Google",
+        "IBM Research",
+        "Research and Innovation",
+        "SERI",
+        "the State Secretariat for Education"
+      ],
+      "LOCATION": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Research and Innovation",
+        "Swiss",
+        "roughly 230"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 5,
+      "Swiss": 3,
+      "Research and Innovation": 2,
+      "Johann N. Schneider-Ammann": 1,
+      "roughly 230": 1,
+      "the State Secretariat for Education": 1,
+      "SERI": 1,
+      "Emphasis": 1,
+      "ETH Zurich": 1,
+      "ETH Lausanne": 1,
+      "Google": 1,
+      "IBM Research": 1,
+      "Zurich": 1,
+      "Disney Research Zurich": 1,
+      "ETH": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-reference-work-for-research-and-innovation-in-switzerland.md",
+      "title": "En Internal/2016/04/a Reference Work For Research And Innovation in Switzerland",
+      "language": "en",
+      "source_path": "en_internal/2016/04/a-reference-work-for-research-and-innovation-in-switzerland.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Lausanne",
+        "Johann N. Schneider-Ammann"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Research and Innovation",
+        "Swiss",
+        "roughly 230"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Disney Research",
+        "Switzerland Johann",
+        "For Research",
+        "Schneider-Ammann",
+        "ETH Lausanne",
+        "And Innovation",
+        "En Internal",
+        "IBM Research",
+        "Reference Work",
+        "State Secretariat",
+        "ETH Zurich",
+        "Alessandro Della"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Disney Research Zurich",
+        "ETH",
+        "ETH Zurich",
+        "Emphasis",
+        "Google",
+        "IBM Research",
+        "Research and Innovation",
+        "SERI",
+        "the State Secretariat for Education"
+      ],
+      "locations": [
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "Swiss",
+        "Research and Innovation",
+        "Johann N. Schneider-Ammann",
+        "roughly 230",
+        "the State Secretariat for Education",
+        "SERI",
+        "Emphasis",
+        "ETH Zurich",
+        "ETH Lausanne"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1634
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Google",
+        "ETH Lausanne",
+        "Emphasis",
+        "2016",
+        "IBM Research",
+        "Johann N. Schneider-Ammann",
+        "SERI",
+        "the State Secretariat for Education",
+        "ETH Zurich",
+        "Disney Research Zurich",
+        "Research and Innovation"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "roughly 230",
+        "Swiss",
+        "where",
+        "what",
+        "how",
+        "when",
+        "Research and Innovation"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "filename": "neues-onlineangebot-zur-meldung-von-schaeden-und-stoerungen-in-eth-gebaeuden.md",
+  "original_filename": "neues-onlineangebot-zur-meldung-von-schaeden-und-stoerungen-in-eth-gebaeuden.html",
+  "source_path": "en_internal/2019/07/neues-onlineangebot-zur-meldung-von-schaeden-und-stoerungen-in-eth-gebaeuden.html",
+  "date": "2019-07",
+  "title": "Neues Onlineangebot Zur Meldung Von Schaeden Und Stoerungen In Eth Gebaeuden",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH is the size of a small city. It comprises about 200 buildings, green spaces, streets and squares, public areas and thousands of rooms for its 30,000 members. In the background, an extensive technical infrastructure is in place to operate this network. At ETH, great value is placed on keeping this infrastructure in perfect condition and up to date. An important prerequisite for making sure problems in the buildings are quickly resolved is the communication between users and the infrastructure managers.\n\nWe are launching this option with a simple basic functionality: a report form with the option to attach an image. You will be informed by email as soon as the problem has been resolved. The status of your reports can be viewed on the real estate services portal . With this function, we would like to give the ETH community the opportunity to actively contribute to a well-functioning infrastructure."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zur Meldung von Schaeden",
+        "label": "PERSON",
+        "start": 40,
+        "end": 64
+      },
+      {
+        "text": "Stoerungen",
+        "label": "PERSON",
+        "start": 69,
+        "end": 79
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "about 200",
+        "label": "CARDINAL",
+        "start": 46,
+        "end": 55
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 119,
+        "end": 128
+      },
+      {
+        "text": "30,000",
+        "label": "CARDINAL",
+        "start": 146,
+        "end": 152
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 259,
+        "end": 262
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 821,
+        "end": 824
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Stoerungen",
+        "Zur Meldung von Schaeden"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "30,000",
+        "about 200",
+        "thousands"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Zur Meldung von Schaeden": 1,
+      "Stoerungen": 1,
+      "about 200": 1,
+      "thousands": 1,
+      "30,000": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neues-onlineangebot-zur-meldung-von-schaeden-und-stoerungen-in-eth-gebaeuden.md",
+      "title": "En Internal/2019/07/neues Onlineangebot Zur Meldung von Schaeden und Stoerungen in Eth Gebaeuden",
+      "language": "en",
+      "source_path": "en_internal/2019/07/neues-onlineangebot-zur-meldung-von-schaeden-und-stoerungen-in-eth-gebaeuden.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Stoerungen",
+        "Zur Meldung von Schaeden"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "30,000",
+        "about 200",
+        "thousands"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Onlineangebot Zur",
+        "At ETH",
+        "Eth Gebaeuden",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Zur Meldung von Schaeden",
+        "Stoerungen",
+        "about 200",
+        "thousands",
+        "30,000"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1009
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zur Meldung von Schaeden",
+        "ETH",
+        "Stoerungen",
+        "2019",
+        "EU"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "about 200",
+        "thousands",
+        "where",
+        "30,000",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

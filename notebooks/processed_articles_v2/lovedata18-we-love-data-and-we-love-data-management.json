@@ -1,0 +1,154 @@
+{
+  "filename": "lovedata18-we-love-data-and-we-love-data-management.md",
+  "original_filename": "lovedata18-we-love-data-and-we-love-data-management.html",
+  "source_path": "en_internal/2018/02/lovedata18-we-love-data-and-we-love-data-management.html",
+  "date": "2018-02",
+  "title": "Lovedata18 We Love Data And We Love Data Management",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Read how ETH Library supports ETH Zurich's researchers manage and preserve their data. Here, the similarities to squirrels and elephants are bigger than you would think... curious?\n\nExplora is ETH Library's storytelling platform on anything to do with science and the key issues of our time."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 9,
+        "end": 20
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 30,
+        "end": 42
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 181,
+        "end": 188
+      },
+      {
+        "text": "ETH Library's",
+        "label": "ORG",
+        "start": 192,
+        "end": 205
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich's",
+        "Explora"
+      ],
+      "ORG": [
+        "ETH Library",
+        "ETH Library's"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Library": 1,
+      "ETH Zurich's": 1,
+      "Explora": 1,
+      "ETH Library's": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lovedata18-we-love-data-and-we-love-data-management.md",
+      "title": "En Internal/2018/02/lovedata18 We Love Data And We Love Data Management",
+      "language": "en",
+      "source_path": "en_internal/2018/02/lovedata18-we-love-data-and-we-love-data-management.html"
+    },
+    "temporal": {
+      "publication_date": "2018-02",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich's",
+        "Explora"
+      ],
+      "people_with_roles": {
+        "ETH Zurich's": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Data Management",
+        "Data And",
+        "ETH Library",
+        "En Internal",
+        "ETH Zurich",
+        "We Love"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "ETH Library's"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "ETH Zurich's",
+        "Explora",
+        "ETH Library's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 363
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH Library",
+        "Explora",
+        "ETH Library's",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "who",
+        "when",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "ETH Zurich's_has_role_researcher"
+      ]
+    }
+  }
+}

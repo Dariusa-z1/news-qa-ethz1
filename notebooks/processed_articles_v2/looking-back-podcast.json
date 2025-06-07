@@ -1,0 +1,215 @@
+{
+  "filename": "looking-back-podcast.md",
+  "original_filename": "looking-back-podcast.html",
+  "source_path": "en_news_events/2022/12/looking-back-podcast.html",
+  "date": "2022-12",
+  "title": "Looking Back Podcast",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Podcast is going on a creative break and will reappear with a new concept next year. Time for host and co-producer Jennifer Khakshouri from Audiobande to look back and revisit two of her first podcast guests:\n\nAgnieszka Rozniak and Hanno Kappen. What do the former students do today? How did their time at ETH shape them, what have they learned for life when they look back, and what advice would they give to young ETH students?"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Podcast",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "next year",
+        "label": "DATE",
+        "start": 78,
+        "end": 87
+      },
+      {
+        "text": "Jennifer Khakshouri",
+        "label": "PERSON",
+        "start": 119,
+        "end": 138
+      },
+      {
+        "text": "Audiobande",
+        "label": "ORG",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 180,
+        "end": 183
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 191,
+        "end": 196
+      },
+      {
+        "text": "Agnieszka Rozniak",
+        "label": "PERSON",
+        "start": 213,
+        "end": 230
+      },
+      {
+        "text": "Hanno Kappen",
+        "label": "ORG",
+        "start": 235,
+        "end": 247
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 280,
+        "end": 285
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 309,
+        "end": 312
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 419,
+        "end": 422
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Agnieszka Rozniak",
+        "Jennifer Khakshouri"
+      ],
+      "ORG": [
+        "Audiobande",
+        "ETH",
+        "ETH Podcast",
+        "Hanno Kappen"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "next year",
+        "today"
+      ],
+      "MISC": [
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "ETH Podcast": 1,
+      "next year": 1,
+      "Jennifer Khakshouri": 1,
+      "Audiobande": 1,
+      "two": 1,
+      "first": 1,
+      "Agnieszka Rozniak": 1,
+      "Hanno Kappen": 1,
+      "today": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "looking-back-podcast.md",
+      "title": "En News Events/2022/12/looking Back Podcast",
+      "language": "en",
+      "source_path": "en_news_events/2022/12/looking-back-podcast.html"
+    },
+    "temporal": {
+      "publication_date": "2022-12",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Agnieszka Rozniak",
+        "Jennifer Khakshouri"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Back Podcast",
+        "En News",
+        "ETH Podcast",
+        "Agnieszka Rozniak",
+        "Hanno Kappen",
+        "Jennifer Khakshouri"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Audiobande",
+        "ETH",
+        "ETH Podcast",
+        "Hanno Kappen"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Podcast",
+        "next year",
+        "Jennifer Khakshouri",
+        "Audiobande",
+        "two",
+        "first",
+        "Agnieszka Rozniak",
+        "Hanno Kappen",
+        "today"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 477
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "ETH Podcast",
+        "2022",
+        "Agnieszka Rozniak",
+        "Hanno Kappen",
+        "Jennifer Khakshouri",
+        "Audiobande"
+      ],
+      "semantic_concepts": [
+        "first",
+        "how",
+        "what",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

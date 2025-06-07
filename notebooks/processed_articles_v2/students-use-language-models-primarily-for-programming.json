@@ -1,0 +1,329 @@
+{
+  "filename": "students-use-language-models-primarily-for-programming.md",
+  "original_filename": "students-use-language-models-primarily-for-programming.html",
+  "source_path": "en_internal/2024/01/students-use-language-models-primarily-for-programming.html",
+  "date": "2024-01",
+  "title": "Students Use Language Models Primarily For Programming",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Rarely used in courses, but often for learning",
+      "text": "New AI tools, in particular language models such as ChatGPT, are actively used by ETH students. Preferably as support for programming tasks. This is shown by a survey conducted by the Teaching Development and Technology department (LET) together with the Department of Mathematics' Seminar for Statistics. Around 4800 or around a third of all students responded to the questions they were asked in September 2023."
+    },
+    {
+      "heading": "Rarely used in courses, but often for learning",
+      "text": "Students rarely encountered the new language models in courses. Only 17 per cent stated that they had already come into contact with a tool such as ChatGPT in a course.\n\nIn contrast, the tools are used extensively for independent learning. Most students stated that they use language models when programming, for example to write or explain programmes in the Python and R languages. Many also use the tools to help with text formatting in the word processing programme LaTeX. The second most frequently mentioned use of language models by students was to enhance, translate, or correct texts."
+    },
+    {
+      "heading": "Bad at maths",
+      "text": "Many students also use language models to prepare for exams, although they are well aware of the limitations of the systems. Particularly in mathematics, but also in specialised technical and scientific subjects, the systems often tend to hallucinate, i.e. they invent certain things.\n\nStudents report that they are often in dialogue with the language models in order to find entrances to topics or to be challenged, for example by looking for the errors in convincing-sounding answers. Some students also stated that they use ChatGPT to create exercises or flashcards based on lecture scripts."
+    },
+    {
+      "heading": "Desire for custom language model",
+      "text": "In the many free text responses, there was also a call for ETH to provide its students with a more reliable tool based on ETH materials and learning content. The Rectorate and the AI Centre are currently examining whether and how a user-defined language model could be trained with teaching materials.\n\nIn addition, a survey is currently being conducted among lecturers on how they use and benefit from AI tools in teaching."
+    },
+    {
+      "heading": "Note on the translation",
+      "text": "This text has been translated for your convenience using a machine translation tool. Although reasonable efforts have been made to provide an accurate translation, it may not be perfect. If in doubt, please refer to the German version.\n\nShould you come upon significant translation mistakes, please send a short message to so that we can correct them. Thank you very much."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Language Models Primarily For Programming",
+        "label": "ORG",
+        "start": 33,
+        "end": 74
+      },
+      {
+        "text": "New AI",
+        "label": "GPE",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 82,
+        "end": 85
+      },
+      {
+        "text": "the Teaching Development and Technology",
+        "label": "ORG",
+        "start": 180,
+        "end": 219
+      },
+      {
+        "text": "the Department of Mathematics' Seminar for Statistics",
+        "label": "ORG",
+        "start": 251,
+        "end": 304
+      },
+      {
+        "text": "Around 4800",
+        "label": "CARDINAL",
+        "start": 306,
+        "end": 317
+      },
+      {
+        "text": "around a third",
+        "label": "CARDINAL",
+        "start": 321,
+        "end": 335
+      },
+      {
+        "text": "September 2023",
+        "label": "DATE",
+        "start": 398,
+        "end": 412
+      },
+      {
+        "text": "Only 17 per cent",
+        "label": "MONEY",
+        "start": 64,
+        "end": 80
+      },
+      {
+        "text": "Python",
+        "label": "PERSON",
+        "start": 358,
+        "end": 364
+      },
+      {
+        "text": "LaTeX.",
+        "label": "ORG",
+        "start": 468,
+        "end": 474
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 479,
+        "end": 485
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 59,
+        "end": 62
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 122,
+        "end": 125
+      },
+      {
+        "text": "the AI Centre",
+        "label": "ORG",
+        "start": 176,
+        "end": 189
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 402,
+        "end": 404
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 220,
+        "end": 226
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Python"
+      ],
+      "ORG": [
+        "ETH",
+        "LaTeX.",
+        "Language Models Primarily For Programming",
+        "the AI Centre",
+        "the Department of Mathematics' Seminar for Statistics",
+        "the Teaching Development and Technology"
+      ],
+      "LOCATION": [
+        "AI",
+        "New AI"
+      ],
+      "DATE": [
+        "September 2023"
+      ],
+      "MISC": [
+        "Around 4800",
+        "German",
+        "Only 17 per cent",
+        "around a third",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Language Models Primarily For Programming": 1,
+      "New AI": 1,
+      "the Teaching Development and Technology": 1,
+      "the Department of Mathematics' Seminar for Statistics": 1,
+      "Around 4800": 1,
+      "around a third": 1,
+      "September 2023": 1,
+      "Only 17 per cent": 1,
+      "Python": 1,
+      "LaTeX.": 1,
+      "second": 1,
+      "the AI Centre": 1,
+      "AI": 1,
+      "German": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "students-use-language-models-primarily-for-programming.md",
+      "title": "En Internal/2024/01/students Use Language Models Primarily For Programming",
+      "language": "en",
+      "source_path": "en_internal/2024/01/students-use-language-models-primarily-for-programming.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Python"
+      ],
+      "people_with_roles": {
+        "Python": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Around 4800",
+        "German",
+        "Only 17 per cent",
+        "around a third",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "The Rectorate",
+        "Models Primarily",
+        "En Internal",
+        "Teaching Development",
+        "AI Centre",
+        "New AI",
+        "For Programming",
+        "Use Language"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mathematics"
+      ],
+      "institutions": [
+        "ETH",
+        "LaTeX.",
+        "Language Models Primarily For Programming",
+        "the AI Centre",
+        "the Department of Mathematics' Seminar for Statistics",
+        "the Teaching Development and Technology"
+      ],
+      "locations": [
+        "AI",
+        "New AI"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Language Models Primarily For Programming",
+        "New AI",
+        "the Teaching Development and Technology",
+        "the Department of Mathematics' Seminar for Statistics",
+        "Around 4800",
+        "around a third",
+        "September 2023",
+        "Only 17 per cent",
+        "Python"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Rarely used in courses, but often for learning",
+          "Rarely used in courses, but often for learning",
+          "Bad at maths",
+          "Desire for custom language model",
+          "Note on the translation"
+        ],
+        "content_length": 2474
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "Python",
+        "LaTeX.",
+        "the AI Centre",
+        "Language Models Primarily For Programming",
+        "the Department of Mathematics' Seminar for Statistics",
+        "the Teaching Development and Technology",
+        "ERC",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "Around 4800",
+        "Only 17 per cent",
+        "around a third",
+        "what",
+        "second",
+        "German",
+        "how",
+        "computer_science",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Python_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

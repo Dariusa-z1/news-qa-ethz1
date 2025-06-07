@@ -1,0 +1,342 @@
+{
+  "filename": "eth-store-geht-kooperation-mit-orell-fuessli-ein.md",
+  "original_filename": "eth-store-geht-kooperation-mit-orell-fuessli-ein.html",
+  "source_path": "de_internal/2022/11/eth-store-geht-kooperation-mit-orell-fuessli-ein.html",
+  "date": "2022-11",
+  "title": "Eth Store Geht Kooperation Mit Orell Fuessli Ein",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Zwei von drei Stores neu bei Orell Füssli",
+      "text": "Die externe Seite ETH Store AG betreibt neben einem eigenen Webshop auf dem ETH-Campus drei Verkaufsfilialen, in denen Studierende wie Mitarbeitende ein breites Angebot an Büchern, Schreibwaren und ETH-Merchandising finden. Nun geht der ETH Store eine Kooperation mit dem grössten Schweizer Buchhandelsunternehmen externe Seite Orell Füssli Thalia AG ein."
+    },
+    {
+      "heading": "Zwei von drei Stores neu bei Orell Füssli",
+      "text": "Ab 1. Januar 2023 wird die Orell Füssli Thalia AG sowohl den ETH Store auf dem Campus Hönggerberg als auch die Filiale bei der Polyterrasse übernehmen. Die Filiale an der Sonneggstrasse, der zweite ETH Store im Zentrum, wird weiterhin von der ETH Store AG betrieben und wird ab Februar 2023 als neuer Flagship-Store für ETH-Merchandising und weitere Dienstleistungen und Produkte weitergeführt.\n\nOrell Füssli übernimmt in beiden ETH Stores das Personal und das bestehende Sortiment. Dieses soll mit einem ausgewählten Angebot an Fachliteratur, Sachbüchern und Studienmaterialien ergänzt werden."
+    },
+    {
+      "heading": "Neuer Webshop, bessere Konditionen",
+      "text": "Neu erhalten ETH-Studierende und -Mitarbeitende Zugang zum Webshop von externe Seite Delivros Orell Füssli , einem der schweizweit grössten Dienstleister in der Beschaffung von gedruckten und digitalen Büchern für Schulen, Firmen, Behörden und Bibliotheken. Über diesen Webshop haben sie auch Zugang zum gesamten Orell-Füssli-Sortiment. Das Merchandising-Angebot des ETH Stores wird in den neuen Webshop übernommen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/11",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Geht Kooperation",
+        "label": "PER",
+        "start": 30,
+        "end": 46
+      },
+      {
+        "text": "Orell Fuessli",
+        "label": "PER",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "ETH Store AG",
+        "label": "ORG",
+        "start": 18,
+        "end": 30
+      },
+      {
+        "text": "ETH-Merchandising",
+        "label": "MISC",
+        "start": 198,
+        "end": 215
+      },
+      {
+        "text": "ETH Store",
+        "label": "ORG",
+        "start": 237,
+        "end": 246
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 281,
+        "end": 290
+      },
+      {
+        "text": "Orell Füssli Thalia AG",
+        "label": "ORG",
+        "start": 27,
+        "end": 49
+      },
+      {
+        "text": "ETH Store",
+        "label": "ORG",
+        "start": 61,
+        "end": 70
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 86,
+        "end": 97
+      },
+      {
+        "text": "Polyterrasse",
+        "label": "MISC",
+        "start": 127,
+        "end": 139
+      },
+      {
+        "text": "ETH Store",
+        "label": "MISC",
+        "start": 198,
+        "end": 207
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 211,
+        "end": 218
+      },
+      {
+        "text": "ETH Store AG",
+        "label": "ORG",
+        "start": 243,
+        "end": 255
+      },
+      {
+        "text": "ETH-Merchandising",
+        "label": "MISC",
+        "start": 320,
+        "end": 337
+      },
+      {
+        "text": "ETH Stores",
+        "label": "ORG",
+        "start": 428,
+        "end": 438
+      },
+      {
+        "text": "ETH-Studierende",
+        "label": "MISC",
+        "start": 13,
+        "end": 28
+      },
+      {
+        "text": "Webshop",
+        "label": "LOC",
+        "start": 59,
+        "end": 66
+      },
+      {
+        "text": "Delivros Orell",
+        "label": "PER",
+        "start": 85,
+        "end": 99
+      },
+      {
+        "text": "Webshop",
+        "label": "LOC",
+        "start": 270,
+        "end": 277
+      },
+      {
+        "text": "Orell-Füssli-Sortiment",
+        "label": "LOC",
+        "start": 313,
+        "end": 335
+      },
+      {
+        "text": "ETH Stores",
+        "label": "ORG",
+        "start": 367,
+        "end": 377
+      },
+      {
+        "text": "Webshop",
+        "label": "LOC",
+        "start": 396,
+        "end": 403
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Delivros Orell",
+        "Geht Kooperation",
+        "Orell Fuessli"
+      ],
+      "ORG": [
+        "ETH Store",
+        "ETH Store AG",
+        "ETH Stores",
+        "Orell Füssli Thalia AG",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "De Internal/2022/11",
+        "Hönggerberg",
+        "Orell-Füssli-Sortiment",
+        "Webshop"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH Store",
+        "ETH-Merchandising",
+        "ETH-Studierende",
+        "Polyterrasse",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "ETH Store": 3,
+      "Webshop": 3,
+      "ETH Store AG": 2,
+      "ETH-Merchandising": 2,
+      "ETH Stores": 2,
+      "De Internal/2022/11": 1,
+      "Geht Kooperation": 1,
+      "Orell Fuessli": 1,
+      "Schweizer": 1,
+      "Orell Füssli Thalia AG": 1,
+      "Hönggerberg": 1,
+      "Polyterrasse": 1,
+      "Zentrum": 1,
+      "ETH-Studierende": 1,
+      "Delivros Orell": 1,
+      "Orell-Füssli-Sortiment": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-store-geht-kooperation-mit-orell-fuessli-ein.md",
+      "title": "De Internal/2022/11/eth Store Geht Kooperation mit Orell Fuessli ein",
+      "language": "de",
+      "source_path": "de_internal/2022/11/eth-store-geht-kooperation-mit-orell-fuessli-ein.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Delivros Orell",
+        "Geht Kooperation",
+        "Orell Fuessli"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH Store",
+        "ETH-Merchandising",
+        "ETH-Studierende",
+        "Polyterrasse",
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Seite ETH",
+        "Store Geht",
+        "ETH-Studierende",
+        "Store AG",
+        "Das Merchandising",
+        "Flagship-Store",
+        "Orell Fuessli",
+        "De Internal",
+        "ETH Stores",
+        "ETH Store",
+        "Thalia AG",
+        "Seite Delivros",
+        "ETH-Merchandising",
+        "ETH-Campus",
+        "Die Filiale",
+        "Seite Orell",
+        "Schweizer Buchhandelsunternehmen",
+        "Mitarbeitende Zugang"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Store",
+        "ETH Store AG",
+        "ETH Stores",
+        "Orell Füssli Thalia AG",
+        "Zentrum"
+      ],
+      "locations": [
+        "De Internal/2022/11",
+        "Hönggerberg",
+        "Orell-Füssli-Sortiment",
+        "Webshop"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Store",
+        "Webshop",
+        "ETH Store AG",
+        "ETH-Merchandising",
+        "ETH Stores",
+        "De Internal/2022/11",
+        "Geht Kooperation",
+        "Orell Fuessli",
+        "Schweizer",
+        "Orell Füssli Thalia AG"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Zwei von drei Stores neu bei Orell Füssli",
+          "Zwei von drei Stores neu bei Orell Füssli",
+          "Neuer Webshop, bessere Konditionen"
+        ],
+        "content_length": 1435
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Orell Fuessli",
+        "EU",
+        "Delivros Orell",
+        "ETH Stores",
+        "ETH Store",
+        "Zentrum",
+        "2022",
+        "2023",
+        "ETH Store AG",
+        "Geht Kooperation",
+        "ERC",
+        "Orell Füssli Thalia AG"
+      ],
+      "semantic_concepts": [
+        "ETH-Studierende",
+        "Schweizer",
+        "who",
+        "ETH Store",
+        "Polyterrasse",
+        "ETH-Merchandising",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

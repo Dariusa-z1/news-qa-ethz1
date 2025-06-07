@@ -1,0 +1,204 @@
+{
+  "filename": "fackeln-flecken-flares-sonnenforschung-an-der-eth-zuerich.md",
+  "original_filename": "fackeln-flecken-flares-sonnenforschung-an-der-eth-zuerich.html",
+  "source_path": "en_internal/2019/12/fackeln-flecken-flares-sonnenforschung-an-der-eth-zuerich.html",
+  "date": "2019-12",
+  "title": "Fackeln Flecken Flares Sonnenforschung An Der Eth Zuerich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The sun triggers positive feelings in us. It is a reliable source of light and warmth without which no life on earth would be possible. Yet the sun also has its moody and dangerous sides. Solar storms can damage satellites, cause communication systems to collapse and paralyse power grids, among other things. The climate is also influenced by solar activity.\n\nCenturies-old date series documenting the number of sunspots contribute to insights into climate development. Would you like to know how?\n\nDiscover more about solar research at ETH Zurich in the new Explora story .\n\nIt is said that all rivers flow to the sea. Although some considerable distance separates Switzerland from the seas, they were, and remain, a source of inspiration for writers and explorers alike. They stimulated tourism and incited engineers to develop visionary ideas. Let us whisk you away to the sea - why not have a listen right now?\n\nAt Explora, we tell stories that make research at ETH Zurich as well as the holdings and services of the ETH Library tangible.\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Flecken Flares Sonnenforschung",
+        "label": "PERSON",
+        "start": 28,
+        "end": 58
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "PERSON",
+        "start": 66,
+        "end": 77
+      },
+      {
+        "text": "Centuries-old",
+        "label": "DATE",
+        "start": 360,
+        "end": 373
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 536,
+        "end": 546
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 558,
+        "end": 565
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 664,
+        "end": 675
+      },
+      {
+        "text": "Explora",
+        "label": "PERSON",
+        "start": 916,
+        "end": 923
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 963,
+        "end": 973
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 1018,
+        "end": 1029
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 1082,
+        "end": 1093
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eth Zuerich",
+        "Explora",
+        "Flecken Flares Sonnenforschung"
+      ],
+      "ORG": [
+        "ETH Library",
+        "ETH Zurich"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "Centuries-old"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Explora": 2,
+      "ETH Library": 2,
+      "Flecken Flares Sonnenforschung": 1,
+      "Eth Zuerich": 1,
+      "Centuries-old": 1,
+      "Switzerland": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fackeln-flecken-flares-sonnenforschung-an-der-eth-zuerich.md",
+      "title": "En Internal/2019/12/fackeln Flecken Flares Sonnenforschung an der Eth Zuerich",
+      "language": "en",
+      "source_path": "en_internal/2019/12/fackeln-flecken-flares-sonnenforschung-an-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2019-12",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Eth Zuerich",
+        "Explora",
+        "Flecken Flares Sonnenforschung"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Library",
+        "At Explora",
+        "En Internal",
+        "Flecken Flares",
+        "Eth Zuerich",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "ETH Zurich"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Explora",
+        "ETH Library",
+        "Flecken Flares Sonnenforschung",
+        "Eth Zuerich",
+        "Centuries-old",
+        "Switzerland"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1230
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "ETH Library",
+        "Explora",
+        "Eth Zuerich",
+        "ETH Zurich",
+        "Flecken Flares Sonnenforschung"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "how",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,708 @@
+{
+  "filename": "eth-meets-california.md",
+  "original_filename": "eth-meets-california.html",
+  "source_path": "en_news_events/2016/04/eth-meets-california.html",
+  "date": "2016-04",
+  "title": "Eth Meets California",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Switzerland, Silicon Valley of robotics",
+      "text": "Professors, researchers, students, alumni, and company founders from ETH Zurich met up with their Californian counterparts in a series of 12 events from 6 – 15 April 2016. In multiple venues across San Francisco, Berkeley, and San Jose, ETH Meets California created opportunities for ETH Zurich, its event partners, and collaborators to address pressing societal issues and raise awareness of the university and its contributions in this key region of the world. Each event highlighted the depth and breadth of ETH Zurich research: From the Cybathlon to Citizen Science and from a student study tour on Tackling Food System Challenges with IT Innovation to Autonomous Flying Robots."
+    },
+    {
+      "heading": "Switzerland, Silicon Valley of robotics",
+      "text": "When one of the world's leading authorities on robotics, Chris Anderson, CEO of 3D Robotics and former Editor and Chief of Wired magazine referred to ETH Zurich as, \"The best robotics university in the world,\" it captured the attention of the audience and journalists. During the Autonomous Flying Robots event, Anderson described Switzerland as \"The Silicon Valley of Robotics,\" saying that the Swiss possess a unique skill set in mechanical elements that began with micro-mechanical machines, led to megatronics, and later modern robotics. Anderson spoke about the future of commercial drone technology as \"the biggest big data opportunity we have seen.\"\n\nRoland Siegwart, Professor in the Autonomous Systems Lab highlighted the institution's research and development of autonomous flying robots including: the ETH spin-off company Aerotain’s Skye – a safe and friendly blimp, the Wyss Zurich project, Wingtra – a robot that takes off and lands like a helicopter, but flies like a fixed wing aircraft, and AtlantikSolar – a world record breaking autonomous solar airplane. Siegwart spoke about the relationships between universities and industry as a way to facilitate knowledge transfer and provide researchers and young entrepreneurs with a conduit for bringing new technologies into the marketplace."
+    },
+    {
+      "heading": "Island Avatars",
+      "text": "Academic partnerships help to synthesize knowledge exchanges creating a cross-disciplinary and more holistic approach to research. The academic partnership between ETH Zurich and University of California Berkeley researchers is just one of many examples. More than 80 researchers from 20 institutions are collaborating to create the first full-scale simulation of a complex social-ecosystem called, The Island Digital Ecosystem Avatar ( IDEA ). Located on the French Polynesian island of Moorea, one of the world's best known tropical ecosystems, the project models the connections between the climate, the environment, biodiversity, and human activities in order to predict changes on a broader scale across the Pacific Ocean and the planet."
+    },
+    {
+      "heading": "Engaging the public with technology",
+      "text": "ETH Meets California also gave researchers the opportunity to engage the general public in science and technology. Robert Riener, Head of the Department of Health Sciences and Technology, ETH Zurich spoke about the Cybathlon – a series of Olympic-style competitions to advance assistive devices scheduled to take place in Zurich on 8 October 2016. Riener founded the Cybathlon event as a platform for developing assistive technologies useful for the daily life of persons with motor disabilities - like Henry Evans a quadriplegic, mute, and Robotics Activist who joined the panel via robotic technology. The Cybathlon facilitates a global knowledge exchange and a lifts the barriers between patients, scientists, people with disabilities, and the public.\n\nInternational events like, ETH Meets California afford ETH Zurich a platform to strengthen its ties in regions that are of value to the growth of the university. International outreach not only strengthens ETH Zurich as an institution, it also supports the growth and prosperity of Switzerland. Hans-Ulrich Tanner, Consul General of Switzerland in San Francisco who attended some of the events and conducted the closing ceremony explained, \"Switzerland’s welfare is dependent on global welfare. It is dependent on new forms of infrastructure: on technical communications, on sustainable design, and, crucially, on international networks. For this reason, it is vital that ETH Meets California helped to forge flexible and durable partnerships among ideas, individuals, and institutions in two of the world’s most innovative regions.\""
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "California",
+        "label": "GPE",
+        "start": 33,
+        "end": 43
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 69,
+        "end": 79
+      },
+      {
+        "text": "Californian",
+        "label": "NORP",
+        "start": 98,
+        "end": 109
+      },
+      {
+        "text": "April 2016",
+        "label": "DATE",
+        "start": 160,
+        "end": 170
+      },
+      {
+        "text": "San Francisco",
+        "label": "GPE",
+        "start": 198,
+        "end": 211
+      },
+      {
+        "text": "Berkeley",
+        "label": "GPE",
+        "start": 213,
+        "end": 221
+      },
+      {
+        "text": "San Jose",
+        "label": "GPE",
+        "start": 227,
+        "end": 235
+      },
+      {
+        "text": "ETH Meets",
+        "label": "ORG",
+        "start": 237,
+        "end": 246
+      },
+      {
+        "text": "California",
+        "label": "GPE",
+        "start": 247,
+        "end": 257
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 284,
+        "end": 294
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 511,
+        "end": 521
+      },
+      {
+        "text": "Tackling Food System Challenges",
+        "label": "ORG",
+        "start": 603,
+        "end": 634
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "Chris Anderson",
+        "label": "PERSON",
+        "start": 57,
+        "end": 71
+      },
+      {
+        "text": "3D Robotics",
+        "label": "ORG",
+        "start": 80,
+        "end": 91
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "the Autonomous Flying Robots",
+        "label": "ORG",
+        "start": 276,
+        "end": 304
+      },
+      {
+        "text": "Anderson",
+        "label": "PERSON",
+        "start": 312,
+        "end": 320
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 331,
+        "end": 342
+      },
+      {
+        "text": "The Silicon Valley of Robotics",
+        "label": "WORK_OF_ART",
+        "start": 347,
+        "end": 377
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 396,
+        "end": 401
+      },
+      {
+        "text": "Anderson",
+        "label": "PERSON",
+        "start": 542,
+        "end": 550
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PERSON",
+        "start": 657,
+        "end": 672
+      },
+      {
+        "text": "the Autonomous Systems Lab",
+        "label": "ORG",
+        "start": 687,
+        "end": 713
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 812,
+        "end": 815
+      },
+      {
+        "text": "Aerotain’s Skye",
+        "label": "PERSON",
+        "start": 833,
+        "end": 848
+      },
+      {
+        "text": "Wyss Zurich",
+        "label": "GPE",
+        "start": 882,
+        "end": 893
+      },
+      {
+        "text": "Wingtra",
+        "label": "ORG",
+        "start": 903,
+        "end": 910
+      },
+      {
+        "text": "AtlantikSolar",
+        "label": "ORG",
+        "start": 1007,
+        "end": 1020
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 164,
+        "end": 174
+      },
+      {
+        "text": "University of California Berkeley",
+        "label": "ORG",
+        "start": 179,
+        "end": 212
+      },
+      {
+        "text": "More than 80",
+        "label": "CARDINAL",
+        "start": 255,
+        "end": 267
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 333,
+        "end": 338
+      },
+      {
+        "text": "The Island Digital Ecosystem Avatar",
+        "label": "ORG",
+        "start": 399,
+        "end": 434
+      },
+      {
+        "text": "French Polynesian",
+        "label": "NORP",
+        "start": 460,
+        "end": 477
+      },
+      {
+        "text": "Moorea",
+        "label": "ORG",
+        "start": 488,
+        "end": 494
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 496,
+        "end": 499
+      },
+      {
+        "text": "the Pacific Ocean",
+        "label": "LOC",
+        "start": 709,
+        "end": 726
+      },
+      {
+        "text": "ETH Meets California",
+        "label": "PERSON",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Robert Riener",
+        "label": "PERSON",
+        "start": 115,
+        "end": 128
+      },
+      {
+        "text": "the Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 138,
+        "end": 186
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 188,
+        "end": 198
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 322,
+        "end": 328
+      },
+      {
+        "text": "8 October 2016",
+        "label": "DATE",
+        "start": 332,
+        "end": 346
+      },
+      {
+        "text": "Henry Evans",
+        "label": "PERSON",
+        "start": 503,
+        "end": 514
+      },
+      {
+        "text": "Robotics Activist",
+        "label": "ORG",
+        "start": 541,
+        "end": 558
+      },
+      {
+        "text": "ETH Meets",
+        "label": "ORG",
+        "start": 782,
+        "end": 791
+      },
+      {
+        "text": "California",
+        "label": "GPE",
+        "start": 792,
+        "end": 802
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 810,
+        "end": 820
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 961,
+        "end": 971
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1037,
+        "end": 1048
+      },
+      {
+        "text": "Hans-Ulrich Tanner",
+        "label": "PERSON",
+        "start": 1050,
+        "end": 1068
+      },
+      {
+        "text": "Consul General",
+        "label": "ORG",
+        "start": 1070,
+        "end": 1084
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1088,
+        "end": 1099
+      },
+      {
+        "text": "San Francisco",
+        "label": "GPE",
+        "start": 1103,
+        "end": 1116
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1196,
+        "end": 1207
+      },
+      {
+        "text": "ETH Meets California",
+        "label": "ORG",
+        "start": 1427,
+        "end": 1447
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1544,
+        "end": 1547
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aerotain’s Skye",
+        "Anderson",
+        "Chris Anderson",
+        "ETH Meets California",
+        "ETH Zurich",
+        "Hans-Ulrich Tanner",
+        "Henry Evans",
+        "Robert Riener",
+        "Roland Siegwart"
+      ],
+      "ORG": [
+        "3D Robotics",
+        "AtlantikSolar",
+        "Consul General",
+        "ETH",
+        "ETH Meets",
+        "ETH Meets California",
+        "ETH Zurich",
+        "En News",
+        "Moorea",
+        "Robotics Activist",
+        "Tackling Food System Challenges",
+        "The Island Digital Ecosystem Avatar",
+        "University of California Berkeley",
+        "Wingtra",
+        "the Autonomous Flying Robots",
+        "the Autonomous Systems Lab",
+        "the Department of Health Sciences and Technology"
+      ],
+      "LOCATION": [
+        "Berkeley",
+        "California",
+        "San Francisco",
+        "San Jose",
+        "Switzerland",
+        "Wyss Zurich",
+        "Zurich",
+        "the Pacific Ocean"
+      ],
+      "DATE": [
+        "8 October 2016",
+        "April 2016"
+      ],
+      "MISC": [
+        "Californian",
+        "French Polynesian",
+        "More than 80",
+        "Swiss",
+        "The Silicon Valley of Robotics",
+        "first",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 8,
+      "Switzerland": 4,
+      "California": 3,
+      "San Francisco": 2,
+      "ETH Meets": 2,
+      "one": 2,
+      "Anderson": 2,
+      "ETH Meets California": 2,
+      "En News": 1,
+      "Californian": 1,
+      "April 2016": 1,
+      "Berkeley": 1,
+      "San Jose": 1,
+      "Tackling Food System Challenges": 1,
+      "Chris Anderson": 1,
+      "3D Robotics": 1,
+      "the Autonomous Flying Robots": 1,
+      "The Silicon Valley of Robotics": 1,
+      "Swiss": 1,
+      "Roland Siegwart": 1
+    },
+    "total_entities": 59,
+    "unique_entities": 42
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-meets-california.md",
+      "title": "En News Events/2016/04/eth Meets California",
+      "language": "en",
+      "source_path": "en_news_events/2016/04/eth-meets-california.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aerotain’s Skye",
+        "Anderson",
+        "Chris Anderson",
+        "ETH Meets California",
+        "ETH Zurich",
+        "Hans-Ulrich Tanner",
+        "Henry Evans",
+        "Robert Riener",
+        "Roland Siegwart"
+      ],
+      "people_with_roles": {
+        "Aerotain’s Skye": [
+          "professor"
+        ],
+        "ETH Meets California": [
+          "alumni",
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "student",
+          "alumni",
+          "professor",
+          "researcher",
+          "head"
+        ],
+        "Robert Riener": [
+          "head"
+        ],
+        "Roland Siegwart": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Californian",
+        "French Polynesian",
+        "More than 80",
+        "Swiss",
+        "The Silicon Valley of Robotics",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Meets California",
+        "Tackling Food",
+        "Digital Ecosystem",
+        "Citizen Science",
+        "ETH Meets",
+        "California Berkeley",
+        "IT Innovation",
+        "San Jose",
+        "Autonomous Flying",
+        "Roland Siegwart",
+        "The Silicon",
+        "San Francisco",
+        "Henry Evans",
+        "Health Sciences",
+        "Robert Riener",
+        "System Challenges",
+        "Consul General",
+        "Hans-Ulrich",
+        "The Island",
+        "Wyss Zurich",
+        "Chris Anderson",
+        "Autonomous Systems",
+        "Pacific Ocean",
+        "En News",
+        "French Polynesian",
+        "ETH Zurich",
+        "The Cybathlon",
+        "Robotics Activist"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Health Sciences and Technology"
+      ],
+      "institutions": [
+        "3D Robotics",
+        "AtlantikSolar",
+        "Consul General",
+        "ETH",
+        "ETH Meets",
+        "ETH Meets California",
+        "ETH Zurich",
+        "En News",
+        "Moorea",
+        "Robotics Activist",
+        "Tackling Food System Challenges",
+        "The Island Digital Ecosystem Avatar",
+        "University of California Berkeley",
+        "Wingtra",
+        "the Autonomous Flying Robots",
+        "the Autonomous Systems Lab",
+        "the Department of Health Sciences and Technology"
+      ],
+      "locations": [
+        "Berkeley",
+        "California",
+        "San Francisco",
+        "San Jose",
+        "Switzerland",
+        "Wyss Zurich",
+        "Zurich",
+        "the Pacific Ocean"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Switzerland",
+        "California",
+        "San Francisco",
+        "ETH Meets",
+        "one",
+        "Anderson",
+        "ETH Meets California",
+        "En News",
+        "Californian"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Switzerland, Silicon Valley of robotics",
+          "Switzerland, Silicon Valley of robotics",
+          "Island Avatars",
+          "Engaging the public with technology"
+        ],
+        "content_length": 4364
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2016",
+        "Anderson",
+        "ETH Meets California",
+        "ERC",
+        "ETH Meets",
+        "Hans-Ulrich Tanner",
+        "The Island Digital Ecosystem Avatar",
+        "Henry Evans",
+        "Roland Siegwart",
+        "3D Robotics",
+        "the Autonomous Flying Robots",
+        "Robert Riener",
+        "Moorea",
+        "EU",
+        "the Autonomous Systems Lab",
+        "Aerotain’s Skye",
+        "the Department of Health Sciences and Technology",
+        "Consul General",
+        "University of California Berkeley",
+        "Tackling Food System Challenges",
+        "Chris Anderson",
+        "AtlantikSolar",
+        "En News",
+        "Wingtra",
+        "ETH Zurich",
+        "Robotics Activist"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "The Silicon Valley of Robotics",
+        "Swiss",
+        "when",
+        "French Polynesian",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "More than 80",
+        "engineering",
+        "Californian"
+      ],
+      "graph_relations": [
+        "Aerotain’s Skye_has_role_professor",
+        "ETH Meets California_has_role_alumni",
+        "ETH Meets California_has_role_researcher",
+        "ETH Meets California_has_role_student",
+        "ETH Meets California_has_role_professor",
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_alumni",
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_head",
+        "Robert Riener_has_role_head",
+        "Roland Siegwart_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

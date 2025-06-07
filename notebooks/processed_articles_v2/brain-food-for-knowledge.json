@@ -1,0 +1,258 @@
+{
+  "filename": "brain-food-for-knowledge.md",
+  "original_filename": "brain-food-for-knowledge.html",
+  "source_path": "en_internal/2022/09/brain-food-for-knowledge.html",
+  "date": "2022-09",
+  "title": "Brain Food For Knowledge",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "What’s cooking in the world of research?",
+      "text": "The Swiss Federal Polytechnic, as ETH was called in its early years, has always acknowledged the crucial role of agricultural sciences. The university saw itself as the thought engine behind an emerging Swiss industry, and a vital research hub for the national agricultural and forestry sector."
+    },
+    {
+      "heading": "What’s cooking in the world of research?",
+      "text": "ETH Zurich’s new app tour carefully traces this story, investigating the roots of agricultural sciences at the university and at the same time offering a close-up look at cutting-edge research. The tour kicks off in the main building and guides you to key sites in the surrounding buildings; you can even watch our researchers at work. Each step brings you nearer to the latest questions and solutions."
+    },
+    {
+      "heading": "Sated in sixty minutes",
+      "text": "Packed with nourishing insights, the journey leads you from “cultivation battle” to plant genetics, from wild bees to phytopathology, through to a start-up for meat substitutes. And in just 60 minutes, you’re back at the starting point. The tour comes in German and English, for travellers on foot or on wheels. You can install the app free of charge on any Apple or Android device ( App-Store or Google Play ) – it’s a great way to explore ETH Zurich on your own.\n\nSo grab the app and join in. You’ve a chance to win a great prize from an ETH spin-off. Good luck!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Food For Knowledge",
+        "label": "WORK_OF_ART",
+        "start": 26,
+        "end": 44
+      },
+      {
+        "text": "The Swiss Federal Polytechnic",
+        "label": "ORG",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "early years",
+        "label": "DATE",
+        "start": 56,
+        "end": 67
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 203,
+        "end": 208
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "just 60 minutes",
+        "label": "TIME",
+        "start": 185,
+        "end": 200
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 255,
+        "end": 261
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 266,
+        "end": 273
+      },
+      {
+        "text": "Apple",
+        "label": "ORG",
+        "start": 358,
+        "end": 363
+      },
+      {
+        "text": "Android",
+        "label": "ORG",
+        "start": 367,
+        "end": 374
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 441,
+        "end": 451
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 539,
+        "end": 542
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "Android",
+        "Apple",
+        "ETH",
+        "The Swiss Federal Polytechnic"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "early years",
+        "just 60 minutes"
+      ],
+      "MISC": [
+        "English",
+        "Food For Knowledge",
+        "German",
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Food For Knowledge": 1,
+      "The Swiss Federal Polytechnic": 1,
+      "early years": 1,
+      "Swiss": 1,
+      "ETH Zurich’s": 1,
+      "just 60 minutes": 1,
+      "German": 1,
+      "English": 1,
+      "Apple": 1,
+      "Android": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "brain-food-for-knowledge.md",
+      "title": "En Internal/2022/09/brain Food For Knowledge",
+      "language": "en",
+      "source_path": "en_internal/2022/09/brain-food-for-knowledge.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology"
+      ],
+      "research_topics": [
+        "English",
+        "Food For Knowledge",
+        "German",
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Swiss Federal",
+        "Food For",
+        "En Internal",
+        "ETH Zurich",
+        "App-Store",
+        "Knowledge The",
+        "Google Play"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Android",
+        "Apple",
+        "ETH",
+        "The Swiss Federal Polytechnic"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Food For Knowledge",
+        "The Swiss Federal Polytechnic",
+        "early years",
+        "Swiss",
+        "ETH Zurich’s",
+        "just 60 minutes",
+        "German",
+        "English",
+        "Apple"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "What’s cooking in the world of research?",
+          "What’s cooking in the world of research?",
+          "Sated in sixty minutes"
+        ],
+        "content_length": 1307
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Android",
+        "2022",
+        "The Swiss Federal Polytechnic",
+        "Apple",
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Food For Knowledge",
+        "English",
+        "Swiss",
+        "biology",
+        "what",
+        "German",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

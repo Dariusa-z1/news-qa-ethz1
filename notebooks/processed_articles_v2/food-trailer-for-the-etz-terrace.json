@@ -1,0 +1,283 @@
+{
+  "filename": "food-trailer-for-the-etz-terrace.md",
+  "original_filename": "food-trailer-for-the-etz-terrace.html",
+  "source_path": "en_internal/2015/03/food-trailer-for-the-etz-terrace.html",
+  "date": "2015-03",
+  "title": "Food Trailer For The Etz Terrace",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Starting in May 2015, an extensive programme of demolition, construction and renovation work will be taking place on the VAW building and parts of the ETZ building on Gloriastrasse on ETH Zurich’s Zentrum campus. Because of this, the Gloriabar will be closing on 2 April. The work is scheduled to last until around 2020.\n\nAs a temporary alternative to the Gloriabar, the SV catering team will be offering a range of refreshments from a new, silver-coloured food trailer on the ETZ terrace. From 20 April, a selection of warm dishes, grilled sausages, take-away salads, snacks and drinks will be served on weekdays between 11.00 a.m. and 2.00 p.m. Indoor and outdoor seating will also be available.\n\nThe ETZ kiosk will also continue to sell speciality coffees, tea, cold drinks and sweet and savoury snacks on weekdays from 7.30 a.m. to 4.00 p.m."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Trailer For The Etz Terrace",
+        "label": "WORK_OF_ART",
+        "start": 25,
+        "end": 52
+      },
+      {
+        "text": "May 2015",
+        "label": "DATE",
+        "start": 12,
+        "end": 20
+      },
+      {
+        "text": "VAW",
+        "label": "ORG",
+        "start": 121,
+        "end": 124
+      },
+      {
+        "text": "ETZ",
+        "label": "ORG",
+        "start": 151,
+        "end": 154
+      },
+      {
+        "text": "Gloriastrasse",
+        "label": "ORG",
+        "start": 167,
+        "end": 180
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 184,
+        "end": 196
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 197,
+        "end": 204
+      },
+      {
+        "text": "Gloriabar",
+        "label": "GPE",
+        "start": 234,
+        "end": 243
+      },
+      {
+        "text": "2 April",
+        "label": "DATE",
+        "start": 263,
+        "end": 270
+      },
+      {
+        "text": "around 2020",
+        "label": "DATE",
+        "start": 308,
+        "end": 319
+      },
+      {
+        "text": "Gloriabar",
+        "label": "GPE",
+        "start": 355,
+        "end": 364
+      },
+      {
+        "text": "SV",
+        "label": "ORG",
+        "start": 370,
+        "end": 372
+      },
+      {
+        "text": "ETZ",
+        "label": "ORG",
+        "start": 476,
+        "end": 479
+      },
+      {
+        "text": "20 April",
+        "label": "DATE",
+        "start": 494,
+        "end": 502
+      },
+      {
+        "text": "weekdays",
+        "label": "DATE",
+        "start": 604,
+        "end": 612
+      },
+      {
+        "text": "between 11.00 a.m. and 2.00 p.m.",
+        "label": "TIME",
+        "start": 613,
+        "end": 645
+      },
+      {
+        "text": "ETZ",
+        "label": "ORG",
+        "start": 701,
+        "end": 704
+      },
+      {
+        "text": "weekdays",
+        "label": "DATE",
+        "start": 807,
+        "end": 815
+      },
+      {
+        "text": "7.30 a.m. to 4.00 p.m.",
+        "label": "TIME",
+        "start": 821,
+        "end": 843
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s",
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETZ",
+        "Gloriastrasse",
+        "SV",
+        "VAW"
+      ],
+      "LOCATION": [
+        "Gloriabar"
+      ],
+      "DATE": [
+        "2 April",
+        "20 April",
+        "7.30 a.m. to 4.00 p.m.",
+        "May 2015",
+        "around 2020",
+        "between 11.00 a.m. and 2.00 p.m.",
+        "weekdays"
+      ],
+      "MISC": [
+        "Trailer For The Etz Terrace"
+      ]
+    },
+    "entity_counts": {
+      "ETZ": 3,
+      "Gloriabar": 2,
+      "weekdays": 2,
+      "Trailer For The Etz Terrace": 1,
+      "May 2015": 1,
+      "VAW": 1,
+      "Gloriastrasse": 1,
+      "ETH Zurich’s": 1,
+      "Zentrum": 1,
+      "2 April": 1,
+      "around 2020": 1,
+      "SV": 1,
+      "20 April": 1,
+      "between 11.00 a.m. and 2.00 p.m.": 1,
+      "7.30 a.m. to 4.00 p.m.": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "food-trailer-for-the-etz-terrace.md",
+      "title": "En Internal/2015/03/food Trailer For The Etz Terrace",
+      "language": "en",
+      "source_path": "en_internal/2015/03/food-trailer-for-the-etz-terrace.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Trailer For The Etz Terrace"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Etz",
+        "Terrace Starting",
+        "En Internal",
+        "The ETZ",
+        "ETH Zurich",
+        "Trailer For"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETZ",
+        "Gloriastrasse",
+        "SV",
+        "VAW"
+      ],
+      "locations": [
+        "Gloriabar"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "ETZ",
+        "Gloriabar",
+        "weekdays",
+        "Trailer For The Etz Terrace",
+        "May 2015",
+        "VAW",
+        "Gloriastrasse",
+        "ETH Zurich’s",
+        "Zentrum",
+        "2 April"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 898
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "ETZ",
+        "2020",
+        "SV",
+        "Zentrum",
+        "VAW",
+        "ETH Zurich’s",
+        "Gloriastrasse"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "engineering",
+        "Trailer For The Etz Terrace"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

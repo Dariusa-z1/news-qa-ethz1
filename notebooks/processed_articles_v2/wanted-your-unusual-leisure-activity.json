@@ -1,0 +1,184 @@
+{
+  "filename": "wanted-your-unusual-leisure-activity.md",
+  "original_filename": "wanted-your-unusual-leisure-activity.html",
+  "source_path": "en_internal/2024/01/wanted-your-unusual-leisure-activity.html",
+  "date": "2024-01",
+  "title": "Wanted Your Unusual Leisure Activity",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Your leisure group in life",
+      "text": "For the spring issue of life magazine, we are looking for these and less unusual activities that ETH members do together. We would like to portray groups and networks that meet regularly for certain activities outside of work.\n\nWrite to us in a few sentences about your leisure and after-work groups and inspire others in the ETH community. You are also welcome to write to us if you are still looking for like-minded people for your activities."
+    },
+    {
+      "heading": "Your leisure group in life",
+      "text": "Send a description of your joint leisure activity or the activity for which you are still looking for other ETH members by e-mail to Michael Walther ( ) by 8 February at the latest, including photos if you wish. The editorial team will select some of the suggestions submitted and present them in the April issue of life magazine."
+    },
+    {
+      "heading": "Note on the translation",
+      "text": "This text has been translated for your convenience using a machine translation tool. Although reasonable efforts have been made to provide an accurate translation, it may not be perfect. If in doubt, please refer to the German version.\n\nShould you come upon significant translation mistakes, please send a short message to so that we can correct them. Thank you very much."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "spring",
+        "label": "DATE",
+        "start": 8,
+        "end": 14
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 97,
+        "end": 100
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 325,
+        "end": 328
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 108,
+        "end": 111
+      },
+      {
+        "text": "Michael Walther",
+        "label": "PERSON",
+        "start": 133,
+        "end": 148
+      },
+      {
+        "text": "8 February",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "April",
+        "label": "DATE",
+        "start": 301,
+        "end": 306
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 220,
+        "end": 226
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Michael Walther"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "8 February",
+        "April",
+        "spring"
+      ],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "spring": 1,
+      "Michael Walther": 1,
+      "8 February": 1,
+      "April": 1,
+      "German": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wanted-your-unusual-leisure-activity.md",
+      "title": "En Internal/2024/01/wanted Your Unusual Leisure Activity",
+      "language": "en",
+      "source_path": "en_internal/2024/01/wanted-your-unusual-leisure-activity.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Michael Walther"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Leisure Activity",
+        "Michael Walther",
+        "Your Unusual",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "spring",
+        "Michael Walther",
+        "8 February",
+        "April",
+        "German"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Your leisure group in life",
+          "Your leisure group in life",
+          "Note on the translation"
+        ],
+        "content_length": 1206
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "Michael Walther"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why",
+        "German"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "filename": "search-skills-for-architects-and-civil-engineers.md",
+  "original_filename": "search-skills-for-architects-and-civil-engineers.html",
+  "source_path": "en_internal/2014/04/search-skills-for-architects-and-civil-engineers.html",
+  "date": "2014-04",
+  "title": "Search Skills For Architects And Civil Engineers",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The course gives an introduction to the Baubibliothek and conveys insight into subject-specific services, resources and research methods. The presentation will be in German.\n\nMore information and registration"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Skills For Architects And Civil Engineers",
+        "label": "ORG",
+        "start": 27,
+        "end": 68
+      },
+      {
+        "text": "Baubibliothek",
+        "label": "LOC",
+        "start": 40,
+        "end": 53
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 166,
+        "end": 172
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Skills For Architects And Civil Engineers"
+      ],
+      "LOCATION": [
+        "Baubibliothek"
+      ],
+      "DATE": [],
+      "MISC": [
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "Skills For Architects And Civil Engineers": 1,
+      "Baubibliothek": 1,
+      "German": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "search-skills-for-architects-and-civil-engineers.md",
+      "title": "En Internal/2014/04/search Skills For Architects And Civil Engineers",
+      "language": "en",
+      "source_path": "en_internal/2014/04/search-skills-for-architects-and-civil-engineers.html"
+    },
+    "temporal": {
+      "publication_date": "2014-04",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Architects And",
+        "Skills For",
+        "Civil Engineers",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Skills For Architects And Civil Engineers"
+      ],
+      "locations": [
+        "Baubibliothek"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Skills For Architects And Civil Engineers",
+        "Baubibliothek",
+        "German"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 277
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Skills For Architects And Civil Engineers",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "what",
+        "German",
+        "how"
+      ],
+      "graph_relations": []
+    }
+  }
+}

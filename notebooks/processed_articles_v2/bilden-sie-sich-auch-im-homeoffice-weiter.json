@@ -1,0 +1,174 @@
+{
+  "filename": "bilden-sie-sich-auch-im-homeoffice-weiter.md",
+  "original_filename": "bilden-sie-sich-auch-im-homeoffice-weiter.html",
+  "source_path": "en_internal/2020/03/bilden-sie-sich-auch-im-homeoffice-weiter.html",
+  "date": "2020-03",
+  "title": "Bilden Sie Sich Auch Im Homeoffice Weiter",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For some ETH members, spending time in their home office is a good opportunity for further training. For this purpose, our subject specialists have made a wide selection of options for you:\n\nOverview of freely accessible e-resources\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start.\n\n#ETHLibraryDigital – ETH Library is there for you digitally with various offers and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Homeoffice Weiter",
+        "label": "PERSON",
+        "start": 44,
+        "end": 61
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "KnowMore",
+        "label": "PRODUCT",
+        "start": 232,
+        "end": 240
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 274,
+        "end": 285
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 359,
+        "end": 370
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 453,
+        "end": 461
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library",
+        "Homeoffice Weiter"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH",
+        "ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "KnowMore"
+      ]
+    },
+    "entity_counts": {
+      "ETH Library": 2,
+      "Homeoffice Weiter": 1,
+      "ETH": 1,
+      "KnowMore": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "bilden-sie-sich-auch-im-homeoffice-weiter.md",
+      "title": "En Internal/2020/03/bilden Sie Sich Auch Im Homeoffice Weiter",
+      "language": "en",
+      "source_path": "en_internal/2020/03/bilden-sie-sich-auch-im-homeoffice-weiter.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library",
+        "Homeoffice Weiter"
+      ],
+      "people_with_roles": {
+        "ETH Library": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "KnowMore"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Auch Im",
+        "ETH Library",
+        "En Internal",
+        "Homeoffice Weiter",
+        "Sie Sich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH",
+        "ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Library",
+        "Homeoffice Weiter",
+        "ETH",
+        "KnowMore",
+        "COVID-19"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 549
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "ETH Library",
+        "2020",
+        "COVID-19",
+        "Homeoffice Weiter"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "KnowMore",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "ETH Library_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "filename": "de_news_events_2015_04_qs-faecherranking-2015.md",
+  "original_filename": "de_news_events_2015_04_qs-faecherranking-2015.html",
+  "source_path": "de_news_events/2015/04/qs-faecherranking-2015.html",
+  "date": "2015-04",
+  "title": "Qs Faecherranking 2015",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Erdwissenschaften der ETH Zürich haben im neusten Fächer-Ranking des QS World University Rankings den Sprung an die Spitze geschafft und führen nun den Bereich «Earth and Marine Sciences» im weltweiten Vergleich an. Dies gab die QS-Ranking-Organisation soeben bekannt. Vor Jahresfrist lagen die ETH-Erdwissenschaften noch auf Platz neun. Damals führte die Harvard University vor der University of Cambridge (GB) und der University of California, Berkeley. Letztere liegt nun neu auf Platz zwei. Harvard belegt Platz drei.\n\nBeste Bewertungen erzielten die ETH-Erdwissenschaften bei den Indikatoren «Ruf in Fachkreisen» (Academic Reputation) und den Zitationen pro publiziertem Fachartikel, den «Citations per paper».\n\nAuch andere Fächer, welche die ETH Zürich führt, sind diesem «Ranking by Subjects» aufgeführt. Zu den Besten zählen weiterhin die Umweltwissenschaften (3., wie Vorjahr), Elektroingenieurwissenschaft (5., wie Vorjahr), Architektur und Bauingenieurwesen (7., bisher nicht rangiert), die Chemie (8., Vorjahr 7.), Statistik und Angewandte Mathematik (8.), Computerwissenschaften (9., Vorjahr 8.), Mathematik (9.), Physik und Astronomie (9.) sowie Biowissenschaften (10., wie Vorjahr).\n\nDie QS-Rankingmacher verglichen insgesamt 36 Fächer von Zahnmedizin über Ingenieurwissenschaften bis hin zu Architektur. 22 Fächer der ETH wurden bewertet, 20 davon klassiert.\n\nDas «QS World University Ranking» ist eines von mehreren Instrumenten, um die Leistungen von Hochschulen weltweit zu vergleichen. Die ETH Zürich schneidet bei solchen Ranglisten regelmässig hervorragend ab, meist als beste kontinentaleuropäische Universität. Im QS-Gesamtranking vom vergangenen Herbst belegte sie den 11. Rang. Das QS-Ranking basiert auf verschiedenen Indikatoren, die unterschiedlich stark gewichtet werden; so zum Beispiel auf der Häufigkeit, wie oft veröffentlichte Forschungsarbeiten in anderen Forschungspublikationen zitiert werden, oder auch auf einer Reputationsbefragung unter 90'000 Akademikern und Arbeitgebern weltweit."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 26,
+        "end": 36
+      },
+      {
+        "text": "QS World University Rankings",
+        "label": "ORG",
+        "start": 73,
+        "end": 101
+      },
+      {
+        "text": "Earth and Marine Sciences",
+        "label": "MISC",
+        "start": 165,
+        "end": 190
+      },
+      {
+        "text": "QS-Ranking-Organisation",
+        "label": "MISC",
+        "start": 233,
+        "end": 256
+      },
+      {
+        "text": "ETH-Erdwissenschaften",
+        "label": "ORG",
+        "start": 299,
+        "end": 320
+      },
+      {
+        "text": "Harvard University",
+        "label": "ORG",
+        "start": 360,
+        "end": 378
+      },
+      {
+        "text": "University of Cambridge",
+        "label": "ORG",
+        "start": 387,
+        "end": 410
+      },
+      {
+        "text": "GB",
+        "label": "LOC",
+        "start": 412,
+        "end": 414
+      },
+      {
+        "text": "University of California",
+        "label": "ORG",
+        "start": 424,
+        "end": 448
+      },
+      {
+        "text": "Berkeley",
+        "label": "ORG",
+        "start": 450,
+        "end": 458
+      },
+      {
+        "text": "Platz",
+        "label": "LOC",
+        "start": 487,
+        "end": 492
+      },
+      {
+        "text": "Harvard",
+        "label": "ORG",
+        "start": 499,
+        "end": 506
+      },
+      {
+        "text": "ETH-Erdwissenschaften",
+        "label": "ORG",
+        "start": 558,
+        "end": 579
+      },
+      {
+        "text": "Citations",
+        "label": "PER",
+        "start": 697,
+        "end": 706
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 750,
+        "end": 760
+      },
+      {
+        "text": "Subjects",
+        "label": "PER",
+        "start": 792,
+        "end": 800
+      },
+      {
+        "text": "Computerwissenschaften",
+        "label": "LOC",
+        "start": 1071,
+        "end": 1093
+      },
+      {
+        "text": "QS-Rankingmacher",
+        "label": "ORG",
+        "start": 1204,
+        "end": 1220
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1335,
+        "end": 1338
+      },
+      {
+        "text": "QS World University Ranking",
+        "label": "ORG",
+        "start": 1381,
+        "end": 1408
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1510,
+        "end": 1520
+      },
+      {
+        "text": "QS-Gesamtranking",
+        "label": "MISC",
+        "start": 1638,
+        "end": 1654
+      },
+      {
+        "text": "QS-Ranking",
+        "label": "MISC",
+        "start": 1708,
+        "end": 1718
+      },
+      {
+        "text": "Forschungspublikationen",
+        "label": "LOC",
+        "start": 1892,
+        "end": 1915
+      },
+      {
+        "text": "90'000",
+        "label": "MISC",
+        "start": 1979,
+        "end": 1985
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Citations",
+        "De News",
+        "Subjects"
+      ],
+      "ORG": [
+        "Berkeley",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Erdwissenschaften",
+        "Harvard",
+        "Harvard University",
+        "QS World University Ranking",
+        "QS World University Rankings",
+        "QS-Rankingmacher",
+        "University of California",
+        "University of Cambridge"
+      ],
+      "LOCATION": [
+        "Computerwissenschaften",
+        "Forschungspublikationen",
+        "GB",
+        "Platz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "90'000",
+        "Earth and Marine Sciences",
+        "QS-Gesamtranking",
+        "QS-Ranking",
+        "QS-Ranking-Organisation"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "ETH-Erdwissenschaften": 2,
+      "De News": 1,
+      "QS World University Rankings": 1,
+      "Earth and Marine Sciences": 1,
+      "QS-Ranking-Organisation": 1,
+      "Harvard University": 1,
+      "University of Cambridge": 1,
+      "GB": 1,
+      "University of California": 1,
+      "Berkeley": 1,
+      "Platz": 1,
+      "Harvard": 1,
+      "Citations": 1,
+      "Subjects": 1,
+      "Computerwissenschaften": 1,
+      "QS-Rankingmacher": 1,
+      "ETH": 1,
+      "QS World University Ranking": 1,
+      "QS-Gesamtranking": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2015_04_qs-faecherranking-2015.md",
+      "title": "De News Events/2015/04/qs Faecherranking 2015",
+      "language": "de",
+      "source_path": "de_news_events/2015/04/qs-faecherranking-2015.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Citations",
+        "De News",
+        "Subjects"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "90'000",
+        "Earth and Marine Sciences",
+        "QS-Gesamtranking",
+        "QS-Ranking",
+        "QS-Ranking-Organisation"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Angewandte Mathematik",
+        "ETH-Erdwissenschaften",
+        "Die QS",
+        "Academic Reputation",
+        "Harvard University",
+        "University Rankings",
+        "University Ranking",
+        "De News",
+        "Die ETH",
+        "QS World",
+        "QS-Ranking",
+        "Beste Bewertungen",
+        "Im QS",
+        "Vor Jahresfrist",
+        "Die Erdwissenschaften",
+        "Marine Sciences",
+        "Das QS"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Berkeley",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Erdwissenschaften",
+        "Harvard",
+        "Harvard University",
+        "QS World University Ranking",
+        "QS World University Rankings",
+        "QS-Rankingmacher",
+        "University of California",
+        "University of Cambridge"
+      ],
+      "locations": [
+        "Computerwissenschaften",
+        "Forschungspublikationen",
+        "GB",
+        "Platz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "ETH-Erdwissenschaften",
+        "De News",
+        "QS World University Rankings",
+        "Earth and Marine Sciences",
+        "QS-Ranking-Organisation",
+        "Harvard University",
+        "University of Cambridge",
+        "GB",
+        "University of California"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2074
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "University of California",
+        "Citations",
+        "2015",
+        "Subjects",
+        "ETH-Erdwissenschaften",
+        "Berkeley",
+        "EU",
+        "QS-Rankingmacher",
+        "Harvard University",
+        "ETH Zürich",
+        "De News",
+        "QS World University Ranking",
+        "Harvard",
+        "University of Cambridge",
+        "QS World University Rankings"
+      ],
+      "semantic_concepts": [
+        "Earth and Marine Sciences",
+        "QS-Ranking-Organisation",
+        "90'000",
+        "QS-Gesamtranking",
+        "QS-Ranking",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

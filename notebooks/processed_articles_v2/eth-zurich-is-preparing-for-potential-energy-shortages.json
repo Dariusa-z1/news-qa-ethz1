@@ -1,0 +1,651 @@
+{
+  "filename": "eth-zurich-is-preparing-for-potential-energy-shortages.md",
+  "original_filename": "eth-zurich-is-preparing-for-potential-energy-shortages.html",
+  "source_path": "en_internal/2022/08/eth-zurich-is-preparing-for-potential-energy-shortages.html",
+  "date": "2022-08",
+  "title": "Eth Zurich Is Preparing For Potential Energy Shortages",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Focus on risks to teaching and research",
+      "text": "- Prolonged power outages or an unstable power supply pose the greatest risk for ETH Zurich. A continuous power supply directly influences how well University infrastructure – and thus its research – functions. In the event of extended blackouts, sensitive research equipment would be particularly at risk, leading to serious problems, especially in the case of long-term research and data collection. Were this to happen, emergency power systems on the Hönggerberg and Zentrum campuses would be brought online. However, these can only cover a fraction of demand.\n\n- In recent years, ETH Zurich and its professorships in experimental fields have invested in “Uninterruptible Power Supply” (UPS) systems to bridge brief power outages and voltage fluctuations.\n\n- ETH Zurich uses gas primarily on the Hönggerberg campus and in Schwerzenbach for interior comfort, which includes heating the offices on these sites.\n\nSince the beginning of the war in Ukraine, gas deliveries from Russia to Western Europe have declined steadily. This could lead to a gas shortage in Switzerland and trigger an electricity shortage downstream. The Federal Council has therefore decided that Switzerland will reduce its gas usage by 15 percent from October 2022 until the end of March next year, to ensure sufficient supply in winter and prevent energy shortages (see Federal Council press release , 24/08/2022; in German)."
+    },
+    {
+      "heading": "Focus on risks to teaching and research",
+      "text": "What is ETH Zurich doing in response? In early summer, a group of technical experts under Vice President for Infrastructure Ulrich Weidmann began drafting measures that could be implemented in the event of an energy shortage. The team has focussed in particular on risks to operations at technical facilities and equipment for teaching and research. Dario D’Ercole, Head of Building Technology and Energy , leads the group."
+    },
+    {
+      "heading": "Power outages present the greatest risk",
+      "text": "The measures address possible gas shortages as well as various scenarios involving electricity shortages:\n\n“There is greater opportunity for reducing gas usage at ETH Zurich without a direct impact on teaching and research operations than there is with electricity”, says Dario D’Ercole, the group head. In addition, the Hönggerberg campus uses a dual-fuel heating system that can be operated with both gas and fuel oil. According to the internal group, switching from gas to fuel oil is technically feasible for the Hönggerberg and Schwerzenbach sites – and has been done in the past. Although ETH is moving away from fossil fuels in pursuit of its net-zero endeavour, this switch would represent an emergency solution to secure necessary oil reserves."
+    },
+    {
+      "heading": "Concrete measures are decided on a situational basis",
+      "text": "Should ETH be affected by energy shortages, the technical or operational response can only be determined once the scenario is clear. Members of the ETH community will be informed about the measures and risks in the event of Executive Board resolutions or recommendations, or if the Federal Council introduces binding measures. The guiding principle for ETH is to consider every possible measure from the perspective of overall energy consumption and to ensure that such measures actually lead to reductions in usage."
+    },
+    {
+      "heading": "Reducing heating temperatures and hot water use",
+      "text": "ETH Zurich will presumably implement further measures that the federal government is currently preparing to reduce gas and energy consumption in the winter half-year 2022 / 2023. These include, for example, reducing the heating temperature and switching off the domestic hot water in the buildings or switching off energy-consuming equipment that does not necessarily have to be in operation.\n\nThe Swiss federal government is currently drafting measures to reduce gas and energy consumption for the winter half-year 2022/2023, changes that ETH Zurich will presumably also implement. This includes turning down heating, switching off the hot water supply in certain buildings and turning off energy-intensive appliances when they’re not in use. The federal government has proposed an extensive suspension of administrative operations between 24 December 2022 and 4 January 2023, which is already common practice at ETH.\n\n“We are also considering the possibility of completely shutting down certain administrative and office buildings in the event of a crisis. From the University’s point of view, teaching and research activities would be largely unaffected by this measure”, says Dominik Brem, Head of Engineering and Systems ."
+    },
+    {
+      "heading": "Further measures possible",
+      "text": "Should ETH Zurich need to save more energy, the next step would be to involve departments as well as teaching and research facilities in further considering how to reduce energy demand at the University.\n\n“ETH Zurich is facing financial challenges in addition to the problem of energy shortages”, says Ulrich Weidmann. Despite the University’s staggered, “structured” procurement of electricity, which looks ahead to the next three years, under the worst-case scenario electricity costs at ETH Zurich in 2023 may be double 2022 rates. “Energy reduction measures do also have a positive and immediate impact, as they help alleviate the looming energy shortage and contain ETH’s ballooning energy costs”, says Weidmann."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 81,
+        "end": 91
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 454,
+        "end": 465
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 470,
+        "end": 477
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 569,
+        "end": 581
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 583,
+        "end": 593
+      },
+      {
+        "text": "Uninterruptible Power Supply",
+        "label": "WORK_OF_ART",
+        "start": 658,
+        "end": 686
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 760,
+        "end": 770
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 797,
+        "end": 808
+      },
+      {
+        "text": "Schwerzenbach",
+        "label": "GPE",
+        "start": 823,
+        "end": 836
+      },
+      {
+        "text": "Ukraine",
+        "label": "GPE",
+        "start": 944,
+        "end": 951
+      },
+      {
+        "text": "Russia",
+        "label": "GPE",
+        "start": 973,
+        "end": 979
+      },
+      {
+        "text": "Western Europe",
+        "label": "LOC",
+        "start": 983,
+        "end": 997
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1059,
+        "end": 1070
+      },
+      {
+        "text": "The Federal Council",
+        "label": "ORG",
+        "start": 1119,
+        "end": 1138
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1166,
+        "end": 1177
+      },
+      {
+        "text": "15 percent",
+        "label": "PERCENT",
+        "start": 1207,
+        "end": 1217
+      },
+      {
+        "text": "October 2022",
+        "label": "DATE",
+        "start": 1223,
+        "end": 1235
+      },
+      {
+        "text": "the end of March next year",
+        "label": "DATE",
+        "start": 1242,
+        "end": 1268
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 1301,
+        "end": 1307
+      },
+      {
+        "text": "Federal Council",
+        "label": "ORG",
+        "start": 1342,
+        "end": 1357
+      },
+      {
+        "text": "24/08/2022",
+        "label": "ORG",
+        "start": 1374,
+        "end": 1384
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1389,
+        "end": 1395
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 8,
+        "end": 18
+      },
+      {
+        "text": "early summer",
+        "label": "DATE",
+        "start": 41,
+        "end": 53
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 124,
+        "end": 139
+      },
+      {
+        "text": "Building Technology and Energy",
+        "label": "ORG",
+        "start": 374,
+        "end": 404
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 162,
+        "end": 172
+      },
+      {
+        "text": "Dario D’Ercole",
+        "label": "PERSON",
+        "start": 271,
+        "end": 285
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 320,
+        "end": 331
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 516,
+        "end": 527
+      },
+      {
+        "text": "Schwerzenbach",
+        "label": "PERSON",
+        "start": 532,
+        "end": 545
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 594,
+        "end": 597
+      },
+      {
+        "text": "net-zero",
+        "label": "CARDINAL",
+        "start": 649,
+        "end": 657
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 148,
+        "end": 151
+      },
+      {
+        "text": "Executive Board",
+        "label": "ORG",
+        "start": 224,
+        "end": 239
+      },
+      {
+        "text": "the Federal Council",
+        "label": "ORG",
+        "start": 278,
+        "end": 297
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 353,
+        "end": 356
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "the winter half-year 2022 / 2023",
+        "label": "DATE",
+        "start": 145,
+        "end": 177
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 397,
+        "end": 402
+      },
+      {
+        "text": "the winter half-year 2022/2023",
+        "label": "DATE",
+        "start": 494,
+        "end": 524
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 539,
+        "end": 549
+      },
+      {
+        "text": "December 2022",
+        "label": "DATE",
+        "start": 843,
+        "end": 856
+      },
+      {
+        "text": "4 January 2023",
+        "label": "DATE",
+        "start": 861,
+        "end": 875
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 913,
+        "end": 916
+      },
+      {
+        "text": "University",
+        "label": "ORG",
+        "start": 1066,
+        "end": 1076
+      },
+      {
+        "text": "Dominik Brem",
+        "label": "PERSON",
+        "start": 1178,
+        "end": 1190
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 7,
+        "end": 17
+      },
+      {
+        "text": "University",
+        "label": "ORG",
+        "start": 192,
+        "end": 202
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 205,
+        "end": 215
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 301,
+        "end": 316
+      },
+      {
+        "text": "University",
+        "label": "ORG",
+        "start": 330,
+        "end": 340
+      },
+      {
+        "text": "the next three years",
+        "label": "DATE",
+        "start": 416,
+        "end": 436
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 489,
+        "end": 499
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 670,
+        "end": 673
+      },
+      {
+        "text": "Weidmann",
+        "label": "PERSON",
+        "start": 707,
+        "end": 715
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dario D’Ercole",
+        "Dominik Brem",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Schwerzenbach",
+        "Ulrich Weidmann",
+        "Weidmann",
+        "Zentrum"
+      ],
+      "ORG": [
+        "24/08/2022",
+        "Building Technology and Energy",
+        "ETH",
+        "ETH Zurich",
+        "Executive Board",
+        "Federal Council",
+        "The Federal Council",
+        "University",
+        "the Federal Council"
+      ],
+      "LOCATION": [
+        "Russia",
+        "Schwerzenbach",
+        "Switzerland",
+        "Ukraine",
+        "Western Europe",
+        "Zurich"
+      ],
+      "DATE": [
+        "4 January 2023",
+        "December 2022",
+        "October 2022",
+        "early summer",
+        "recent years",
+        "the end of March next year",
+        "the next three years",
+        "the winter half-year 2022 / 2023",
+        "the winter half-year 2022/2023",
+        "winter"
+      ],
+      "MISC": [
+        "15 percent",
+        "German",
+        "Swiss",
+        "Uninterruptible Power Supply",
+        "net-zero"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 10,
+      "ETH": 5,
+      "Hönggerberg": 4,
+      "University": 3,
+      "Schwerzenbach": 2,
+      "Switzerland": 2,
+      "Ulrich Weidmann": 2,
+      "Zurich": 1,
+      "Zentrum": 1,
+      "recent years": 1,
+      "Uninterruptible Power Supply": 1,
+      "Ukraine": 1,
+      "Russia": 1,
+      "Western Europe": 1,
+      "The Federal Council": 1,
+      "15 percent": 1,
+      "October 2022": 1,
+      "the end of March next year": 1,
+      "winter": 1,
+      "Federal Council": 1
+    },
+    "total_entities": 57,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurich-is-preparing-for-potential-energy-shortages.md",
+      "title": "En Internal/2022/08/eth Zurich Is Preparing For Potential Energy Shortages",
+      "language": "en",
+      "source_path": "en_internal/2022/08/eth-zurich-is-preparing-for-potential-energy-shortages.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dario D’Ercole",
+        "Dominik Brem",
+        "ETH Zurich",
+        "Hönggerberg",
+        "Schwerzenbach",
+        "Ulrich Weidmann",
+        "Weidmann",
+        "Zentrum"
+      ],
+      "people_with_roles": {
+        "Dario D’Ercole": [
+          "head"
+        ],
+        "Dominik Brem": [
+          "head"
+        ],
+        "ETH Zurich": [
+          "head",
+          "professor"
+        ],
+        "Ulrich Weidmann": [
+          "president"
+        ],
+        "Weidmann": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "15 percent",
+        "German",
+        "Swiss",
+        "Uninterruptible Power Supply",
+        "net-zero"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Should ETH",
+        "Infrastructure Ulrich",
+        "Building Technology",
+        "Zurich Is",
+        "Western Europe",
+        "The Swiss",
+        "Vice President",
+        "The Federal",
+        "Dario D",
+        "Ulrich Weidmann",
+        "Uninterruptible Power",
+        "Executive Board",
+        "Federal Council",
+        "Potential Energy",
+        "Preparing For",
+        "En Internal",
+        "Although ETH",
+        "ETH Zurich",
+        "Dominik Brem"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "24/08/2022",
+        "Building Technology and Energy",
+        "ETH",
+        "ETH Zurich",
+        "Executive Board",
+        "Federal Council",
+        "The Federal Council",
+        "University",
+        "the Federal Council"
+      ],
+      "locations": [
+        "Russia",
+        "Schwerzenbach",
+        "Switzerland",
+        "Ukraine",
+        "Western Europe",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH",
+        "Hönggerberg",
+        "University",
+        "Schwerzenbach",
+        "Switzerland",
+        "Ulrich Weidmann",
+        "Zurich",
+        "Zentrum",
+        "recent years"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Focus on risks to teaching and research",
+          "Focus on risks to teaching and research",
+          "Power outages present the greatest risk",
+          "Concrete measures are decided on a situational basis",
+          "Reducing heating temperatures and hot water use",
+          "Further measures possible"
+        ],
+        "content_length": 5116
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "University",
+        "Building Technology and Energy",
+        "The Federal Council",
+        "Weidmann",
+        "ERC",
+        "Zentrum",
+        "2022",
+        "Ulrich Weidmann",
+        "Dario D’Ercole",
+        "24/08/2022",
+        "EU",
+        "Executive Board",
+        "Federal Council",
+        "Hönggerberg",
+        "Schwerzenbach",
+        "ETH Zurich",
+        "the Federal Council",
+        "Dominik Brem",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "Uninterruptible Power Supply",
+        "Swiss",
+        "where",
+        "what",
+        "net-zero",
+        "German",
+        "how",
+        "15 percent",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Dario D’Ercole_has_role_head",
+        "Dominik Brem_has_role_head",
+        "ETH Zurich_has_role_head",
+        "ETH Zurich_has_role_professor",
+        "Ulrich Weidmann_has_role_president",
+        "Weidmann_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "filename": "praesident-der-slowakei-besucht-eth.md",
+  "original_filename": "praesident-der-slowakei-besucht-eth.html",
+  "source_path": "en_news_events/2016/10/praesident-der-slowakei-besucht-eth.html",
+  "date": "2016-10",
+  "title": "Praesident Der Slowakei Besucht Eth",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Important visitor at ETH Zurich: As part of his official visit to Switzerland, Slovak President Andrej Kiska together with his host, Swiss Federal President Johann N. Schneider-Ammann, toured the ETH Hönggerberg campus on Friday morning. The President of Slovakia was accompanied by representatives from various ministries and a delegation of some 15 science and business persons.\n\nETH President Lino Guzzella received his high-ranking guests in the futuristic HIB building. The recently completed complex was specially chosen as a location in order to give the Slovak president a real-life insight into innovative research at ETH, rather than just a verbal account. The delegation also visited the spacious Robotic Fabrication Laboratory at the Arch-Tec-Lab, where scientists are researching building processes, digital fabrication and construction technology.\n\nEarlier, Lino Guzzella had given a short presentation of ETH Zurich. President Andrej Kiska was particularly impressed by the report on the Cybathlon, and regretted that not a single university in Slovakia had yet made it into the top 500 worldwide, despite having several leading minds on board, particularly in technology. Guzella referred to one such Slovak talent in his overview – Kiska’s compatriot Aurel Stodola, who as ETH Professor for Mechanical Engineering had shaped research in that field at the beginning of the 20 th century. Kiska, whose country Slovakia currently holds presidency of the Council of the European Union, called for a more extensive Europe-wide collaboration, and met with ETH staff and students from Slovakia during his visit.\n\nWhile the Slovak science and business delegates then talked extensively with Detlef Günther, ETH Vice President Research and Corporate Relations, and visited the ETH main building, President Schneider-Ammann and guest statesman President Kiska travelled on to Bern for further talks."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Slowakei Besucht",
+        "label": "PERSON",
+        "start": 38,
+        "end": 54
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 21,
+        "end": 31
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 66,
+        "end": 77
+      },
+      {
+        "text": "Slovak",
+        "label": "GPE",
+        "start": 79,
+        "end": 85
+      },
+      {
+        "text": "Andrej Kiska",
+        "label": "PERSON",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "Swiss Federal",
+        "label": "ORG",
+        "start": 133,
+        "end": 146
+      },
+      {
+        "text": "Johann N. Schneider-Ammann",
+        "label": "PERSON",
+        "start": 157,
+        "end": 183
+      },
+      {
+        "text": "Friday",
+        "label": "DATE",
+        "start": 222,
+        "end": 228
+      },
+      {
+        "text": "morning",
+        "label": "TIME",
+        "start": 229,
+        "end": 236
+      },
+      {
+        "text": "Slovakia",
+        "label": "ORG",
+        "start": 255,
+        "end": 263
+      },
+      {
+        "text": "some 15",
+        "label": "CARDINAL",
+        "start": 343,
+        "end": 350
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 381,
+        "end": 384
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 395,
+        "end": 408
+      },
+      {
+        "text": "HIB",
+        "label": "ORG",
+        "start": 460,
+        "end": 463
+      },
+      {
+        "text": "Slovak",
+        "label": "PERSON",
+        "start": 561,
+        "end": 567
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 626,
+        "end": 629
+      },
+      {
+        "text": "Robotic Fabrication Laboratory",
+        "label": "ORG",
+        "start": 707,
+        "end": 737
+      },
+      {
+        "text": "the Arch-Tec-Lab",
+        "label": "FAC",
+        "start": 741,
+        "end": 757
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 870,
+        "end": 883
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 918,
+        "end": 928
+      },
+      {
+        "text": "Andrej Kiska",
+        "label": "PERSON",
+        "start": 940,
+        "end": 952
+      },
+      {
+        "text": "Cybathlon",
+        "label": "ORG",
+        "start": 1001,
+        "end": 1010
+      },
+      {
+        "text": "Slovakia",
+        "label": "GPE",
+        "start": 1058,
+        "end": 1066
+      },
+      {
+        "text": "Guzella",
+        "label": "PERSON",
+        "start": 1186,
+        "end": 1193
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1206,
+        "end": 1209
+      },
+      {
+        "text": "Slovak",
+        "label": "PERSON",
+        "start": 1215,
+        "end": 1221
+      },
+      {
+        "text": "Kiska",
+        "label": "ORG",
+        "start": 1247,
+        "end": 1252
+      },
+      {
+        "text": "Aurel Stodola",
+        "label": "PERSON",
+        "start": 1266,
+        "end": 1279
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 1288,
+        "end": 1301
+      },
+      {
+        "text": "Mechanical Engineering",
+        "label": "ORG",
+        "start": 1306,
+        "end": 1328
+      },
+      {
+        "text": "the beginning of the 20 th century",
+        "label": "DATE",
+        "start": 1366,
+        "end": 1400
+      },
+      {
+        "text": "Kiska",
+        "label": "GPE",
+        "start": 1402,
+        "end": 1407
+      },
+      {
+        "text": "Slovakia",
+        "label": "ORG",
+        "start": 1423,
+        "end": 1431
+      },
+      {
+        "text": "the Council of the European Union",
+        "label": "ORG",
+        "start": 1462,
+        "end": 1495
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1525,
+        "end": 1531
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1565,
+        "end": 1568
+      },
+      {
+        "text": "Slovakia",
+        "label": "ORG",
+        "start": 1593,
+        "end": 1601
+      },
+      {
+        "text": "Slovak",
+        "label": "PERSON",
+        "start": 1630,
+        "end": 1636
+      },
+      {
+        "text": "Detlef Günther",
+        "label": "PERSON",
+        "start": 1697,
+        "end": 1711
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1713,
+        "end": 1716
+      },
+      {
+        "text": "Corporate Relations",
+        "label": "ORG",
+        "start": 1745,
+        "end": 1764
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1782,
+        "end": 1785
+      },
+      {
+        "text": "Schneider-Ammann",
+        "label": "PERSON",
+        "start": 1811,
+        "end": 1827
+      },
+      {
+        "text": "Kiska",
+        "label": "GPE",
+        "start": 1858,
+        "end": 1863
+      },
+      {
+        "text": "Bern",
+        "label": "ORG",
+        "start": 1880,
+        "end": 1884
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrej Kiska",
+        "Aurel Stodola",
+        "Detlef Günther",
+        "ETH Zurich",
+        "Guzella",
+        "Johann N. Schneider-Ammann",
+        "Lino Guzzella",
+        "Schneider-Ammann",
+        "Slovak",
+        "Slowakei Besucht"
+      ],
+      "ORG": [
+        "Bern",
+        "Corporate Relations",
+        "Cybathlon",
+        "ETH",
+        "ETH Professor",
+        "ETH Zurich",
+        "HIB",
+        "Kiska",
+        "Mechanical Engineering",
+        "Robotic Fabrication Laboratory",
+        "Slovakia",
+        "Swiss Federal",
+        "the Council of the European Union"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Kiska",
+        "Slovak",
+        "Slovakia",
+        "Switzerland",
+        "the Arch-Tec-Lab"
+      ],
+      "DATE": [
+        "Friday",
+        "morning",
+        "the beginning of the 20 th century"
+      ],
+      "MISC": [
+        "one",
+        "some 15"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Slovak": 4,
+      "Slovakia": 4,
+      "Kiska": 3,
+      "ETH Zurich": 2,
+      "Andrej Kiska": 2,
+      "Lino Guzzella": 2,
+      "Slowakei Besucht": 1,
+      "Switzerland": 1,
+      "Swiss Federal": 1,
+      "Johann N. Schneider-Ammann": 1,
+      "Friday": 1,
+      "morning": 1,
+      "some 15": 1,
+      "HIB": 1,
+      "Robotic Fabrication Laboratory": 1,
+      "the Arch-Tec-Lab": 1,
+      "Cybathlon": 1,
+      "Guzella": 1,
+      "one": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "praesident-der-slowakei-besucht-eth.md",
+      "title": "En News Events/2016/10/praesident der Slowakei Besucht Eth",
+      "language": "en",
+      "source_path": "en_news_events/2016/10/praesident-der-slowakei-besucht-eth.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrej Kiska",
+        "Aurel Stodola",
+        "Detlef Günther",
+        "ETH Zurich",
+        "Guzella",
+        "Johann N. Schneider-Ammann",
+        "Lino Guzzella",
+        "Schneider-Ammann",
+        "Slovak",
+        "Slowakei Besucht"
+      ],
+      "people_with_roles": {
+        "Andrej Kiska": [
+          "president"
+        ],
+        "Aurel Stodola": [
+          "professor"
+        ],
+        "Detlef Günther": [
+          "president"
+        ],
+        "ETH Zurich": [
+          "president"
+        ],
+        "Guzella": [
+          "professor"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ],
+        "Schneider-Ammann": [
+          "president"
+        ],
+        "Slovak": [
+          "president",
+          "student",
+          "professor"
+        ],
+        "Slowakei Besucht": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "some 15"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "President Schneider",
+        "Andrej Kiska",
+        "Aurel Stodola",
+        "Schneider-Ammann",
+        "The President",
+        "Arch-Tec",
+        "ETH Professor",
+        "Lino Guzzella",
+        "Slovak President",
+        "Robotic Fabrication",
+        "ETH Vice",
+        "President Johann",
+        "European Union",
+        "Eth Important",
+        "Mechanical Engineering",
+        "President Andrej",
+        "Swiss Federal",
+        "ETH President",
+        "En News",
+        "President Research",
+        "Corporate Relations",
+        "Slowakei Besucht",
+        "ETH Zurich",
+        "President Kiska"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bern",
+        "Corporate Relations",
+        "Cybathlon",
+        "ETH",
+        "ETH Professor",
+        "ETH Zurich",
+        "HIB",
+        "Kiska",
+        "Mechanical Engineering",
+        "Robotic Fabrication Laboratory",
+        "Slovakia",
+        "Swiss Federal",
+        "the Council of the European Union"
+      ],
+      "locations": [
+        "Europe",
+        "Kiska",
+        "Slovak",
+        "Slovakia",
+        "Switzerland",
+        "the Arch-Tec-Lab"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Slovak",
+        "Slovakia",
+        "Kiska",
+        "ETH Zurich",
+        "Andrej Kiska",
+        "Lino Guzzella",
+        "Slowakei Besucht",
+        "Switzerland",
+        "Swiss Federal"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1965
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Cybathlon",
+        "Slovakia",
+        "Bern",
+        "Slovak",
+        "2016",
+        "Johann N. Schneider-Ammann",
+        "Andrej Kiska",
+        "Aurel Stodola",
+        "Schneider-Ammann",
+        "ETH Professor",
+        "Lino Guzzella",
+        "the Council of the European Union",
+        "Guzella",
+        "EU",
+        "Mechanical Engineering",
+        "HIB",
+        "Swiss Federal",
+        "Detlef Günther",
+        "Corporate Relations",
+        "Robotic Fabrication Laboratory",
+        "Kiska",
+        "Slowakei Besucht",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "where",
+        "what",
+        "how",
+        "some 15",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Andrej Kiska_has_role_president",
+        "Aurel Stodola_has_role_professor",
+        "Detlef Günther_has_role_president",
+        "ETH Zurich_has_role_president",
+        "Guzella_has_role_professor",
+        "Lino Guzzella_has_role_president",
+        "Schneider-Ammann_has_role_president",
+        "Slovak_has_role_president",
+        "Slovak_has_role_student",
+        "Slovak_has_role_professor",
+        "Slowakei Besucht_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

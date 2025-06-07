@@ -1,0 +1,277 @@
+{
+  "filename": "small-country-big-effects.md",
+  "original_filename": "small-country-big-effects.html",
+  "source_path": "en_news_events/2015/01/small-country-big-effects.html",
+  "date": "2015-01",
+  "title": "Small Country Big Effects",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Figuring out the best course of action",
+      "text": "Does Switzerland matter? When it comes to climate and energy, a lot of people say no: Switzerland’s CO 2 emissions are tiny compared to those of the rest of the world, and so no amount of emissions reduction here will make any difference of global significance. Likewise, people say, the potential for Swiss policy to make a difference with respect to new technologies is extremely limited.\n\nThe last 15 years have seen a boom in photovoltaic power in Germany, and though it has failed to deliver all the promised benefits, it has nevertheless brought down technologies prices and opened up new opportunities for affordable climate mitigation around the world. But Switzerland is only a tenth of the size, and a similar boom in Switzerland would have had much less of an effect. So some people conclude that Switzerland doesn’t matter, and we might as well adopt an energy policy that focuses on keeping costs down, adopting new technologies only when the actions of larger countries have made them competitive. People also claim that if Switzerland has an important contribution to make, it is only in the area of science and technology development, in the laboratories of research institutions like ETH Zurich.\n\nI disagree, and believe that there is value for the world in Switzerland taking a leading role not only in developing the carbon-free technologies of the future, but also in applying them to transforming its own energy system. That is because some of the greatest challenges associated with the transition to a carbon-free energy system are not financial, but rather institutional. Institutional advances made in a small country can easily transfer to a much larger country."
+    },
+    {
+      "heading": "Figuring out the best course of action",
+      "text": "Let me give two examples. There is good reason to believe that our future energy system will rely on a lot of photovoltaic (PV) power, to the point that a high proportion of the rooftops in the country will sport a few square meters of PV panels. A big unknown is how to balance this prospect with other desires, like having attractive village centers made up of historic buildings. Striking a socially acceptable balance requires developing rules and procedures for deciding where PV panels make sense and where they do not, as well as the systems for financing and ownership. Public acceptance may be influenced by whether the profits from PV stay within the community or flow elsewhere. If we figure these things out here, others can copy us.\n\nAnother example is with respect to electric cars, which will almost certainly feature in our future energy system. There are a lot of ideas about how to locate, finance, and manage a network of charging stations as the share of electric cars rises. Some ideas are no doubt better than others, and we will probably figure out which are best through a process of trial and error. Again, if we figure these things out here, others can copy us.\n\nThe welfare of future generations requires that countries that are able to take the lead on climate and energy do so, and in ways that will make a difference for the rest of the world. Switzerland can indeed make a difference – not merely through its capacity for scientific and technical research, but also through its ability to innovate institutionally. Our national energy policy will make an impact far beyond our own borders."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 5,
+        "end": 16
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 86,
+        "end": 97
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 302,
+        "end": 307
+      },
+      {
+        "text": "The last 15 years",
+        "label": "DATE",
+        "start": 391,
+        "end": 408
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 451,
+        "end": 458
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 664,
+        "end": 675
+      },
+      {
+        "text": "only a tenth",
+        "label": "CARDINAL",
+        "start": 679,
+        "end": 691
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 727,
+        "end": 738
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 807,
+        "end": 818
+      },
+      {
+        "text": "n’t",
+        "label": "GPE",
+        "start": 823,
+        "end": 826
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1037,
+        "end": 1048
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1200,
+        "end": 1210
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1273,
+        "end": 1284
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "a few square meters",
+        "label": "QUANTITY",
+        "start": 213,
+        "end": 232
+      },
+      {
+        "text": "PV",
+        "label": "ORG",
+        "start": 236,
+        "end": 238
+      },
+      {
+        "text": "PV",
+        "label": "ORG",
+        "start": 482,
+        "end": 484
+      },
+      {
+        "text": "PV",
+        "label": "GPE",
+        "start": 642,
+        "end": 644
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1372,
+        "end": 1383
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "PV"
+      ],
+      "LOCATION": [
+        "Germany",
+        "PV",
+        "Switzerland",
+        "n’t"
+      ],
+      "DATE": [
+        "The last 15 years"
+      ],
+      "MISC": [
+        "Swiss",
+        "a few square meters",
+        "only a tenth",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 8,
+      "PV": 3,
+      "Swiss": 1,
+      "The last 15 years": 1,
+      "Germany": 1,
+      "only a tenth": 1,
+      "n’t": 1,
+      "ETH Zurich": 1,
+      "two": 1,
+      "a few square meters": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "small-country-big-effects.md",
+      "title": "En News Events/2015/01/small Country Big Effects",
+      "language": "en",
+      "source_path": "en_news_events/2015/01/small-country-big-effects.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Swiss",
+        "a few square meters",
+        "only a tenth"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "But Switzerland",
+        "En News",
+        "Country Big",
+        "ETH Zurich",
+        "Effects Does"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "PV"
+      ],
+      "locations": [
+        "Germany",
+        "PV",
+        "Switzerland",
+        "n’t"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "PV",
+        "Swiss",
+        "The last 15 years",
+        "Germany",
+        "only a tenth",
+        "n’t",
+        "ETH Zurich",
+        "two",
+        "a few square meters"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Figuring out the best course of action",
+          "Figuring out the best course of action"
+        ],
+        "content_length": 3358
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2015",
+        "PV"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Swiss",
+        "a few square meters",
+        "what",
+        "how",
+        "only a tenth",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "filename": "publica-is-lowering-the-technical-interest-rate-on-1-january-2015.md",
+  "original_filename": "publica-is-lowering-the-technical-interest-rate-on-1-january-2015.html",
+  "source_path": "en_internal/2013/10/publica-is-lowering-the-technical-interest-rate-on-1-january-2015.html",
+  "date": "2013-10",
+  "title": "Publica Is Lowering The Technical Interest Rate On 1 January 2015",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "By building up reserves and taking other supplementary measures, the current level of provision should be retained as far as possible. Please refer to the section “Technischer Zinssatz 2015” (“Technical Interest Rate 2015”) at www.publica.ch . Here you will also find answers to the questions from today’s perspective and the most important dates up to the start of 2015."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "1 January 2015",
+        "label": "DATE",
+        "start": 71,
+        "end": 85
+      },
+      {
+        "text": "Technischer Zinssatz 2015",
+        "label": "WORK_OF_ART",
+        "start": 164,
+        "end": 189
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 298,
+        "end": 303
+      },
+      {
+        "text": "the start of 2015",
+        "label": "DATE",
+        "start": 353,
+        "end": 370
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [
+        "1 January 2015",
+        "the start of 2015",
+        "today"
+      ],
+      "MISC": [
+        "Technischer Zinssatz 2015"
+      ]
+    },
+    "entity_counts": {
+      "1 January 2015": 1,
+      "Technischer Zinssatz 2015": 1,
+      "today": 1,
+      "the start of 2015": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "publica-is-lowering-the-technical-interest-rate-on-1-january-2015.md",
+      "title": "En Internal/2013/10/publica Is Lowering The Technical Interest Rate On 1 January 2015",
+      "language": "en",
+      "source_path": "en_internal/2013/10/publica-is-lowering-the-technical-interest-rate-on-1-january-2015.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Technischer Zinssatz 2015"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Technical Interest",
+        "Interest Rate",
+        "Is Lowering",
+        "En Internal",
+        "Technischer Zinssatz",
+        "The Technical"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "1 January 2015",
+        "Technischer Zinssatz 2015",
+        "today",
+        "the start of 2015"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 457
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Technischer Zinssatz 2015",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

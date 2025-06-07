@@ -1,0 +1,246 @@
+{
+  "filename": "scifinder-n-with-new-features.md",
+  "original_filename": "scifinder-n-with-new-features.html",
+  "source_path": "en_internal/2019/11/scifinder-n-with-new-features.html",
+  "date": "2019-11",
+  "title": "Scifinder N With New Features",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "As a member of ETH Zurich, you enjoy access to SciFinder-n , the latest SciFinder-n interface, which launched on 1 November. Improvements include the more intuitive user interface, better text search capability, parallel use in several browser tabs, analysis and filtering in large hit lists, synthesis planning tools, similarity search function for reactions, add-on workflow tool PatentPak and the display of Markush structures. Those wishing to use SciFinder-n must register and create a personal account. Existing SciFinder-n Web users can enter their login information and migrate their saved searches and alerts. SciFinder-n provides comprehensive information about compounds and reactions based on the Chemical Abstracts databases CAplus, CA Registry, CASREACT, CHEMCATS, CHEMLIS and the MEDLINE database.\n\nThe ETH Library website contains further information on SciFinder-n and other databases."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "N With New Features",
+        "label": "ORG",
+        "start": 30,
+        "end": 49
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 15,
+        "end": 25
+      },
+      {
+        "text": "SciFinder-n",
+        "label": "ORG",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "SciFinder",
+        "label": "ORG",
+        "start": 72,
+        "end": 81
+      },
+      {
+        "text": "1 November",
+        "label": "DATE",
+        "start": 113,
+        "end": 123
+      },
+      {
+        "text": "PatentPak",
+        "label": "ORG",
+        "start": 382,
+        "end": 391
+      },
+      {
+        "text": "Markush",
+        "label": "ORG",
+        "start": 411,
+        "end": 418
+      },
+      {
+        "text": "SciFinder-n",
+        "label": "ORG",
+        "start": 452,
+        "end": 463
+      },
+      {
+        "text": "SciFinder-n",
+        "label": "ORG",
+        "start": 619,
+        "end": 630
+      },
+      {
+        "text": "CAplus",
+        "label": "ORG",
+        "start": 738,
+        "end": 744
+      },
+      {
+        "text": "CA Registry",
+        "label": "ORG",
+        "start": 746,
+        "end": 757
+      },
+      {
+        "text": "CHEMLIS",
+        "label": "PERSON",
+        "start": 779,
+        "end": 786
+      },
+      {
+        "text": "MEDLINE",
+        "label": "ORG",
+        "start": 795,
+        "end": 802
+      },
+      {
+        "text": "SciFinder-n",
+        "label": "ORG",
+        "start": 869,
+        "end": 880
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "CHEMLIS",
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "CA Registry",
+        "CAplus",
+        "MEDLINE",
+        "Markush",
+        "N With New Features",
+        "PatentPak",
+        "SciFinder",
+        "SciFinder-n"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1 November"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "SciFinder-n": 4,
+      "N With New Features": 1,
+      "ETH Zurich": 1,
+      "SciFinder": 1,
+      "1 November": 1,
+      "PatentPak": 1,
+      "Markush": 1,
+      "CAplus": 1,
+      "CA Registry": 1,
+      "CHEMLIS": 1,
+      "MEDLINE": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "scifinder-n-with-new-features.md",
+      "title": "En Internal/2019/11/scifinder N With New Features",
+      "language": "en",
+      "source_path": "en_internal/2019/11/scifinder-n-with-new-features.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "CHEMLIS",
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Chemical Abstracts",
+        "N With",
+        "En Internal",
+        "Existing SciFinder",
+        "CA Registry",
+        "ETH Zurich",
+        "The ETH",
+        "New Features"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CA Registry",
+        "CAplus",
+        "MEDLINE",
+        "Markush",
+        "N With New Features",
+        "PatentPak",
+        "SciFinder",
+        "SciFinder-n"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "SciFinder-n",
+        "N With New Features",
+        "ETH Zurich",
+        "SciFinder",
+        "1 November",
+        "PatentPak",
+        "Markush",
+        "CAplus",
+        "CA Registry",
+        "CHEMLIS"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 952
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "PatentPak",
+        "CHEMLIS",
+        "MEDLINE",
+        "2019",
+        "SciFinder-n",
+        "CAplus",
+        "Markush",
+        "SciFinder",
+        "CA Registry",
+        "ETH Zurich",
+        "N With New Features"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "chemistry"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "filename": "informatik-ist-nichts-einschuechterndes.md",
+  "original_filename": "informatik-ist-nichts-einschuechterndes.html",
+  "source_path": "de_internal/2022/02/informatik-ist-nichts-einschuechterndes.html",
+  "date": "2022-02",
+  "title": "Informatik Ist Nichts Einschuechterndes",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Was erwartet Besucher:innen an den externe Seite Informatiktagen 2022 ? Lesen Sie mehr dazu im aktuellen Artikel des Departements Informatik."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/02/informatik",
+        "label": "LOC",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Ist Nichts Einschuechterndes",
+        "label": "MISC",
+        "start": 31,
+        "end": 59
+      },
+      {
+        "text": "Informatiktagen",
+        "label": "LOC",
+        "start": 49,
+        "end": 64
+      },
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 117,
+        "end": 129
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2022/02/informatik",
+        "Departements",
+        "Informatiktagen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Ist Nichts Einschuechterndes"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2022/02/informatik": 1,
+      "Ist Nichts Einschuechterndes": 1,
+      "Informatiktagen": 1,
+      "Departements": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "informatik-ist-nichts-einschuechterndes.md",
+      "title": "De Internal/2022/02/informatik Ist Nichts Einschuechterndes",
+      "language": "de",
+      "source_path": "de_internal/2022/02/informatik-ist-nichts-einschuechterndes.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Ist Nichts Einschuechterndes"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Ist Nichts",
+        "Seite Informatiktagen",
+        "Departements Informatik",
+        "De Internal",
+        "Einschuechterndes Was",
+        "Lesen Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2022/02/informatik",
+        "Departements",
+        "Informatiktagen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2022/02/informatik",
+        "Ist Nichts Einschuechterndes",
+        "Informatiktagen",
+        "Departements"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 201
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022"
+      ],
+      "semantic_concepts": [
+        "Ist Nichts Einschuechterndes"
+      ],
+      "graph_relations": []
+    }
+  }
+}

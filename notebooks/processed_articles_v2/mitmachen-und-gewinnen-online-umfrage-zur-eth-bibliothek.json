@@ -1,0 +1,220 @@
+{
+  "filename": "mitmachen-und-gewinnen-online-umfrage-zur-eth-bibliothek.md",
+  "original_filename": "mitmachen-und-gewinnen-online-umfrage-zur-eth-bibliothek.html",
+  "source_path": "en_internal/2022/03/mitmachen-und-gewinnen-online-umfrage-zur-eth-bibliothek.html",
+  "date": "2022-03",
+  "title": "Mitmachen Und Gewinnen Online Umfrage Zur Eth Bibliothek",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The ETH Library promotes knowledge, supports teaching and research, and – as a trusted institution – makes the world of yesterday, today and tomorrow more comprehensible to you.\n\nFrom September 2021 to May 2022, we are conducting an image campaign. Tell us what you think of the campaign and win one of three book vouchers worth CHF 50. It will take you approximately seven minutes to complete the survey. You can take part until Sunday, 24 April 2022.\n\nGo to the survey: https://de.surveymonkey.com/r/ethlibrary?lang=en\n\n#FocusHuman – Be inspired by people and learn something new."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Gewinnen Online Umfrage Zur Eth Bibliothek",
+        "label": "PERSON",
+        "start": 34,
+        "end": 76
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "yesterday",
+        "label": "DATE",
+        "start": 120,
+        "end": 129
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 131,
+        "end": 136
+      },
+      {
+        "text": "tomorrow",
+        "label": "DATE",
+        "start": 141,
+        "end": 149
+      },
+      {
+        "text": "September 2021 to May 2022",
+        "label": "DATE",
+        "start": 183,
+        "end": 209
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 295,
+        "end": 298
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 302,
+        "end": 307
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 328,
+        "end": 331
+      },
+      {
+        "text": "approximately seven minutes",
+        "label": "TIME",
+        "start": 353,
+        "end": 380
+      },
+      {
+        "text": "Sunday",
+        "label": "DATE",
+        "start": 429,
+        "end": 435
+      },
+      {
+        "text": "24 April 2022",
+        "label": "DATE",
+        "start": 437,
+        "end": 450
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gewinnen Online Umfrage Zur Eth Bibliothek"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "24 April 2022",
+        "September 2021 to May 2022",
+        "Sunday",
+        "approximately seven minutes",
+        "today",
+        "tomorrow",
+        "yesterday"
+      ],
+      "MISC": [
+        "one",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Gewinnen Online Umfrage Zur Eth Bibliothek": 1,
+      "ETH Library": 1,
+      "yesterday": 1,
+      "today": 1,
+      "tomorrow": 1,
+      "September 2021 to May 2022": 1,
+      "one": 1,
+      "three": 1,
+      "CHF": 1,
+      "approximately seven minutes": 1,
+      "Sunday": 1,
+      "24 April 2022": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mitmachen-und-gewinnen-online-umfrage-zur-eth-bibliothek.md",
+      "title": "En Internal/2022/03/mitmachen und Gewinnen Online Umfrage Zur Eth Bibliothek",
+      "language": "en",
+      "source_path": "en_internal/2022/03/mitmachen-und-gewinnen-online-umfrage-zur-eth-bibliothek.html"
+    },
+    "temporal": {
+      "publication_date": "2022-03",
+      "mentioned_years": [
+        "2021",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Gewinnen Online Umfrage Zur Eth Bibliothek"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Gewinnen Online",
+        "En Internal",
+        "Umfrage Zur",
+        "From September",
+        "The ETH",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "Gewinnen Online Umfrage Zur Eth Bibliothek",
+        "ETH Library",
+        "yesterday",
+        "today",
+        "tomorrow",
+        "September 2021 to May 2022",
+        "one",
+        "three",
+        "CHF",
+        "approximately seven minutes"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 659
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "CHF",
+        "Gewinnen Online Umfrage Zur Eth Bibliothek",
+        "ETH Library",
+        "2022",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "three"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

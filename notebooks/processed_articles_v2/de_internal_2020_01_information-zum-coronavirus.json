@@ -1,0 +1,306 @@
+{
+  "filename": "de_internal_2020_01_information-zum-coronavirus.md",
+  "original_filename": "de_internal_2020_01_information-zum-coronavirus.html",
+  "source_path": "de_internal/2020/01/information-zum-coronavirus.html",
+  "date": "2020-01",
+  "title": "Information Zum Coronavirus",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Von der zentralchinesischen Stadt Wuhan ausgehend ist es zu einer aussergewöhnlichen Häufung von Lungenentzündungen gekommen, die von einem neuartigen Coronavirus (2019-nCoV) verursacht werden. Das Virus kann von Mensch zu Mensch übertragen werden; unterschiedlich schwere Verläufe werden beschrieben. Der Erreger hat sich inzwischen in China ausgebreitet, bestätigte Fälle wurden bisher auch in mehreren europäischen Ländern beobachtet.\n\nBei Fieber und Atembeschwerden nach einem Aufenthalt in China muss telefonisch Kontakt mit einer Ärztin oder einem Arzt aufgenommen und auf die Reise hingewiesen werden.\n\nETH-Angehörigen wird empfohlen, geplante Reisen nach China nach Möglichkeit zu verschieben. ETH-Angehörige oder neue Mitarbeitende, die aus China in die Schweiz zurückkehren bzw. einreisen, sollen zunächst während sieben Tagen für Aufgaben im Homeoffice eingesetzt werden. Wenn sie beschwerdefrei bleiben, können sie zur Arbeit an die ETH zurückkehren. Informationen an Studierende zur laufenden Prüfungssession werden in Kürze direkt an diesen Adressatenkreis verschickt.\n\nGrundsätzlich werden ETH-Angehörigen folgende Vorsichtsmassnahmen empfohlen, auch im Hinblick auf die aktuelle Grippewelle:\n\nBei Fragen oder Unsicherheiten steht Dr. med. Leonhard Sigel, Abteilung Sicherheit, Gesundheit und Umwelt (SGU), Sektion Arbeitsmedizin und Gesundheitsschutz, den ETH-Angehörigen unter gerne zur Verfügung.\n\nWeitere Informationen\n\nexterne Seite https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html\n\nexterne Seite https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/01/information",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "Wuhan",
+        "label": "LOC",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 198,
+        "end": 203
+      },
+      {
+        "text": "Mensch",
+        "label": "LOC",
+        "start": 223,
+        "end": 229
+      },
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 337,
+        "end": 342
+      },
+      {
+        "text": "europäischen",
+        "label": "MISC",
+        "start": 405,
+        "end": 417
+      },
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 494,
+        "end": 499
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "MISC",
+        "start": 608,
+        "end": 623
+      },
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 661,
+        "end": 666
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 700,
+        "end": 714
+      },
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 748,
+        "end": 753
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 761,
+        "end": 768
+      },
+      {
+        "text": "Homeoffice",
+        "label": "LOC",
+        "start": 851,
+        "end": 861
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 943,
+        "end": 946
+      },
+      {
+        "text": "Adressatenkreis",
+        "label": "MISC",
+        "start": 1053,
+        "end": 1068
+      },
+      {
+        "text": "Leonhard Sigel",
+        "label": "PER",
+        "start": 1251,
+        "end": 1265
+      },
+      {
+        "text": "SGU",
+        "label": "ORG",
+        "start": 1312,
+        "end": 1315
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 1368,
+        "end": 1383
+      },
+      {
+        "text": "https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html",
+        "label": "MISC",
+        "start": 1447,
+        "end": 1571
+      },
+      {
+        "text": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal",
+        "label": "PER",
+        "start": 1586,
+        "end": 1654
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Leonhard Sigel",
+        "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH-Angehörigen",
+        "SGU"
+      ],
+      "LOCATION": [
+        "China",
+        "De Internal/2020/01/information",
+        "Homeoffice",
+        "Mensch",
+        "Schweiz",
+        "Wuhan"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Adressatenkreis",
+        "ETH-Angehörige",
+        "ETH-Angehörigen",
+        "Virus",
+        "europäischen",
+        "https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html"
+      ]
+    },
+    "entity_counts": {
+      "China": 4,
+      "ETH-Angehörigen": 2,
+      "De Internal/2020/01/information": 1,
+      "Wuhan": 1,
+      "Virus": 1,
+      "Mensch": 1,
+      "europäischen": 1,
+      "ETH-Angehörige": 1,
+      "Schweiz": 1,
+      "Homeoffice": 1,
+      "ETH": 1,
+      "Adressatenkreis": 1,
+      "Leonhard Sigel": 1,
+      "SGU": 1,
+      "https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html": 1,
+      "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2020_01_information-zum-coronavirus.md",
+      "title": "De Internal/2020/01/information Zum Coronavirus",
+      "language": "de",
+      "source_path": "de_internal/2020/01/information-zum-coronavirus.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Leonhard Sigel",
+        "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Adressatenkreis",
+        "ETH-Angehörige",
+        "ETH-Angehörigen",
+        "Virus",
+        "europäischen",
+        "https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Bei Fieber",
+        "Der Erreger",
+        "Abteilung Sicherheit",
+        "Weitere Informationen",
+        "De Internal",
+        "Leonhard Sigel",
+        "Sektion Arbeitsmedizin",
+        "Zum Coronavirus",
+        "Bei Fragen",
+        "Stadt Wuhan",
+        "Das Virus"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH-Angehörigen",
+        "SGU"
+      ],
+      "locations": [
+        "China",
+        "De Internal/2020/01/information",
+        "Homeoffice",
+        "Mensch",
+        "Schweiz",
+        "Wuhan"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "China",
+        "ETH-Angehörigen",
+        "De Internal/2020/01/information",
+        "Wuhan",
+        "Virus",
+        "Mensch",
+        "europäischen",
+        "ETH-Angehörige",
+        "Schweiz",
+        "Homeoffice"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1710
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal",
+        "ETH",
+        "2019",
+        "EU",
+        "2020",
+        "Leonhard Sigel",
+        "ETH-Angehörigen",
+        "SGU"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html",
+        "who",
+        "europäischen",
+        "ETH-Angehörigen",
+        "Virus",
+        "Adressatenkreis"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

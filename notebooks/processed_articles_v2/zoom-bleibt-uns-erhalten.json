@@ -1,0 +1,291 @@
+{
+  "filename": "zoom-bleibt-uns-erhalten.md",
+  "original_filename": "zoom-bleibt-uns-erhalten.html",
+  "source_path": "de_internal/2020/11/zoom-bleibt-uns-erhalten.html",
+  "date": "2020-11",
+  "title": "Zoom Bleibt Uns Erhalten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Zoom hat sich an der ETH in Windeseile etabliert – nicht nur in der Lehre, sondern auch im Arbeitsalltag. Zurzeit sind an unserer Hochschule rund 9500 Pro-Lizenzen im Einsatz, die sämtliche Funktionen des Conferencing Tools umfassen. Hinzu kommen rund 17'500 freie Lizenzen mit einem eingeschränkten Funktionsumfang, die aber eine unkomplizierte Teilnahme an Zoom-Meetings erlauben.\n\nIm Juli 2020 entschied die Schulleitung, den Einsatz von Zoom bis Ende Jahr zu erlauben. Nun hat sie beschlossen, dass das Conferencing Tool bis Ende Juni 2021 verwendet werden darf. Die Befristung liegt im Datenschutz begründet: Die Datenschützerin des Kantons Zürichs erlaubte die Nutzung von Zoom bisher nur während der Coronakrise, vor allem weil der Lizenzvertrag unter US-Recht läuft, mit Gerichtsstand in den USA. So wäre in datenschutzrelevanten Fällen kein Durchgriff auf die Firma möglich.\n\nInzwischen hat aber die Stiftung Switch mit Zoom einen Rahmenvertrag für den Schweizer Bildungsbereich ausgehandelt, der die Anforderungen der Zürcher Datenschützerin erfüllen soll. Er wird voraussichtlich noch dieses Jahr unterschrieben. Damit wird der Weg frei für eine unbegrenzte Nutzung des Tools.\n\nDie Informatikdienste wollen im ersten Halbjahr 2021 Lizenzen unter diesem neuen Rahmenvertrag beschaffen und so die datenschutzkonforme Verwendung von Zoom ohne Ablaufdatum ermöglichen. Zoom ist gekommen, um zu bleiben."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/11",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Uns Erhalten",
+        "label": "PER",
+        "start": 32,
+        "end": 44
+      },
+      {
+        "text": "Zoom",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "Conferencing Tools",
+        "label": "ORG",
+        "start": 205,
+        "end": 223
+      },
+      {
+        "text": "Zoom-Meetings",
+        "label": "ORG",
+        "start": 359,
+        "end": 372
+      },
+      {
+        "text": "Zoom",
+        "label": "PER",
+        "start": 440,
+        "end": 444
+      },
+      {
+        "text": "Ende Jahr",
+        "label": "MISC",
+        "start": 449,
+        "end": 458
+      },
+      {
+        "text": "Conferencing Tool",
+        "label": "ORG",
+        "start": 506,
+        "end": 523
+      },
+      {
+        "text": "Kantons Zürichs",
+        "label": "LOC",
+        "start": 637,
+        "end": 652
+      },
+      {
+        "text": "Zoom",
+        "label": "PER",
+        "start": 678,
+        "end": 682
+      },
+      {
+        "text": "US-Recht",
+        "label": "ORG",
+        "start": 758,
+        "end": 766
+      },
+      {
+        "text": "USA",
+        "label": "LOC",
+        "start": 799,
+        "end": 802
+      },
+      {
+        "text": "Stiftung Switch",
+        "label": "ORG",
+        "start": 907,
+        "end": 922
+      },
+      {
+        "text": "Zoom",
+        "label": "PER",
+        "start": 927,
+        "end": 931
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 960,
+        "end": 969
+      },
+      {
+        "text": "Zürcher",
+        "label": "MISC",
+        "start": 1026,
+        "end": 1033
+      },
+      {
+        "text": "Zoom",
+        "label": "PER",
+        "start": 1338,
+        "end": 1342
+      },
+      {
+        "text": "Zoom",
+        "label": "PER",
+        "start": 1373,
+        "end": 1377
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Uns Erhalten",
+        "Zoom"
+      ],
+      "ORG": [
+        "Conferencing Tool",
+        "Conferencing Tools",
+        "ETH",
+        "Stiftung Switch",
+        "US-Recht",
+        "Zoom-Meetings"
+      ],
+      "LOCATION": [
+        "De Internal/2020/11",
+        "Kantons Zürichs",
+        "USA"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Ende Jahr",
+        "Schweizer",
+        "Zürcher"
+      ]
+    },
+    "entity_counts": {
+      "Zoom": 6,
+      "De Internal/2020/11": 1,
+      "Uns Erhalten": 1,
+      "ETH": 1,
+      "Conferencing Tools": 1,
+      "Zoom-Meetings": 1,
+      "Ende Jahr": 1,
+      "Conferencing Tool": 1,
+      "Kantons Zürichs": 1,
+      "US-Recht": 1,
+      "USA": 1,
+      "Stiftung Switch": 1,
+      "Schweizer": 1,
+      "Zürcher": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zoom-bleibt-uns-erhalten.md",
+      "title": "De Internal/2020/11/zoom Bleibt Uns Erhalten",
+      "language": "de",
+      "source_path": "de_internal/2020/11/zoom-bleibt-uns-erhalten.html"
+    },
+    "temporal": {
+      "publication_date": "2020-11",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Uns Erhalten",
+        "Zoom"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Ende Jahr",
+        "Schweizer",
+        "Zürcher"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "US-Recht",
+        "Ende Jahr",
+        "Zoom-Meetings",
+        "Die Befristung",
+        "Ende Juni",
+        "Schweizer Bildungsbereich",
+        "Die Informatikdienste",
+        "De Internal",
+        "Stiftung Switch",
+        "Im Juli",
+        "Conferencing Tools",
+        "Bleibt Uns",
+        "Erhalten Zoom",
+        "Pro-Lizenzen",
+        "Conferencing Tool"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Conferencing Tool",
+        "Conferencing Tools",
+        "ETH",
+        "Stiftung Switch",
+        "US-Recht",
+        "Zoom-Meetings"
+      ],
+      "locations": [
+        "De Internal/2020/11",
+        "Kantons Zürichs",
+        "USA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Zoom",
+        "De Internal/2020/11",
+        "Uns Erhalten",
+        "ETH",
+        "Conferencing Tools",
+        "Zoom-Meetings",
+        "Ende Jahr",
+        "Conferencing Tool",
+        "Kantons Zürichs",
+        "US-Recht"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1454
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "US-Recht",
+        "Zoom-Meetings",
+        "EU",
+        "2020",
+        "Stiftung Switch",
+        "Conferencing Tools",
+        "2021",
+        "Conferencing Tool",
+        "Zoom",
+        "Uns Erhalten"
+      ],
+      "semantic_concepts": [
+        "Schweizer",
+        "Zürcher",
+        "Ende Jahr",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

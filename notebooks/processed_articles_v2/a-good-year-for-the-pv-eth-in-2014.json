@@ -1,0 +1,371 @@
+{
+  "filename": "a-good-year-for-the-pv-eth-in-2014.md",
+  "original_filename": "a-good-year-for-the-pv-eth-in-2014.html",
+  "source_path": "en_internal/2015/03/a-good-year-for-the-pv-eth-in-2014.html",
+  "date": "2015-03",
+  "title": "A Good Year For The Pv Eth In 2014",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Retired Members' Association PV ETH",
+      "text": "The programme of events organised by the Association for Retired Members of ETH Zurich (Vereinigung der Pensionierten der ETH Zürich, PV ETH) is designed to ensure that former employees at ETH Zurich keep in touch with each other and with the university after they have retired. The annual programme generally comprises about four slide shows, 13 walks and visits, one or two coach trips, the Chlausfeier (St Nicholas’s Day party) and the Annual General Meeting.\n\nThis year the AGM took place on 5 March at the Hotel Kronenhof in Zurich. It was attended by 71 members and one guest.\n\nChairwoman Karin Schram said that the PV ETH can look back on a good year in 2014:"
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "Souvenir from Nussbüel in the canton of Glarus. (Photo: Beat Rüedin)"
+    },
+    {
+      "heading": "Retired Members' Association PV ETH",
+      "text": "The Retired Members' Association PV ETH was founded on 25 March 1976 by retired employees of ETH Zurich with the aim of promoting and maintaining friendly relations between former members of ETH Zurich and its four research institutes by organising social and cultural events."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Association for Retired Members",
+        "label": "ORG",
+        "start": 37,
+        "end": 72
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 122,
+        "end": 132
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 137,
+        "end": 140
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 189,
+        "end": 199
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 283,
+        "end": 289
+      },
+      {
+        "text": "about four",
+        "label": "CARDINAL",
+        "start": 320,
+        "end": 330
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 365,
+        "end": 368
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 372,
+        "end": 375
+      },
+      {
+        "text": "Chlausfeier",
+        "label": "ORG",
+        "start": 393,
+        "end": 404
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 463,
+        "end": 472
+      },
+      {
+        "text": "AGM",
+        "label": "ORG",
+        "start": 477,
+        "end": 480
+      },
+      {
+        "text": "5 March",
+        "label": "DATE",
+        "start": 495,
+        "end": 502
+      },
+      {
+        "text": "the Hotel Kronenhof",
+        "label": "FAC",
+        "start": 506,
+        "end": 525
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 529,
+        "end": 535
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 571,
+        "end": 574
+      },
+      {
+        "text": "Karin Schram",
+        "label": "PERSON",
+        "start": 593,
+        "end": 605
+      },
+      {
+        "text": "a good year",
+        "label": "DATE",
+        "start": 644,
+        "end": 655
+      },
+      {
+        "text": "Nussbüel",
+        "label": "ORG",
+        "start": 14,
+        "end": 22
+      },
+      {
+        "text": "Glarus",
+        "label": "GPE",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "Beat Rüedin",
+        "label": "PERSON",
+        "start": 56,
+        "end": 67
+      },
+      {
+        "text": "25 March 1976",
+        "label": "DATE",
+        "start": 55,
+        "end": 68
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 93,
+        "end": 103
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 191,
+        "end": 201
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 210,
+        "end": 214
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Beat Rüedin",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Karin Schram"
+      ],
+      "ORG": [
+        "AGM",
+        "Chlausfeier",
+        "ETH",
+        "ETH Zurich",
+        "Nussbüel",
+        "the Association for Retired Members"
+      ],
+      "LOCATION": [
+        "Glarus",
+        "Zurich",
+        "the Hotel Kronenhof"
+      ],
+      "DATE": [
+        "25 March 1976",
+        "5 March",
+        "This year",
+        "a good year",
+        "annual"
+      ],
+      "MISC": [
+        "about four",
+        "four",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "one": 2,
+      "the Association for Retired Members": 1,
+      "ETH Zürich": 1,
+      "ETH": 1,
+      "annual": 1,
+      "about four": 1,
+      "two": 1,
+      "Chlausfeier": 1,
+      "This year": 1,
+      "AGM": 1,
+      "5 March": 1,
+      "the Hotel Kronenhof": 1,
+      "Zurich": 1,
+      "Karin Schram": 1,
+      "a good year": 1,
+      "Nussbüel": 1,
+      "Glarus": 1,
+      "Beat Rüedin": 1,
+      "25 March 1976": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-good-year-for-the-pv-eth-in-2014.md",
+      "title": "En Internal/2015/03/a Good Year For The Pv Eth in 2014",
+      "language": "en",
+      "source_path": "en_internal/2015/03/a-good-year-for-the-pv-eth-in-2014.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "1976",
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Beat Rüedin",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Karin Schram"
+      ],
+      "people_with_roles": {
+        "Karin Schram": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "chair"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "about four",
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "St Nicholas",
+        "Association PV",
+        "Hotel Kronenhof",
+        "Chairwoman Karin",
+        "PV ETH",
+        "En Internal",
+        "Pv Eth",
+        "Annual General",
+        "The Retired",
+        "ETH Zurich",
+        "Good Year",
+        "For The",
+        "Retired Members"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AGM",
+        "Chlausfeier",
+        "ETH",
+        "ETH Zurich",
+        "Nussbüel",
+        "the Association for Retired Members"
+      ],
+      "locations": [
+        "Glarus",
+        "Zurich",
+        "the Hotel Kronenhof"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "one",
+        "the Association for Retired Members",
+        "ETH Zürich",
+        "ETH",
+        "annual",
+        "about four",
+        "two",
+        "Chlausfeier",
+        "This year"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Retired Members' Association PV ETH",
+          "Subscribe to Newsletter",
+          "Retired Members' Association PV ETH"
+        ],
+        "content_length": 1067
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "Beat Rüedin",
+        "the Association for Retired Members",
+        "Chlausfeier",
+        "ETH Zürich",
+        "Nussbüel",
+        "AGM",
+        "Karin Schram",
+        "ETH Zurich",
+        "1976",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "four",
+        "about four",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Karin Schram_has_role_chair",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

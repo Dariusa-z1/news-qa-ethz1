@@ -1,0 +1,229 @@
+{
+  "filename": "welcome-dear-readers.md",
+  "original_filename": "welcome-dear-readers.html",
+  "source_path": "en_news_events/2013/10/welcome-dear-readers.html",
+  "date": "2013-10",
+  "title": "Welcome Dear Readers",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Researchers and experts at ETH and other institutions examine these issues and many more in ETH Zurich’s “Zukunftsblog”, with facts and views on sustainability.\n\nThe “Zukunftsblog” also features posts in English, giving English-speaking members of the ETH community the opportunity to contribute to the blog. Therefore, English posts will appear on the German blog page and vice versa.\n\nThe new blog will be inaugurated by ETH author and environmental systems scientist Anthony Patt, with his thoughts on the much discussed concept of sustainability – it will be published here on Thursday, 31 October.\n\nIs there a topic in the field of sustainability that you would like us to cover in a blog post in the future? Then write to us at . We look forward to hearing from you."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Dear Readers",
+        "label": "ORG",
+        "start": 31,
+        "end": 43
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "Zukunftsblog",
+        "label": "WORK_OF_ART",
+        "start": 106,
+        "end": 118
+      },
+      {
+        "text": "Zukunftsblog",
+        "label": "WORK_OF_ART",
+        "start": 166,
+        "end": 178
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 203,
+        "end": 210
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 219,
+        "end": 226
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 251,
+        "end": 254
+      },
+      {
+        "text": "English",
+        "label": "NORP",
+        "start": 319,
+        "end": 326
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 352,
+        "end": 358
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 421,
+        "end": 424
+      },
+      {
+        "text": "Anthony Patt",
+        "label": "PERSON",
+        "start": 468,
+        "end": 480
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 579,
+        "end": 587
+      },
+      {
+        "text": "31 October",
+        "label": "DATE",
+        "start": 589,
+        "end": 599
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anthony Patt"
+      ],
+      "ORG": [
+        "Dear Readers",
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "31 October",
+        "Thursday"
+      ],
+      "MISC": [
+        "English",
+        "German",
+        "Zukunftsblog"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "English": 3,
+      "Zukunftsblog": 2,
+      "Dear Readers": 1,
+      "German": 1,
+      "Anthony Patt": 1,
+      "Thursday": 1,
+      "31 October": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "welcome-dear-readers.md",
+      "title": "En News Events/2013/10/welcome Dear Readers",
+      "language": "en",
+      "source_path": "en_news_events/2013/10/welcome-dear-readers.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Anthony Patt"
+      ],
+      "people_with_roles": {
+        "Anthony Patt": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "German",
+        "Zukunftsblog"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "Dear Readers",
+        "Anthony Patt",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Dear Readers",
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "ETH",
+        "English",
+        "Zukunftsblog",
+        "Dear Readers",
+        "German",
+        "Anthony Patt",
+        "Thursday",
+        "31 October"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 816
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013",
+        "Dear Readers",
+        "ETH",
+        "Anthony Patt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Zukunftsblog",
+        "English",
+        "what",
+        "German",
+        "climate_change"
+      ],
+      "graph_relations": [
+        "Anthony Patt_has_role_scientist",
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

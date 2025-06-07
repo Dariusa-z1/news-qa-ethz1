@@ -1,0 +1,648 @@
+{
+  "filename": "more-than-just-winning-medals.md",
+  "original_filename": "more-than-just-winning-medals.html",
+  "source_path": "en_news_events/2023/07/more-than-just-winning-medals.html",
+  "date": "2023-07",
+  "title": "More Than Just Winning Medals",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Swiss team with a solid result, Chinese students won",
+      "text": "It was a celebration of the natural sciences – or more precisely, chemistry – held last week on ETH Zurich’s Hönggerberg campus. A total of 348 students from 89 countries met for a peaceful competition. They tested their chemistry knowledge in five-hour-long practical and theoretical examinations. The tasks developed by the scientific committee under the direction of ETH professor, Wendelin Stark were quite challenging. \"Five hours of practical chemistry in the lab and 5 hours of theory in a row – at a university level – where even the world's best face a big challenge,\" explains Stark. \"I am, therefore, very impressed by the dedication and expertise that the students have shown over the past week.\" Wendelin Stark, who represented Switzerland at the Chemistry Olympiad in Italy, Norway, and China in 1993, 1994, and 1995 respectively, discovered his love of chemistry through the competition and made contacts that have lasted to throughout his career. Now he hopes that the participants at the IChO 2023 in Switzerland were also able to gain experience that will accompany them throughout their lives."
+    },
+    {
+      "heading": "Swiss team with a solid result, Chinese students won",
+      "text": "The participants were awarded for their great performance on Monday during the closing ceremony in the Tonhalle Zurich. A total of 217 gold, silver, and bronze medals were awarded. A further 27 candidates received an \"honourable mention,\" including Vivian Huber from Basel-Stadt. The best participant was Weijie Mao from China, who also achieved the best result in both the theoretical and practical examinations.\n\nThe awards were presented by Günther Dissertori, Rector of ETH Zurich and President of IChO 2023, among others. \"It was a wonderful experience and a great honour to have these motivated young people from all over the world as our guests at ETH. I think it is great to see their enthusiasm and how much they have learned about chemistry, ETH Zurich and Switzerland!\", says Günther Dissertori. \"Of course, I hope that we will be able to welcome some of them as students in the future.\""
+    },
+    {
+      "heading": "Successful event thanks to many volunteers",
+      "text": "IChO 2023 was held in Switzerland for the first time and was organized by ETH Zurich’s Department of Chemistry and Applied Biosciences, the Science Olympiad Association, the Swiss Chemistry Olympiad Association, and the Swiss Chemical Society. The event also received support from the Department for Education, Research, and Innovation, as well as numerous partners from the business community and charitable foundations. Marco Gerber, head of the organizing committee, was delighted with the event's success: \"We spent two years preparing for this week, and now I am happy that everything worked out so well. We owe this not least to the more than 300 volunteers who put their heart and soul into making the IChO possible!\""
+    },
+    {
+      "heading": "Getting to know Switzerland and like-minded people in science",
+      "text": "In addition to the exams, the participants had the opportunity to get to know Switzerland and its research through an extensive social program. For example, they visited the Paul Scherrer Institute, Lonza – a site for research and development in manufacturing - in Visp. They went on excursions to the picturesque mountain of Rigi and the old town of Bern - their accompanying persons did not miss out either. They gained an insight into the research work of Swiss Federal Laboratories for Materials Science and Technology (Empa) and Swiss Federal Institute of Aquatic Science and Technology (Eawag), visited Methrom AG – producer of precision instruments for chemical analysis - in Herisau, and enjoyed the view from the Swiss alpine peak, Säntis."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "last week",
+        "label": "DATE",
+        "start": 83,
+        "end": 92
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 109,
+        "end": 120
+      },
+      {
+        "text": "five-hour",
+        "label": "TIME",
+        "start": 244,
+        "end": 253
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 370,
+        "end": 373
+      },
+      {
+        "text": "Wendelin Stark",
+        "label": "PERSON",
+        "start": 385,
+        "end": 399
+      },
+      {
+        "text": "Five hours",
+        "label": "TIME",
+        "start": 425,
+        "end": 435
+      },
+      {
+        "text": "5 hours",
+        "label": "TIME",
+        "start": 474,
+        "end": 481
+      },
+      {
+        "text": "Stark",
+        "label": "PERSON",
+        "start": 587,
+        "end": 592
+      },
+      {
+        "text": "the past week",
+        "label": "DATE",
+        "start": 693,
+        "end": 706
+      },
+      {
+        "text": "Wendelin Stark",
+        "label": "PERSON",
+        "start": 709,
+        "end": 723
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 741,
+        "end": 752
+      },
+      {
+        "text": "the Chemistry Olympiad",
+        "label": "ORG",
+        "start": 756,
+        "end": 778
+      },
+      {
+        "text": "Italy",
+        "label": "GPE",
+        "start": 782,
+        "end": 787
+      },
+      {
+        "text": "Norway",
+        "label": "GPE",
+        "start": 789,
+        "end": 795
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 801,
+        "end": 806
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1018,
+        "end": 1029
+      },
+      {
+        "text": "Monday",
+        "label": "DATE",
+        "start": 61,
+        "end": 67
+      },
+      {
+        "text": "the Tonhalle Zurich",
+        "label": "FAC",
+        "start": 99,
+        "end": 118
+      },
+      {
+        "text": "Vivian Huber",
+        "label": "ORG",
+        "start": 249,
+        "end": 261
+      },
+      {
+        "text": "Basel-Stadt",
+        "label": "ORG",
+        "start": 267,
+        "end": 278
+      },
+      {
+        "text": "Weijie Mao",
+        "label": "PERSON",
+        "start": 305,
+        "end": 315
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 321,
+        "end": 326
+      },
+      {
+        "text": "Günther Dissertori",
+        "label": "ORG",
+        "start": 443,
+        "end": 461
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 654,
+        "end": 657
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 751,
+        "end": 761
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 766,
+        "end": 777
+      },
+      {
+        "text": "Günther Dissertori",
+        "label": "PERSON",
+        "start": 786,
+        "end": 804
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 22,
+        "end": 33
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 42,
+        "end": 47
+      },
+      {
+        "text": "ETH Zurich’s Department of Chemistry and Applied Biosciences",
+        "label": "ORG",
+        "start": 74,
+        "end": 134
+      },
+      {
+        "text": "the Science Olympiad Association",
+        "label": "ORG",
+        "start": 136,
+        "end": 168
+      },
+      {
+        "text": "the Swiss Chemistry Olympiad Association",
+        "label": "ORG",
+        "start": 170,
+        "end": 210
+      },
+      {
+        "text": "the Swiss Chemical Society",
+        "label": "ORG",
+        "start": 216,
+        "end": 242
+      },
+      {
+        "text": "the Department for Education, Research",
+        "label": "ORG",
+        "start": 281,
+        "end": 319
+      },
+      {
+        "text": "Innovation",
+        "label": "ORG",
+        "start": 325,
+        "end": 335
+      },
+      {
+        "text": "Marco Gerber",
+        "label": "PERSON",
+        "start": 422,
+        "end": 434
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 520,
+        "end": 529
+      },
+      {
+        "text": "this week",
+        "label": "DATE",
+        "start": 544,
+        "end": 553
+      },
+      {
+        "text": "more than 300",
+        "label": "CARDINAL",
+        "start": 639,
+        "end": 652
+      },
+      {
+        "text": "IChO",
+        "label": "ORG",
+        "start": 709,
+        "end": 713
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 78,
+        "end": 89
+      },
+      {
+        "text": "the Paul Scherrer Institute, Lonza",
+        "label": "ORG",
+        "start": 170,
+        "end": 204
+      },
+      {
+        "text": "Visp",
+        "label": "GPE",
+        "start": 265,
+        "end": 269
+      },
+      {
+        "text": "Rigi",
+        "label": "PERSON",
+        "start": 326,
+        "end": 330
+      },
+      {
+        "text": "Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "label": "ORG",
+        "start": 459,
+        "end": 528
+      },
+      {
+        "text": "Swiss Federal Institute of Aquatic Science and Technology",
+        "label": "ORG",
+        "start": 534,
+        "end": 591
+      },
+      {
+        "text": "Eawag",
+        "label": "ORG",
+        "start": 593,
+        "end": 598
+      },
+      {
+        "text": "Methrom AG",
+        "label": "ORG",
+        "start": 609,
+        "end": 619
+      },
+      {
+        "text": "Herisau",
+        "label": "ORG",
+        "start": 683,
+        "end": 690
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 722,
+        "end": 727
+      },
+      {
+        "text": "Säntis",
+        "label": "GPE",
+        "start": 741,
+        "end": 747
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Günther Dissertori",
+        "Hönggerberg",
+        "Marco Gerber",
+        "Rigi",
+        "Stark",
+        "Weijie Mao",
+        "Wendelin Stark"
+      ],
+      "ORG": [
+        "Basel-Stadt",
+        "ETH",
+        "ETH Zurich’s Department of Chemistry and Applied Biosciences",
+        "Eawag",
+        "Günther Dissertori",
+        "Herisau",
+        "IChO",
+        "Innovation",
+        "Methrom AG",
+        "Swiss Federal Institute of Aquatic Science and Technology",
+        "Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "Vivian Huber",
+        "the Chemistry Olympiad",
+        "the Department for Education, Research",
+        "the Paul Scherrer Institute, Lonza",
+        "the Science Olympiad Association",
+        "the Swiss Chemical Society",
+        "the Swiss Chemistry Olympiad Association"
+      ],
+      "LOCATION": [
+        "China",
+        "Italy",
+        "Norway",
+        "Switzerland",
+        "Säntis",
+        "Visp",
+        "the Tonhalle Zurich"
+      ],
+      "DATE": [
+        "5 hours",
+        "Five hours",
+        "Monday",
+        "five-hour",
+        "last week",
+        "the past week",
+        "this week",
+        "two years"
+      ],
+      "MISC": [
+        "Swiss",
+        "first",
+        "more than 300"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 5,
+      "ETH": 2,
+      "Wendelin Stark": 2,
+      "China": 2,
+      "Günther Dissertori": 2,
+      "last week": 1,
+      "ETH Zurich’s": 1,
+      "Hönggerberg": 1,
+      "five-hour": 1,
+      "Five hours": 1,
+      "5 hours": 1,
+      "Stark": 1,
+      "the past week": 1,
+      "the Chemistry Olympiad": 1,
+      "Italy": 1,
+      "Norway": 1,
+      "Monday": 1,
+      "the Tonhalle Zurich": 1,
+      "Vivian Huber": 1,
+      "Basel-Stadt": 1
+    },
+    "total_entities": 52,
+    "unique_entities": 44
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "more-than-just-winning-medals.md",
+      "title": "En News Events/2023/07/more Than Just Winning Medals",
+      "language": "en",
+      "source_path": "en_news_events/2023/07/more-than-just-winning-medals.html"
+    },
+    "temporal": {
+      "publication_date": "2023-07",
+      "mentioned_years": [
+        "1993",
+        "1994",
+        "1995",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Günther Dissertori",
+        "Hönggerberg",
+        "Marco Gerber",
+        "Rigi",
+        "Stark",
+        "Weijie Mao",
+        "Wendelin Stark"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president",
+          "rector"
+        ],
+        "Günther Dissertori": [
+          "president",
+          "rector"
+        ],
+        "Marco Gerber": [
+          "head"
+        ],
+        "Stark": [
+          "professor"
+        ],
+        "Wendelin Stark": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "professor",
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Swiss",
+        "first",
+        "more than 300"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Science Olympiad",
+        "Applied Biosciences",
+        "Winning Medals",
+        "Methrom AG",
+        "Basel-Stadt",
+        "Than Just",
+        "Wendelin Stark",
+        "Materials Science",
+        "Swiss Chemistry",
+        "Chemistry Olympiad",
+        "Tonhalle Zurich",
+        "Vivian Huber",
+        "Olympiad Association",
+        "Paul Scherrer",
+        "Swiss Chemical",
+        "Marco Gerber",
+        "Swiss Federal",
+        "Aquatic Science",
+        "En News",
+        "Weijie Mao",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Chemistry and Applied Biosciences"
+      ],
+      "institutions": [
+        "Basel-Stadt",
+        "ETH",
+        "ETH Zurich’s Department of Chemistry and Applied Biosciences",
+        "Eawag",
+        "Günther Dissertori",
+        "Herisau",
+        "IChO",
+        "Innovation",
+        "Methrom AG",
+        "Swiss Federal Institute of Aquatic Science and Technology",
+        "Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "Vivian Huber",
+        "the Chemistry Olympiad",
+        "the Department for Education, Research",
+        "the Paul Scherrer Institute, Lonza",
+        "the Science Olympiad Association",
+        "the Swiss Chemical Society",
+        "the Swiss Chemistry Olympiad Association"
+      ],
+      "locations": [
+        "China",
+        "Italy",
+        "Norway",
+        "Switzerland",
+        "Säntis",
+        "Visp",
+        "the Tonhalle Zurich"
+      ],
+      "programs": [
+        "program",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "ETH",
+        "Wendelin Stark",
+        "China",
+        "Günther Dissertori",
+        "last week",
+        "ETH Zurich’s",
+        "Hönggerberg",
+        "five-hour",
+        "Five hours"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Swiss team with a solid result, Chinese students won",
+          "Swiss team with a solid result, Chinese students won",
+          "Successful event thanks to many volunteers",
+          "Getting to know Switzerland and like-minded people in science"
+        ],
+        "content_length": 3538
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "1995",
+        "the Department for Education, Research",
+        "the Science Olympiad Association",
+        "Herisau",
+        "the Swiss Chemical Society",
+        "ETH Zurich’s",
+        "Swiss Federal Institute of Aquatic Science and Technology",
+        "1993",
+        "Methrom AG",
+        "Basel-Stadt",
+        "Wendelin Stark",
+        "Innovation",
+        "ETH Zurich’s Department of Chemistry and Applied Biosciences",
+        "the Swiss Chemistry Olympiad Association",
+        "Günther Dissertori",
+        "the Chemistry Olympiad",
+        "Rigi",
+        "Eawag",
+        "the Paul Scherrer Institute, Lonza",
+        "Vivian Huber",
+        "IChO",
+        "Hönggerberg",
+        "Marco Gerber",
+        "Stark",
+        "1994",
+        "Swiss Federal Laboratories for Materials Science and Technology (Empa",
+        "Weijie Mao",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "who",
+        "Swiss",
+        "more than 300",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "ETH Zurich_has_role_rector",
+        "Günther Dissertori_has_role_president",
+        "Günther Dissertori_has_role_rector",
+        "Marco Gerber_has_role_head",
+        "Stark_has_role_professor",
+        "Wendelin Stark_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "filename": "urbane-verkehrskapazitaet.md",
+  "original_filename": "urbane-verkehrskapazitaet.html",
+  "source_path": "de_news_events/2019/11/urbane-verkehrskapazitaet.html",
+  "date": "2019-11",
+  "title": "Urbane Verkehrskapazitaet",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Verkehrsdaten aus 41 Städten analysiert",
+      "text": "Autopendler haben erfahrungsbedingt eine Vorstellung davon, was der Begriff Verkehrskapazität bedeutet: Wenn frühmorgens Auto um Auto in eine Stadt hineinfährt, nimmt der Verkehrsfluss zunächst zu. Solange, bis sich eine kritische Anzahl von Fahrzeugen im Strassennetz befindet. Ab diesem kritischen Punkt verringert jedes zusätzliche Auto den Verkehrsfluss – der Verkehr beginnt zu stocken oder zu stauen. Dieser kritische Punkt entspricht der Verkehrskapazität oder maximalen Verkehrsleistung einer Stadt.\n\nWie viele Fahrzeuge ein Strassennetz erträgt, ist von Stadt zu Stadt verschieden. Was die unterschiedliche Verkehrskapazität bestimmt, war bis anhin unbekannt. ETH-Forschende um Kay Axhausen, Professor für Verkehrsplanung, und Professorin Monica Menendez (mittlerweile an der New York University Abu-Dhabi) haben nun anhand Milliarden von Verkehrsmessungen die Gesetzmässigkeiten aufgedeckt, mittels derer man die kritische Anzahl der Fahrzeuge und damit die Verkehrskapazität eines städtischen Strassennetzes auf einfache Weise abschätzen kann."
+    },
+    {
+      "heading": "Verkehrsdaten aus 41 Städten analysiert",
+      "text": "Für ihre Studie im Fachmagazin externe Seite Scientific Reports beschafften sich die Forschenden Milliarden von Fahrzeugbeobachtungen von stationären Verkehrsdetektoren aus weltweit 41 Städten, darunter Tokyo und Los Angeles, zahlreiche europäische Zentren wie Paris und London sowie Zürich, Basel, Bern und Luzern. Nachdem die Wissenschaftler die riesigen Datensätze vereinfacht und nutzbar gemacht hatten, ermittelten sie zuerst die spezifische Verkehrskapazität für jede Stadt. Dabei fokussierten sie auf Autos und klammerten andere Verkehrsmittel explizit aus.\n\nAnschliessend verglichen sie die Verkehrskapazitäten der Städte und suchten nach Eigenschaften, welche die Unterschiede erklären. So fanden sie heraus, dass bestimmte topologische Merkmale des Strassen- und Busnetzes rund 90 Prozent der beobachteten Unterschiede in der Verkehrskapazität der verschiedenen Städte erklären können."
+    },
+    {
+      "heading": "Vier charakteristische Netzwerkvariablen",
+      "text": "Die Forschenden um Axhausen und Menendez identifizierten vier Faktoren, welche die räumliche Beschaffenheit des Strassennetzes einer Stadt charakterisieren und letztlich die Verkehrsleistung definieren: die Netzwerkdichte, gemessen in Fahrspur-Kilometer pro Fläche, die Redundanz des Netzes als Mass für alternative Möglichkeiten, ein Ziel zu erreichen. Weiter die Häufigkeit von Lichtsignalanlagen, und schliesslich die Dichte von Bus- und Tram-Linien, welche mit dem Autoverkehr um Platz und Vortritt konkurrieren, zum Beispiel priorisierte Busse, wie sie in Zürich häufig vorkommen.\n\n«Diese vier aus Bus- und Strassennetzen abgeleiteten Faktoren erfassen die beobachteten Kapazitätsunterschiede von Stadt zu Stadt erstaunlich genau», erklärt Axhausen. Mit dieser Erkenntnis habe sich eine Vermutung erhärtet, die sie aufgrund früherer Simulationen und weniger empirischer Daten schon länger hegten: dass sich die Verkehrsleistung in Abhängigkeit der Fahrzeugdichte in verschiedenen Städten stets ähnlich, nach demselben Muster verhält, so Axhausen.\n\n«Das bedeutet, dass sich der kritische Punkt und damit die Verkehrskapazität von Städtenetzen anhand der jeweiligen Infrastruktur vorhersagen lässt», ergänzt Lukas Ambühl, Doktorand in der Gruppe Strassenverkehrstechnik und einer der Erstautoren der Studie."
+    },
+    {
+      "heading": "Die optimale Infrastruktur bestimmen",
+      "text": "Der Zusammenhang zwischen Netzwerkbeschaffenheit und Verkehrskapazität mag Laien intuitiv erscheinen. Dass sich ein solch chaotisches System wie der urbane Verkehr mit tausenden individuell agierenden Teilnehmern in allen untersuchten Städten tatsächlich nach demselben Muster verhält, ist für die ETH-Verkehrsexperten aber alles andere als selbstverständlich. Umso mehr fasziniert sie das einfache Modell.\n\nDie Resultate sind auch für die Praxis relevant: Städteplaner können nun quantitativ vorhersagen, wie geplante Investitionen oder bauliche Eingriffe die Verkehrsleistung ihres Netzes fördern oder beeinträchtigen. Baut man beispielsweise Fahrbahnen hinzu oder ab, verändert man die Netzwerkdichte. Fällt eine zentrale Brücke wegen Sanierung aus, sinkt die Netzredundanz. Und verdichten die Verkehrsbetriebe den Taktfahrplan, fahren priorisierte Busse häufiger.\n\nDie Autoren räumen aber auch die Grenzen der Studie ein. Die Stichprobe sei mit 41 Städten eher klein, und die meisten befänden sich in Europa. Zudem wurde die Steuerung der Lichtsignale an Kreuzungen nicht detailliert berücksichtigt. Schliesslich konzentriert sich die Studie nur auf die Infrastruktur und lässt die Nachfrageseite, etwa wie Pendler auf ein verändertes Verkehrsangebot reagieren – ausser Acht.\n\nDennoch könnten die Resultate Städten helfen, ihre optimale Infrastruktur zu bestimmen. «Unser neues Verständnis der Verkehrskapazität von Städtenetzen mag die Stauprobleme nicht lösen, wohl aber entscheidend zur Verbesserung des Verkehrs beitragen», ist Axhausen überzeugt.\n\nLoder A, Ambühl L, Menendez M, Axhausen K. externe Seite Understanding traffic capacity of urban networks . Scientific Reports (2019), Published: 08 November 2019. doi: externe Seite 10.1038/s41598-019-51539-5"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Strassennetz",
+        "label": "MISC",
+        "start": 256,
+        "end": 268
+      },
+      {
+        "text": "Strassennetz",
+        "label": "MISC",
+        "start": 532,
+        "end": 544
+      },
+      {
+        "text": "Stadt zu Stadt",
+        "label": "LOC",
+        "start": 562,
+        "end": 576
+      },
+      {
+        "text": "ETH-Forschende",
+        "label": "MISC",
+        "start": 668,
+        "end": 682
+      },
+      {
+        "text": "Kay Axhausen",
+        "label": "PER",
+        "start": 686,
+        "end": 698
+      },
+      {
+        "text": "Monica Menendez",
+        "label": "PER",
+        "start": 747,
+        "end": 762
+      },
+      {
+        "text": "New York University Abu-Dhabi",
+        "label": "ORG",
+        "start": 784,
+        "end": 813
+      },
+      {
+        "text": "Scientific Reports",
+        "label": "ORG",
+        "start": 45,
+        "end": 63
+      },
+      {
+        "text": "Forschenden Milliarden von Fahrzeugbeobachtungen",
+        "label": "LOC",
+        "start": 85,
+        "end": 133
+      },
+      {
+        "text": "Tokyo",
+        "label": "LOC",
+        "start": 203,
+        "end": 208
+      },
+      {
+        "text": "Los Angeles",
+        "label": "LOC",
+        "start": 213,
+        "end": 224
+      },
+      {
+        "text": "europäische",
+        "label": "MISC",
+        "start": 237,
+        "end": 248
+      },
+      {
+        "text": "Paris",
+        "label": "LOC",
+        "start": 261,
+        "end": 266
+      },
+      {
+        "text": "London",
+        "label": "LOC",
+        "start": 271,
+        "end": 277
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 284,
+        "end": 290
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 292,
+        "end": 297
+      },
+      {
+        "text": "Bern",
+        "label": "LOC",
+        "start": 299,
+        "end": 303
+      },
+      {
+        "text": "Luzern",
+        "label": "LOC",
+        "start": 308,
+        "end": 314
+      },
+      {
+        "text": "Stadt",
+        "label": "LOC",
+        "start": 474,
+        "end": 479
+      },
+      {
+        "text": "Unterschiede",
+        "label": "LOC",
+        "start": 672,
+        "end": 684
+      },
+      {
+        "text": "Axhausen",
+        "label": "LOC",
+        "start": 19,
+        "end": 27
+      },
+      {
+        "text": "Menendez",
+        "label": "LOC",
+        "start": 32,
+        "end": 40
+      },
+      {
+        "text": "Strassennetzes",
+        "label": "LOC",
+        "start": 112,
+        "end": 126
+      },
+      {
+        "text": "Fahrspur-Kilometer",
+        "label": "LOC",
+        "start": 235,
+        "end": 253
+      },
+      {
+        "text": "Netzes",
+        "label": "PER",
+        "start": 284,
+        "end": 290
+      },
+      {
+        "text": "Tram-Linien",
+        "label": "LOC",
+        "start": 441,
+        "end": 452
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 561,
+        "end": 567
+      },
+      {
+        "text": "Kapazitätsunterschiede von Stadt",
+        "label": "PER",
+        "start": 674,
+        "end": 706
+      },
+      {
+        "text": "Lukas Ambühl",
+        "label": "PER",
+        "start": 1209,
+        "end": 1221
+      },
+      {
+        "text": "ETH-Verkehrsexperten",
+        "label": "ORG",
+        "start": 298,
+        "end": 318
+      },
+      {
+        "text": "Umso",
+        "label": "PER",
+        "start": 361,
+        "end": 365
+      },
+      {
+        "text": "Fahrbahnen",
+        "label": "LOC",
+        "start": 644,
+        "end": 654
+      },
+      {
+        "text": "Netzwerkdichte",
+        "label": "MISC",
+        "start": 688,
+        "end": 702
+      },
+      {
+        "text": "Netzredundanz",
+        "label": "LOC",
+        "start": 762,
+        "end": 775
+      },
+      {
+        "text": "Europa",
+        "label": "LOC",
+        "start": 1003,
+        "end": 1009
+      },
+      {
+        "text": "Nachfrageseite",
+        "label": "LOC",
+        "start": 1184,
+        "end": 1198
+      },
+      {
+        "text": "Axhausen",
+        "label": "PER",
+        "start": 1533,
+        "end": 1541
+      },
+      {
+        "text": "Loder A",
+        "label": "LOC",
+        "start": 1553,
+        "end": 1560
+      },
+      {
+        "text": "Ambühl L",
+        "label": "PER",
+        "start": 1562,
+        "end": 1570
+      },
+      {
+        "text": "Menendez M",
+        "label": "LOC",
+        "start": 1572,
+        "end": 1582
+      },
+      {
+        "text": "Understanding",
+        "label": "PER",
+        "start": 1610,
+        "end": 1623
+      },
+      {
+        "text": "Scientific Reports",
+        "label": "PER",
+        "start": 1661,
+        "end": 1679
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ambühl L",
+        "Axhausen",
+        "De News",
+        "Kapazitätsunterschiede von Stadt",
+        "Kay Axhausen",
+        "Lukas Ambühl",
+        "Monica Menendez",
+        "Netzes",
+        "Scientific Reports",
+        "Umso",
+        "Understanding"
+      ],
+      "ORG": [
+        "ETH-Verkehrsexperten",
+        "New York University Abu-Dhabi",
+        "Scientific Reports"
+      ],
+      "LOCATION": [
+        "Axhausen",
+        "Basel",
+        "Bern",
+        "Europa",
+        "Fahrbahnen",
+        "Fahrspur-Kilometer",
+        "Forschenden Milliarden von Fahrzeugbeobachtungen",
+        "Loder A",
+        "London",
+        "Los Angeles",
+        "Luzern",
+        "Menendez",
+        "Menendez M",
+        "Nachfrageseite",
+        "Netzredundanz",
+        "Paris",
+        "Stadt",
+        "Stadt zu Stadt",
+        "Strassennetzes",
+        "Tokyo",
+        "Tram-Linien",
+        "Unterschiede",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Forschende",
+        "Netzwerkdichte",
+        "Strassennetz",
+        "europäische"
+      ]
+    },
+    "entity_counts": {
+      "Strassennetz": 2,
+      "Scientific Reports": 2,
+      "Zürich": 2,
+      "Axhausen": 2,
+      "De News": 1,
+      "Stadt zu Stadt": 1,
+      "ETH-Forschende": 1,
+      "Kay Axhausen": 1,
+      "Monica Menendez": 1,
+      "New York University Abu-Dhabi": 1,
+      "Forschenden Milliarden von Fahrzeugbeobachtungen": 1,
+      "Tokyo": 1,
+      "Los Angeles": 1,
+      "europäische": 1,
+      "Paris": 1,
+      "London": 1,
+      "Basel": 1,
+      "Bern": 1,
+      "Luzern": 1,
+      "Stadt": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "urbane-verkehrskapazitaet.md",
+      "title": "De News Events/2019/11/urbane Verkehrskapazitaet",
+      "language": "de",
+      "source_path": "de_news_events/2019/11/urbane-verkehrskapazitaet.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Ambühl L",
+        "Axhausen",
+        "De News",
+        "Kapazitätsunterschiede von Stadt",
+        "Kay Axhausen",
+        "Lukas Ambühl",
+        "Monica Menendez",
+        "Netzes",
+        "Scientific Reports",
+        "Umso",
+        "Understanding"
+      ],
+      "people_with_roles": {
+        "Axhausen": [
+          "professor"
+        ],
+        "Kay Axhausen": [
+          "professor"
+        ],
+        "Monica Menendez": [
+          "professor"
+        ],
+        "Netzes": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Forschende",
+        "Netzwerkdichte",
+        "Strassennetz",
+        "europäische"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Forschenden Milliarden",
+        "Verkehrskapazitaet Autopendler",
+        "Die Forschenden",
+        "ETH-Verkehrsexperten",
+        "Fahrspur-Kilometer",
+        "Die Resultate",
+        "Der Zusammenhang",
+        "Los Angeles",
+        "Gruppe Strassenverkehrstechnik",
+        "Scientific Reports",
+        "Die Autoren",
+        "Axhausen K",
+        "University Abu",
+        "Seite Scientific",
+        "Menendez M",
+        "Seite Understanding",
+        "Tram-Linien",
+        "Professorin Monica",
+        "New York",
+        "Loder A",
+        "De News",
+        "Die Stichprobe",
+        "ETH-Forschende",
+        "Kay Axhausen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Verkehrsexperten",
+        "New York University Abu-Dhabi",
+        "Scientific Reports"
+      ],
+      "locations": [
+        "Axhausen",
+        "Basel",
+        "Bern",
+        "Europa",
+        "Fahrbahnen",
+        "Fahrspur-Kilometer",
+        "Forschenden Milliarden von Fahrzeugbeobachtungen",
+        "Loder A",
+        "London",
+        "Los Angeles",
+        "Luzern",
+        "Menendez",
+        "Menendez M",
+        "Nachfrageseite",
+        "Netzredundanz",
+        "Paris",
+        "Stadt",
+        "Stadt zu Stadt",
+        "Strassennetzes",
+        "Tokyo",
+        "Tram-Linien",
+        "Unterschiede",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Strassennetz",
+        "Scientific Reports",
+        "Zürich",
+        "Axhausen",
+        "De News",
+        "Stadt zu Stadt",
+        "ETH-Forschende",
+        "Kay Axhausen",
+        "Monica Menendez",
+        "New York University Abu-Dhabi"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Verkehrsdaten aus 41 Städten analysiert",
+          "Verkehrsdaten aus 41 Städten analysiert",
+          "Vier charakteristische Netzwerkvariablen",
+          "Die optimale Infrastruktur bestimmen"
+        ],
+        "content_length": 5077
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Umso",
+        "Netzes",
+        "Kapazitätsunterschiede von Stadt",
+        "Understanding",
+        "Scientific Reports",
+        "Monica Menendez",
+        "2019",
+        "EU",
+        "Ambühl L",
+        "De News",
+        "Lukas Ambühl",
+        "ETH-Verkehrsexperten",
+        "Kay Axhausen",
+        "Axhausen",
+        "New York University Abu-Dhabi"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "europäische",
+        "who",
+        "Strassennetz",
+        "Netzwerkdichte",
+        "ETH-Forschende",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Axhausen_has_role_professor",
+        "Kay Axhausen_has_role_professor",
+        "Monica Menendez_has_role_professor",
+        "Netzes_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

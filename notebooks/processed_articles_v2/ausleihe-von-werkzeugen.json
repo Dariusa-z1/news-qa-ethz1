@@ -1,0 +1,212 @@
+{
+  "filename": "ausleihe-von-werkzeugen.md",
+  "original_filename": "ausleihe-von-werkzeugen.html",
+  "source_path": "en_internal/2018/11/ausleihe-von-werkzeugen.html",
+  "date": "2018-11",
+  "title": "Ausleihe Von Werkzeugen",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A list of all the devices is available on the Search Portal . The free loan for a maximum of three days is only possible for members of ETH Zurich and, as usual, is performed via the user account using the ETH Card. ETH Library’s normal conditions of use and fees apply. You can collect and return the tools in both Zentrum and Hönggerberg. Further information is available on our website. This service is offered in cooperation with Student Project House and Robert Bosch AG."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "von Werkzeugen",
+        "label": "PERSON",
+        "start": 29,
+        "end": 43
+      },
+      {
+        "text": "three days",
+        "label": "DATE",
+        "start": 93,
+        "end": 103
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 136,
+        "end": 146
+      },
+      {
+        "text": "the ETH Card",
+        "label": "ORG",
+        "start": 202,
+        "end": 214
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 216,
+        "end": 229
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 316,
+        "end": 323
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 328,
+        "end": 339
+      },
+      {
+        "text": "Student Project House",
+        "label": "ORG",
+        "start": 434,
+        "end": 455
+      },
+      {
+        "text": "Robert Bosch AG",
+        "label": "PERSON",
+        "start": 460,
+        "end": 475
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s",
+        "Robert Bosch AG",
+        "Zentrum",
+        "von Werkzeugen"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Student Project House",
+        "the ETH Card"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "three days"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "von Werkzeugen": 1,
+      "three days": 1,
+      "ETH Zurich": 1,
+      "the ETH Card": 1,
+      "ETH Library’s": 1,
+      "Zentrum": 1,
+      "Hönggerberg": 1,
+      "Student Project House": 1,
+      "Robert Bosch AG": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ausleihe-von-werkzeugen.md",
+      "title": "En Internal/2018/11/ausleihe von Werkzeugen",
+      "language": "en",
+      "source_path": "en_internal/2018/11/ausleihe-von-werkzeugen.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s",
+        "Robert Bosch AG",
+        "Zentrum",
+        "von Werkzeugen"
+      ],
+      "people_with_roles": {
+        "Robert Bosch AG": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Search Portal",
+        "ETH Library",
+        "ETH Card",
+        "En Internal",
+        "ETH Zurich",
+        "Werkzeugen A",
+        "Student Project",
+        "Robert Bosch"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Student Project House",
+        "the ETH Card"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "von Werkzeugen",
+        "three days",
+        "ETH Zurich",
+        "the ETH Card",
+        "ETH Library’s",
+        "Zentrum",
+        "Hönggerberg",
+        "Student Project House",
+        "Robert Bosch AG"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 520
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "the ETH Card",
+        "EU",
+        "Zentrum",
+        "ETH Zurich",
+        "Robert Bosch AG",
+        "Student Project House",
+        "ETH Library’s",
+        "von Werkzeugen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what"
+      ],
+      "graph_relations": [
+        "Robert Bosch AG_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "filename": "de_news_events_2021_08_podcast-hautsache.md",
+  "original_filename": "de_news_events_2021_08_podcast-hautsache.html",
+  "source_path": "de_news_events/2021/08/podcast-hautsache.html",
+  "date": "2021-08",
+  "title": "Podcast Hautsache",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Was bei einem Mittagessen zwischen ETH-Professorin Sabine Werner und ETH-Professor Edoardo Mazza begann, entwickelte sich zu einem landesweiten, interdisziplinären Konsortium von Forschenden aus verschiedenen Universitäten und Spitälern. Ziel von Skintegrity.CH ist es, Hautkrankheiten und Störungen der Wundheilung zu verstehen und zu behandeln. Sabine und Edoardo sowie Lukas Sommer von der Universität Zürich sprechen über unser grösstes Organ, die Haut - von den kleinsten Bausteinen bis zu ihrer Züchtung. Sie verraten uns auch, wie die Zusammenarbeit in einer so grossen Gruppe funktioniert und warum sie die nächste Generation von Forschenden stärkt.\n\nAn der Scientifica präsentiert das Forschungsteam von Skintegrity ein Gerät namens Nimble, das mit Hilfe eines Vakuums die Elastizität der Haut messen kann, sowie Teile eines «dynamischen Bioreaktors», in dem Hautzellen von Patienten zu einem künstlich hergestellten Hautersatz gezüchtet werden können. Weitere Informationen dazu auf der externe Seite Webseite der Scientifica ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH-Professorin",
+        "label": "ORG",
+        "start": 35,
+        "end": 50
+      },
+      {
+        "text": "Sabine Werner",
+        "label": "PER",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "ETH-Professor Edoardo Mazza",
+        "label": "PER",
+        "start": 69,
+        "end": 96
+      },
+      {
+        "text": "Skintegrity",
+        "label": "LOC",
+        "start": 247,
+        "end": 258
+      },
+      {
+        "text": "Sabine",
+        "label": "PER",
+        "start": 347,
+        "end": 353
+      },
+      {
+        "text": "Edoardo",
+        "label": "PER",
+        "start": 358,
+        "end": 365
+      },
+      {
+        "text": "Lukas Sommer",
+        "label": "PER",
+        "start": 372,
+        "end": 384
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 393,
+        "end": 411
+      },
+      {
+        "text": "Generation von Forschenden",
+        "label": "MISC",
+        "start": 623,
+        "end": 649
+      },
+      {
+        "text": "Scientifica",
+        "label": "ORG",
+        "start": 665,
+        "end": 676
+      },
+      {
+        "text": "Skintegrity",
+        "label": "ORG",
+        "start": 712,
+        "end": 723
+      },
+      {
+        "text": "Nimble",
+        "label": "MISC",
+        "start": 741,
+        "end": 747
+      },
+      {
+        "text": "Scientifica",
+        "label": "LOC",
+        "start": 1023,
+        "end": 1034
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH-Professor Edoardo Mazza",
+        "Edoardo",
+        "Lukas Sommer",
+        "Sabine",
+        "Sabine Werner"
+      ],
+      "ORG": [
+        "ETH-Professorin",
+        "Scientifica",
+        "Skintegrity",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Scientifica",
+        "Skintegrity"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Generation von Forschenden",
+        "Nimble"
+      ]
+    },
+    "entity_counts": {
+      "Skintegrity": 2,
+      "Scientifica": 2,
+      "ETH-Professorin": 1,
+      "Sabine Werner": 1,
+      "ETH-Professor Edoardo Mazza": 1,
+      "Sabine": 1,
+      "Edoardo": 1,
+      "Lukas Sommer": 1,
+      "Universität Zürich": 1,
+      "Generation von Forschenden": 1,
+      "Nimble": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2021_08_podcast-hautsache.md",
+      "title": "De News Events/2021/08/podcast Hautsache",
+      "language": "de",
+      "source_path": "de_news_events/2021/08/podcast-hautsache.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH-Professor Edoardo Mazza",
+        "Edoardo",
+        "Lukas Sommer",
+        "Sabine",
+        "Sabine Werner"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Edoardo Mazza": [
+          "professor"
+        ],
+        "Edoardo": [
+          "Professor",
+          "professor"
+        ],
+        "Sabine": [
+          "professor"
+        ],
+        "Sabine Werner": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Generation von Forschenden",
+        "Nimble"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Edoardo Mazza",
+        "Weitere Informationen",
+        "Sabine Werner",
+        "Lukas Sommer",
+        "De News",
+        "ETH-Professor",
+        "ETH-Professorin",
+        "Hautsache Was",
+        "Seite Webseite"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Professorin",
+        "Scientifica",
+        "Skintegrity",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Scientifica",
+        "Skintegrity"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Skintegrity",
+        "Scientifica",
+        "ETH-Professorin",
+        "Sabine Werner",
+        "ETH-Professor Edoardo Mazza",
+        "Sabine",
+        "Edoardo",
+        "Lukas Sommer",
+        "Universität Zürich",
+        "Generation von Forschenden"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1078
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Scientifica",
+        "Edoardo",
+        "Sabine Werner",
+        "Lukas Sommer",
+        "Skintegrity",
+        "ETH-Professor Edoardo Mazza",
+        "Sabine",
+        "2021",
+        "ETH-Professorin",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Nimble",
+        "Generation von Forschenden"
+      ],
+      "graph_relations": [
+        "ETH-Professor Edoardo Mazza_has_role_professor",
+        "Edoardo_has_role_Professor",
+        "Edoardo_has_role_professor",
+        "Sabine_has_role_professor",
+        "Sabine Werner_has_role_professor"
+      ]
+    }
+  }
+}

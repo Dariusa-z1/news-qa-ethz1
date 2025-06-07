@@ -1,0 +1,163 @@
+{
+  "filename": "neues-normenportal.md",
+  "original_filename": "neues-normenportal.html",
+  "source_path": "en_internal/2019/01/neues-normenportal.html",
+  "date": "2019-01",
+  "title": "Neues Normenportal",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The following standards are available on the new portal eresearchcenter :\n\n• ASTM International • DIN • Electrosuisse • IEEE International • INB/Swissmem • ISO • SAE International • SIA International • VDI\n\nFor the first time, this enables the majority of the standards licensed at ETH Library to be used on a common platform. Moreover, unlike the previous Perinorm, the installation of the Adobe FileOpen plug-in is no longer required."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Normenportal",
+        "label": "ORG",
+        "start": 26,
+        "end": 38
+      },
+      {
+        "text": "• ASTM International • DIN • Electrosuisse • IEEE International • INB/Swissmem • ISO • SAE International • SIA International • VDI",
+        "label": "ORG",
+        "start": 74,
+        "end": 204
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 213,
+        "end": 218
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 280,
+        "end": 291
+      },
+      {
+        "text": "Perinorm",
+        "label": "ORG",
+        "start": 355,
+        "end": 363
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Library",
+        "Normenportal",
+        "Perinorm",
+        "• ASTM International • DIN • Electrosuisse • IEEE International • INB/Swissmem • ISO • SAE International • SIA International • VDI"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "Normenportal": 1,
+      "• ASTM International • DIN • Electrosuisse • IEEE International • INB/Swissmem • ISO • SAE International • SIA International • VDI": 1,
+      "first": 1,
+      "ETH Library": 1,
+      "Perinorm": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neues-normenportal.md",
+      "title": "En Internal/2019/01/neues Normenportal",
+      "language": "en",
+      "source_path": "en_internal/2019/01/neues-normenportal.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "IEEE International",
+        "Normenportal The",
+        "ETH Library",
+        "Adobe FileOpen",
+        "SIA International",
+        "En Internal",
+        "ASTM International",
+        "SAE International"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Library",
+        "Normenportal",
+        "Perinorm",
+        "• ASTM International • DIN • Electrosuisse • IEEE International • INB/Swissmem • ISO • SAE International • SIA International • VDI"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Normenportal",
+        "• ASTM International • DIN • Electrosuisse • IEEE International • INB/Swissmem • ISO • SAE International • SIA International • VDI",
+        "first",
+        "ETH Library",
+        "Perinorm"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 475
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "• ASTM International • DIN • Electrosuisse • IEEE International • INB/Swissmem • ISO • SAE International • SIA International • VDI",
+        "2019",
+        "ETH Library",
+        "EU",
+        "Perinorm",
+        "Normenportal"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "what",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

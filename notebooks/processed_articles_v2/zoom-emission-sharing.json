@@ -1,0 +1,688 @@
+{
+  "filename": "zoom-emission-sharing.md",
+  "original_filename": "zoom-emission-sharing.html",
+  "source_path": "en_news_events/2013/09/zoom-emission-sharing.html",
+  "date": "2013-09",
+  "title": "Zoom Emission Sharing",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Calculating backwards",
+      "text": "Reto Knutti is a popular expert when it comes to climate predictions. Some time ago, this ETH Zurich professor of climate physics revealed that the greenhouse gas CO2 does not only influence the climate in the short term, but also for several centuries. And he was involved in the development of computer models that can be used to simulate climate changes and project them into the future."
+    },
+    {
+      "heading": "Calculating backwards",
+      "text": "The size of the emissions cake, for instance, is not all that easy to determine, he says. For like most computer models, the climate models work by calculating effects from causes.\n\nTo put it simply, the climate model is a calculator that is fed with population figures, technologies used and the associated greenhouse gas emissions, all of which it uses to work out the temperature and amount of rainfall to be expected.\n\nThe question as to the maximum amount of greenhouse gases that the human race may emit to achieve the two-degree target, however, moves in the opposite direction: it aims to infer causes and decisions from the maximum effects tolerated.\n\nKnutti likens the task to piecing together the wreckage of a plane crash. \"It is extremely difficult to find the cause of the crash in a field of scattered aircraft debris\", he says. \"It’s physically much easier the other way round, to calculate the flight path of the individual aircraft parts when a plane loses an engine in mid-air.\" Neither for a plane crash nor for climate modeling is it possible to run the calculator backwards. Instead, the scientists rely on diligence and computational power. For instance, their calculator – the high-speed computer Brutus at ETH Zurich – is run forwards ten thousand times to calculate different emission scenarios. Out of the ten thousand results, they select the ones that fit the two-degree target.\n\nAnd based upon these, they are able to determine how large the emissions cake is. One figure regarding the size of this cake that is often quoted by experts is one billion tons of carbon dioxide equivalent. This is roughly the same as ten years of emissions from 42,000 coal-fired power stations, each with a power output similar to that of the Gösgen nuclear power plant.\n\n\"However, it depends a lot on how sure you want to be,\" says Knutti. The billion tons of carbon dioxide equivalent apply if you want to achieve the two-degree target with a probability of two thirds. If you want to aim for greater certainty, the emissions have to be limited to a far greater extent."
+    },
+    {
+      "heading": "Half the cake eaten",
+      "text": "At a rough estimate, we and the previous generations since the construction of the first coal-fired power stations in the mid-nineteenth century have already given off around half of these emissions. In other words, half the cake has already been eaten.\n\n\"The interesting thing now is how to divide up the remaining half fairly,\" says Knutti. Is it fair to split it equally among all the people in the world? Or should the industrialised countries leave what’s left to the developing countries? After all, it was the industrialised nations who emitted the most CO2 in the past, and they have more of the economic clout necessary to overcome the energy transition. The community of states remains divided over the issue. Burden-sharing is the main bone of contention at every international climate negotiation. Knutti is well aware that it is an ethical question that cannot be answered definitively by science. However, he does admit that climate physics can quantify and compare the effects of the different proposals from the individual countries."
+    },
+    {
+      "heading": "Western Europe needs to cut down",
+      "text": "Last year, together with his postdoc Joeri Rogelj and the Zurich-based consultancy firm Infras, Knutti compared different political proposals on burden-sharing. The study clearly reveals that the two-degree target can only be achieved if the industrialised countries reduce their greenhouse gas emissions much more than the developing countries are able to in the short term: Western Europe, for instance, needs to slash its emissions to at least a fifth by 2050 in all the scenarios studied.\n\nThe proposals examined also differed greatly from each other. If we wanted to divide up the greenhouse gas emissions per capita equally all over the world for the period from 1990 to 2100, the developing countries would be allowed to continue to emit greenhouse gases at a very high level until around 2050.\n\nThe industrialised countries, however, would have to become CO2-neutral societies by 2035 – thus at an unrealistic speed – and would then have to have a negative CO2 record for the rest of the century.\n\nWhile this would only be possible with the massive use of CO2-capture and storage (CSS) technologies, these are not yet viable in practice. Alternatively, the industrialised countries would have to buy emissions rights from the developing countries.\n\nIn 2008 the Indian government proposed a compromise that takes the historical responsibility of the industrialised countries and their economic clout into account, but is not as radical as the equal per-capita proposal. In their study, the scientists from ETH Zurich show that the developing countries would not have to take immediate action in this scenario, but would need to be just as resolute as the industrialised countries from 2020 onwards.\n\nHitherto undeveloped CSS technologies would also be pivotal for this if we want to achieve the two-degree target, as Joeri Rogelj has revealed in another study. This is especially the case if electricity is to be produced in future by means other than nuclear power. And what’s more, vast areas would have to be reforested all over the world to achieve the target.\n\nRegardless of the burden-sharing, Knutti and Rogelj’s climate model calculations show that while there are many scenarios to achieve the two-degree target, they all have one thing in common: politicians need to act as soon and as resolutely as possible.\n\nThis year and the next, the Intergovernmental Panel on Climate Change (IPCC) will be publishing a new assessment report. The sub-report on the scientific basis is due at the end of September 2013. A number of the main authors are researchers from ETH Zurich. Reto Knutti, a professor of climate physics, is the \"coordinating lead author\" responsible for the chapter on long-term prognoses, while ETH Zurich professors Jürg Beer, Ulrike Lohmann, Christoph Schär, Konrad Steffen and Martin Wild are also involved in the sub-report as lead authors."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Reto Knutti",
+        "label": "PERSON",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Some time ago",
+        "label": "DATE",
+        "start": 70,
+        "end": 83
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 90,
+        "end": 100
+      },
+      {
+        "text": "several centuries",
+        "label": "DATE",
+        "start": 235,
+        "end": 252
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 523,
+        "end": 526
+      },
+      {
+        "text": "Knutti",
+        "label": "ORG",
+        "start": 658,
+        "end": 664
+      },
+      {
+        "text": "Brutus",
+        "label": "PERSON",
+        "start": 1218,
+        "end": 1224
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 1228,
+        "end": 1238
+      },
+      {
+        "text": "ten thousand",
+        "label": "CARDINAL",
+        "start": 1257,
+        "end": 1269
+      },
+      {
+        "text": "ten thousand",
+        "label": "CARDINAL",
+        "start": 1330,
+        "end": 1342
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1386,
+        "end": 1389
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1487,
+        "end": 1490
+      },
+      {
+        "text": "one billion tons",
+        "label": "QUANTITY",
+        "start": 1565,
+        "end": 1581
+      },
+      {
+        "text": "the same as ten years",
+        "label": "DATE",
+        "start": 1628,
+        "end": 1649
+      },
+      {
+        "text": "42,000",
+        "label": "CARDINAL",
+        "start": 1668,
+        "end": 1674
+      },
+      {
+        "text": "Gösgen",
+        "label": "PERSON",
+        "start": 1750,
+        "end": 1756
+      },
+      {
+        "text": "Knutti",
+        "label": "PERSON",
+        "start": 1839,
+        "end": 1845
+      },
+      {
+        "text": "billion tons",
+        "label": "QUANTITY",
+        "start": 1851,
+        "end": 1863
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1926,
+        "end": 1929
+      },
+      {
+        "text": "two thirds",
+        "label": "CARDINAL",
+        "start": 1966,
+        "end": 1976
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "the mid-nineteenth century",
+        "label": "DATE",
+        "start": 118,
+        "end": 144
+      },
+      {
+        "text": "around half",
+        "label": "CARDINAL",
+        "start": 168,
+        "end": 179
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 216,
+        "end": 220
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 315,
+        "end": 319
+      },
+      {
+        "text": "Knutti",
+        "label": "PERSON",
+        "start": 334,
+        "end": 340
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 560,
+        "end": 563
+      },
+      {
+        "text": "Knutti",
+        "label": "ORG",
+        "start": 809,
+        "end": 815
+      },
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Joeri Rogelj",
+        "label": "PERSON",
+        "start": 37,
+        "end": 49
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 58,
+        "end": 64
+      },
+      {
+        "text": "Infras",
+        "label": "ORG",
+        "start": 88,
+        "end": 94
+      },
+      {
+        "text": "Knutti",
+        "label": "ORG",
+        "start": 96,
+        "end": 102
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 196,
+        "end": 199
+      },
+      {
+        "text": "Western Europe",
+        "label": "LOC",
+        "start": 376,
+        "end": 390
+      },
+      {
+        "text": "at least a fifth",
+        "label": "CARDINAL",
+        "start": 438,
+        "end": 454
+      },
+      {
+        "text": "CO2",
+        "label": "PRODUCT",
+        "start": 963,
+        "end": 966
+      },
+      {
+        "text": "the rest of the century",
+        "label": "DATE",
+        "start": 978,
+        "end": 1001
+      },
+      {
+        "text": "CSS",
+        "label": "ORG",
+        "start": 1086,
+        "end": 1089
+      },
+      {
+        "text": "Indian",
+        "label": "NORP",
+        "start": 1265,
+        "end": 1271
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1509,
+        "end": 1519
+      },
+      {
+        "text": "Hitherto",
+        "label": "PERSON",
+        "start": 1702,
+        "end": 1710
+      },
+      {
+        "text": "CSS",
+        "label": "ORG",
+        "start": 1723,
+        "end": 1726
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1797,
+        "end": 1800
+      },
+      {
+        "text": "Joeri Rogelj",
+        "label": "PERSON",
+        "start": 1819,
+        "end": 1831
+      },
+      {
+        "text": "Knutti",
+        "label": "PERSON",
+        "start": 2101,
+        "end": 2107
+      },
+      {
+        "text": "Rogelj",
+        "label": "GPE",
+        "start": 2112,
+        "end": 2118
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2204,
+        "end": 2207
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2237,
+        "end": 2240
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 2321,
+        "end": 2330
+      },
+      {
+        "text": "the Intergovernmental Panel on Climate Change",
+        "label": "ORG",
+        "start": 2345,
+        "end": 2390
+      },
+      {
+        "text": "the end of September 2013",
+        "label": "DATE",
+        "start": 2491,
+        "end": 2516
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2568,
+        "end": 2578
+      },
+      {
+        "text": "Reto Knutti",
+        "label": "PERSON",
+        "start": 2580,
+        "end": 2591
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2717,
+        "end": 2727
+      },
+      {
+        "text": "Jürg Beer",
+        "label": "PERSON",
+        "start": 2739,
+        "end": 2748
+      },
+      {
+        "text": "Ulrike Lohmann",
+        "label": "PERSON",
+        "start": 2750,
+        "end": 2764
+      },
+      {
+        "text": "Christoph Schär",
+        "label": "PERSON",
+        "start": 2766,
+        "end": 2781
+      },
+      {
+        "text": "Konrad Steffen",
+        "label": "PERSON",
+        "start": 2783,
+        "end": 2797
+      },
+      {
+        "text": "Martin Wild",
+        "label": "PERSON",
+        "start": 2802,
+        "end": 2813
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Brutus",
+        "Christoph Schär",
+        "Gösgen",
+        "Hitherto",
+        "Joeri Rogelj",
+        "Jürg Beer",
+        "Knutti",
+        "Konrad Steffen",
+        "Martin Wild",
+        "Reto Knutti",
+        "Ulrike Lohmann"
+      ],
+      "ORG": [
+        "CSS",
+        "ETH Zurich",
+        "En News",
+        "Infras",
+        "Knutti",
+        "the Intergovernmental Panel on Climate Change"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Rogelj",
+        "Western Europe",
+        "Zurich"
+      ],
+      "DATE": [
+        "Last year",
+        "Some time ago",
+        "This year",
+        "several centuries",
+        "the end of September 2013",
+        "the mid-nineteenth century",
+        "the rest of the century",
+        "the same as ten years"
+      ],
+      "MISC": [
+        "42,000",
+        "CO2",
+        "Indian",
+        "One",
+        "around half",
+        "at least a fifth",
+        "billion tons",
+        "first",
+        "half",
+        "one",
+        "one billion tons",
+        "ten thousand",
+        "two",
+        "two thirds"
+      ]
+    },
+    "entity_counts": {
+      "two": 6,
+      "Knutti": 6,
+      "ETH Zurich": 5,
+      "Reto Knutti": 2,
+      "ten thousand": 2,
+      "half": 2,
+      "CO2": 2,
+      "Joeri Rogelj": 2,
+      "CSS": 2,
+      "En News": 1,
+      "Some time ago": 1,
+      "several centuries": 1,
+      "Brutus": 1,
+      "One": 1,
+      "one billion tons": 1,
+      "the same as ten years": 1,
+      "42,000": 1,
+      "Gösgen": 1,
+      "billion tons": 1,
+      "two thirds": 1
+    },
+    "total_entities": 61,
+    "unique_entities": 41
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zoom-emission-sharing.md",
+      "title": "En News Events/2013/09/zoom Emission Sharing",
+      "language": "en",
+      "source_path": "en_news_events/2013/09/zoom-emission-sharing.html"
+    },
+    "temporal": {
+      "publication_date": "2013-09",
+      "mentioned_years": [
+        "1990",
+        "2008",
+        "2013",
+        "2020",
+        "2035"
+      ],
+      "time_periods": [
+        [
+          "1990",
+          "2100"
+        ]
+      ],
+      "temporal_context": "since, until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Brutus",
+        "Christoph Schär",
+        "Gösgen",
+        "Hitherto",
+        "Joeri Rogelj",
+        "Jürg Beer",
+        "Knutti",
+        "Konrad Steffen",
+        "Martin Wild",
+        "Reto Knutti",
+        "Ulrike Lohmann"
+      ],
+      "people_with_roles": {
+        "Christoph Schär": [
+          "professor"
+        ],
+        "Jürg Beer": [
+          "professor"
+        ],
+        "Knutti": [
+          "professor"
+        ],
+        "Konrad Steffen": [
+          "professor"
+        ],
+        "Martin Wild": [
+          "professor"
+        ],
+        "Reto Knutti": [
+          "professor"
+        ],
+        "Ulrike Lohmann": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering",
+        "mathematics"
+      ],
+      "research_topics": [
+        "42,000",
+        "Indian",
+        "around half",
+        "at least a fifth",
+        "billion tons",
+        "first",
+        "half",
+        "one billion tons",
+        "ten thousand",
+        "two thirds"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Climate Change",
+        "Emission Sharing",
+        "Konrad Steffen",
+        "En News",
+        "Joeri Rogelj",
+        "Reto Knutti",
+        "Western Europe",
+        "Intergovernmental Panel",
+        "ETH Zurich",
+        "Martin Wild",
+        "Ulrike Lohmann"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSS",
+        "ETH Zurich",
+        "En News",
+        "Infras",
+        "Knutti",
+        "the Intergovernmental Panel on Climate Change"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Rogelj",
+        "Western Europe",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "two",
+        "Knutti",
+        "ETH Zurich",
+        "Reto Knutti",
+        "ten thousand",
+        "half",
+        "CO2",
+        "Joeri Rogelj",
+        "CSS",
+        "En News"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Calculating backwards",
+          "Calculating backwards",
+          "Half the cake eaten",
+          "Western Europe needs to cut down"
+        ],
+        "content_length": 6442
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2035",
+        "Reto Knutti",
+        "2020",
+        "1990",
+        "Christoph Schär",
+        "ERC",
+        "Hitherto",
+        "Konrad Steffen",
+        "2008",
+        "Martin Wild",
+        "Knutti",
+        "Infras",
+        "Joeri Rogelj",
+        "EU",
+        "CSS",
+        "the Intergovernmental Panel on Climate Change",
+        "Jürg Beer",
+        "Gösgen",
+        "En News",
+        "2013",
+        "ETH Zurich",
+        "Brutus",
+        "Ulrike Lohmann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "one billion tons",
+        "around half",
+        "billion tons",
+        "half",
+        "who",
+        "42,000",
+        "Indian",
+        "ten thousand",
+        "what",
+        "how",
+        "two thirds",
+        "climate_change",
+        "when",
+        "engineering",
+        "at least a fifth"
+      ],
+      "graph_relations": [
+        "Christoph Schär_has_role_professor",
+        "Jürg Beer_has_role_professor",
+        "Knutti_has_role_professor",
+        "Konrad Steffen_has_role_professor",
+        "Martin Wild_has_role_professor",
+        "Reto Knutti_has_role_professor",
+        "Ulrike Lohmann_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

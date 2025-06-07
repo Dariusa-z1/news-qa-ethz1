@@ -1,0 +1,299 @@
+{
+  "filename": "eliminating-resistant-bacteria-with-nanoparticles.md",
+  "original_filename": "eliminating-resistant-bacteria-with-nanoparticles.html",
+  "source_path": "en_news_events/2021/04/eliminating-resistant-bacteria-with-nanoparticles.html",
+  "date": "2021-04",
+  "title": "Eliminating Resistant Bacteria With Nanoparticles",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Bioglass and metal",
+      "text": "In the arms race \"mankind against bacteria\", bacteria are currently ahead of us. Our former miracle weapons, antibiotics, are failing more and more frequently when germs use tricky maneuvers to protect themselves from the effects of these drugs. Some species even retreat into the inside of human cells, where they remain \"invisible\" to the immune system. These particularly dreaded pathogens include multi-resistant staphylococci (MRSA), which can cause life-threatening diseases such as sepsis or pneumonia.\n\nIn order to track down the germs in their hideouts and eliminate them, a team of researchers from ETH Zurich and Empa is now developing nanoparticles that use a completely different mode of action from conventional antibiotics: While antibiotics have difficulty in penetrating human cells, these nanoparticles can penetrate the membrane of affected cells. Once there, they can fight the bacteria."
+    },
+    {
+      "heading": "Bioglass and metal",
+      "text": "The team led by Inge Herrmann, a professor of Nanoparticulate Systems at ETH Zurich and researcher at Empa in St. Gallen, used cerium oxide, a material with antibacterial and anti-inflammatory properties in its nanoparticle form. The researchers combined the cerium oxide with a bioactive ceramic material known as bioglass and synthesized nanoparticle hybrids from the two materials.\n\nIn cell culture and using electron microscopy, they investigated the interactions between the hybrid nanoparticles, human cells and bacteria. When the scientists treated cells infected with bacteria with the nanoparticles, the bacteria inside the cells began to dissolve. However, if the researchers specifically blocked the uptake of the hybrid particles into the cells, the antibacterial effect was gone."
+    },
+    {
+      "heading": "Development of resistance less likely",
+      "text": "The particles' exact mode of action is not yet fully understood. It has been shown that other metals also have antimicrobial effects. However, cerium is less toxic to human cells than, for instance, silver. Scientists currently assume that the nanoparticles affect the cell membrane of the bacteria, creating reactive oxygen species that lead to the destruction of the germs. Since the cell membrane of human cells is structured differently than that of bacteria, our cells are not affected by this process.\n\nThe researchers think that resistance is less likely to develop against a mechanism of this kind. Next, the researchers aim to analyze the interactions of the particles in the infection process in more detail in order to further optimize the structure and composition of the nanoparticles. Their goal is to develop a simple and robust antibacterial agent that is effective inside infected cells.\n\nThis is a slightly modified version of an Empa news item , which contains further information.\n\nMatter MT, Doppegieter M, Gogos A, Keevend K, Ren Q, Herrmann IK: Inorganic nanohybrids combat antibiotic-resistant bacteria within human macrophages. Nanoscale 2021, doi: 10.1039/d0nr08285f"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Resistant Bacteria With Nanoparticles",
+        "label": "WORK_OF_ART",
+        "start": 35,
+        "end": 72
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 608,
+        "end": 618
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 623,
+        "end": 627
+      },
+      {
+        "text": "Inge Herrmann",
+        "label": "PERSON",
+        "start": 16,
+        "end": 29
+      },
+      {
+        "text": "Nanoparticulate Systems",
+        "label": "ORG",
+        "start": 46,
+        "end": 69
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 73,
+        "end": 83
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 102,
+        "end": 106
+      },
+      {
+        "text": "St. Gallen",
+        "label": "GPE",
+        "start": 110,
+        "end": 120
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 370,
+        "end": 373
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 946,
+        "end": 950
+      },
+      {
+        "text": "MT",
+        "label": "ORG",
+        "start": 1006,
+        "end": 1008
+      },
+      {
+        "text": "Doppegieter M",
+        "label": "PERSON",
+        "start": 1010,
+        "end": 1023
+      },
+      {
+        "text": "Inorganic",
+        "label": "NORP",
+        "start": 1065,
+        "end": 1074
+      },
+      {
+        "text": "10.1039",
+        "label": "CARDINAL",
+        "start": 1171,
+        "end": 1178
+      },
+      {
+        "text": "d0nr08285f",
+        "label": "PERSON",
+        "start": 1179,
+        "end": 1189
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Doppegieter M",
+        "Inge Herrmann",
+        "d0nr08285f"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Empa",
+        "MT",
+        "Nanoparticulate Systems"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "St. Gallen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1039",
+        "Inorganic",
+        "Resistant Bacteria With Nanoparticles",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Empa": 3,
+      "ETH Zurich": 2,
+      "Resistant Bacteria With Nanoparticles": 1,
+      "Inge Herrmann": 1,
+      "Nanoparticulate Systems": 1,
+      "St. Gallen": 1,
+      "two": 1,
+      "MT": 1,
+      "Doppegieter M": 1,
+      "Inorganic": 1,
+      "10.1039": 1,
+      "d0nr08285f": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eliminating-resistant-bacteria-with-nanoparticles.md",
+      "title": "En News Events/2021/04/eliminating Resistant Bacteria With Nanoparticles",
+      "language": "en",
+      "source_path": "en_news_events/2021/04/eliminating-resistant-bacteria-with-nanoparticles.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Doppegieter M",
+        "Inge Herrmann",
+        "d0nr08285f"
+      ],
+      "people_with_roles": {
+        "Inge Herrmann": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1039",
+        "Inorganic",
+        "Resistant Bacteria With Nanoparticles"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nanoparticulate Systems",
+        "Matter MT",
+        "En News",
+        "Gogos A",
+        "Herrmann IK",
+        "Keevend K",
+        "Resistant Bacteria",
+        "ETH Zurich",
+        "Ren Q",
+        "Inge Herrmann",
+        "Doppegieter M",
+        "With Nanoparticles"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Empa",
+        "MT",
+        "Nanoparticulate Systems"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "St. Gallen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Empa",
+        "ETH Zurich",
+        "Resistant Bacteria With Nanoparticles",
+        "Inge Herrmann",
+        "Nanoparticulate Systems",
+        "St. Gallen",
+        "two",
+        "MT",
+        "Doppegieter M",
+        "Inorganic"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Bioglass and metal",
+          "Bioglass and metal",
+          "Development of resistance less likely"
+        ],
+        "content_length": 2966
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "MT",
+        "Nanoparticulate Systems",
+        "EU",
+        "ETH Zurich",
+        "2021",
+        "d0nr08285f",
+        "Empa",
+        "Doppegieter M",
+        "Inge Herrmann"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Resistant Bacteria With Nanoparticles",
+        "Inorganic",
+        "who",
+        "where",
+        "what",
+        "10.1039",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Inge Herrmann_has_role_researcher",
+        "Inge Herrmann_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

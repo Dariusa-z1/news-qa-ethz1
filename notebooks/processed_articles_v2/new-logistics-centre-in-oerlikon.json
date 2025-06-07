@@ -1,0 +1,263 @@
+{
+  "filename": "new-logistics-centre-in-oerlikon.md",
+  "original_filename": "new-logistics-centre-in-oerlikon.html",
+  "source_path": "en_internal/2015/08/new-logistics-centre-in-oerlikon.html",
+  "date": "2015-08",
+  "title": "New Logistics Centre In Oerlikon",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The relocation of 16 staff to the ONA building in Oerlikon began on 3 August, and just two weeks later, the new centre of excellence for logistics services will already be handling the processing and storage of all mail items and office material for the Zentrum and Hönggerberg ETH locations.\n\nIn the initial phase, the centre will only offer services for mail items and office materials. Part of the storeroom will later be also made available to organisational units and departments, including transport facilities. ETH has never before been able to offer such services and facilities.\n\nDuring the reorganisation, the mailing services available will not change. The new mailing logistics will provide optimal delivery and pick-up hours for various ETH buildings. The selection of office materials will also remain unchanged during this period of time. In only one area will there be changes; once operations commence in the new logistics centre, the two counters in the main building (HG D 33) and at Hönggerberg (HIL C 36) will close on 12 August 2015. From this date onwards, all office materials orders made via the web shop will now be able to be delivered only via internal post. You will only be able to pick orders up in person again when the new post office locations open at the beginning of 2016."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Logistics Centre",
+        "label": "FAC",
+        "start": 24,
+        "end": 40
+      },
+      {
+        "text": "Oerlikon",
+        "label": "ORG",
+        "start": 44,
+        "end": 52
+      },
+      {
+        "text": "ONA",
+        "label": "ORG",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "Oerlikon",
+        "label": "ORG",
+        "start": 50,
+        "end": 58
+      },
+      {
+        "text": "3 August",
+        "label": "DATE",
+        "start": 68,
+        "end": 76
+      },
+      {
+        "text": "just two weeks later",
+        "label": "DATE",
+        "start": 82,
+        "end": 102
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 254,
+        "end": 261
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 266,
+        "end": 277
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 517,
+        "end": 520
+      },
+      {
+        "text": "hours",
+        "label": "TIME",
+        "start": 730,
+        "end": 735
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 748,
+        "end": 751
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 855,
+        "end": 863
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 950,
+        "end": 953
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 1001,
+        "end": 1012
+      },
+      {
+        "text": "12 August 2015",
+        "label": "DATE",
+        "start": 1038,
+        "end": 1052
+      },
+      {
+        "text": "the beginning of 2016",
+        "label": "DATE",
+        "start": 1284,
+        "end": 1305
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH",
+        "ONA",
+        "Oerlikon"
+      ],
+      "LOCATION": [
+        "Hönggerberg",
+        "Logistics Centre"
+      ],
+      "DATE": [
+        "12 August 2015",
+        "3 August",
+        "hours",
+        "just two weeks later",
+        "the beginning of 2016"
+      ],
+      "MISC": [
+        "only one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Oerlikon": 2,
+      "Hönggerberg": 2,
+      "ETH": 2,
+      "Logistics Centre": 1,
+      "ONA": 1,
+      "3 August": 1,
+      "just two weeks later": 1,
+      "Zentrum": 1,
+      "hours": 1,
+      "only one": 1,
+      "two": 1,
+      "12 August 2015": 1,
+      "the beginning of 2016": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-logistics-centre-in-oerlikon.md",
+      "title": "En Internal/2015/08/new Logistics Centre in Oerlikon",
+      "language": "en",
+      "source_path": "en_internal/2015/08/new-logistics-centre-in-oerlikon.html"
+    },
+    "temporal": {
+      "publication_date": "2015-08",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "only one"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Oerlikon The",
+        "En Internal",
+        "HIL C",
+        "Logistics Centre",
+        "HG D"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ONA",
+        "Oerlikon"
+      ],
+      "locations": [
+        "Hönggerberg",
+        "Logistics Centre"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Oerlikon",
+        "Hönggerberg",
+        "ETH",
+        "Logistics Centre",
+        "ONA",
+        "3 August",
+        "just two weeks later",
+        "Zentrum",
+        "hours",
+        "only one"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1361
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "ONA",
+        "2015",
+        "2016",
+        "Zentrum",
+        "Oerlikon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "where",
+        "how",
+        "only one",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

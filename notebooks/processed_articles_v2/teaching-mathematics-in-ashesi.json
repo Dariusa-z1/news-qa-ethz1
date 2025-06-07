@@ -1,0 +1,405 @@
+{
+  "filename": "teaching-mathematics-in-ashesi.md",
+  "original_filename": "teaching-mathematics-in-ashesi.html",
+  "source_path": "en_internal/2022/07/teaching-mathematics-in-ashesi.html",
+  "date": "2022-07",
+  "title": "Teaching Mathematics In Ashesi",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In fall 2020, ETH Zurich launched a joint master's program with Ashesi University, which is located near Accra, the capital of Ghana. At the beginning of this year, the mechatronics degree program began classes. Over twenty students from seven African countries are taking part. The goal is to use ETH know-how to train engineers in Africa who can drive industrial development in Africa. Swiss industrial companies are among the partners. Lecturers from ETH Zurich are involved in the teaching. Accordingly, the first of them have now gained experience.\n\nOne of them, Georg Anegg currently reports in an interview with D-MATH-News about his experiences in teaching mathematics in the mechatronics program. Anegg is a doctoral student at the Institute for Operations research and spent three weeks as a teaching assistant at Ashesi University. Even before his doctorate at ETH, he worked as a tutor and teaching assistant in South Africa for two years. He appreciates the collaboration with dedicated students and people from many different countries: \"I have always found it to be an immensely rewarding experience for me personally and academically.\"\n\nHe found the learning environment at Ashesi to be wonderfully stimulating. The students were thoughtful and extremely motivated, he says. \"They put a lot of time into all the material and were not satisfied until all their questions were answered.\"\n\nHow he dealt with the fact that the students had very different mathematical knowledge, and that their experiences and expectations also differed considerably from those of ETH students, he describes in the interview with our colleague Monika Krichel of D-MATH."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mathematics",
+        "label": "NORP",
+        "start": 29,
+        "end": 40
+      },
+      {
+        "text": "Ashesi",
+        "label": "GPE",
+        "start": 44,
+        "end": 50
+      },
+      {
+        "text": "fall 2020",
+        "label": "DATE",
+        "start": 3,
+        "end": 12
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 14,
+        "end": 24
+      },
+      {
+        "text": "Ashesi University",
+        "label": "ORG",
+        "start": 64,
+        "end": 81
+      },
+      {
+        "text": "Accra",
+        "label": "GPE",
+        "start": 105,
+        "end": 110
+      },
+      {
+        "text": "Ghana",
+        "label": "GPE",
+        "start": 127,
+        "end": 132
+      },
+      {
+        "text": "the beginning of this year",
+        "label": "DATE",
+        "start": 137,
+        "end": 163
+      },
+      {
+        "text": "twenty",
+        "label": "CARDINAL",
+        "start": 217,
+        "end": 223
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 238,
+        "end": 243
+      },
+      {
+        "text": "African",
+        "label": "NORP",
+        "start": 244,
+        "end": 251
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 298,
+        "end": 301
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 333,
+        "end": 339
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 380,
+        "end": 386
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 388,
+        "end": 393
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 454,
+        "end": 464
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 512,
+        "end": 517
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 554,
+        "end": 557
+      },
+      {
+        "text": "Georg Anegg",
+        "label": "PERSON",
+        "start": 567,
+        "end": 578
+      },
+      {
+        "text": "Anegg",
+        "label": "PERSON",
+        "start": 705,
+        "end": 710
+      },
+      {
+        "text": "the Institute for Operations",
+        "label": "ORG",
+        "start": 736,
+        "end": 764
+      },
+      {
+        "text": "three weeks",
+        "label": "DATE",
+        "start": 784,
+        "end": 795
+      },
+      {
+        "text": "Ashesi University",
+        "label": "ORG",
+        "start": 823,
+        "end": 840
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 871,
+        "end": 874
+      },
+      {
+        "text": "South Africa",
+        "label": "GPE",
+        "start": 923,
+        "end": 935
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 940,
+        "end": 949
+      },
+      {
+        "text": "Ashesi",
+        "label": "PERSON",
+        "start": 1188,
+        "end": 1194
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1573,
+        "end": 1576
+      },
+      {
+        "text": "Monika Krichel",
+        "label": "PERSON",
+        "start": 1636,
+        "end": 1650
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anegg",
+        "Ashesi",
+        "ETH Zurich",
+        "Georg Anegg",
+        "Monika Krichel"
+      ],
+      "ORG": [
+        "Ashesi University",
+        "ETH",
+        "ETH Zurich",
+        "the Institute for Operations"
+      ],
+      "LOCATION": [
+        "Accra",
+        "Africa",
+        "Ashesi",
+        "Ghana",
+        "South Africa"
+      ],
+      "DATE": [
+        "fall 2020",
+        "the beginning of this year",
+        "three weeks",
+        "two years"
+      ],
+      "MISC": [
+        "African",
+        "Mathematics",
+        "One",
+        "Swiss",
+        "first",
+        "seven",
+        "twenty"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 3,
+      "Ashesi": 2,
+      "ETH Zurich": 2,
+      "Ashesi University": 2,
+      "Africa": 2,
+      "Mathematics": 1,
+      "fall 2020": 1,
+      "Accra": 1,
+      "Ghana": 1,
+      "the beginning of this year": 1,
+      "twenty": 1,
+      "seven": 1,
+      "African": 1,
+      "Swiss": 1,
+      "first": 1,
+      "One": 1,
+      "Georg Anegg": 1,
+      "Anegg": 1,
+      "the Institute for Operations": 1,
+      "three weeks": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "teaching-mathematics-in-ashesi.md",
+      "title": "En Internal/2022/07/teaching Mathematics in Ashesi",
+      "language": "en",
+      "source_path": "en_internal/2022/07/teaching-mathematics-in-ashesi.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2020",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Anegg",
+        "Ashesi",
+        "ETH Zurich",
+        "Georg Anegg",
+        "Monika Krichel"
+      ],
+      "people_with_roles": {
+        "Anegg": [
+          "student"
+        ],
+        "Ashesi": [
+          "student"
+        ],
+        "Monika Krichel": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "African",
+        "Mathematics",
+        "Swiss",
+        "first",
+        "seven",
+        "twenty"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "D-MATH",
+        "Georg Anegg",
+        "Monika Krichel",
+        "Ashesi University",
+        "En Internal",
+        "South Africa",
+        "ETH Zurich",
+        "Ashesi In"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Operations research and spent three weeks as a teaching assistant at Ashesi University"
+      ],
+      "institutions": [
+        "Ashesi University",
+        "ETH",
+        "ETH Zurich",
+        "the Institute for Operations"
+      ],
+      "locations": [
+        "Accra",
+        "Africa",
+        "Ashesi",
+        "Ghana",
+        "South Africa"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Ashesi",
+        "ETH Zurich",
+        "Ashesi University",
+        "Africa",
+        "Mathematics",
+        "fall 2020",
+        "Accra",
+        "Ghana",
+        "the beginning of this year"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1715
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Georg Anegg",
+        "Monika Krichel",
+        "Ashesi University",
+        "the Institute for Operations",
+        "2020",
+        "2022",
+        "Anegg",
+        "ETH Zurich",
+        "Ashesi"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "seven",
+        "why",
+        "who",
+        "Swiss",
+        "Mathematics",
+        "African",
+        "what",
+        "how",
+        "twenty",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Anegg_has_role_student",
+        "Ashesi_has_role_student",
+        "Monika Krichel_has_role_student",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

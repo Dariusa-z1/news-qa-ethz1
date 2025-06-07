@@ -1,0 +1,352 @@
+{
+  "filename": "rector-sarah-springman-visits-the-personnel-commission.md",
+  "original_filename": "rector-sarah-springman-visits-the-personnel-commission.html",
+  "source_path": "en_internal/2015/06/rector-sarah-springman-visits-the-personnel-commission.html",
+  "date": "2015-06",
+  "title": "Rector Sarah Springman Visits The Personnel Commission",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The ETH Zurich Staff Commission (PeKo) meets once a month to discuss human resources issues, such as references, overtime pay, management of experienced employees, job suitability or communication with employees regarding laboratory closures.\n\nSarah Springman, Professor of Geotechnical Engineering (D-BAUG), was a guest at the meeting on 11 June 2015. Springman has been Rector and responsible for teaching at ETH Zurich since January of this year. “ETH Zurich is a fantastic university with a special place in the European higher education landscape,” said Springman. “Its employees are a major reason why it is Europe's best technical university. It is thanks to them that ETH Zurich functions as it does.”\n\nETH’s annual staff appraisals are a key management tool for the Rector: “They are also an opportunity for both sides to address difficult topics in an appropriate manner. This is important as it means that staff can be properly involved.” She enjoys her work for the Executive Board: “We set priorities together and make decisions as a team – and we learn from each other.” One learning goal that Springman has set herself concerns the Swiss school system as a whole.\n\nShe notes that challenges in relation to teaching at ETH Zurich include:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 27,
+        "end": 42
+      },
+      {
+        "text": "The Personnel Commission",
+        "label": "ORG",
+        "start": 50,
+        "end": 74
+      },
+      {
+        "text": "The ETH Zurich Staff Commission",
+        "label": "ORG",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "PeKo",
+        "label": "PERSON",
+        "start": 33,
+        "end": 37
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 243,
+        "end": 258
+      },
+      {
+        "text": "Geotechnical Engineering",
+        "label": "ORG",
+        "start": 273,
+        "end": 297
+      },
+      {
+        "text": "11 June 2015",
+        "label": "DATE",
+        "start": 338,
+        "end": 350
+      },
+      {
+        "text": "Springman",
+        "label": "PERSON",
+        "start": 352,
+        "end": 361
+      },
+      {
+        "text": "Rector",
+        "label": "PRODUCT",
+        "start": 371,
+        "end": 377
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 410,
+        "end": 420
+      },
+      {
+        "text": "January of this year",
+        "label": "DATE",
+        "start": 427,
+        "end": 447
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 450,
+        "end": 460
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 515,
+        "end": 523
+      },
+      {
+        "text": "Springman",
+        "label": "PERSON",
+        "start": 558,
+        "end": 567
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 613,
+        "end": 619
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 675,
+        "end": 685
+      },
+      {
+        "text": "ETH’s",
+        "label": "ORG",
+        "start": 709,
+        "end": 714
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 715,
+        "end": 721
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 972,
+        "end": 991
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1083,
+        "end": 1086
+      },
+      {
+        "text": "Springman",
+        "label": "PERSON",
+        "start": 1106,
+        "end": 1115
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1145,
+        "end": 1150
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1230,
+        "end": 1240
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "PeKo",
+        "Sarah Springman",
+        "Springman"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "ETH’s",
+        "Geotechnical Engineering",
+        "The ETH Zurich Staff Commission",
+        "The Personnel Commission",
+        "the Executive Board"
+      ],
+      "LOCATION": [
+        "Europe"
+      ],
+      "DATE": [
+        "11 June 2015",
+        "January of this year",
+        "annual"
+      ],
+      "MISC": [
+        "European",
+        "One",
+        "Rector",
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "Springman": 3,
+      "Sarah Springman": 2,
+      "The Personnel Commission": 1,
+      "The ETH Zurich Staff Commission": 1,
+      "PeKo": 1,
+      "Geotechnical Engineering": 1,
+      "11 June 2015": 1,
+      "Rector": 1,
+      "January of this year": 1,
+      "European": 1,
+      "Europe": 1,
+      "ETH’s": 1,
+      "annual": 1,
+      "the Executive Board": 1,
+      "One": 1,
+      "Swiss": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rector-sarah-springman-visits-the-personnel-commission.md",
+      "title": "En Internal/2015/06/rector Sarah Springman Visits The Personnel Commission",
+      "language": "en",
+      "source_path": "en_internal/2015/06/rector-sarah-springman-visits-the-personnel-commission.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "PeKo",
+        "Sarah Springman",
+        "Springman"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "rector"
+        ],
+        "PeKo": [
+          "rector"
+        ],
+        "Sarah Springman": [
+          "professor",
+          "rector"
+        ],
+        "Springman": [
+          "professor",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "European",
+        "Rector",
+        "Swiss"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Personnel Commission",
+        "Visits The",
+        "Zurich Staff",
+        "Sarah Springman",
+        "En Internal",
+        "Geotechnical Engineering",
+        "Executive Board",
+        "D-BAUG",
+        "ETH Zurich",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "ETH’s",
+        "Geotechnical Engineering",
+        "The ETH Zurich Staff Commission",
+        "The Personnel Commission",
+        "the Executive Board"
+      ],
+      "locations": [
+        "Europe"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Springman",
+        "Sarah Springman",
+        "The Personnel Commission",
+        "The ETH Zurich Staff Commission",
+        "PeKo",
+        "Geotechnical Engineering",
+        "11 June 2015",
+        "Rector",
+        "January of this year"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1327
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The Personnel Commission",
+        "2015",
+        "PeKo",
+        "EU",
+        "ETH’s",
+        "Sarah Springman",
+        "Geotechnical Engineering",
+        "The ETH Zurich Staff Commission",
+        "the Executive Board",
+        "ETH Zurich",
+        "Springman"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Rector",
+        "who",
+        "Swiss",
+        "European",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_rector",
+        "PeKo_has_role_rector",
+        "Sarah Springman_has_role_professor",
+        "Sarah Springman_has_role_rector",
+        "Springman_has_role_professor",
+        "Springman_has_role_rector",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

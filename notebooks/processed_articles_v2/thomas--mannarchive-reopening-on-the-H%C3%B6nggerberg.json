@@ -1,0 +1,180 @@
+{
+  "filename": "thomas--mannarchive-reopening-on-the-H%C3%B6nggerberg.md",
+  "original_filename": "thomas--mannarchive-reopening-on-the-H%C3%B6nggerberg.html",
+  "source_path": "en_internal/2016/07/thomas--mannarchive-reopening-on-the-H%C3%B6nggerberg.html",
+  "date": "2016-07",
+  "title": "Thomas Mannarchive Reopening On The H%C3%B6Nggerberg",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The reading room and Thomas Mann's last study can be visited there with extended opening times.\n\nTo coincide with the move, the Thomas Mann Archive has also modernised its website, where the latest news on its activities is presented in a new design.\n\nOnce the building has been fully renovated, the University of Zurich will find a new purpose for the Bodmer-Haus, where the Thomas Mann Archive was housed from 1961. The Thomas Mann Archive is scheduled to move to a new, permanent site in ETH Zurich's main building in the medium term.\n\nFurther information is available on the Thomas Mann Archive website"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Thomas Mann's",
+        "label": "PERSON",
+        "start": 21,
+        "end": 34
+      },
+      {
+        "text": "the Thomas Mann Archive",
+        "label": "PERSON",
+        "start": 123,
+        "end": 146
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 294,
+        "end": 318
+      },
+      {
+        "text": "Bodmer-Haus",
+        "label": "PERSON",
+        "start": 351,
+        "end": 362
+      },
+      {
+        "text": "the Thomas Mann Archive",
+        "label": "FAC",
+        "start": 370,
+        "end": 393
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "ORG",
+        "start": 489,
+        "end": 501
+      },
+      {
+        "text": "the Thomas Mann Archive",
+        "label": "FAC",
+        "start": 572,
+        "end": 595
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bodmer-Haus",
+        "Thomas Mann's",
+        "the Thomas Mann Archive"
+      ],
+      "ORG": [
+        "ETH Zurich's",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "the Thomas Mann Archive"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "the Thomas Mann Archive": 3,
+      "Thomas Mann's": 1,
+      "the University of Zurich": 1,
+      "Bodmer-Haus": 1,
+      "ETH Zurich's": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "thomas--mannarchive-reopening-on-the-H%C3%B6nggerberg.md",
+      "title": "En Internal/2016/07/thomas Mannarchive Reopening On The H%c3%b6nggerberg",
+      "language": "en",
+      "source_path": "en_internal/2016/07/thomas--mannarchive-reopening-on-the-H%C3%B6nggerberg.html"
+    },
+    "temporal": {
+      "publication_date": "2016-07",
+      "mentioned_years": [
+        "1961",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bodmer-Haus",
+        "Thomas Mann's",
+        "the Thomas Mann Archive"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Bodmer-Haus",
+        "Mannarchive Reopening",
+        "The Thomas",
+        "Thomas Mann",
+        "En Internal",
+        "On The",
+        "ETH Zurich",
+        "Mann Archive"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich's",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "the Thomas Mann Archive"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "the Thomas Mann Archive",
+        "Thomas Mann's",
+        "the University of Zurich",
+        "Bodmer-Haus",
+        "ETH Zurich's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 679
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Bodmer-Haus",
+        "1961",
+        "the University of Zurich",
+        "2016",
+        "Thomas Mann's",
+        "the Thomas Mann Archive",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "filename": "chaining-up-diarrhoea-pathogens.md",
+  "original_filename": "chaining-up-diarrhoea-pathogens.html",
+  "source_path": "en_news_events/2017/04/chaining-up-diarrhoea-pathogens.html",
+  "date": "2017-04",
+  "title": "Chaining Up Diarrhoea Pathogens",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Agglutination only in the test tube",
+      "text": "Vaccinations are known to protect against pathogens such as bacteria or viruses. They direct the body to form protective antibodies (IgA), and have been successfully used against some intestinal infections.\n\nHowever, exactly how intestinal antibodies – known as secretory IgA – protect against infections was previously unclear. A group of researchers led by ETH Senior Assistant Emma Slack, have now used the example of salmonella-based diarrhoea to show that secretory IgA works very differently to how we previously assumed.\n\nIn a study published recently in the journal Nature , the researchers showed that vaccine-induced IgA effectively “enchained” the pathogens in the intestine: IgA binds the bacteria’s daughter cells to each other during cell division. Although the enchained bacteria can continue to multiply, all their offspring remain trapped in these clumps. This clumping of genetically homogeneous bacteria prevents the attack of the intestinal tissue, accelerates the excretion of the pathogen and prevents genetic exchange between bacteria enchained in different clumps."
+    },
+    {
+      "heading": "Agglutination only in the test tube",
+      "text": "That antibodies and bacteria clump, a process known as agglutination, has long been known. However, this only occurs when antibodies and bacteria are present in high densities and so often come into contact with each other. “In the test tube, it happens in textbook fashion. There are high enough concentrations of antibodies and bacteria, so they often collide,” says Dr. Slack.\n\nIn the intestine, however, such high pathogen densities are the exception: “this makes it much less likely that the IgA-coated bacteria will collide,” explains Dr. Slack. Despite this, research has long observed that such clumps do form in the intestine – meaning there must have been another explanation for the clumping."
+    },
+    {
+      "heading": "No exchange of resistance genes",
+      "text": "Antibody enchain Salmonella (green). This prevents the transfer of DNA (yellow rings) to other cells. The violet cells are swimming freely. (Visualisations: Thierry Sollberger)\n\nDr. Slack and her group have now demonstrated for the first time that clumps form even with a low pathogen density, and that this does not depend on the concentration of the bacteria. The driving force behind the formation of the clumps is the pathogens’ growth rate. The IgA antibodies attach themselves so strongly to bacteria that they do not release them even when the pathogens divide. Thus both daughter cells remain stuck together. In this way, the IgA antibodies enchain all the offspring of a single, rapidly dividing bacterium."
+    },
+    {
+      "heading": "Clumps hinder disease",
+      "text": "“The clever thing about clump formation is that the antibodies don’t kill the bacteria, which in the worst case could lead to a violent immune response. They simply prevent the microbes from interacting with the host, among themselves or with close relatives,” says Wolf-Dietrich Hardt, Professor of Microbiology at ETH Zurich, who played a key role in the study.\n\nFighting intestinal infections using vaccination thus has several advantages: antibody-bacteria clumps cannot approach the intestinal wall, which prevents the intestinal mucosa from becoming inflamed. The intestine also gets rid of the clumps quickly, and after a few days they are cleared in the faeces. “The system is efficient. It is easier to get rid of a whole clump than to capture and eliminate many individual bacterial cells,” says Dr. Slack."
+    },
+    {
+      "heading": "No exchange of resistance genes",
+      "text": "Intestinal vaccination could help to overcome the antibiotic resistance crisis. Vaccination decreases the incidence of diseases potentially requiring antibiotic usage, which would automatically reduce the development and spread of resistance to antibiotics. IgA-driven clump formation also directly prevents genetic exchange between individual captured bacterial populations. Bacteria often exchange genes in the form of plasmids (ring-shaped DNA molecules), which frequently carry the feared antibiotic resistance genes. To exchange plasmids, however, the bacterial cells have to touch, which they can’t do if they are stuck in separate clumps."
+    },
+    {
+      "heading": "Livestock vaccination",
+      "text": "The researchers used oral vaccines made from killed salmonella and E. coli bacteria. They suggested that this strategy could also be used against the pathogens of other intestinal diseases such as Shigella or Listeria.\n\nThe largest area of application for salmonella vaccination could be in farm animals such as pigs, which often act as a reservoir for antibiotic-resistant pathogens. Humans can become infected by contact with these animals and their raw meat. A vaccination for humans could also be feasible, which would benefit people working in disaster or epidemic areas, or those travelling in regions where bowel infections are common.\n\nThe present study is the result of a more than six-year collaboration between researchers from several ETH departments and institutions such as ScopeM, and other university institutions including the Institute for Research in Biomedicine, Università della Svizzera italiana, Bellinzona, Switzerland, the University of Melbourne, Australia, and CNRS - UPMC, France. Collaboration with engineers such as Douglas R. Brumley and Roman Stocker was critical for the discovery of the enchainment mechanism.\n\nEmma Slack leads a group at ETH Zurich’s Institute of Microbiology. In 2011, she received an Ambizione grant from the Swiss National Science Foundation (SNSF) and began her work in Wolf-Dietrich Hardt’s research group.\n\nMoor K et al. High-avidity IgA protects the intestine by enchaining growing bacteria. Nature, Advanced Online Publication 12 April 2017. DOI: 10.1038/nature22058"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Diarrhoea Pathogens",
+        "label": "WORK_OF_ART",
+        "start": 35,
+        "end": 54
+      },
+      {
+        "text": "IgA",
+        "label": "ORG",
+        "start": 133,
+        "end": 136
+      },
+      {
+        "text": "IgA",
+        "label": "ORG",
+        "start": 271,
+        "end": 274
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 358,
+        "end": 361
+      },
+      {
+        "text": "Emma Slack",
+        "label": "PERSON",
+        "start": 379,
+        "end": 389
+      },
+      {
+        "text": "IgA",
+        "label": "ORG",
+        "start": 470,
+        "end": 473
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 572,
+        "end": 578
+      },
+      {
+        "text": "IgA",
+        "label": "ORG",
+        "start": 625,
+        "end": 628
+      },
+      {
+        "text": "Slack",
+        "label": "PERSON",
+        "start": 373,
+        "end": 378
+      },
+      {
+        "text": "IgA",
+        "label": "ORG",
+        "start": 496,
+        "end": 499
+      },
+      {
+        "text": "Slack",
+        "label": "PERSON",
+        "start": 544,
+        "end": 549
+      },
+      {
+        "text": "Salmonella",
+        "label": "PERSON",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "Thierry Sollberger",
+        "label": "PERSON",
+        "start": 157,
+        "end": 175
+      },
+      {
+        "text": "Slack",
+        "label": "PERSON",
+        "start": 181,
+        "end": 186
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 231,
+        "end": 236
+      },
+      {
+        "text": "IgA",
+        "label": "ORG",
+        "start": 449,
+        "end": 452
+      },
+      {
+        "text": "IgA",
+        "label": "ORG",
+        "start": 633,
+        "end": 636
+      },
+      {
+        "text": "Wolf-Dietrich Hardt",
+        "label": "PERSON",
+        "start": 266,
+        "end": 285
+      },
+      {
+        "text": "a few days",
+        "label": "DATE",
+        "start": 626,
+        "end": 636
+      },
+      {
+        "text": "Slack",
+        "label": "PERSON",
+        "start": 809,
+        "end": 814
+      },
+      {
+        "text": "Shigella",
+        "label": "ORG",
+        "start": 197,
+        "end": 205
+      },
+      {
+        "text": "Listeria",
+        "label": "PERSON",
+        "start": 209,
+        "end": 217
+      },
+      {
+        "text": "six-year",
+        "label": "DATE",
+        "start": 689,
+        "end": 697
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 745,
+        "end": 748
+      },
+      {
+        "text": "the Institute for Research",
+        "label": "ORG",
+        "start": 838,
+        "end": 864
+      },
+      {
+        "text": "Biomedicine",
+        "label": "GPE",
+        "start": 868,
+        "end": 879
+      },
+      {
+        "text": "Università",
+        "label": "GPE",
+        "start": 881,
+        "end": 891
+      },
+      {
+        "text": "Bellinzona",
+        "label": "GPE",
+        "start": 917,
+        "end": 927
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 929,
+        "end": 940
+      },
+      {
+        "text": "the University of Melbourne",
+        "label": "ORG",
+        "start": 942,
+        "end": 969
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 971,
+        "end": 980
+      },
+      {
+        "text": "France",
+        "label": "GPE",
+        "start": 999,
+        "end": 1005
+      },
+      {
+        "text": "Douglas R. Brumley",
+        "label": "PERSON",
+        "start": 1044,
+        "end": 1062
+      },
+      {
+        "text": "Roman Stocker",
+        "label": "PERSON",
+        "start": 1067,
+        "end": 1080
+      },
+      {
+        "text": "Emma Slack",
+        "label": "PERSON",
+        "start": 1142,
+        "end": 1152
+      },
+      {
+        "text": "ETH Zurich’s Institute of Microbiology",
+        "label": "ORG",
+        "start": 1170,
+        "end": 1208
+      },
+      {
+        "text": "Ambizione",
+        "label": "ORG",
+        "start": 1235,
+        "end": 1244
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 1256,
+        "end": 1293
+      },
+      {
+        "text": "Wolf-Dietrich Hardt’s",
+        "label": "ORG",
+        "start": 1323,
+        "end": 1344
+      },
+      {
+        "text": "Moor K et al",
+        "label": "PERSON",
+        "start": 1361,
+        "end": 1373
+      },
+      {
+        "text": "IgA",
+        "label": "ORG",
+        "start": 1388,
+        "end": 1391
+      },
+      {
+        "text": "April 2017",
+        "label": "DATE",
+        "start": 1486,
+        "end": 1496
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1503,
+        "end": 1510
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Douglas R. Brumley",
+        "Emma Slack",
+        "Listeria",
+        "Moor K et al",
+        "Roman Stocker",
+        "Salmonella",
+        "Slack",
+        "Thierry Sollberger",
+        "Wolf-Dietrich Hardt"
+      ],
+      "ORG": [
+        "Ambizione",
+        "ETH",
+        "ETH Zurich’s Institute of Microbiology",
+        "En News",
+        "IgA",
+        "Shigella",
+        "Wolf-Dietrich Hardt’s",
+        "the Institute for Research",
+        "the Swiss National Science Foundation",
+        "the University of Melbourne"
+      ],
+      "LOCATION": [
+        "Australia",
+        "Bellinzona",
+        "Biomedicine",
+        "France",
+        "Switzerland",
+        "Università"
+      ],
+      "DATE": [
+        "April 2017",
+        "a few days",
+        "six-year"
+      ],
+      "MISC": [
+        "10.1038",
+        "Diarrhoea Pathogens",
+        "Nature",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "IgA": 8,
+      "Slack": 4,
+      "ETH": 2,
+      "Emma Slack": 2,
+      "En News": 1,
+      "Diarrhoea Pathogens": 1,
+      "Nature": 1,
+      "Salmonella": 1,
+      "Thierry Sollberger": 1,
+      "first": 1,
+      "Wolf-Dietrich Hardt": 1,
+      "a few days": 1,
+      "Shigella": 1,
+      "Listeria": 1,
+      "six-year": 1,
+      "the Institute for Research": 1,
+      "Biomedicine": 1,
+      "Università": 1,
+      "Bellinzona": 1,
+      "Switzerland": 1
+    },
+    "total_entities": 44,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "chaining-up-diarrhoea-pathogens.md",
+      "title": "En News Events/2017/04/chaining Up Diarrhoea Pathogens",
+      "language": "en",
+      "source_path": "en_news_events/2017/04/chaining-up-diarrhoea-pathogens.html"
+    },
+    "temporal": {
+      "publication_date": "2017-04",
+      "mentioned_years": [
+        "2011",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Douglas R. Brumley",
+        "Emma Slack",
+        "Listeria",
+        "Moor K et al",
+        "Roman Stocker",
+        "Salmonella",
+        "Slack",
+        "Thierry Sollberger",
+        "Wolf-Dietrich Hardt"
+      ],
+      "people_with_roles": {
+        "Emma Slack": [
+          "researcher"
+        ],
+        "Salmonella": [
+          "researcher"
+        ],
+        "Slack": [
+          "researcher"
+        ],
+        "Wolf-Dietrich Hardt": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Diarrhoea Pathogens",
+        "Nature",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC",
+        "grant"
+      ],
+      "projects": [
+        "Assistant Emma",
+        "Douglas R",
+        "Wolf-Dietrich",
+        "En News",
+        "Pathogens Vaccinations",
+        "ETH Senior",
+        "Roman Stocker",
+        "Advanced Online",
+        "Moor K",
+        "Thierry Sollberger",
+        "Swiss National",
+        "Emma Slack",
+        "Science Foundation",
+        "ETH Zurich",
+        "The IgA",
+        "Up Diarrhoea"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Research in Biomedicine"
+      ],
+      "institutions": [
+        "Ambizione",
+        "ETH",
+        "ETH Zurich’s Institute of Microbiology",
+        "En News",
+        "IgA",
+        "Shigella",
+        "Wolf-Dietrich Hardt’s",
+        "the Institute for Research",
+        "the Swiss National Science Foundation",
+        "the University of Melbourne"
+      ],
+      "locations": [
+        "Australia",
+        "Bellinzona",
+        "Biomedicine",
+        "France",
+        "Switzerland",
+        "Università"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "IgA",
+        "Slack",
+        "ETH",
+        "Emma Slack",
+        "En News",
+        "Diarrhoea Pathogens",
+        "Nature",
+        "Salmonella",
+        "Thierry Sollberger",
+        "first"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Agglutination only in the test tube",
+          "Agglutination only in the test tube",
+          "No exchange of resistance genes",
+          "Clumps hinder disease",
+          "No exchange of resistance genes",
+          "Livestock vaccination"
+        ],
+        "content_length": 5553
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Douglas R. Brumley",
+        "grant",
+        "ETH Zurich’s Institute of Microbiology",
+        "Moor K et al",
+        "Thierry Sollberger",
+        "Shigella",
+        "ERC",
+        "Slack",
+        "Wolf-Dietrich Hardt’s",
+        "the Swiss National Science Foundation",
+        "Wolf-Dietrich Hardt",
+        "the Institute for Research",
+        "IgA",
+        "2011",
+        "Roman Stocker",
+        "Salmonella",
+        "Listeria",
+        "En News",
+        "2017",
+        "Emma Slack",
+        "the University of Melbourne",
+        "Ambizione"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Nature",
+        "who",
+        "10.1038",
+        "what",
+        "how",
+        "Diarrhoea Pathogens",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Emma Slack_has_role_researcher",
+        "Salmonella_has_role_researcher",
+        "Slack_has_role_researcher",
+        "Wolf-Dietrich Hardt_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

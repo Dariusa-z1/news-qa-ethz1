@@ -1,0 +1,594 @@
+{
+  "filename": "teilchenbeschleuniger-der-zukunft.md",
+  "original_filename": "teilchenbeschleuniger-der-zukunft.html",
+  "source_path": "de_news_events/2017/05/teilchenbeschleuniger-der-zukunft.html",
+  "date": "2017-05",
+  "title": "Teilchenbeschleuniger Der Zukunft",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Mehrere Hundert Beschleunigungsstufen",
+      "text": "Die bekannteste Anwendung von Hochspannungspulsen ist wohl die in elektrischen Weidezäunen. Doch auch Teilchenbeschleuniger an Grossforschungsanlagen wie dem Cern in Genf sind auf Hochspannungspuls-Generatoren angewiesen – solche, die im Unterschied zu Weidezaungeräten Pulse mit sehr viel höherer Energie und höherer Spannung erzeugen. Am Cern laufen derzeit die Vorarbeiten für das nächste Grossforschungsprojekt ab 2025. Einer von zwei Projektkandidaten ist der Bau eines 50 Kilometer langen Linearbeschleunigers in einem Tunnel, der von Nyon bis zum Rhone-Durchbruch bei Bellegarde in Frankreich reichen soll (Projekt Clic, siehe Kasten). Im Rahmen einer Zusammenarbeit mit dem Cern entwickelten Forschende der ETH Zürich einen für diesen Beschleuniger benötigten Pulsgenerator. Vor wenigen Tagen lieferten sie ihren Prototypen ans Cern. Dort wird er nun auf Herz und Nieren geprüft.\n\nDer rund drei Kubikmeter grosse Pulsgenerator erzeugt aus der 400-Volt-Spannung des öffentlichen Stromnetzes Pulse von 180‘000 Volt, die exakt 140 Millionstelsekunden dauern. Damit das öffentliche Stromnetz gleichmässig belastet und nicht durch Pulsspitzen gestört wird, werden im Innern des Pulsgenerators 8 grosse und beinahe 200 kleine Kondensatoren (Zwischenspeicher) kontinuierlich geladen und dann 50 mal pro Sekunde entladen. Ein speziell entwickelter Transformator sorgt dafür, dass die gewünschte Ausgangsspannung möglichst schnell und effizient erreicht wird."
+    },
+    {
+      "heading": "Linearbeschleuniger oder Ringbeschleuniger?",
+      "text": "Der Pulsgenerator im ETH-Labor kurz vor dem Transport nach Genf. (Bild: ETH Zürich / Peter Rüegg)\n\nIm möglichen zukünftigen Cern-Grossforschungsprojekt werden Elektronen und Positronen (Elektron-Antiteilchen) beschleunigt. «Diese Beschleunigung geschieht in einem Klystron. Dieses Gerät ist auf die Hochspannungspulse angewiesen, die unser Pulsgenerator liefert», erklärt Jürgen Biela, Professor für Hochleistungselektronik an der ETH Zürich. In einem Klystron werden die 140 Mikrosekunden dauernden Pulse genutzt, um daraus ein sehr hochfrequentes Wechselfeld zu erzeugen. Und in diesem Wechselfeld werden Elektronen beziehungsweise Positronen beschleunigt.\n\nFalls der Clic-Beschleuniger gebaut wird, braucht es dafür über tausend Klystrone, um Elektronen und Positronen stufenweise bis auf nahezu Lichtgeschwindigkeit zu beschleunigen. Jedes Klystron würde von einem eigenen Pulsgenerator gespeist.\n\nZu den grössten Herausforderungen für die ETH-Wissenschaftler gehörte, den Pulsgenerator so zu bauen, dass die erzeugten Pulse alle exakt gleich lang und ihre Spannung mit einer relativen Toleranz von bloss einem Hundertausendstel gleich hoch sind. Ausserdem war es eine Vorgabe des Cern, dass bei einem Puls die Spannung extrem schnell von 0 Volt auf 180‘000 Volt und später wieder zurück springt. Um dies zu erreichen, misst das Gerät den Stromfluss hunderttausend Mal pro Sekunde und steuert ihn in Echtzeit.\n\n«Bei einem langsameren Pulssprung würde mehr ungenutzte Leistung an das Klystron übertagen, was die Energieeffizienz des Pulsgenerators schmälern würde», erklärt Sebastian Blume. Er war im Rahmen seiner Doktorarbeit in Bielas Labor massgeblich an der Entwicklung des Pulsgenerators beteiligt. Die Effizienz ist nur schon daher zentral, weil es um verhältnismässig hohe Energiemengen geht: Ein Pulsgenerator hat eine mehr als hundertmal höhere Leistung als eine Waschmaschine oder ein grosser Staubsauger.\n\nBereits an der Entwicklung der Pulsgeneratoren für SwissFEL, der vor wenigen Monaten eingeweihten Synchrotron-Strahlungsquelle am Paul-Scherrer-Institut, war ETH-Professor Biela massgeblich beteiligt. Dies im Rahmen eines gemeinsamen Projekts mit der Schweizer Elektrotechnikfirma Ampegon.\n\nDer Teilchenbeschneuniger LHC (Large Hadron Collider) am Cern wird voraussichtlich noch bis 2035 oder 2040 betrieben. Für die Zeit danach werden derzeit zwei mögliche Grossforschungsprogramme diskutiert, die in Konkurrenz zueinander stehen. Welches davon umgesetzt wird, entscheidet das Cern voraussichtlich innerhalb der nächsten drei Jahre.\n\nBeim Projekt Clic (Compact Linear Collider) sollen in einem 50 Kilometer langen Tunnel von einem Ende Elektronen und vom anderen Ende Positronen zur Tunnelmitte hin beschleunigt und dort miteinander zur Kollision gebracht werden. Mit einem solchen Linearbeschleuniger können Elementarteilchen wie das Higgs-Boson sehr viel genauer vermessen werden als dies mit dem LHC derzeit möglich ist oder mit zweiten diskutierten Zukunftsprojekt FCC (Future Circular Collider) möglich würde.\n\nBei letzterem steht ein Beschleunigerring mit einem Umfang von 80 bis 100 Kilometern zur Diskussion. Zum Vergleich: Der LHC hat einen Umfang von 27 Kilometern. Mit dem FCC würde man eine siebenmal höhere Kollisionsenergie erreichen als mit dem LHC. Er hätte gegenüber Clic den Vorteil, dass man damit besser neue grundlegende Effekte und Teilchen entdecken könnte."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Cern",
+        "label": "LOC",
+        "start": 158,
+        "end": 162
+      },
+      {
+        "text": "Genf",
+        "label": "LOC",
+        "start": 166,
+        "end": 170
+      },
+      {
+        "text": "Hochspannungspuls-Generatoren",
+        "label": "LOC",
+        "start": 180,
+        "end": 209
+      },
+      {
+        "text": "Pulse",
+        "label": "PER",
+        "start": 270,
+        "end": 275
+      },
+      {
+        "text": "Cern",
+        "label": "LOC",
+        "start": 340,
+        "end": 344
+      },
+      {
+        "text": "Linearbeschleunigers",
+        "label": "LOC",
+        "start": 495,
+        "end": 515
+      },
+      {
+        "text": "Nyon",
+        "label": "LOC",
+        "start": 541,
+        "end": 545
+      },
+      {
+        "text": "Rhone-Durchbruch",
+        "label": "LOC",
+        "start": 554,
+        "end": 570
+      },
+      {
+        "text": "Bellegarde",
+        "label": "LOC",
+        "start": 575,
+        "end": 585
+      },
+      {
+        "text": "Frankreich",
+        "label": "LOC",
+        "start": 589,
+        "end": 599
+      },
+      {
+        "text": "Clic",
+        "label": "MISC",
+        "start": 622,
+        "end": 626
+      },
+      {
+        "text": "Kasten",
+        "label": "MISC",
+        "start": 634,
+        "end": 640
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 715,
+        "end": 725
+      },
+      {
+        "text": "Cern",
+        "label": "LOC",
+        "start": 836,
+        "end": 840
+      },
+      {
+        "text": "Pulse",
+        "label": "LOC",
+        "start": 997,
+        "end": 1002
+      },
+      {
+        "text": "ETH-Labor",
+        "label": "ORG",
+        "start": 21,
+        "end": 30
+      },
+      {
+        "text": "Genf",
+        "label": "LOC",
+        "start": 59,
+        "end": 63
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 72,
+        "end": 82
+      },
+      {
+        "text": "Peter Rüegg",
+        "label": "PER",
+        "start": 85,
+        "end": 96
+      },
+      {
+        "text": "Elektron-Antiteilchen",
+        "label": "LOC",
+        "start": 185,
+        "end": 206
+      },
+      {
+        "text": "Jürgen Biela",
+        "label": "PER",
+        "start": 371,
+        "end": 383
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 430,
+        "end": 440
+      },
+      {
+        "text": "Clic-Beschleuniger",
+        "label": "LOC",
+        "start": 668,
+        "end": 686
+      },
+      {
+        "text": "ETH-Wissenschaftler",
+        "label": "MISC",
+        "start": 941,
+        "end": 960
+      },
+      {
+        "text": "Cern",
+        "label": "PER",
+        "start": 1182,
+        "end": 1186
+      },
+      {
+        "text": "Volt",
+        "label": "ORG",
+        "start": 1242,
+        "end": 1246
+      },
+      {
+        "text": "Volt",
+        "label": "LOC",
+        "start": 1259,
+        "end": 1263
+      },
+      {
+        "text": "Sebastian Blume",
+        "label": "PER",
+        "start": 1573,
+        "end": 1588
+      },
+      {
+        "text": "Bielas Labor",
+        "label": "LOC",
+        "start": 1630,
+        "end": 1642
+      },
+      {
+        "text": "SwissFEL",
+        "label": "ORG",
+        "start": 1967,
+        "end": 1975
+      },
+      {
+        "text": "Synchrotron-Strahlungsquelle",
+        "label": "LOC",
+        "start": 2014,
+        "end": 2042
+      },
+      {
+        "text": "Paul-Scherrer-Institut",
+        "label": "LOC",
+        "start": 2046,
+        "end": 2068
+      },
+      {
+        "text": "ETH-Professor Biela",
+        "label": "PER",
+        "start": 2074,
+        "end": 2093
+      },
+      {
+        "text": "Schweizer Elektrotechnikfirma",
+        "label": "ORG",
+        "start": 2167,
+        "end": 2196
+      },
+      {
+        "text": "Ampegon",
+        "label": "ORG",
+        "start": 2197,
+        "end": 2204
+      },
+      {
+        "text": "Teilchenbeschneuniger LHC",
+        "label": "MISC",
+        "start": 2210,
+        "end": 2235
+      },
+      {
+        "text": "Large Hadron Collider",
+        "label": "LOC",
+        "start": 2237,
+        "end": 2258
+      },
+      {
+        "text": "Cern",
+        "label": "LOC",
+        "start": 2263,
+        "end": 2267
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 2332,
+        "end": 2336
+      },
+      {
+        "text": "Cern",
+        "label": "LOC",
+        "start": 2493,
+        "end": 2497
+      },
+      {
+        "text": "Clic",
+        "label": "MISC",
+        "start": 2562,
+        "end": 2566
+      },
+      {
+        "text": "Compact Linear Collider",
+        "label": "MISC",
+        "start": 2568,
+        "end": 2591
+      },
+      {
+        "text": "Positronen",
+        "label": "LOC",
+        "start": 2683,
+        "end": 2693
+      },
+      {
+        "text": "Higgs-Boson",
+        "label": "LOC",
+        "start": 2850,
+        "end": 2861
+      },
+      {
+        "text": "LHC",
+        "label": "LOC",
+        "start": 2914,
+        "end": 2917
+      },
+      {
+        "text": "LHC",
+        "label": "LOC",
+        "start": 3150,
+        "end": 3153
+      },
+      {
+        "text": "FCC",
+        "label": "ORG",
+        "start": 3198,
+        "end": 3201
+      },
+      {
+        "text": "LHC",
+        "label": "LOC",
+        "start": 3274,
+        "end": 3277
+      },
+      {
+        "text": "Clic",
+        "label": "PER",
+        "start": 3298,
+        "end": 3302
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cern",
+        "Clic",
+        "De News",
+        "ETH-Professor Biela",
+        "Jürgen Biela",
+        "Peter Rüegg",
+        "Pulse",
+        "Sebastian Blume"
+      ],
+      "ORG": [
+        "Ampegon",
+        "ETH Zürich",
+        "ETH-Labor",
+        "FCC",
+        "Schweizer Elektrotechnikfirma",
+        "SwissFEL",
+        "Volt"
+      ],
+      "LOCATION": [
+        "Bellegarde",
+        "Bielas Labor",
+        "Cern",
+        "Clic-Beschleuniger",
+        "Elektron-Antiteilchen",
+        "Frankreich",
+        "Genf",
+        "Higgs-Boson",
+        "Hochspannungspuls-Generatoren",
+        "LHC",
+        "Large Hadron Collider",
+        "Linearbeschleunigers",
+        "Nyon",
+        "Paul-Scherrer-Institut",
+        "Positronen",
+        "Pulse",
+        "Rhone-Durchbruch",
+        "Synchrotron-Strahlungsquelle",
+        "Volt"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Clic",
+        "Compact Linear Collider",
+        "ETH-Wissenschaftler",
+        "Kasten",
+        "Teilchenbeschneuniger LHC",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "Cern": 6,
+      "Clic": 3,
+      "ETH Zürich": 3,
+      "LHC": 3,
+      "Genf": 2,
+      "Pulse": 2,
+      "Volt": 2,
+      "De News": 1,
+      "Hochspannungspuls-Generatoren": 1,
+      "Linearbeschleunigers": 1,
+      "Nyon": 1,
+      "Rhone-Durchbruch": 1,
+      "Bellegarde": 1,
+      "Frankreich": 1,
+      "Kasten": 1,
+      "ETH-Labor": 1,
+      "Peter Rüegg": 1,
+      "Elektron-Antiteilchen": 1,
+      "Jürgen Biela": 1,
+      "Clic-Beschleuniger": 1
+    },
+    "total_entities": 50,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "teilchenbeschleuniger-der-zukunft.md",
+      "title": "De News Events/2017/05/teilchenbeschleuniger der Zukunft",
+      "language": "de",
+      "source_path": "de_news_events/2017/05/teilchenbeschleuniger-der-zukunft.html"
+    },
+    "temporal": {
+      "publication_date": "2017-05",
+      "mentioned_years": [
+        "2017",
+        "2025",
+        "2035"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Cern",
+        "Clic",
+        "De News",
+        "ETH-Professor Biela",
+        "Jürgen Biela",
+        "Peter Rüegg",
+        "Pulse",
+        "Sebastian Blume"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Biela": [
+          "professor"
+        ],
+        "Jürgen Biela": [
+          "professor"
+        ],
+        "Pulse": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Clic",
+        "Compact Linear Collider",
+        "ETH-Wissenschaftler",
+        "Kasten",
+        "Teilchenbeschneuniger LHC",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Zum Vergleich",
+        "Hochspannungspuls-Generatoren",
+        "Diese Beschleunigung",
+        "Projekt Clic",
+        "Beim Projekt",
+        "Bielas Labor",
+        "Ein Pulsgenerator",
+        "Volt-Spannung",
+        "ETH-Professor",
+        "Large Hadron",
+        "Clic-Beschleuniger",
+        "Schweizer Elektrotechnikfirma",
+        "ETH-Labor",
+        "ETH-Wissenschaftler",
+        "Elektron-Antiteilchen",
+        "Im Rahmen",
+        "Jedes Klystron",
+        "Die Effizienz",
+        "Zukunft Die",
+        "Der Teilchenbeschneuniger",
+        "Der LHC",
+        "Ende Elektronen",
+        "Am Cern",
+        "Compact Linear",
+        "Higgs-Boson",
+        "Paul-Scherrer",
+        "Synchrotron-Strahlungsquelle",
+        "Ende Positronen",
+        "Der Pulsgenerator",
+        "Rhone-Durchbruch",
+        "Zukunftsprojekt FCC",
+        "Stromnetzes Pulse",
+        "Cern-Grossforschungsprojekt",
+        "De News",
+        "Future Circular",
+        "Sebastian Blume"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Ampegon",
+        "ETH Zürich",
+        "ETH-Labor",
+        "FCC",
+        "Schweizer Elektrotechnikfirma",
+        "SwissFEL",
+        "Volt"
+      ],
+      "locations": [
+        "Bellegarde",
+        "Bielas Labor",
+        "Cern",
+        "Clic-Beschleuniger",
+        "Elektron-Antiteilchen",
+        "Frankreich",
+        "Genf",
+        "Higgs-Boson",
+        "Hochspannungspuls-Generatoren",
+        "LHC",
+        "Large Hadron Collider",
+        "Linearbeschleunigers",
+        "Nyon",
+        "Paul-Scherrer-Institut",
+        "Positronen",
+        "Pulse",
+        "Rhone-Durchbruch",
+        "Synchrotron-Strahlungsquelle",
+        "Volt"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Cern",
+        "Clic",
+        "ETH Zürich",
+        "LHC",
+        "Genf",
+        "Pulse",
+        "Volt",
+        "De News",
+        "Hochspannungspuls-Generatoren",
+        "Linearbeschleunigers"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Mehrere Hundert Beschleunigungsstufen",
+          "Linearbeschleuniger oder Ringbeschleuniger?"
+        ],
+        "content_length": 4918
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2025",
+        "2035",
+        "Cern",
+        "Clic",
+        "Schweizer Elektrotechnikfirma",
+        "ETH-Labor",
+        "ETH Zürich",
+        "Volt",
+        "Pulse",
+        "FCC",
+        "ETH-Professor Biela",
+        "EU",
+        "Jürgen Biela",
+        "Ampegon",
+        "SwissFEL",
+        "2017",
+        "De News",
+        "Sebastian Blume",
+        "Peter Rüegg"
+      ],
+      "semantic_concepts": [
+        "Kasten",
+        "who",
+        "Teilchenbeschneuniger LHC",
+        "ETH-Wissenschaftler",
+        "Compact Linear Collider",
+        "Zeit",
+        "when",
+        "Clic"
+      ],
+      "graph_relations": [
+        "ETH-Professor Biela_has_role_professor",
+        "Jürgen Biela_has_role_professor",
+        "Pulse_has_role_professor"
+      ]
+    }
+  }
+}

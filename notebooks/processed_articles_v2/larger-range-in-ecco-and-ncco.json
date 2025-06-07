@@ -1,0 +1,230 @@
+{
+  "filename": "larger-range-in-ecco-and-ncco.md",
+  "original_filename": "larger-range-in-ecco-and-ncco.html",
+  "source_path": "en_internal/2015/03/larger-range-in-ecco-and-ncco.html",
+  "date": "2015-03",
+  "title": "Larger Range In Ecco And Ncco",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ECCO (Eighteenth Century Collections Online) provides a glimpse into the knowledge of the English-speaking world during the 18th century. ETH-Bibliothek acquired the collection Science, Technology and Medicine, which includes around 60,000 titles.\n\nThe database NCCO (Nineteenth Century Collections Online) contains works from the 19th century. ETH-Bibliothek has licensed the sub-sections Mapping the World (Maps and Travel Literature), Photography, Science, Technology and Medicine. The collections contain titles from 1780 to 1925."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Range",
+        "label": "FAC",
+        "start": 27,
+        "end": 32
+      },
+      {
+        "text": "ECCO",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Eighteenth Century Collections Online",
+        "label": "ORG",
+        "start": 6,
+        "end": 43
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 90,
+        "end": 97
+      },
+      {
+        "text": "the 18th century",
+        "label": "DATE",
+        "start": 120,
+        "end": 136
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 138,
+        "end": 152
+      },
+      {
+        "text": "Science, Technology and Medicine",
+        "label": "ORG",
+        "start": 177,
+        "end": 209
+      },
+      {
+        "text": "around 60,000",
+        "label": "CARDINAL",
+        "start": 226,
+        "end": 239
+      },
+      {
+        "text": "the 19th century",
+        "label": "DATE",
+        "start": 326,
+        "end": 342
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 344,
+        "end": 358
+      },
+      {
+        "text": "Mapping the World (Maps and Travel Literature",
+        "label": "ORG",
+        "start": 389,
+        "end": 434
+      },
+      {
+        "text": "Science, Technology and Medicine",
+        "label": "ORG",
+        "start": 450,
+        "end": 482
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ECCO",
+        "ETH-Bibliothek",
+        "Eighteenth Century Collections Online",
+        "Mapping the World (Maps and Travel Literature",
+        "Science, Technology and Medicine"
+      ],
+      "LOCATION": [
+        "Range"
+      ],
+      "DATE": [
+        "the 18th century",
+        "the 19th century"
+      ],
+      "MISC": [
+        "English",
+        "around 60,000"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "Science, Technology and Medicine": 2,
+      "Range": 1,
+      "ECCO": 1,
+      "Eighteenth Century Collections Online": 1,
+      "English": 1,
+      "the 18th century": 1,
+      "around 60,000": 1,
+      "the 19th century": 1,
+      "Mapping the World (Maps and Travel Literature": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "larger-range-in-ecco-and-ncco.md",
+      "title": "En Internal/2015/03/larger Range in Ecco And Ncco",
+      "language": "en",
+      "source_path": "en_internal/2015/03/larger-range-in-ecco-and-ncco.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "1925",
+        "2015"
+      ],
+      "time_periods": [
+        [
+          "1780",
+          "1925"
+        ]
+      ],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English",
+        "around 60,000"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Collections Online",
+        "ETH-Bibliothek",
+        "Ecco And",
+        "En Internal",
+        "Travel Literature",
+        "Nineteenth Century",
+        "Ncco ECCO",
+        "Eighteenth Century"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ECCO",
+        "ETH-Bibliothek",
+        "Eighteenth Century Collections Online",
+        "Mapping the World (Maps and Travel Literature",
+        "Science, Technology and Medicine"
+      ],
+      "locations": [
+        "Range"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "Science, Technology and Medicine",
+        "Range",
+        "ECCO",
+        "Eighteenth Century Collections Online",
+        "English",
+        "the 18th century",
+        "around 60,000",
+        "the 19th century",
+        "Mapping the World (Maps and Travel Literature"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 584
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "2015",
+        "Eighteenth Century Collections Online",
+        "1925",
+        "ECCO",
+        "Mapping the World (Maps and Travel Literature",
+        "Science, Technology and Medicine"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "around 60,000",
+        "English"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

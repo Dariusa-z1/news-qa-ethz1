@@ -1,0 +1,136 @@
+{
+  "filename": "keep-intruders-out.md",
+  "original_filename": "keep-intruders-out.html",
+  "source_path": "en_internal/2019/03/keep-intruders-out.html",
+  "date": "2019-03",
+  "title": "Keep Intruders Out",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Everyday life without IT devices is hard to imagine these days. They simplify our lives and accompany us almost everywhere.\n\nWith every click and every interaction on the smartphone, laptop, or tablet we reveal more about our digital identity.\n\nResearch data, hobbies, date of birth, interests, shopping behaviour or credit card numbers: Do you know what data is stored on your devices, and who has access to that data?\n\nWith these tips, you can protect yourself against intruders. It is therefore important that you, as user, are aware and informed.\n\nRead more on itsecurity.ethz.ch: PROTECT YOUR BRAINWORK ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Intruders",
+        "label": "NORP",
+        "start": 25,
+        "end": 34
+      },
+      {
+        "text": "these days",
+        "label": "DATE",
+        "start": 52,
+        "end": 62
+      },
+      {
+        "text": "BRAINWORK",
+        "label": "ORG",
+        "start": 594,
+        "end": 603
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "BRAINWORK"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "these days"
+      ],
+      "MISC": [
+        "Intruders"
+      ]
+    },
+    "entity_counts": {
+      "Intruders": 1,
+      "these days": 1,
+      "BRAINWORK": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "keep-intruders-out.md",
+      "title": "En Internal/2019/03/keep Intruders Out",
+      "language": "en",
+      "source_path": "en_internal/2019/03/keep-intruders-out.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Intruders"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Intruders Out",
+        "PROTECT YOUR",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BRAINWORK"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Intruders",
+        "these days",
+        "BRAINWORK"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 648
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "BRAINWORK"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Intruders",
+        "what",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

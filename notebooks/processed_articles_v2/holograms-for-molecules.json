@@ -1,0 +1,467 @@
+{
+  "filename": "holograms-for-molecules.md",
+  "original_filename": "holograms-for-molecules.html",
+  "source_path": "en_news_events/2017/09/holograms-for-molecules.html",
+  "date": "2017-09",
+  "title": "Holograms For Molecules",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Directly visible with laser light",
+      "text": "Much can be detected in blood or urine: viral illnesses, metabolic disorders or autoimmune diseases can be diagnosed with laboratory tests, for instance. But such examinations often take a few hours and are quite complex, which is why doctors hand the samples over to specialist laboratories.\n\nScientists at ETH Zurich and the company Roche have jointly developed a completely new analysis method based on light diffraction on molecules on a small chip. The technique has the potential to revolutionise diagnostics: in future, physicians may be able to perform complex examinations easily and quickly in their own practice."
+    },
+    {
+      "heading": "Directly visible with laser light",
+      "text": "As with other established diagnostic procedures, the new method also uses the key-lock principle of molecular recognition: for instance, in order to determine a particular protein dissolved in the blood (the “key”), it must dock on to a suitable antibody (the “lock”). In established immunological test methods, the “key in the lock” is made visible with a second colour-coded key, but this step is no longer necessary in the new process – the “key in the lock” can be made visible directly with a laser light.\n\nThe scientists use a chip with a specially coated surface made up of tiny dots with a specific striped pattern. The molecules in question bind to the stripes but not to the interstices between the stripes. If a laser light is now directed along the chip’s surface, it is bent (diffracted) as a result of the special arrangement of the molecules in the pattern and focused on to a point below the chip. A point of light becomes visible. When the scientists put samples without the molecules on to the chip, the light is not bent and no point of light is visible."
+    },
+    {
+      "heading": "Molecular interplay",
+      "text": "“The point of light is an effect of the interplay of hundreds of thousands of molecules in their specific arrangement,” says Christof Fattinger, a scientist at Roche. “As with a hologram, the wave character of the laser light is used in a targeted manner.”\n\nJanos Vörös, professor of bioelectronics at ETH Zurich, compares the principle to an orchestra: “The molecules are the musicians, the stripe pattern the conductor. It ensures that all the musicians work in concert.” The scientists call the striped pattern “mologram” (molecular hologram) and the new diagnostic technique “focal molography”.\n\nFattinger invented the principle and developed its theoretical foundations. Five years ago, he took a sabbatical in the group led by Vörös; the practical implementation of molography has now emerged from that collaboration between the Roche scientists and ETH Zurich."
+    },
+    {
+      "heading": "Other molecules do not disrupt",
+      "text": "A significant advantage of the new method is that the signal (the point of light) comes about only because of the molecules that bind specifically to the mologram – other molecules present in a sample do not produce a signal. The method is therefore substantially faster than previous analysis methods based on the key-lock principle. In the latter, other molecules present in a sample have to be washed away, which in turn slows down and complicates the diagnosis. This makes the new method ideal for measuring proteins in blood or other bodily fluids.\n\n“We expect that this technology will enable more laboratory tests to be performed directly in the doctors’ office in the future rather than in a specialist laboratory. And in the distant future, patients may even be able to use the technology at home,” says Vörös.\n\nSeveral molograms are arranged on a small chip. In the current design, 40 molograms measure the same molecule, but in future it may be possible to measure 40 or more different markers simultaneously on a chip.\n\nThe possible applications of this new technique are immense. It could be used wherever the interaction between molecules needs to be identified and investigated. The method is so fast that it is even suitable for real-time measurements, which is of particular interest for basic biological research: for example, to examine how quickly one biochemical molecule binds to another. Further applications might include quality control for drinking water treatment or process monitoring in the biotechnological industry.\n\nIntense focus on market readiness\n\n“The fact that we were successful in putting the idea into practice is due largely to the fact that our project team is interdisciplinary,” says Vörös. Among the participants were experts in photochemistry, chip manufacturing and surface coating. The scientists also used special coating polymers for the mologram, which were developed recently in the laboratory of ETH professor Nicholas Spencer (ETH News reported ). “Without these polymers and without the collaboration with Janos Vörös, we would still be far from our goal,” says Fattinger.\n\nIn order to develop the method further, the collaboration between Roche and ETH Zurich will continue. While several scientists and doctoral students in the Vörös’ group are working on its scientific aspects, the partners also plan to explore commercialisation opportunities for various applications.\n\nGatterdam V, Frutiger A, Stengele KP, Heindl D, Lübbers T, Vörös J, Fattinger C: Focal Molography: A new method for the in-situ analysis of molecular interactions in biological samples. Nature Nanotechnology, 25 September 2017, doi: 10.1038/nnano.2017.168"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "a few hours",
+        "label": "TIME",
+        "start": 187,
+        "end": 198
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 307,
+        "end": 317
+      },
+      {
+        "text": "Roche",
+        "label": "ORG",
+        "start": 334,
+        "end": 339
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 357,
+        "end": 363
+      },
+      {
+        "text": "hundreds of thousands",
+        "label": "CARDINAL",
+        "start": 53,
+        "end": 74
+      },
+      {
+        "text": "Christof Fattinger",
+        "label": "PERSON",
+        "start": 125,
+        "end": 143
+      },
+      {
+        "text": "Roche",
+        "label": "ORG",
+        "start": 160,
+        "end": 165
+      },
+      {
+        "text": "Janos Vörös",
+        "label": "PERSON",
+        "start": 257,
+        "end": 268
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 301,
+        "end": 311
+      },
+      {
+        "text": "Five years ago",
+        "label": "DATE",
+        "start": 674,
+        "end": 688
+      },
+      {
+        "text": "Vörös",
+        "label": "GPE",
+        "start": 731,
+        "end": 736
+      },
+      {
+        "text": "Roche",
+        "label": "ORG",
+        "start": 833,
+        "end": 838
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 854,
+        "end": 864
+      },
+      {
+        "text": "Vörös",
+        "label": "PERSON",
+        "start": 812,
+        "end": 817
+      },
+      {
+        "text": "40 molograms",
+        "label": "QUANTITY",
+        "start": 890,
+        "end": 902
+      },
+      {
+        "text": "Vörös",
+        "label": "PERSON",
+        "start": 1723,
+        "end": 1728
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1944,
+        "end": 1947
+      },
+      {
+        "text": "Nicholas Spencer",
+        "label": "PERSON",
+        "start": 1958,
+        "end": 1974
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 1976,
+        "end": 1984
+      },
+      {
+        "text": "Janos Vörös",
+        "label": "PERSON",
+        "start": 2056,
+        "end": 2067
+      },
+      {
+        "text": "Fattinger",
+        "label": "PERSON",
+        "start": 2112,
+        "end": 2121
+      },
+      {
+        "text": "Roche",
+        "label": "ORG",
+        "start": 2189,
+        "end": 2194
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 2199,
+        "end": 2209
+      },
+      {
+        "text": "Gatterdam V",
+        "label": "PERSON",
+        "start": 2423,
+        "end": 2434
+      },
+      {
+        "text": "Frutiger A",
+        "label": "PERSON",
+        "start": 2436,
+        "end": 2446
+      },
+      {
+        "text": "Stengele KP",
+        "label": "PERSON",
+        "start": 2448,
+        "end": 2459
+      },
+      {
+        "text": "Lübbers",
+        "label": "ORG",
+        "start": 2471,
+        "end": 2478
+      },
+      {
+        "text": "Nature Nanotechnology",
+        "label": "PERSON",
+        "start": 2609,
+        "end": 2630
+      },
+      {
+        "text": "25 September 2017",
+        "label": "DATE",
+        "start": 2632,
+        "end": 2649
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2656,
+        "end": 2663
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christof Fattinger",
+        "ETH Zurich",
+        "Fattinger",
+        "Frutiger A",
+        "Gatterdam V",
+        "Janos Vörös",
+        "Nature Nanotechnology",
+        "Nicholas Spencer",
+        "Stengele KP",
+        "Vörös"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH News",
+        "ETH Zurich",
+        "En News",
+        "Lübbers",
+        "Roche"
+      ],
+      "LOCATION": [
+        "Vörös"
+      ],
+      "DATE": [
+        "25 September 2017",
+        "Five years ago",
+        "a few hours"
+      ],
+      "MISC": [
+        "10.1038",
+        "40 molograms",
+        "hundreds of thousands",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "Roche": 4,
+      "Vörös": 3,
+      "Janos Vörös": 2,
+      "En News": 1,
+      "a few hours": 1,
+      "second": 1,
+      "hundreds of thousands": 1,
+      "Christof Fattinger": 1,
+      "Five years ago": 1,
+      "40 molograms": 1,
+      "ETH": 1,
+      "Nicholas Spencer": 1,
+      "ETH News": 1,
+      "Fattinger": 1,
+      "Gatterdam V": 1,
+      "Frutiger A": 1,
+      "Stengele KP": 1,
+      "Lübbers": 1,
+      "Nature Nanotechnology": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "holograms-for-molecules.md",
+      "title": "En News Events/2017/09/holograms For Molecules",
+      "language": "en",
+      "source_path": "en_news_events/2017/09/holograms-for-molecules.html"
+    },
+    "temporal": {
+      "publication_date": "2017-09",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christof Fattinger",
+        "ETH Zurich",
+        "Fattinger",
+        "Frutiger A",
+        "Gatterdam V",
+        "Janos Vörös",
+        "Nature Nanotechnology",
+        "Nicholas Spencer",
+        "Stengele KP",
+        "Vörös"
+      ],
+      "people_with_roles": {
+        "Christof Fattinger": [
+          "scientist"
+        ],
+        "ETH Zurich": [
+          "scientist",
+          "professor"
+        ],
+        "Fattinger": [
+          "scientist"
+        ],
+        "Janos Vörös": [
+          "professor"
+        ],
+        "Nicholas Spencer": [
+          "scientist",
+          "professor"
+        ],
+        "Vörös": [
+          "scientist",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "40 molograms",
+        "hundreds of thousands",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Christof Fattinger",
+        "Heindl D",
+        "For Molecules",
+        "En News",
+        "Frutiger A",
+        "Fattinger C",
+        "Focal Molography",
+        "Nature Nanotechnology",
+        "Gatterdam V",
+        "Stengele KP",
+        "ETH News",
+        "ETH Zurich",
+        "Nicholas Spencer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH News",
+        "ETH Zurich",
+        "En News",
+        "Lübbers",
+        "Roche"
+      ],
+      "locations": [
+        "Vörös"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Roche",
+        "Vörös",
+        "Janos Vörös",
+        "En News",
+        "a few hours",
+        "second",
+        "hundreds of thousands",
+        "Christof Fattinger",
+        "Five years ago"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Directly visible with laser light",
+          "Directly visible with laser light",
+          "Molecular interplay",
+          "Other molecules do not disrupt"
+        ],
+        "content_length": 5298
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Roche",
+        "Christof Fattinger",
+        "Janos Vörös",
+        "En News",
+        "Fattinger",
+        "Frutiger A",
+        "Nature Nanotechnology",
+        "2017",
+        "Vörös",
+        "Lübbers",
+        "Gatterdam V",
+        "Stengele KP",
+        "ETH News",
+        "ETH Zurich",
+        "ERC",
+        "Nicholas Spencer"
+      ],
+      "semantic_concepts": [
+        "mathematics",
+        "40 molograms",
+        "who",
+        "hundreds of thousands",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Christof Fattinger_has_role_scientist",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_professor",
+        "Fattinger_has_role_scientist",
+        "Janos Vörös_has_role_professor",
+        "Nicholas Spencer_has_role_scientist",
+        "Nicholas Spencer_has_role_professor",
+        "Vörös_has_role_scientist",
+        "Vörös_has_role_student",
+        "Vörös_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

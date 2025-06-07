@@ -1,0 +1,151 @@
+{
+  "filename": "ich-versuche-mein-privatleben-nicht-zu-opfern.md",
+  "original_filename": "ich-versuche-mein-privatleben-nicht-zu-opfern.html",
+  "source_path": "de_news_events/2023/09/ich-versuche-mein-privatleben-nicht-zu-opfern.html",
+  "date": "2023-09",
+  "title": "Ich Versuche Mein Privatleben Nicht Zu Opfern",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Beratung für Studierende",
+      "text": "Eren Akbiyik war als Softwareentwickler bei IBM tätig und strebt nun einen Master-Abschluss an der ETH an. Im Video erzählt er, wie er im vollgepackten Studienalltag Erholung findet."
+    },
+    {
+      "heading": "Beratung für Studierende",
+      "text": "Es stehen Ihnen Beratungsstellen für alle Situationen im Studium zur Verfügung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Mein Privatleben Nicht zu Opfern",
+        "label": "MISC",
+        "start": 36,
+        "end": 68
+      },
+      {
+        "text": "Eren Akbiyik",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 99,
+        "end": 102
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eren Akbiyik"
+      ],
+      "ORG": [
+        "ETH",
+        "IBM"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Mein Privatleben Nicht zu Opfern"
+      ]
+    },
+    "entity_counts": {
+      "Mein Privatleben Nicht zu Opfern": 1,
+      "Eren Akbiyik": 1,
+      "IBM": 1,
+      "ETH": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ich-versuche-mein-privatleben-nicht-zu-opfern.md",
+      "title": "De News Events/2023/09/ich Versuche Mein Privatleben Nicht zu Opfern",
+      "language": "de",
+      "source_path": "de_news_events/2023/09/ich-versuche-mein-privatleben-nicht-zu-opfern.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Eren Akbiyik"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Mein Privatleben Nicht zu Opfern"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Privatleben Nicht",
+        "Opfern Eren",
+        "Studienalltag Erholung",
+        "Ihnen Beratungsstellen",
+        "Im Video",
+        "Master-Abschluss",
+        "De News",
+        "Versuche Mein"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "IBM"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Mein Privatleben Nicht zu Opfern",
+        "Eren Akbiyik",
+        "IBM",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Beratung für Studierende",
+          "Beratung für Studierende"
+        ],
+        "content_length": 331
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Eren Akbiyik",
+        "IBM",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "computer_science",
+        "Mein Privatleben Nicht zu Opfern"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

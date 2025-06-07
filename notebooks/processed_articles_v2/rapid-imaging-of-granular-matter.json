@@ -1,0 +1,474 @@
+{
+  "filename": "rapid-imaging-of-granular-matter.md",
+  "original_filename": "rapid-imaging-of-granular-matter.html",
+  "source_path": "en_news_events/2017/09/rapid-imaging-of-granular-matter.html",
+  "date": "2017-09",
+  "title": "Rapid Imaging Of Granular Matter",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Powders and grains in the chemical industry",
+      "text": "Even in our modern world full of highly technological machines and devices it is still impossible to predict when rockslides, such as the recent one in Graubünden, or earthquakes will occur and how exactly they evolve. This is partly due to the fact that despite many years of research, scientists have only just begun to understand the behaviour of gravel and sand, particularly when mixed with water or gases.\n\nA team of researchers led by Christoph Müller at the Department of Mechanical and Process engineering of the ETH Zurich and Klaas Prüssmann at the Institute for Biomedical Engineering of the ETH and University of Zurich, together with colleagues at Osaka University in Japan, have now developed a new technique that could make it much easier to study such phenomena in the future. Many natural phenomena and natural catastrophes could thus be better understood and predicted more easily."
+    },
+    {
+      "heading": "Powders and grains in the chemical industry",
+      "text": "Granular systems – a generic term for anything that resembles grains or powders – play a pivotal role not just in nature. They are equally important in practical applications, such as the chemical industry, where three quarters of the raw materials are granular substances. A frequent problem facing the chemical industry is that production flows may be interrupted, for instance, by unforeseen and poorly understood jamming or de-mixing of the granular materials used.\n\n«Even a small increase in the efficiency of the production processes through improved knowledge would allow one to save a lot of energy», explains Alexander Penn, a PhD student in the group of Müller and Prüssmann. However, when trying to understand what happens, for instance, when different particles are mixed together or made to interact with gases in so-called fluidized beds, one faces a serious problem: granular systems are opaque, which makes it very difficult to learn anything about the exact spatial distribution and motion of the particles."
+    },
+    {
+      "heading": "Medical technology aids studies of granular systems",
+      "text": "To overcome this obstacle, scientists have reintroduced a technology into physics research that, nowadays, is mainly used in medicine: magnetic resonance imaging (MRI), which is well-known for the narrow tube patients need to go into to be examined. Magnetic resonance imaging uses radio waves and strong magnetic fields to first align the magnetic moments of certain atomic nuclei inside a tissue or material (these can be visualized as tiny compass needles).\n\nThereafter, the atomic nuclei lose their alignment, and in doing so, they themselves emit radio waves that can be measured. Finally, the results of those measurements are used to create a three-dimensional image of the positions of the atomic nuclei in the material. In their new experiments, recently published in the scientific journal Science Advances, the researchers at ETH added a number of radio antennas to a commercial MRI device and analysed the measurements using special software. This allowed them to measure the internal dynamics of granular systems ten thousand times faster than had been possible before.\n\nFor that purpose, the scientists developed special particles consisting of an oil droplet covered in agar measuring one millimetre in diameter that produced a particularly large and sustained magnetic resonance signal. They used them, amongst other things, to study what happens when a gas flows through granular systems. The gas flow causes the granular medium, which is usually solid, to behave like a fluid. In such «fluidized» granular systems gas bubbles can rise, split up or merge.\n\nUntil now, it was impossible to study such bubbles in real time. The new measurement technique developed by the Zurich-based scientists allows one to take pictures of the inside of granular matter with a temporal resolution of less than a hundredth of a second. Moreover, a clever analysis of the magnetic resonance signals makes it possible to measure the velocities of the individual particles and, thus, to obtain additional information about the dynamics of those complex systems."
+    },
+    {
+      "heading": "Applications in carbon capture",
+      "text": "There are numerous possible applications of the knowledge obtained using the new technique. The researchers are planning, for instance, to carefully test existing theoretical models for granular systems and, where necessary, to improve them. Among the models to be tested are the spontaneous de-mixing of granular mixtures of particles having different sizes, which can lead to problems in industrial applications, as well as the spontaneous «jamming» of flowing systems. Bubble formation in granular systems exposed to gas flows, on the other hand, is important for procedures in which a gas is supposed to react as strongly as possible with catalyst particles. Such procedures are used, for example, in carbon dioxide capture, which in the future might be used to counteract climate change. A better understanding of the physical processes involved could lead to higher efficiency and considerable energy savings.\n\nPenn A, Tsuji T, Brunner DO, Boyce CM, Pruessmann KP, Müller CR. Real-time probing of granular dynamics with magnetic resonance. Sci. Adv. 3, e1701879 (2017). DOI: 10.1126/sciadv.1701879"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Imaging Of Granular",
+        "label": "WORK_OF_ART",
+        "start": 29,
+        "end": 48
+      },
+      {
+        "text": "Graubünden",
+        "label": "GPE",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "Christoph Müller",
+        "label": "PERSON",
+        "start": 441,
+        "end": 457
+      },
+      {
+        "text": "the Department of Mechanical and Process",
+        "label": "ORG",
+        "start": 461,
+        "end": 501
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 517,
+        "end": 531
+      },
+      {
+        "text": "Klaas Prüssmann",
+        "label": "PERSON",
+        "start": 536,
+        "end": 551
+      },
+      {
+        "text": "the Institute for Biomedical Engineering of the ETH and University of Zurich",
+        "label": "ORG",
+        "start": 555,
+        "end": 631
+      },
+      {
+        "text": "Osaka University",
+        "label": "ORG",
+        "start": 661,
+        "end": 677
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 681,
+        "end": 686
+      },
+      {
+        "text": "three quarters",
+        "label": "CARDINAL",
+        "start": 213,
+        "end": 227
+      },
+      {
+        "text": "Alexander Penn",
+        "label": "PERSON",
+        "start": 617,
+        "end": 631
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 635,
+        "end": 638
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 663,
+        "end": 669
+      },
+      {
+        "text": "Prüssmann",
+        "label": "PERSON",
+        "start": 674,
+        "end": 683
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 324,
+        "end": 329
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 649,
+        "end": 654
+      },
+      {
+        "text": "Science Advances",
+        "label": "ORG",
+        "start": 799,
+        "end": 815
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 836,
+        "end": 839
+      },
+      {
+        "text": "ten thousand",
+        "label": "CARDINAL",
+        "start": 1025,
+        "end": 1037
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1198,
+        "end": 1201
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1683,
+        "end": 1689
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1825,
+        "end": 1831
+      },
+      {
+        "text": "Penn A",
+        "label": "ORG",
+        "start": 916,
+        "end": 922
+      },
+      {
+        "text": "Boyce CM",
+        "label": "PERSON",
+        "start": 945,
+        "end": 953
+      },
+      {
+        "text": "Pruessmann KP",
+        "label": "PERSON",
+        "start": 955,
+        "end": 968
+      },
+      {
+        "text": "Müller CR",
+        "label": "PERSON",
+        "start": 970,
+        "end": 979
+      },
+      {
+        "text": "Sci.",
+        "label": "ORG",
+        "start": 1045,
+        "end": 1049
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 1080,
+        "end": 1087
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexander Penn",
+        "Boyce CM",
+        "Christoph Müller",
+        "Klaas Prüssmann",
+        "Müller",
+        "Müller CR",
+        "Pruessmann KP",
+        "Prüssmann"
+      ],
+      "ORG": [
+        "ETH",
+        "En News",
+        "Osaka University",
+        "Penn A",
+        "Sci.",
+        "Science Advances",
+        "the Department of Mechanical and Process",
+        "the ETH Zurich",
+        "the Institute for Biomedical Engineering of the ETH and University of Zurich"
+      ],
+      "LOCATION": [
+        "Graubünden",
+        "Japan",
+        "Zurich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1126",
+        "Imaging Of Granular",
+        "PhD",
+        "first",
+        "one",
+        "second",
+        "ten thousand",
+        "three",
+        "three quarters"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Imaging Of Granular": 1,
+      "Graubünden": 1,
+      "Christoph Müller": 1,
+      "the Department of Mechanical and Process": 1,
+      "the ETH Zurich": 1,
+      "Klaas Prüssmann": 1,
+      "the Institute for Biomedical Engineering of the ETH and University of Zurich": 1,
+      "Osaka University": 1,
+      "Japan": 1,
+      "three quarters": 1,
+      "Alexander Penn": 1,
+      "PhD": 1,
+      "Müller": 1,
+      "Prüssmann": 1,
+      "first": 1,
+      "three": 1,
+      "Science Advances": 1,
+      "ETH": 1,
+      "ten thousand": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rapid-imaging-of-granular-matter.md",
+      "title": "En News Events/2017/09/rapid Imaging Of Granular Matter",
+      "language": "en",
+      "source_path": "en_news_events/2017/09/rapid-imaging-of-granular-matter.html"
+    },
+    "temporal": {
+      "publication_date": "2017-09",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexander Penn",
+        "Boyce CM",
+        "Christoph Müller",
+        "Klaas Prüssmann",
+        "Müller",
+        "Müller CR",
+        "Pruessmann KP",
+        "Prüssmann"
+      ],
+      "people_with_roles": {
+        "Alexander Penn": [
+          "student"
+        ],
+        "Christoph Müller": [
+          "researcher"
+        ],
+        "Klaas Prüssmann": [
+          "researcher"
+        ],
+        "Müller": [
+          "researcher",
+          "student"
+        ],
+        "Prüssmann": [
+          "researcher",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology",
+        "engineering",
+        "chemistry",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1126",
+        "Imaging Of Granular",
+        "first",
+        "second",
+        "ten thousand",
+        "three",
+        "three quarters"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Brunner DO",
+        "En News",
+        "Penn A",
+        "Boyce CM",
+        "Tsuji T",
+        "Osaka University",
+        "Imaging Of",
+        "Granular Matter",
+        "Pruessmann KP",
+        "ETH Zurich",
+        "Alexander Penn",
+        "Science Advances",
+        "Biomedical Engineering"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mechanical and Process engineering of the ETH Zurich and Klaas Pr",
+        "Biomedical Engineering of the ETH and University of Zurich"
+      ],
+      "institutions": [
+        "ETH",
+        "En News",
+        "Osaka University",
+        "Penn A",
+        "Sci.",
+        "Science Advances",
+        "the Department of Mechanical and Process",
+        "the ETH Zurich",
+        "the Institute for Biomedical Engineering of the ETH and University of Zurich"
+      ],
+      "locations": [
+        "Graubünden",
+        "Japan",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "En News",
+        "Imaging Of Granular",
+        "Graubünden",
+        "Christoph Müller",
+        "the Department of Mechanical and Process",
+        "the ETH Zurich",
+        "Klaas Prüssmann",
+        "the Institute for Biomedical Engineering of the ETH and University of Zurich",
+        "Osaka University",
+        "Japan"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Powders and grains in the chemical industry",
+          "Powders and grains in the chemical industry",
+          "Medical technology aids studies of granular systems",
+          "Applications in carbon capture"
+        ],
+        "content_length": 5144
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the Institute for Biomedical Engineering of the ETH and University of Zurich",
+        "the ETH Zurich",
+        "Boyce CM",
+        "Alexander Penn",
+        "ERC",
+        "Müller",
+        "Penn A",
+        "Pruessmann KP",
+        "Sci.",
+        "Osaka University",
+        "Prüssmann",
+        "Christoph Müller",
+        "the Department of Mechanical and Process",
+        "En News",
+        "2017",
+        "Klaas Prüssmann",
+        "Science Advances",
+        "Müller CR"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "chemistry",
+        "Imaging Of Granular",
+        "when",
+        "engineering",
+        "ten thousand",
+        "10.1126",
+        "medical_research",
+        "mathematics",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "climate_change",
+        "first",
+        "three quarters",
+        "second",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Alexander Penn_has_role_student",
+        "Christoph Müller_has_role_researcher",
+        "Klaas Prüssmann_has_role_researcher",
+        "Müller_has_role_researcher",
+        "Müller_has_role_student",
+        "Prüssmann_has_role_researcher",
+        "Prüssmann_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

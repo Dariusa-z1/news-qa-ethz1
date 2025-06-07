@@ -1,0 +1,271 @@
+{
+  "filename": "zahlen-fakten-werte-statista-buendelt-daten-fuer-ihre-forschung.md",
+  "original_filename": "zahlen-fakten-werte-statista-buendelt-daten-fuer-ihre-forschung.html",
+  "source_path": "en_internal/2020/09/zahlen-fakten-werte-statista-buendelt-daten-fuer-ihre-forschung.html",
+  "date": "2020-09",
+  "title": "Zahlen Fakten Werte Statista Buendelt Daten Fuer Ihre Forschung",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Systematic research",
+      "text": "How many American citizens have a video-on-demand account? What is the GDP of Colombia? What trends can be observed for what brands in the European automotive market? – Statista is a business data platform that gives members of ETH Zurich access to statistical data on more than 80,000 topics from more than 22,500 sources. Industry and business data on more than 1,000 companies, trend analyses and prognoses, historical and current facts – the database pools a wealth of valuable information for your basic research."
+    },
+    {
+      "heading": "Systematic research",
+      "text": "With a large amount of reports and dossiers on more than 1,000 topics, Statista is a handy resource for gaining insight into a subject and access to relevant information. All records are processed to academic standards, and additional definitions and summaries are provided to supplement individual topics."
+    },
+    {
+      "heading": "Reliable data",
+      "text": "Every statistic is published together with its meta data, such as the source, date of publication, number of survey participants, etc. This makes all information on Statista verifiable and ensures reliability for your research."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.\n\n#ETHLibraryDigital – The ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Ihre Forschung",
+        "label": "PERSON",
+        "start": 69,
+        "end": 83
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 9,
+        "end": 17
+      },
+      {
+        "text": "Colombia",
+        "label": "GPE",
+        "start": 78,
+        "end": 86
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 139,
+        "end": 147
+      },
+      {
+        "text": "Statista",
+        "label": "PERSON",
+        "start": 169,
+        "end": 177
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 228,
+        "end": 238
+      },
+      {
+        "text": "more than 80,000",
+        "label": "CARDINAL",
+        "start": 269,
+        "end": 285
+      },
+      {
+        "text": "more than 22,500",
+        "label": "CARDINAL",
+        "start": 298,
+        "end": 314
+      },
+      {
+        "text": "more than 1,000",
+        "label": "CARDINAL",
+        "start": 354,
+        "end": 369
+      },
+      {
+        "text": "more than 1,000",
+        "label": "CARDINAL",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "text": "Statista",
+        "label": "PERSON",
+        "start": 71,
+        "end": 79
+      },
+      {
+        "text": "Statista",
+        "label": "NORP",
+        "start": 165,
+        "end": 173
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 42,
+        "end": 57
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 232,
+        "end": 240
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ihre Forschung",
+        "Statista"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH Zurich",
+        "the ETH Library"
+      ],
+      "LOCATION": [
+        "Colombia"
+      ],
+      "DATE": [],
+      "MISC": [
+        "American",
+        "European",
+        "Statista",
+        "more than 1,000",
+        "more than 22,500",
+        "more than 80,000"
+      ]
+    },
+    "entity_counts": {
+      "Statista": 3,
+      "more than 1,000": 2,
+      "Ihre Forschung": 1,
+      "American": 1,
+      "Colombia": 1,
+      "European": 1,
+      "ETH Zurich": 1,
+      "more than 80,000": 1,
+      "more than 22,500": 1,
+      "the ETH Library": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zahlen-fakten-werte-statista-buendelt-daten-fuer-ihre-forschung.md",
+      "title": "En Internal/2020/09/zahlen Fakten Werte Statista Buendelt Daten Fuer Ihre Forschung",
+      "language": "en",
+      "source_path": "en_internal/2020/09/zahlen-fakten-werte-statista-buendelt-daten-fuer-ihre-forschung.html"
+    },
+    "temporal": {
+      "publication_date": "2020-09",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ihre Forschung",
+        "Statista"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "American",
+        "European",
+        "Statista",
+        "more than 1,000",
+        "more than 22,500",
+        "more than 80,000"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ihre Forschung",
+        "ETH Library",
+        "En Internal",
+        "ETH Zurich",
+        "Fakten Werte",
+        "Statista Buendelt",
+        "Daten Fuer",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH Zurich",
+        "the ETH Library"
+      ],
+      "locations": [
+        "Colombia"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Statista",
+        "more than 1,000",
+        "Ihre Forschung",
+        "American",
+        "Colombia",
+        "European",
+        "ETH Zurich",
+        "more than 80,000",
+        "more than 22,500",
+        "the ETH Library"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Systematic research",
+          "Systematic research",
+          "Reliable data",
+          "Staffnet"
+        ],
+        "content_length": 1402
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Statista",
+        "Ihre Forschung",
+        "EU",
+        "2020",
+        "COVID-19",
+        "ETH Zurich",
+        "the ETH Library"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "more than 1,000",
+        "Statista",
+        "American",
+        "more than 22,500",
+        "what",
+        "how",
+        "more than 80,000",
+        "European",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

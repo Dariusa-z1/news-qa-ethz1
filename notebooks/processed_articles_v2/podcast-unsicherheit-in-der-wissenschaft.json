@@ -1,0 +1,189 @@
+{
+  "filename": "podcast-unsicherheit-in-der-wissenschaft.md",
+  "original_filename": "podcast-unsicherheit-in-der-wissenschaft.html",
+  "source_path": "de_news_events/2021/04/podcast-unsicherheit-in-der-wissenschaft.html",
+  "date": "2021-04",
+  "title": "Podcast Unsicherheit In Der Wissenschaft",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Helga Nowotny ist eine international anerkannte Forscherin zu Social Studies of Science. Sie ist emeritierte Professorin der ETH und sitzt in vielen Beiräten. Eric Burns hat gerade seinen Ph.D. an der ETH abgeschlossen und verfolgt eine Karriere in der Schweiz.\n\nIn der letzten Folge der Uncertainty-Serie sprechen wir mit Helga und Eric darüber, warum Unsicherheit in der Forschung eminent ist, aber gleichzeitig den Druck auf die Forscher hinsichtlich ihrer Position erhöht.\n\nEine Folge mit verschiedenen Generationen zu einem Thema."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Helga Nowotny",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 125,
+        "end": 128
+      },
+      {
+        "text": "Eric Burns",
+        "label": "PER",
+        "start": 159,
+        "end": 169
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 201,
+        "end": 204
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 249,
+        "end": 260
+      },
+      {
+        "text": "Uncertainty-Serie",
+        "label": "MISC",
+        "start": 287,
+        "end": 304
+      },
+      {
+        "text": "Helga",
+        "label": "PER",
+        "start": 322,
+        "end": 327
+      },
+      {
+        "text": "Eric",
+        "label": "PER",
+        "start": 332,
+        "end": 336
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eric",
+        "Eric Burns",
+        "Helga",
+        "Helga Nowotny"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Uncertainty-Serie"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Helga Nowotny": 1,
+      "Eric Burns": 1,
+      "der Schweiz": 1,
+      "Uncertainty-Serie": 1,
+      "Helga": 1,
+      "Eric": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-unsicherheit-in-der-wissenschaft.md",
+      "title": "De News Events/2021/04/podcast Unsicherheit in der Wissenschaft",
+      "language": "de",
+      "source_path": "de_news_events/2021/04/podcast-unsicherheit-in-der-wissenschaft.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Eric",
+        "Eric Burns",
+        "Helga",
+        "Helga Nowotny"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Uncertainty-Serie"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Social Studies",
+        "Wissenschaft Helga",
+        "Eric Burns",
+        "Uncertainty-Serie",
+        "Eine Folge",
+        "De News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "der Schweiz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Helga Nowotny",
+        "Eric Burns",
+        "der Schweiz",
+        "Uncertainty-Serie",
+        "Helga",
+        "Eric"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 599
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Helga",
+        "ETH",
+        "Eric Burns",
+        "Eric",
+        "Helga Nowotny",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Uncertainty-Serie",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

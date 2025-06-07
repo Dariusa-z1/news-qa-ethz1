@@ -1,0 +1,176 @@
+{
+  "filename": "eine-zeitgemaesse-loesung-fuer-den-hydrozephalus.md",
+  "original_filename": "eine-zeitgemaesse-loesung-fuer-den-hydrozephalus.html",
+  "source_path": "de_news_events/2022/05/eine-zeitgemaesse-loesung-fuer-den-hydrozephalus.html",
+  "date": "2022-05",
+  "title": "Eine Zeitgemaesse Loesung Fuer Den Hydrozephalus",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Fokusprojekte",
+      "text": "Bei der Krankheit Hydrozephalus sammelt sich Hirnflüssigkeit in den Hohlräumen des Gehirns. Eine Therapiemöglichkeit ist, diese Flüssigkeit über eine von Chirurg:innen angelegte und als Shunt bezeichnete Verbindung in die Bauchhöhle abfliessen zu lassen. Bei solchen reinmechanischen Shunts kommt es aber oft zu Komplikationen. Das siebenköpfige Vieshunt-Team möchte deshalb die Behandlungsmethode durch die Entwicklung eines mechatronischen Smart Shunt verbessern. Die Studierenden entwickeln ein intelligentes System, welches den Hirndruck automatisch auf ein gesundes Niveau regelt."
+    },
+    {
+      "heading": "Fokusprojekte",
+      "text": "In Fokusprojekten wenden Bachelorstudierende der Studiengänge Maschinenbau und Elektrotechnik das Gelernte konkret an und entwickeln selbständig ein Produkt. Ausgehend von einer marktorientierten Problemstellung durchschreiten die Teams alle Prozesse der Produktentwicklung realitätsnah: Marketing, Konzeption, Design, Engineering, Simulation, Entwurf und Produktion. Am 31. Mai 2022 stellen die Studierenden ihre Projekte beim Rollout in einer öffentlichen Ausstellung und in Präsentationen vor."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Bauchhöhle",
+        "label": "LOC",
+        "start": 222,
+        "end": 232
+      },
+      {
+        "text": "Vieshunt-Team",
+        "label": "ORG",
+        "start": 346,
+        "end": 359
+      },
+      {
+        "text": "Behandlungsmethode",
+        "label": "LOC",
+        "start": 379,
+        "end": 397
+      },
+      {
+        "text": "Teams",
+        "label": "PER",
+        "start": 231,
+        "end": 236
+      },
+      {
+        "text": "Marketing",
+        "label": "PER",
+        "start": 288,
+        "end": 297
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Marketing",
+        "Teams"
+      ],
+      "ORG": [
+        "Vieshunt-Team"
+      ],
+      "LOCATION": [
+        "Bauchhöhle",
+        "Behandlungsmethode"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Bauchhöhle": 1,
+      "Vieshunt-Team": 1,
+      "Behandlungsmethode": 1,
+      "Teams": 1,
+      "Marketing": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eine-zeitgemaesse-loesung-fuer-den-hydrozephalus.md",
+      "title": "De News Events/2022/05/eine Zeitgemaesse Loesung Fuer den Hydrozephalus",
+      "language": "de",
+      "source_path": "de_news_events/2022/05/eine-zeitgemaesse-loesung-fuer-den-hydrozephalus.html"
+    },
+    "temporal": {
+      "publication_date": "2022-05",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Marketing",
+        "Teams"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Krankheit Hydrozephalus",
+        "Hydrozephalus Bei",
+        "In Fokusprojekten",
+        "Zeitgemaesse Loesung",
+        "Vieshunt-Team",
+        "Smart Shunt",
+        "De News",
+        "Die Studierenden"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Vieshunt-Team"
+      ],
+      "locations": [
+        "Bauchhöhle",
+        "Behandlungsmethode"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "De News",
+        "Bauchhöhle",
+        "Vieshunt-Team",
+        "Behandlungsmethode",
+        "Teams",
+        "Marketing"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Fokusprojekte",
+          "Fokusprojekte"
+        ],
+        "content_length": 1154
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Vieshunt-Team",
+        "Teams",
+        "2022",
+        "De News",
+        "Marketing"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

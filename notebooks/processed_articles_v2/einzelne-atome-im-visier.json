@@ -1,0 +1,478 @@
+{
+  "filename": "einzelne-atome-im-visier.md",
+  "original_filename": "einzelne-atome-im-visier.html",
+  "source_path": "de_news_events/2019/06/einzelne-atome-im-visier.html",
+  "date": "2019-06",
+  "title": "Einzelne Atome Im Visier",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Massiv höhere Auflösung",
+      "text": "Die Kernspinresonanz-Spektroskopie – kurz NMR-Spektroskopie – ist eine der wichtigsten physikalisch-chemischen Untersuchungsmethoden. Damit lässt sich beispielsweise die Struktur und die Dynamik von Molekülen präzise bestimmen. Wie wichtig die Methode für die Wissenschaft ist, zeigt sich auch daran, dass die beiden letzten Nobelpreisträger der ETH Zürich, Richard Ernst und Kurt Wüthrich, für Weiterentwicklungen dieser Methode ausgezeichnet wurden.\n\nDie Technik beruht auf der magnetischen Kernresonanz. Dabei macht man sich zunutze, dass gewisse Atomkerne mit einem Magnetfeld wechselwirken. Eine wichtige Grösse ist dabei der Kernspin. Er ist vergleichbar mit der Rotationsachse eines Kinderkreisels. Ähnlich wie wenn ein Kreisel zu taumeln beginnt – Fachleute sprechen von Präzession – beginnen auch Kernspins, die einem Magnetfeld ausgesetzt sind, zu präzessieren. Dabei entsteht ein elektromagnetisches Signal, das von aussen mit einer Induktionsspule gemessen werden kann."
+    },
+    {
+      "heading": "Massiv höhere Auflösung",
+      "text": "Forschern aus der Gruppe von Christian Degen, Professor für Festkörperphysik an der ETH Zürich, haben nun einen neuen Ansatz entwickelt, mit dem es erstmals möglich wird, die Präzession eines einzelnen Kernspins direkt zu verfolgen. Zum Vergleich: Bei herkömmlichen NMR-Messungen sind je nach Situation mindestens 10 12 bis 10 18 Atomkerne notwendig, damit überhaupt ein Messsignal registriert werden kann.\n\nIn ihrer Arbeit untersuchten die ETH-Forschenden das Verhalten von Kohlenstoff-13-Atomen in Diamanten. Dabei massen sie die Präzession des Kohlenstoffkerns nicht auf herkömmliche Weise, sondern sie nutzten den benachbarten Elektronenspin einer Gitterfehlstelle des Diamanten – einem sogenannten NV-Zentrum – als Sensor. «Wir nutzen also ein zweites Quantensystem, um das Verhalten des ersten Quantensystems zu untersuchen», bringt Kristian Cujia, Doktorand in Degens Gruppe, das Prinzip auf den Punkt. «Damit haben wir ein sehr empfindliches Messsystem geschaffen.»"
+    },
+    {
+      "heading": "Grosses Potenzial für künftige Anwendungen",
+      "text": "Quantensysteme sind heikle Objekte, da man bei einer Messung immer auch das zu beobachtende System beeinflusst. Deshalb konnten die Forscher das Verhalten des Kohlenstoffspins nicht kontinuierlich verfolgen, da sich sonst die Präzessionsbewegung zu stark verändert hätte. Sie entwickelten deshalb ein spezielles Messverfahren, bei dem der Spin des Kohlenstoffatoms durch eine Serie von kurz aufeinanderfolgenden schwachen Messungen erfasst wird. Dadurch wurde es möglich, den Einfluss der Beobachtung so gering zu halten, dass das System nicht messbar beeinflusst wird und die ursprüngliche Kreisbewegung immer noch erkennbar bleibt.\n\n«Unsere Methode öffnet den Weg für eine bemerkenswerte Weiterentwicklung der NMR-Technologie», hält Degen fest. «Wir sind damit potenziell in der Lage, direkt Spektren von einzelnen Molekülen aufzunehmen und Strukturen auf atomarer Ebene zu analysieren.» Als erstes Beispiel haben die Physiker die dreidimensionale Lage der Kohlenstoffkerne im Diamantgitter mit atomarer Auflösung bestimmt. Die Physiker sehen in dieser Entwicklung viel Potenzial. «Derart detaillierte NMR-Messungen könnten in vielen Bereichen zu völlig neuen Einsichten führen, so wie dies durch die herkömmliche NMR-Spektroskopie in den letzten Jahrzehnten bereits geschehen ist.»\n\nDiese Arbeit wurde im Rahmen des Nationalen Forschungsschwerpunkts Quantum Science and Technology ( NCCR QSIT ) durchgeführt.\n\nCujia KS, Boss JM, Herb K, Zopes J, Degen CL: Tracking the precession of single nuclear spins by weak measurements. Nature, 24. Juni 2019, doi: externe Seite 10.1038/s41586-019-1334-9"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Kernspinresonanz-Spektroskopie",
+        "label": "MISC",
+        "start": 4,
+        "end": 34
+      },
+      {
+        "text": "NMR-Spektroskopie",
+        "label": "MISC",
+        "start": 42,
+        "end": 59
+      },
+      {
+        "text": "physikalisch-chemischen",
+        "label": "MISC",
+        "start": 87,
+        "end": 110
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 346,
+        "end": 356
+      },
+      {
+        "text": "Richard Ernst",
+        "label": "PER",
+        "start": 358,
+        "end": 371
+      },
+      {
+        "text": "Kurt Wüthrich",
+        "label": "PER",
+        "start": 376,
+        "end": 389
+      },
+      {
+        "text": "Atomkerne",
+        "label": "PER",
+        "start": 549,
+        "end": 558
+      },
+      {
+        "text": "Kernspin",
+        "label": "LOC",
+        "start": 630,
+        "end": 638
+      },
+      {
+        "text": "Christian Degen",
+        "label": "PER",
+        "start": 29,
+        "end": 44
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 84,
+        "end": 94
+      },
+      {
+        "text": "NMR-Messungen",
+        "label": "ORG",
+        "start": 266,
+        "end": 279
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 440,
+        "end": 455
+      },
+      {
+        "text": "Kohlenstoff-13-Atomen",
+        "label": "MISC",
+        "start": 474,
+        "end": 495
+      },
+      {
+        "text": "Kohlenstoffkerns",
+        "label": "LOC",
+        "start": 546,
+        "end": 562
+      },
+      {
+        "text": "Elektronenspin",
+        "label": "LOC",
+        "start": 630,
+        "end": 644
+      },
+      {
+        "text": "NV-Zentrum",
+        "label": "ORG",
+        "start": 702,
+        "end": 712
+      },
+      {
+        "text": "Kristian Cujia",
+        "label": "PER",
+        "start": 838,
+        "end": 852
+      },
+      {
+        "text": "Degens",
+        "label": "LOC",
+        "start": 867,
+        "end": 873
+      },
+      {
+        "text": "Unsere Methode",
+        "label": "MISC",
+        "start": 635,
+        "end": 649
+      },
+      {
+        "text": "Degen",
+        "label": "PER",
+        "start": 734,
+        "end": 739
+      },
+      {
+        "text": "Diamantgitter",
+        "label": "LOC",
+        "start": 978,
+        "end": 991
+      },
+      {
+        "text": "NMR-Messungen",
+        "label": "ORG",
+        "start": 1103,
+        "end": 1116
+      },
+      {
+        "text": "NMR-Spektroskopie",
+        "label": "MISC",
+        "start": 1215,
+        "end": 1232
+      },
+      {
+        "text": "Nationalen Forschungsschwerpunkts Quantum Science and Technology",
+        "label": "ORG",
+        "start": 1317,
+        "end": 1381
+      },
+      {
+        "text": "NCCR QSIT",
+        "label": "MISC",
+        "start": 1384,
+        "end": 1393
+      },
+      {
+        "text": "Cujia KS",
+        "label": "ORG",
+        "start": 1410,
+        "end": 1418
+      },
+      {
+        "text": "Boss JM",
+        "label": "ORG",
+        "start": 1420,
+        "end": 1427
+      },
+      {
+        "text": "Herb K",
+        "label": "PER",
+        "start": 1429,
+        "end": 1435
+      },
+      {
+        "text": "Zopes J",
+        "label": "PER",
+        "start": 1437,
+        "end": 1444
+      },
+      {
+        "text": "Degen CL",
+        "label": "ORG",
+        "start": 1446,
+        "end": 1454
+      },
+      {
+        "text": "Tracking the precession of single nuclear",
+        "label": "MISC",
+        "start": 1456,
+        "end": 1497
+      },
+      {
+        "text": "by weak measurements",
+        "label": "ORG",
+        "start": 1504,
+        "end": 1524
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 1526,
+        "end": 1532
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Atomkerne",
+        "Christian Degen",
+        "De News",
+        "Degen",
+        "Herb K",
+        "Kristian Cujia",
+        "Kurt Wüthrich",
+        "Richard Ernst",
+        "Zopes J"
+      ],
+      "ORG": [
+        "Boss JM",
+        "Cujia KS",
+        "Degen CL",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "NMR-Messungen",
+        "NV-Zentrum",
+        "Nationalen Forschungsschwerpunkts Quantum Science and Technology",
+        "by weak measurements"
+      ],
+      "LOCATION": [
+        "Degens",
+        "Diamantgitter",
+        "Elektronenspin",
+        "Kernspin",
+        "Kohlenstoffkerns"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Kernspinresonanz-Spektroskopie",
+        "Kohlenstoff-13-Atomen",
+        "NCCR QSIT",
+        "NMR-Spektroskopie",
+        "Nature",
+        "Tracking the precession of single nuclear",
+        "Unsere Methode",
+        "physikalisch-chemischen"
+      ]
+    },
+    "entity_counts": {
+      "NMR-Spektroskopie": 2,
+      "ETH Zürich": 2,
+      "NMR-Messungen": 2,
+      "De News": 1,
+      "Kernspinresonanz-Spektroskopie": 1,
+      "physikalisch-chemischen": 1,
+      "Richard Ernst": 1,
+      "Kurt Wüthrich": 1,
+      "Atomkerne": 1,
+      "Kernspin": 1,
+      "Christian Degen": 1,
+      "ETH-Forschenden": 1,
+      "Kohlenstoff-13-Atomen": 1,
+      "Kohlenstoffkerns": 1,
+      "Elektronenspin": 1,
+      "NV-Zentrum": 1,
+      "Kristian Cujia": 1,
+      "Degens": 1,
+      "Unsere Methode": 1,
+      "Degen": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "einzelne-atome-im-visier.md",
+      "title": "De News Events/2019/06/einzelne Atome Im Visier",
+      "language": "de",
+      "source_path": "de_news_events/2019/06/einzelne-atome-im-visier.html"
+    },
+    "temporal": {
+      "publication_date": "2019-06",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Atomkerne",
+        "Christian Degen",
+        "De News",
+        "Degen",
+        "Herb K",
+        "Kristian Cujia",
+        "Kurt Wüthrich",
+        "Richard Ernst",
+        "Zopes J"
+      ],
+      "people_with_roles": {
+        "Christian Degen": [
+          "professor"
+        ],
+        "Degen": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "Kernspinresonanz-Spektroskopie",
+        "Kohlenstoff-13-Atomen",
+        "NCCR QSIT",
+        "NMR-Spektroskopie",
+        "Nature",
+        "Tracking the precession of single nuclear",
+        "Unsere Methode",
+        "physikalisch-chemischen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Zum Vergleich",
+        "Quantum Science",
+        "Die Technik",
+        "NCCR QSIT",
+        "Diese Arbeit",
+        "Christian Degen",
+        "NMR-Spektroskopie",
+        "NMR-Technologie",
+        "NMR-Messungen",
+        "Boss JM",
+        "Kristian Cujia",
+        "Visier Die",
+        "Herb K",
+        "Die Physiker",
+        "Zopes J",
+        "Cujia KS",
+        "Unsere Methode",
+        "Kernspinresonanz-Spektroskopie",
+        "NV-Zentrum",
+        "Richard Ernst",
+        "Degen CL",
+        "Degens Gruppe",
+        "ETH-Forschenden",
+        "De News",
+        "Nationalen Forschungsschwerpunkts",
+        "Atome Im"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Boss JM",
+        "Cujia KS",
+        "Degen CL",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "NMR-Messungen",
+        "NV-Zentrum",
+        "Nationalen Forschungsschwerpunkts Quantum Science and Technology",
+        "by weak measurements"
+      ],
+      "locations": [
+        "Degens",
+        "Diamantgitter",
+        "Elektronenspin",
+        "Kernspin",
+        "Kohlenstoffkerns"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "NMR-Spektroskopie",
+        "ETH Zürich",
+        "NMR-Messungen",
+        "De News",
+        "Kernspinresonanz-Spektroskopie",
+        "physikalisch-chemischen",
+        "Richard Ernst",
+        "Kurt Wüthrich",
+        "Atomkerne",
+        "Kernspin"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Massiv höhere Auflösung",
+          "Massiv höhere Auflösung",
+          "Grosses Potenzial für künftige Anwendungen"
+        ],
+        "content_length": 3600
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Nationalen Forschungsschwerpunkts Quantum Science and Technology",
+        "Degen",
+        "Christian Degen",
+        "2019",
+        "ETH Zürich",
+        "NMR-Messungen",
+        "Kurt Wüthrich",
+        "Boss JM",
+        "Herb K",
+        "Kristian Cujia",
+        "Zopes J",
+        "EU",
+        "Cujia KS",
+        "Atomkerne",
+        "NV-Zentrum",
+        "Richard Ernst",
+        "Degen CL",
+        "ETH-Forschenden",
+        "De News",
+        "by weak measurements"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "physikalisch-chemischen",
+        "Nature",
+        "who",
+        "NMR-Spektroskopie",
+        "Tracking the precession of single nuclear",
+        "NCCR QSIT",
+        "what",
+        "Unsere Methode",
+        "Kernspinresonanz-Spektroskopie",
+        "how",
+        "Kohlenstoff-13-Atomen"
+      ],
+      "graph_relations": [
+        "Christian Degen_has_role_professor",
+        "Degen_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

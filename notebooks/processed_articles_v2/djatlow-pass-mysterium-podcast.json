@@ -1,0 +1,269 @@
+{
+  "filename": "djatlow-pass-mysterium-podcast.md",
+  "original_filename": "djatlow-pass-mysterium-podcast.html",
+  "source_path": "en_news_events/2021/10/djatlow-pass-mysterium-podcast.html",
+  "date": "2021-10",
+  "title": "Djatlow Pass Mysterium Podcast",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Over 60 years ago, a skiing expedition in Soviet Russia started as an adventure and ended in a tragedy. A group of students never returned from a trip to the Ural mountains in the winter of 1959 and were found dead later. This story is known as the Dyatlov Pass Incident. It has inspired many tales about the deaths of the students, including Soviet military experiments, conspiracy theories, killer Yetis, and extraterrestrials. Alexander Puzrin from ETH Zurich and Johan Gaume from EPFL found a plausible explanation for the accident using computer simulation and analytical models. They made headlines around the world with it earlier this year.\n\nGaume J, Puzrin A. Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959. Communications Earth and Environment. 28. Januar 2021. DOI: 10.1038/s43247-020-00081-8"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Pass Mysterium Podcast",
+        "label": "ORG",
+        "start": 31,
+        "end": 53
+      },
+      {
+        "text": "60 years ago",
+        "label": "DATE",
+        "start": 5,
+        "end": 17
+      },
+      {
+        "text": "Soviet",
+        "label": "NORP",
+        "start": 42,
+        "end": 48
+      },
+      {
+        "text": "Russia",
+        "label": "GPE",
+        "start": 49,
+        "end": 55
+      },
+      {
+        "text": "the winter of 1959",
+        "label": "DATE",
+        "start": 176,
+        "end": 194
+      },
+      {
+        "text": "the Dyatlov Pass Incident",
+        "label": "ORG",
+        "start": 245,
+        "end": 270
+      },
+      {
+        "text": "Soviet",
+        "label": "NORP",
+        "start": 343,
+        "end": 349
+      },
+      {
+        "text": "Yetis",
+        "label": "PERSON",
+        "start": 400,
+        "end": 405
+      },
+      {
+        "text": "Alexander Puzrin",
+        "label": "PERSON",
+        "start": 430,
+        "end": 446
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 452,
+        "end": 462
+      },
+      {
+        "text": "Johan Gaume",
+        "label": "PERSON",
+        "start": 467,
+        "end": 478
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 484,
+        "end": 488
+      },
+      {
+        "text": "earlier this year",
+        "label": "DATE",
+        "start": 630,
+        "end": 647
+      },
+      {
+        "text": "the Dyatlov Pass",
+        "label": "WORK_OF_ART",
+        "start": 719,
+        "end": 735
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 814,
+        "end": 821
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexander Puzrin",
+        "Johan Gaume",
+        "Yetis"
+      ],
+      "ORG": [
+        "EPFL",
+        "Pass Mysterium Podcast",
+        "the Dyatlov Pass Incident"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Russia"
+      ],
+      "DATE": [
+        "60 years ago",
+        "earlier this year",
+        "the winter of 1959"
+      ],
+      "MISC": [
+        "10.1038",
+        "Soviet",
+        "the Dyatlov Pass"
+      ]
+    },
+    "entity_counts": {
+      "Soviet": 2,
+      "Pass Mysterium Podcast": 1,
+      "60 years ago": 1,
+      "Russia": 1,
+      "the winter of 1959": 1,
+      "the Dyatlov Pass Incident": 1,
+      "Yetis": 1,
+      "Alexander Puzrin": 1,
+      "ETH Zurich": 1,
+      "Johan Gaume": 1,
+      "EPFL": 1,
+      "earlier this year": 1,
+      "the Dyatlov Pass": 1,
+      "10.1038": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "djatlow-pass-mysterium-podcast.md",
+      "title": "En News Events/2021/10/djatlow Pass Mysterium Podcast",
+      "language": "en",
+      "source_path": "en_news_events/2021/10/djatlow-pass-mysterium-podcast.html"
+    },
+    "temporal": {
+      "publication_date": "2021-10",
+      "mentioned_years": [
+        "1959",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexander Puzrin",
+        "Johan Gaume",
+        "Yetis"
+      ],
+      "people_with_roles": {
+        "Yetis": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Soviet",
+        "the Dyatlov Pass"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Gaume J",
+        "Podcast Over",
+        "En News",
+        "Puzrin A",
+        "Soviet Russia",
+        "Communications Earth",
+        "Pass Mysterium",
+        "ETH Zurich",
+        "Alexander Puzrin",
+        "Johan Gaume",
+        "Dyatlov Pass"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EPFL",
+        "Pass Mysterium Podcast",
+        "the Dyatlov Pass Incident"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Russia"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Soviet",
+        "Pass Mysterium Podcast",
+        "60 years ago",
+        "Russia",
+        "the winter of 1959",
+        "the Dyatlov Pass Incident",
+        "Yetis",
+        "Alexander Puzrin",
+        "ETH Zurich",
+        "Johan Gaume"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 895
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "1959",
+        "EPFL",
+        "the Dyatlov Pass Incident",
+        "Pass Mysterium Podcast",
+        "2021",
+        "Alexander Puzrin",
+        "Johan Gaume",
+        "Yetis"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "the Dyatlov Pass",
+        "Soviet",
+        "10.1038",
+        "when"
+      ],
+      "graph_relations": [
+        "Yetis_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

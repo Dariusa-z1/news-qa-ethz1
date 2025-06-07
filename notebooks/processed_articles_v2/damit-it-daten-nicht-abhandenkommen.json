@@ -1,0 +1,320 @@
+{
+  "filename": "damit-it-daten-nicht-abhandenkommen.md",
+  "original_filename": "damit-it-daten-nicht-abhandenkommen.html",
+  "source_path": "de_news_events/2015/10/damit-it-daten-nicht-abhandenkommen.html",
+  "date": "2015-10",
+  "title": "Damit It Daten Nicht Abhandenkommen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Stellen Sie sich vor: Sie sitzen im Büro, wollen eine Datei auf dem Server öffnen, in die Sie viel Arbeit gesteckt haben – und nichts geht. Fast alle Dateien sind verschlüsselt. In einer neuen Datei finden Sie eine Lösegeldforderung: Umgerechnet knapp 500 Franken in Bitcoins sollen Sie bezahlen, wollen Sie auf Ihre Arbeit je wieder zugreifen können. Nach zwei Wochen verdoppelt sich das Lösegeld.\n\nVor wenigen Wochen ist genau dies an der ETH Zürich tatsächlich passiert. Ein Mitglied der Forschungsgruppe um Jérôme Faist, Professor am Institut für Quantenelektronik, entdeckt die verschlüsselten Dateien. An einem Freitagvormittag informiert es den ETH-Professor über den Fall. Nicht weniger als acht Terabyte Daten haben Unbekannte mittels einer sogenannten Ransomware verschlüsselt. Die Ergebnisse jahrelanger Forschung. «Unvorstellbar, wenn wir auf diese Daten nicht mehr hätten zugreifen können», sagt Faist im Nachhinein. Dennoch habe er nie erwägt, der Forderung der Erpresser nachzukommen.\n\nZum Glück war das in diesem Fall auch nicht nötig: Durch ein automatisiertes Backup aus der vorangegangen Nacht konnte die IT Services Group des Departements Physik in wenigen Tagen alle Daten wiederherstellen, ohne dass etwas verloren ging. Ein idealer Ausgang. Allerdings ist an der ETH Zürich auch ein Fall bekannt, bei dem eine betroffene Person das Lösegeld bezahlt hatte.\n\nUm ETH-Angehörige auf die Wichtigkeit von IT-Sicherheit aufmerksam zu machen, hat die ETH Zürich nun die «IT Security Initiative» mit dem Slogan «Protect your Brainwork» lanciert, die während mehreren Jahren entsprechende Themen aufgreifen wird. Die Kampagne ist Bestandteil eines Informationssicherheitskonzepts, dessen Einführung die Schulleitung Anfang 2014 beschlossen hatte.\n\nIm ersten Teil der Kampagne geht es um Datensicherheit: «Die meisten Menschen haben schon einmal Daten verloren, sei es durch einen Computerabsturz oder weil sie den USB-Stick verloren haben», sagt Reto Gutmann, Direktor der Informatikdienste der ETH Zürich. Sind das die Daten der Masterarbeit oder des anstehenden Vortrags, ist die Situation besonders kritisch. Die Kampagne informiert unter anderem mit Checklisten darüber, wie man seine Daten am besten schützen kann und wie man im Notfall vorgeht.\n\nIn den kommenden Monaten werden zudem die Themen Datenmanipulation und -diebstahl sowie Datenmanagement angesprochen. Der richtige Umgang mit Daten könnte so manchen Mitarbeitenden und Studierenden vor viel Ärger und Frust bewahren. ETH-Professor Faist hat diese Erfahrung nun schon gemacht: Dank des Backups kann er heute über die Erfahrung mit den Datenerpressern lachen: «Ich musste nicht um unsere Daten fürchten. Alles ist so abgelaufen, wie es sollte.»"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "It Daten",
+        "label": "PER",
+        "start": 29,
+        "end": 37
+      },
+      {
+        "text": "Bitcoins",
+        "label": "LOC",
+        "start": 267,
+        "end": 275
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 440,
+        "end": 450
+      },
+      {
+        "text": "Jérôme Faist",
+        "label": "PER",
+        "start": 510,
+        "end": 522
+      },
+      {
+        "text": "Institut für Quantenelektronik",
+        "label": "ORG",
+        "start": 537,
+        "end": 567
+      },
+      {
+        "text": "ETH-Professor über den Fall",
+        "label": "MISC",
+        "start": 651,
+        "end": 678
+      },
+      {
+        "text": "IT Services Group",
+        "label": "ORG",
+        "start": 1122,
+        "end": 1139
+      },
+      {
+        "text": "Departements",
+        "label": "LOC",
+        "start": 1144,
+        "end": 1156
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1284,
+        "end": 1294
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 1380,
+        "end": 1394
+      },
+      {
+        "text": "IT-Sicherheit",
+        "label": "ORG",
+        "start": 1419,
+        "end": 1432
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1463,
+        "end": 1473
+      },
+      {
+        "text": "IT Security Initiative",
+        "label": "ORG",
+        "start": 1483,
+        "end": 1505
+      },
+      {
+        "text": "USB-Stick",
+        "label": "ORG",
+        "start": 1923,
+        "end": 1932
+      },
+      {
+        "text": "Reto Gutmann",
+        "label": "PER",
+        "start": 1955,
+        "end": 1967
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 2004,
+        "end": 2014
+      },
+      {
+        "text": "Checklisten",
+        "label": "PER",
+        "start": 2163,
+        "end": 2174
+      },
+      {
+        "text": "ETH-Professor Faist",
+        "label": "MISC",
+        "start": 2493,
+        "end": 2512
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Checklisten",
+        "De News",
+        "It Daten",
+        "Jérôme Faist",
+        "Reto Gutmann"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "IT Security Initiative",
+        "IT Services Group",
+        "IT-Sicherheit",
+        "Institut für Quantenelektronik",
+        "USB-Stick"
+      ],
+      "LOCATION": [
+        "Bitcoins",
+        "Departements"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "ETH-Professor Faist",
+        "ETH-Professor über den Fall"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 4,
+      "De News": 1,
+      "It Daten": 1,
+      "Bitcoins": 1,
+      "Jérôme Faist": 1,
+      "Institut für Quantenelektronik": 1,
+      "ETH-Professor über den Fall": 1,
+      "IT Services Group": 1,
+      "Departements": 1,
+      "ETH-Angehörige": 1,
+      "IT-Sicherheit": 1,
+      "IT Security Initiative": 1,
+      "USB-Stick": 1,
+      "Reto Gutmann": 1,
+      "Checklisten": 1,
+      "ETH-Professor Faist": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "damit-it-daten-nicht-abhandenkommen.md",
+      "title": "De News Events/2015/10/damit It Daten Nicht Abhandenkommen",
+      "language": "de",
+      "source_path": "de_news_events/2015/10/damit-it-daten-nicht-abhandenkommen.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Checklisten",
+        "De News",
+        "It Daten",
+        "Jérôme Faist",
+        "Reto Gutmann"
+      ],
+      "people_with_roles": {
+        "Jérôme Faist": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Angehörige",
+        "ETH-Professor Faist",
+        "ETH-Professor über den Fall"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nicht Abhandenkommen",
+        "Stellen Sie",
+        "ETH-Professor",
+        "IT-Sicherheit",
+        "Ihre Arbeit",
+        "Departements Physik",
+        "Ein Mitglied",
+        "Terabyte Daten",
+        "Um ETH",
+        "It Daten",
+        "Schulleitung Anfang",
+        "Die Kampagne",
+        "USB-Stick",
+        "IT Services",
+        "Die Ergebnisse",
+        "De News",
+        "IT Security",
+        "Themen Datenmanipulation",
+        "Reto Gutmann"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "IT Security Initiative",
+        "IT Services Group",
+        "IT-Sicherheit",
+        "Institut für Quantenelektronik",
+        "USB-Stick"
+      ],
+      "locations": [
+        "Bitcoins",
+        "Departements"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "De News",
+        "It Daten",
+        "Bitcoins",
+        "Jérôme Faist",
+        "Institut für Quantenelektronik",
+        "ETH-Professor über den Fall",
+        "IT Services Group",
+        "Departements",
+        "ETH-Angehörige"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2782
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Jérôme Faist",
+        "IT-Sicherheit",
+        "USB-Stick",
+        "IT Services Group",
+        "2015",
+        "It Daten",
+        "EU",
+        "ETH Zürich",
+        "De News",
+        "Institut für Quantenelektronik",
+        "Checklisten",
+        "Reto Gutmann",
+        "2014",
+        "IT Security Initiative"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "ETH-Professor Faist",
+        "who",
+        "ETH-Professor über den Fall",
+        "when"
+      ],
+      "graph_relations": [
+        "Jérôme Faist_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

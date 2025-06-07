@@ -1,0 +1,126 @@
+{
+  "filename": "de_internal_2016_08_abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.md",
+  "original_filename": "de_internal_2016_08_abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.html",
+  "source_path": "de_internal/2016/08/abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.html",
+  "date": "2016-08",
+  "title": "Abteilung Betrieb Plant Kundenzufriedenheitsumfrage 2016",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Um sich ein Bild über die Zufriedenheit unserer Kundschaft zu verschaffen, veranstalten wir im Herbst 2016 erneut eine Umfrage.\n\nDie so erhaltenen Beurteilungen, Anforderungen und Wünsche sollen mit sorgfältig geplanten Massnahmen zur weiteren Steigerung des Vertrauens und der Zufriedenheit der Nutzer führen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/08/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Plant Kundenzufriedenheitsumfrage",
+        "label": "ORG",
+        "start": 38,
+        "end": 71
+      },
+      {
+        "text": "Herbst 2016",
+        "label": "MISC",
+        "start": 95,
+        "end": 106
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Plant Kundenzufriedenheitsumfrage"
+      ],
+      "LOCATION": [
+        "De Internal/2016/08/"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Herbst 2016"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2016/08/": 1,
+      "Plant Kundenzufriedenheitsumfrage": 1,
+      "Herbst 2016": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2016_08_abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.md",
+      "title": "De Internal/2016/08/abteilung Betrieb Plant Kundenzufriedenheitsumfrage 2016",
+      "language": "de",
+      "source_path": "de_internal/2016/08/abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Herbst 2016"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "De Internal",
+        "Betrieb Plant"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Plant Kundenzufriedenheitsumfrage"
+      ],
+      "locations": [
+        "De Internal/2016/08/"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2016/08/",
+        "Plant Kundenzufriedenheitsumfrage",
+        "Herbst 2016"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 387
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "Plant Kundenzufriedenheitsumfrage",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "Herbst 2016"
+      ],
+      "graph_relations": []
+    }
+  }
+}

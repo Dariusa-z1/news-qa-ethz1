@@ -1,0 +1,353 @@
+{
+  "filename": "digital-day-2018.md",
+  "original_filename": "digital-day-2018.html",
+  "source_path": "en_news_events/2018/10/digital-day-2018.html",
+  "date": "2018-10",
+  "title": "Digital Day 2018",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The national Digital Day, which took place for the second time this year, aims to raise public awareness of digital transformation. ETH Zurich also took part, focusing on the two topics of IT education for school pupils and digitalisation in medicine. The University has long played a prominent role in both areas.\n\nIn collaboration with the University of Basel and the Bern, Grisons, Lucerne and Schaffhausen universities of teacher education, ETH Zurich’s Centre for Computer Science Education held programming workshops for children. At six locations on Digital Day, over 600 school pupils dived into the fascinating world of programming, discovering that programming is a creative and enjoyable activity. They also learned skills that will make their lives easier in the digital future.\n\nThere was also plenty of positive feedback for the lectures and lab tours on the topic of digitalisation in medicine, which ETH Zurich organised together with the University of Zurich and other partners from the healthcare sector. Experts from a wide range of specialities not only showed an interested public what opportunities digital methods can offer for diagnosis and treatment; they also discussed the related challenges, such as the legal consequences that result from the current capabilities of data processing.\n\nLike last year, the major exhibition in Zurich’s main station again drew large crowds on Digital Day. In addition to the Myosuit exoskeleton, which is being developed by the ETH spin-off Myoswiss into a marketable product, Midata – an association founded by ETH researchers – showed visitors how it can make sensitive information available to science without losing control over the data."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Day 2018",
+        "label": "DATE",
+        "start": 31,
+        "end": 39
+      },
+      {
+        "text": "Digital Day",
+        "label": "EVENT",
+        "start": 13,
+        "end": 24
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 51,
+        "end": 57
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 63,
+        "end": 72
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 132,
+        "end": 142
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 175,
+        "end": 178
+      },
+      {
+        "text": "University",
+        "label": "ORG",
+        "start": 256,
+        "end": 266
+      },
+      {
+        "text": "the University of Basel",
+        "label": "ORG",
+        "start": 337,
+        "end": 360
+      },
+      {
+        "text": "Lucerne",
+        "label": "PERSON",
+        "start": 384,
+        "end": 391
+      },
+      {
+        "text": "Schaffhausen",
+        "label": "PERSON",
+        "start": 396,
+        "end": 408
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 444,
+        "end": 456
+      },
+      {
+        "text": "Centre for Computer Science Education",
+        "label": "ORG",
+        "start": 457,
+        "end": 494
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 539,
+        "end": 542
+      },
+      {
+        "text": "Digital Day",
+        "label": "EVENT",
+        "start": 556,
+        "end": 567
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 914,
+        "end": 924
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 949,
+        "end": 973
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 1316,
+        "end": 1325
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1351,
+        "end": 1357
+      },
+      {
+        "text": "Digital Day",
+        "label": "EVENT",
+        "start": 1400,
+        "end": 1411
+      },
+      {
+        "text": "Myosuit",
+        "label": "ORG",
+        "start": 1432,
+        "end": 1439
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1485,
+        "end": 1488
+      },
+      {
+        "text": "Myoswiss",
+        "label": "NORP",
+        "start": 1498,
+        "end": 1506
+      },
+      {
+        "text": "Midata",
+        "label": "PERSON",
+        "start": 1534,
+        "end": 1540
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1569,
+        "end": 1572
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Lucerne",
+        "Midata",
+        "Schaffhausen"
+      ],
+      "ORG": [
+        "Centre for Computer Science Education",
+        "ETH",
+        "ETH Zurich",
+        "Myosuit",
+        "University",
+        "the University of Basel",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "Day 2018",
+        "last year",
+        "this year"
+      ],
+      "MISC": [
+        "Digital Day",
+        "Myoswiss",
+        "second",
+        "six",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Digital Day": 3,
+      "ETH Zurich": 2,
+      "ETH": 2,
+      "Day 2018": 1,
+      "second": 1,
+      "this year": 1,
+      "two": 1,
+      "University": 1,
+      "the University of Basel": 1,
+      "Lucerne": 1,
+      "Schaffhausen": 1,
+      "ETH Zurich’s": 1,
+      "Centre for Computer Science Education": 1,
+      "six": 1,
+      "the University of Zurich": 1,
+      "last year": 1,
+      "Zurich": 1,
+      "Myosuit": 1,
+      "Myoswiss": 1,
+      "Midata": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digital-day-2018.md",
+      "title": "En News Events/2018/10/digital Day 2018",
+      "language": "en",
+      "source_path": "en_news_events/2018/10/digital-day-2018.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Lucerne",
+        "Midata",
+        "Schaffhausen"
+      ],
+      "people_with_roles": {
+        "Midata": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Digital Day",
+        "Myoswiss",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Digital Day",
+        "The University",
+        "ETH Zurich",
+        "Computer Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Centre for Computer Science Education",
+        "ETH",
+        "ETH Zurich",
+        "Myosuit",
+        "University",
+        "the University of Basel",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Digital Day",
+        "ETH Zurich",
+        "ETH",
+        "Day 2018",
+        "second",
+        "this year",
+        "two",
+        "University",
+        "the University of Basel",
+        "Lucerne"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1742
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "University",
+        "Lucerne",
+        "the University of Basel",
+        "Myosuit",
+        "the University of Zurich",
+        "Centre for Computer Science Education",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Midata",
+        "Schaffhausen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "computer_science",
+        "who",
+        "Digital Day",
+        "Myoswiss",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Midata_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

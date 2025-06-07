@@ -1,0 +1,395 @@
+{
+  "filename": "autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.md",
+  "original_filename": "autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html",
+  "source_path": "en_news_events/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html",
+  "date": "2023-11",
+  "title": "Autonomous Excavator Constructs A Six Metre High Dry Stone Wall",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Until today, dry stone wall construction has involved vast amounts of manual labour.\n\n- A multidisciplinary team of ETH Zurich researchers developed a method of using an autonomous excavator to construct a dry-stone wall that is six metres high and sixty-five metres long.\n\n- Dry stone walls are resource efficient as they use locally sourced materials, such as concrete slabs that are low in embodied energy."
+    },
+    {
+      "heading": "Reference",
+      "text": "ETH Zurich researchers deployed an autonomous excavator, called HEAP, to build a six metre-high and sixty-five-metre-long dry-stone wall. The wall is embedded in a digitally planned and autonomously excavated landscape and park.\n\nThe team of researchers included: Gramazio Kohler Research, the Robotics Systems Lab, Vision for Robotics Lab, and the Chair of Landscape Architecture. They developed this innovative design application as part of the National Centre of Competence in Research for Digital Fabrication (NCCR dfab).\n\nUsing sensors, the excavator can autonomously draw a 3D map of the construction site and localise existing building blocks and stones for the wall’s construction. Specifically designed tools and machine vision approaches enable the excavator to scan and grab large stones in its immediate environment. It can also register their approximate weight as well as their centre of gravity. An algorithm determines the best position for each stone, and the excavator then conducts the task itself by placing the stones in the desired location. The autonomous machine can place 20 to 30 stones in a single consignment – about as many as one delivery could supply.\n\nJohns RL, Wermelinger M, Mascaro R, Jud D, Hurkxkens I, Vasey L, Chli M, Gramazio F, Kohler M, Hutter M: A framework for robotic excavation and dry stone construction using on-site materials, Science Robotics , 22 November 2023, DOI: 10.1126/scirobotics.abp9758"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 8,
+        "end": 13
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 117,
+        "end": 127
+      },
+      {
+        "text": "six metres",
+        "label": "QUANTITY",
+        "start": 230,
+        "end": 240
+      },
+      {
+        "text": "sixty-five metres",
+        "label": "QUANTITY",
+        "start": 250,
+        "end": 267
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "HEAP",
+        "label": "ORG",
+        "start": 64,
+        "end": 68
+      },
+      {
+        "text": "six metre",
+        "label": "QUANTITY",
+        "start": 81,
+        "end": 90
+      },
+      {
+        "text": "sixty-five",
+        "label": "CARDINAL",
+        "start": 100,
+        "end": 110
+      },
+      {
+        "text": "Gramazio Kohler Research",
+        "label": "ORG",
+        "start": 263,
+        "end": 287
+      },
+      {
+        "text": "the Robotics Systems Lab",
+        "label": "ORG",
+        "start": 289,
+        "end": 313
+      },
+      {
+        "text": "the Chair of Landscape Architecture",
+        "label": "LAW",
+        "start": 344,
+        "end": 379
+      },
+      {
+        "text": "the National Centre of Competence in Research",
+        "label": "ORG",
+        "start": 442,
+        "end": 487
+      },
+      {
+        "text": "Digital Fabrication",
+        "label": "ORG",
+        "start": 492,
+        "end": 511
+      },
+      {
+        "text": "scan",
+        "label": "NORP",
+        "start": 770,
+        "end": 774
+      },
+      {
+        "text": "20 to 30",
+        "label": "CARDINAL",
+        "start": 1095,
+        "end": 1103
+      },
+      {
+        "text": "as many as one",
+        "label": "CARDINAL",
+        "start": 1143,
+        "end": 1157
+      },
+      {
+        "text": "Johns RL",
+        "label": "PERSON",
+        "start": 1181,
+        "end": 1189
+      },
+      {
+        "text": "Wermelinger M",
+        "label": "PERSON",
+        "start": 1191,
+        "end": 1204
+      },
+      {
+        "text": "Mascaro",
+        "label": "PERSON",
+        "start": 1206,
+        "end": 1213
+      },
+      {
+        "text": "Vasey L",
+        "label": "PERSON",
+        "start": 1237,
+        "end": 1244
+      },
+      {
+        "text": "Chli M",
+        "label": "ORG",
+        "start": 1246,
+        "end": 1252
+      },
+      {
+        "text": "Gramazio F",
+        "label": "PERSON",
+        "start": 1254,
+        "end": 1264
+      },
+      {
+        "text": "Kohler M",
+        "label": "ORG",
+        "start": 1266,
+        "end": 1274
+      },
+      {
+        "text": "Science Robotics",
+        "label": "ORG",
+        "start": 1373,
+        "end": 1389
+      },
+      {
+        "text": "22 November 2023",
+        "label": "DATE",
+        "start": 1392,
+        "end": 1408
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 1415,
+        "end": 1422
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gramazio F",
+        "Johns RL",
+        "Mascaro",
+        "Vasey L",
+        "Wermelinger M"
+      ],
+      "ORG": [
+        "Chli M",
+        "Digital Fabrication",
+        "ETH Zurich",
+        "Gramazio Kohler Research",
+        "HEAP",
+        "Kohler M",
+        "Science Robotics",
+        "the National Centre of Competence in Research",
+        "the Robotics Systems Lab"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "22 November 2023",
+        "today"
+      ],
+      "MISC": [
+        "10.1126",
+        "20 to 30",
+        "as many as one",
+        "scan",
+        "six metre",
+        "six metres",
+        "sixty-five",
+        "sixty-five metres",
+        "the Chair of Landscape Architecture"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "today": 1,
+      "six metres": 1,
+      "sixty-five metres": 1,
+      "HEAP": 1,
+      "six metre": 1,
+      "sixty-five": 1,
+      "Gramazio Kohler Research": 1,
+      "the Robotics Systems Lab": 1,
+      "the Chair of Landscape Architecture": 1,
+      "the National Centre of Competence in Research": 1,
+      "Digital Fabrication": 1,
+      "scan": 1,
+      "20 to 30": 1,
+      "as many as one": 1,
+      "Johns RL": 1,
+      "Wermelinger M": 1,
+      "Mascaro": 1,
+      "Vasey L": 1,
+      "Chli M": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.md",
+      "title": "En News Events/2023/11/autonomous Excavator Constructs A Six Metre High Dry Stone Wall",
+      "language": "en",
+      "source_path": "en_news_events/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "until"
+    },
+    "people": {
+      "mentioned_people": [
+        "Gramazio F",
+        "Johns RL",
+        "Mascaro",
+        "Vasey L",
+        "Wermelinger M"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "chair",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1126",
+        "20 to 30",
+        "as many as one",
+        "scan",
+        "six metre",
+        "six metres",
+        "sixty-five",
+        "sixty-five metres",
+        "the Chair of Landscape Architecture"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "A Six",
+        "Excavator Constructs",
+        "Digital Fabrication",
+        "Jud D",
+        "Gramazio F",
+        "Gramazio Kohler",
+        "Vasey L",
+        "Dry Stone",
+        "Johns RL",
+        "Hutter M",
+        "Hurkxkens I",
+        "Metre High",
+        "National Centre",
+        "Kohler M",
+        "Robotics Systems",
+        "Mascaro R",
+        "Landscape Architecture",
+        "Chli M",
+        "En News",
+        "Robotics Lab",
+        "ETH Zurich",
+        "Science Robotics",
+        "Wermelinger M"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Chli M",
+        "Digital Fabrication",
+        "ETH Zurich",
+        "Gramazio Kohler Research",
+        "HEAP",
+        "Kohler M",
+        "Science Robotics",
+        "the National Centre of Competence in Research",
+        "the Robotics Systems Lab"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "today",
+        "six metres",
+        "sixty-five metres",
+        "HEAP",
+        "six metre",
+        "sixty-five",
+        "Gramazio Kohler Research",
+        "the Robotics Systems Lab",
+        "the Chair of Landscape Architecture"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "In brief",
+          "Reference"
+        ],
+        "content_length": 1944
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Chli M",
+        "Vasey L",
+        "Gramazio Kohler Research",
+        "the National Centre of Competence in Research",
+        "Johns RL",
+        "Mascaro",
+        "HEAP",
+        "the Robotics Systems Lab",
+        "2023",
+        "Kohler M",
+        "ETH Zurich",
+        "Science Robotics",
+        "Digital Fabrication",
+        "Wermelinger M",
+        "Gramazio F"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "six metres",
+        "sixty-five metres",
+        "who",
+        "as many as one",
+        "scan",
+        "sixty-five",
+        "six metre",
+        "10.1126",
+        "the Chair of Landscape Architecture",
+        "where",
+        "20 to 30",
+        "what",
+        "how",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

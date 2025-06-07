@@ -1,0 +1,427 @@
+{
+  "filename": "blog-restoring-nature-equitably.md",
+  "original_filename": "blog-restoring-nature-equitably.html",
+  "source_path": "en_news_events/2023/01/blog-restoring-nature-equitably.html",
+  "date": "2023-01",
+  "title": "Blog Restoring Nature Equitably",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How social processes affect restoration outcomes",
+      "text": "The United Nations Biodiversity Conference in Montreal closed this past December with an unprecedented agreement to place 30 percent of global degraded landscapes under protection by 2030, especially emphasizing the need to respect indigenous and local communities rights in the process.\n\nYet, despite ambitious policies and strong financial interest, recent restoration efforts have not reached targets: only 18% of land pledged for restoration by 2020 had been restored by 2019, 1 and the world is currently off track in meeting targets set for 2030 . 2\n\nGlobal restoration agenda setting has so far primarily been driven by insights from ecologists, especially by mapping studies outlining potential of restoration across scales. These studies have provided important advances on the global scope and geographical heterogeneity of the challenge, and have played a crucial role in mobilizing attention and efforts toward restoration.\n\nHowever, social aspects such as power relations, governance systems, and value trade-offs also play a key role in determining whether a restoration project sustains over time. Yet, these factors have been given less attention in policy. In a recent study 3 colleagues and I show how areas identified by other scholars 4 to be of highest restoration priority around the world are inhabited by more than a billion people who disproportionately belong to groups with below-average health outcomes, education levels, and income. These people are in many cases directly dependent on their landscape for food security, and often have strong cultural ties to their lands.\n\nCurrent restoration often takes place in the context of strong power imbalances, where external funders typically have more power to decide on if, where and how restoration is carried out, while local communities who are most vulnerable to its outcomes often are the ones with least say.\n\nFurthermore, favored objectives are likely to differ substantially between actors. Whilst local people tend to benefit from restoration projects that are integrated in agricultural systems, follow cultural forest practices, and/or yield economic benefits, private financers often favor restoration projects with strong climate change mitigation profiles. This translates to a preference to invest in fast-growing monoculture carbon farms 5 which may go directly against the objectives of local communitites and may have detrimental effects on ecosystems."
+    },
+    {
+      "heading": "About the author",
+      "text": "In all of this, the question of who governs a landscape becomes apparent. Land-use policies driven by actors in the Global North but implemented in the Global South have a burdensome track-record of increasing marginalization of local communities for the benefit of carbon objectives, especially when decisions are made by distant but powerful stakeholders. 6 Conversely, a growing body of evidence shows how local communities can benefit from sound ecosystem restoration when decision-making is decentralized and equitable. 7\n\nThere is an obvious moral argument for more equitable restoration: the people living in restorable areas are the most affected to how a landscape is altered, and should therefore have the strongest say in decision making.\n\nSara Löfqvist is a doctoral student at the Environmental Policy Lab at ETH Zurich."
+    },
+    {
+      "heading": "Exploiting the full potential of restoration",
+      "text": "But beyond ethical reasoning, restoration projects will be more likely to sustain, and thereby to realize ecological objectives, if they align with local communities’ desires for their landscapes. 8 People are simply more likely to maintain a participative restoration project that benefits them.\n\nRestoration outcomes are a result of both ecological and social processes. By better integrating the two in restoration agenda setting and implementation we can increase our chances to restore earths degraded ecosystems in a way that helps mitigate climate change, preserves biodiversity, and benefits vulnerable communities today and generations to come.\n\n1 Protecting and Restoring Forests: A Story of Large Commitments yet Limited Progress . Five year assessment report. Forestdeclaration.org (2019)\n\n2 New Forest Declaration Assessment shows alarming trajectory of forest loss . WWF (2022)\n\n3 How Social Considerations Improve the Equity and Effectiveness of Ecosystem Restoration . BioScience, biac099 (2022). doi: 10.1093/biosci/biac099\n\n4 Global priority areas for ecosystem restoration . Nature 586 (2020). Doi: 10.1038/s41586-020-2784-9\n\n5 Unlocking the potential of private finance for forest and landscape restoration. Researchsquare: Preprint\n\n6 The reality of REDD+ in Peru: Between theory and practicev (2011)\n\n7 Novel governance for forest landscape restoration in Fandriana Marolambo, Madagascar . World Development Perspectives (2016)\n\n8 Limited effects of tree planting on forest canopy cover and rural livelihoods in Northern India . Nature Sustainability (2021). doi: 10.1038/s41893-021-00761-z"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Restoring Nature",
+        "label": "PERSON",
+        "start": 28,
+        "end": 44
+      },
+      {
+        "text": "The United Nations Biodiversity Conference",
+        "label": "ORG",
+        "start": 0,
+        "end": 42
+      },
+      {
+        "text": "Montreal",
+        "label": "GPE",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "text": "this past December",
+        "label": "DATE",
+        "start": 62,
+        "end": 80
+      },
+      {
+        "text": "30 percent",
+        "label": "PERCENT",
+        "start": 122,
+        "end": 132
+      },
+      {
+        "text": "only 18%",
+        "label": "PERCENT",
+        "start": 404,
+        "end": 412
+      },
+      {
+        "text": "more than a billion",
+        "label": "CARDINAL",
+        "start": 1326,
+        "end": 1345
+      },
+      {
+        "text": "the Global North",
+        "label": "LOC",
+        "start": 112,
+        "end": 128
+      },
+      {
+        "text": "the Global South",
+        "label": "LOC",
+        "start": 148,
+        "end": 164
+      },
+      {
+        "text": "Sara Löfqvist",
+        "label": "PERSON",
+        "start": 749,
+        "end": 762
+      },
+      {
+        "text": "the Environmental Policy Lab",
+        "label": "ORG",
+        "start": 788,
+        "end": 816
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 820,
+        "end": 830
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 398,
+        "end": 401
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 622,
+        "end": 627
+      },
+      {
+        "text": "Limited Progress",
+        "label": "ORG",
+        "start": 722,
+        "end": 738
+      },
+      {
+        "text": "Five year",
+        "label": "DATE",
+        "start": 741,
+        "end": 750
+      },
+      {
+        "text": "Forestdeclaration.org",
+        "label": "ORG",
+        "start": 770,
+        "end": 791
+      },
+      {
+        "text": "3 How Social Considerations Improve the Equity and Effectiveness of Ecosystem Restoration",
+        "label": "ORG",
+        "start": 889,
+        "end": 978
+      },
+      {
+        "text": "BioScience",
+        "label": "ORG",
+        "start": 981,
+        "end": 991
+      },
+      {
+        "text": "10.1093",
+        "label": "CARDINAL",
+        "start": 1014,
+        "end": 1021
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1113,
+        "end": 1120
+      },
+      {
+        "text": "Researchsquare",
+        "label": "ORG",
+        "start": 1222,
+        "end": 1236
+      },
+      {
+        "text": "Peru",
+        "label": "GPE",
+        "start": 1273,
+        "end": 1277
+      },
+      {
+        "text": "Fandriana Marolambo",
+        "label": "ORG",
+        "start": 1370,
+        "end": 1389
+      },
+      {
+        "text": "Madagascar",
+        "label": "GPE",
+        "start": 1391,
+        "end": 1401
+      },
+      {
+        "text": "Northern India",
+        "label": "LOC",
+        "start": 1525,
+        "end": 1539
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1577,
+        "end": 1584
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Restoring Nature",
+        "Sara Löfqvist"
+      ],
+      "ORG": [
+        "3 How Social Considerations Improve the Equity and Effectiveness of Ecosystem Restoration",
+        "BioScience",
+        "Fandriana Marolambo",
+        "Forestdeclaration.org",
+        "Limited Progress",
+        "Researchsquare",
+        "The United Nations Biodiversity Conference",
+        "the Environmental Policy Lab"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Madagascar",
+        "Montreal",
+        "Northern India",
+        "Peru",
+        "the Global North",
+        "the Global South"
+      ],
+      "DATE": [
+        "Five year",
+        "this past December",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "10.1093",
+        "30 percent",
+        "more than a billion",
+        "only 18%",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "10.1038": 2,
+      "Restoring Nature": 1,
+      "The United Nations Biodiversity Conference": 1,
+      "Montreal": 1,
+      "this past December": 1,
+      "30 percent": 1,
+      "only 18%": 1,
+      "more than a billion": 1,
+      "the Global North": 1,
+      "the Global South": 1,
+      "Sara Löfqvist": 1,
+      "the Environmental Policy Lab": 1,
+      "ETH Zurich": 1,
+      "two": 1,
+      "today": 1,
+      "Limited Progress": 1,
+      "Five year": 1,
+      "Forestdeclaration.org": 1,
+      "3 How Social Considerations Improve the Equity and Effectiveness of Ecosystem Restoration": 1,
+      "BioScience": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blog-restoring-nature-equitably.md",
+      "title": "En News Events/2023/01/blog Restoring Nature Equitably",
+      "language": "en",
+      "source_path": "en_news_events/2023/01/blog-restoring-nature-equitably.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2011",
+        "2016",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2030"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Restoring Nature",
+        "Sara Löfqvist"
+      ],
+      "people_with_roles": {
+        "Sara Löfqvist": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "10.1093",
+        "30 percent",
+        "more than a billion",
+        "only 18%"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "United Nations",
+        "Ecosystem Restoration",
+        "Global South",
+        "Restoring Nature",
+        "Nature Sustainability",
+        "Biodiversity Conference",
+        "Limited Progress",
+        "World Development",
+        "Fandriana Marolambo",
+        "A Story",
+        "Northern India",
+        "Considerations Improve",
+        "Global North",
+        "Restoring Forests",
+        "How Social",
+        "Large Commitments",
+        "Environmental Policy",
+        "Equitably The",
+        "New Forest",
+        "En News",
+        "Declaration Assessment",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3 How Social Considerations Improve the Equity and Effectiveness of Ecosystem Restoration",
+        "BioScience",
+        "Fandriana Marolambo",
+        "Forestdeclaration.org",
+        "Limited Progress",
+        "Researchsquare",
+        "The United Nations Biodiversity Conference",
+        "the Environmental Policy Lab"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Madagascar",
+        "Montreal",
+        "Northern India",
+        "Peru",
+        "the Global North",
+        "the Global South"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "10.1038",
+        "Restoring Nature",
+        "The United Nations Biodiversity Conference",
+        "Montreal",
+        "this past December",
+        "30 percent",
+        "only 18%",
+        "more than a billion",
+        "the Global North",
+        "the Global South"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "How social processes affect restoration outcomes",
+          "About the author",
+          "Exploiting the full potential of restoration"
+        ],
+        "content_length": 4948
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020",
+        "2016",
+        "2023",
+        "ERC",
+        "Restoring Nature",
+        "2019",
+        "BioScience",
+        "2022",
+        "Limited Progress",
+        "Fandriana Marolambo",
+        "Forestdeclaration.org",
+        "2011",
+        "Sara Löfqvist",
+        "3 How Social Considerations Improve the Equity and Effectiveness of Ecosystem Restoration",
+        "2030",
+        "Researchsquare",
+        "The United Nations Biodiversity Conference",
+        "2021",
+        "the Environmental Policy Lab"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "only 18%",
+        "more than a billion",
+        "who",
+        "10.1038",
+        "30 percent",
+        "10.1093",
+        "what",
+        "how",
+        "medical_research",
+        "climate_change",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Sara Löfqvist_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

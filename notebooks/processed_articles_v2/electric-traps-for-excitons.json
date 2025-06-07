@@ -1,0 +1,374 @@
+{
+  "filename": "electric-traps-for-excitons.md",
+  "original_filename": "electric-traps-for-excitons.html",
+  "source_path": "en_news_events/2022/05/electric-traps-for-excitons.html",
+  "date": "2022-05",
+  "title": "Electric Traps For Excitons",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "An important interface",
+      "text": "In semiconductor materials, electric current can be conducted both by electrons and by positively charged holes, or missing electrons. Light hitting the material can also excite electrons to a higher energy band, leaving behind a hole in the original band. Through electrostatic attraction, the electron and the hole now combine to create a so-called exciton, a quasiparticle that, as a whole, behaves like a neutral particle. Because of their neutrality, so far is has been difficult to hold excitons at a specific point inside a material.\n\nA team of scientists led by Ataç Imamoğlu, professor at the Physics Department, Puneet Murthy, postdoc in his group, and David Norris, professor at the Department of Mechanical and Process Engineering, have now succeeded for the first time in trapping excitons in a tiny space using controllable electric fields, and also demonstrating the quantization of their motion. The researchers hope that their results, recently published in the scientific journal Nature, will lead to progress towards applications in optical technologies as well as to new insights into fundamental physical phenomena."
+    },
+    {
+      "heading": "An important interface",
+      "text": "“Excitons play an important role at the interface between semiconductors and light”, says Murthy. They are used, for instance, in light sensors, solar cells or even novel single photon sources for quantum technologies. To trap them in a controlled way has been an ambitious goal of solid state physics research for many years."
+    },
+    {
+      "heading": "Applications in quantum information processing",
+      "text": "The researchers at ETH create their exciton traps by sandwiching a thin layer of the semiconductor material molybdenum diselenide between two insulators and adding and electrode on the top and bottom (see figure). In this configuration, the top electrode only covers part of the material. As a result, applying a voltage creates an electric field whose strength depends on the position inside the material. This, in turn, causes positively charged holes to accumulate inside the semiconductor directly underneath the top electrode, whereas elsewhere negatively charged electrons pile up. In the plane of the semiconductor, an electric field thus arises in between those two zones."
+    },
+    {
+      "heading": "Quantized exciton motion",
+      "text": "„This electric field, which changes strongly over a short distance, can very effectively trap the excitons in the material”, explains Deepankur Thureja, PhD student and lead author of the paper who carried out the experiments together with Murthy. Although the excitons are electrically neutral they can be polarized by electric fields, which means that the electron and the hole of the exciton are pulled a bit farther apart. This results in an electric dipole field, which interacts with the external field and thus exerts a force on the exciton.\n\nTo experimentally demonstrate that this principle actually works, the researchers illuminated the material with laser light of different wavelengths and measured the light reflection in each case. Doing so, they observed a series of resonances, meaning that at certain wavelengths the light was reflected more strongly than expected. Furthermore, the resonances could be tuned by changing the voltage on the electrodes. “For us, that was a clear sign that the electric fields created a trap for the excitons, and that the motion of the excitons inside that trap was quantized”, Thureja says. Quantized here means that the excitons can only take on certain well-defined energy states, much like electrons inside an atom. From the positions of the resonances Imamoğlu and his co-workers were able to deduce that the exciton trap created by the electric fields was less than ten nanometres wide."
+    },
+    {
+      "heading": "Applications in quantum information processing",
+      "text": "Such strongly trapped excitons are extremely important both for practical applications and basic questions, says Murthy: “Electrically controllable exciton traps were a missing link in the chain up to now.” For instance, physicists can now string together many such trapped excitons and adjust them in such a way that they emit photons having exactly the same properties. “That would allow one to create identical single photon sources for quantum information processing”, Murthy explains. And Imamoğlu adds: “Those traps also open up new perspectives for basic research. Amongst other things, they will enable us to study nonequilibrium states of strongly interacting excitons.”\n\nThureja D et al. Electrically tunable quantum confinement of neutral excitons. Nature, published online 25 May 2022, doi: 10.1038/s41586-022-04634-z"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Ataç Imamoğlu",
+        "label": "ORG",
+        "start": 569,
+        "end": 582
+      },
+      {
+        "text": "the Physics Department",
+        "label": "ORG",
+        "start": 597,
+        "end": 619
+      },
+      {
+        "text": "Puneet Murthy",
+        "label": "PERSON",
+        "start": 621,
+        "end": 634
+      },
+      {
+        "text": "David Norris",
+        "label": "PERSON",
+        "start": 662,
+        "end": 674
+      },
+      {
+        "text": "the Department of Mechanical and Process Engineering",
+        "label": "ORG",
+        "start": 689,
+        "end": 741
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 770,
+        "end": 775
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 997,
+        "end": 1003
+      },
+      {
+        "text": "Murthy",
+        "label": "PERSON",
+        "start": 90,
+        "end": 96
+      },
+      {
+        "text": "many years",
+        "label": "DATE",
+        "start": 315,
+        "end": 325
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 138,
+        "end": 141
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 670,
+        "end": 673
+      },
+      {
+        "text": "Deepankur",
+        "label": "ORG",
+        "start": 134,
+        "end": 143
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 153,
+        "end": 156
+      },
+      {
+        "text": "Murthy",
+        "label": "PERSON",
+        "start": 240,
+        "end": 246
+      },
+      {
+        "text": "Thureja",
+        "label": "PERSON",
+        "start": 1127,
+        "end": 1134
+      },
+      {
+        "text": "Imamoğlu",
+        "label": "PRODUCT",
+        "start": 1306,
+        "end": 1314
+      },
+      {
+        "text": "Murthy",
+        "label": "PERSON",
+        "start": 113,
+        "end": 119
+      },
+      {
+        "text": "Murthy",
+        "label": "PERSON",
+        "start": 473,
+        "end": 479
+      },
+      {
+        "text": "May 2022",
+        "label": "DATE",
+        "start": 787,
+        "end": 795
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 802,
+        "end": 809
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "David Norris",
+        "Murthy",
+        "Puneet Murthy",
+        "Thureja"
+      ],
+      "ORG": [
+        "Ataç Imamoğlu",
+        "Deepankur",
+        "ETH",
+        "the Department of Mechanical and Process Engineering",
+        "the Physics Department"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "May 2022",
+        "many years"
+      ],
+      "MISC": [
+        "10.1038",
+        "Imamoğlu",
+        "Nature",
+        "PhD",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Murthy": 4,
+      "two": 2,
+      "Ataç Imamoğlu": 1,
+      "the Physics Department": 1,
+      "Puneet Murthy": 1,
+      "David Norris": 1,
+      "the Department of Mechanical and Process Engineering": 1,
+      "first": 1,
+      "Nature": 1,
+      "many years": 1,
+      "ETH": 1,
+      "Deepankur": 1,
+      "PhD": 1,
+      "Thureja": 1,
+      "Imamoğlu": 1,
+      "May 2022": 1,
+      "10.1038": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "electric-traps-for-excitons.md",
+      "title": "En News Events/2022/05/electric Traps For Excitons",
+      "language": "en",
+      "source_path": "en_news_events/2022/05/electric-traps-for-excitons.html"
+    },
+    "temporal": {
+      "publication_date": "2022-05",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "David Norris",
+        "Murthy",
+        "Puneet Murthy",
+        "Thureja"
+      ],
+      "people_with_roles": {
+        "David Norris": [
+          "scientist",
+          "professor"
+        ],
+        "Murthy": [
+          "scientist",
+          "student",
+          "professor"
+        ],
+        "Puneet Murthy": [
+          "scientist",
+          "professor"
+        ],
+        "Thureja": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Imamoğlu",
+        "Nature",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Traps For",
+        "Puneet Murthy",
+        "En News",
+        "Excitons In",
+        "Process Engineering",
+        "David Norris",
+        "Thureja D",
+        "Deepankur Thureja",
+        "Physics Department"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mechanical and Process Engineering"
+      ],
+      "institutions": [
+        "Ataç Imamoğlu",
+        "Deepankur",
+        "ETH",
+        "the Department of Mechanical and Process Engineering",
+        "the Physics Department"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Murthy",
+        "two",
+        "Ataç Imamoğlu",
+        "the Physics Department",
+        "Puneet Murthy",
+        "David Norris",
+        "the Department of Mechanical and Process Engineering",
+        "first",
+        "Nature",
+        "many years"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "An important interface",
+          "An important interface",
+          "Applications in quantum information processing",
+          "Quantized exciton motion",
+          "Applications in quantum information processing"
+        ],
+        "content_length": 4468
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Puneet Murthy",
+        "ETH",
+        "the Department of Mechanical and Process Engineering",
+        "Thureja",
+        "EU",
+        "the Physics Department",
+        "2022",
+        "David Norris",
+        "Deepankur",
+        "Murthy",
+        "Ataç Imamoğlu"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "Nature",
+        "who",
+        "10.1038",
+        "Imamoğlu",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "David Norris_has_role_scientist",
+        "David Norris_has_role_professor",
+        "Murthy_has_role_scientist",
+        "Murthy_has_role_student",
+        "Murthy_has_role_professor",
+        "Puneet Murthy_has_role_scientist",
+        "Puneet Murthy_has_role_professor",
+        "Thureja_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

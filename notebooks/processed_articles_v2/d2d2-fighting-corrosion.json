@@ -1,0 +1,666 @@
+{
+  "filename": "d2d2-fighting-corrosion.md",
+  "original_filename": "d2d2-fighting-corrosion.html",
+  "source_path": "en_news_events/2014/08/d2d2-fighting-corrosion.html",
+  "date": "2014-08",
+  "title": "D2D2 Fighting Corrosion",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Corrosion jeopardises Swiss infrastructure",
+      "text": "We rely on Switzerland’s 3,500 motorway bridges – plus thousands more on cantonal roads – to carry us safely across valleys, streams, rivers and other roads. Most of these bridges have two factors in common: they are essential to Switzerland’s transport infrastructure and they are made of reinforced concrete. This material makes them safe and durable – until the onset of corrosion."
+    },
+    {
+      "heading": "Detecting corrosion with a robot",
+      "text": "Corrosion occurs when chloride invades from de-icing salt and destroys the reinforcing steel inside concrete or when CO2 from the atmosphere lowers the concrete’s normally high pH. The damage becomes worse over time and is often visible only at a very advanced stage. In the long term, this can jeopardise the usability and safety of bridges and other supporting structures made of reinforced concrete. Furthermore, restoring these bridges is very expensive: the greater the damage caused by the corrosion, the more costly the repair work. “In addition, many bridges in Switzerland are already more than 50 years old, which makes corrosion increasingly problematic for Switzerland's infrastructure,” explains Bernhard Elsener, professor at the Institute for Building Materials at ETH Zurich.\n\nThat is why Professor Elsener and a team of researchers developed the technology 25 years ago to identify corrosion at an early stage, attaching an electrode to a wheel and wheeling it across the surface of the reinforced concrete. The sensor measures the electric potential difference in the reinforced concrete – large differences mean that the reinforcement has already started to corrode in those areas. The data is transferred to a computer and then analysed.\n\nThis technology for measuring the potential variation has been used successfully for a long time in the inspection of bridges, says Elsener. But one problem remains: “The wheel electrode is attached to a stick and has to be wheeled manually. This means that many areas, such as supporting pillars and the undersides of high bridges, lie out of reach.”"
+    },
+    {
+      "heading": "Paraswift now C2D2",
+      "text": "Oliver Glauser, Prof. Bernhard Elsener und Prof. Robert Flatt with C2D2.\n\nTo solve this problem, the Institute for Building Materials joined forces with the Institute of Robotics and Intelligent Systems and formed a project team consisting of Bernhard Elsener, Alexis Leibbrandt, Oliver Glauser, Ueli Angst and Robert Flatt from the Institute for Building Materials, as well as Gilles Caprari from the Autonomous Systems Lab at ETH Zurich. The aim was to develop a robot that could detect corrosion in all areas – including sites inaccessible to people – and at the earliest possible stage. The researchers did not have to search long for a solution: “The students in one of our focus projects developed a robot four years ago that can move not only on the ground, but also along walls and ceilings. This made it ideal for our project,” explains Roland Siegwart, professor at the Institute of Robotics and Intelligent Systems and Vice President Research and Corporate Relations at ETH Zurich.\n\nThe robot’s movement is based on Vortex technology, where a type of propeller is attached to the underside of the robot. The propeller rotates fast enough for a movable suction cup to stick the robot on to walls and ceilings, where it can then use its wheels to move along these surfaces. The robot is steered via remote control or a computer."
+    },
+    {
+      "heading": "Successful initial tests",
+      "text": "“The robot was originally called Paraswift and was developed with a view to being used by Disney. When a camera is screwed on to the robot, it can easily film a room from all perspectives,” explains Siegwart. For the new project, the team rechristened Paraswift as C2D2 (Climbing Corrosion Detecting Device) and modified it for use as a corrosion detector: “We made the casing and wheels more robust and incorporated the corrosion-identification technology,” explains Elsener, who is spearheading the project.\n\nThe electrode is located on the underside of the robot and measures the potential difference of the reinforced concrete while the robot moves along the structure. A specialist then analyses the collected data. The engineers also attached a pink ball to the top of C2D2, which makes it easier for cameras to detect it and for researchers to control and locate it. This ball contains an additional camera that records the surroundings and enables the robot to identify and avoid any potential obstacles.\n\nC2D2 on a test mission on the Einstein bridge at ETH’s Hönggerberg campus.\n\nThe team hope that by the end of the project in mid-2015, the robot will be able to identify and overcome such obstacles by itself. The researchers also intend to replace C2D2’s manual steering with a navigation system, which will make the robot autonomous, and they are currently working on a software program that will analyse much of the data itself.\n\nThe project team patented the robot in 2012. Companies interested in a licence can contact ETH transfer, the technology-transfer office at ETH Zurich. C2D2 has already proved its worth during tests on various bridges in Switzerland. The engineers now need only to optimise the robot for use on vertical surfaces. They will conduct more tests before the end of the project. The Federal Roads Office (FEDRO), which is funding the project, will decide based on these results whether to use C2D2 for regular bridge inspections in the future. This is something that Elsener definitely recommends: “C2D2 can help to create a safe and sustainable infrastructure at a relatively low cost – that was the motivation behind the project.”\n\nC2D2 won an award in the ‘Prolongation of service life’ category in an international competition at the Concrete Innovation Conference (COIN) on 13 June 2014. The competition was held for the first time this year."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Fighting Corrosion",
+        "label": "ORG",
+        "start": 28,
+        "end": 46
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 11,
+        "end": 22
+      },
+      {
+        "text": "3,500",
+        "label": "CARDINAL",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 55,
+        "end": 64
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 185,
+        "end": 188
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 230,
+        "end": 241
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 570,
+        "end": 581
+      },
+      {
+        "text": "more than 50 years old",
+        "label": "DATE",
+        "start": 594,
+        "end": 616
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 669,
+        "end": 680
+      },
+      {
+        "text": "Bernhard Elsener",
+        "label": "PERSON",
+        "start": 709,
+        "end": 725
+      },
+      {
+        "text": "the Institute for Building Materials",
+        "label": "ORG",
+        "start": 740,
+        "end": 776
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 780,
+        "end": 790
+      },
+      {
+        "text": "Elsener",
+        "label": "PERSON",
+        "start": 814,
+        "end": 821
+      },
+      {
+        "text": "25 years ago",
+        "label": "DATE",
+        "start": 873,
+        "end": 885
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1402,
+        "end": 1405
+      },
+      {
+        "text": "Oliver Glauser",
+        "label": "PERSON",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Bernhard Elsener",
+        "label": "PERSON",
+        "start": 22,
+        "end": 38
+      },
+      {
+        "text": "Robert Flatt",
+        "label": "PERSON",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "text": "C2D2",
+        "label": "ORG",
+        "start": 67,
+        "end": 71
+      },
+      {
+        "text": "the Institute for Building Materials",
+        "label": "ORG",
+        "start": 96,
+        "end": 132
+      },
+      {
+        "text": "the Institute of Robotics and Intelligent Systems",
+        "label": "ORG",
+        "start": 152,
+        "end": 201
+      },
+      {
+        "text": "Bernhard Elsener",
+        "label": "ORG",
+        "start": 242,
+        "end": 258
+      },
+      {
+        "text": "Alexis Leibbrandt",
+        "label": "PERSON",
+        "start": 260,
+        "end": 277
+      },
+      {
+        "text": "Oliver Glauser",
+        "label": "PERSON",
+        "start": 279,
+        "end": 293
+      },
+      {
+        "text": "Ueli Angst",
+        "label": "ORG",
+        "start": 295,
+        "end": 305
+      },
+      {
+        "text": "Robert Flatt",
+        "label": "PERSON",
+        "start": 310,
+        "end": 322
+      },
+      {
+        "text": "the Institute for Building Materials",
+        "label": "ORG",
+        "start": 328,
+        "end": 364
+      },
+      {
+        "text": "Gilles Caprari",
+        "label": "PERSON",
+        "start": 377,
+        "end": 391
+      },
+      {
+        "text": "the Autonomous Systems Lab",
+        "label": "ORG",
+        "start": 397,
+        "end": 423
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 427,
+        "end": 437
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 667,
+        "end": 670
+      },
+      {
+        "text": "four years ago",
+        "label": "DATE",
+        "start": 711,
+        "end": 725
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PERSON",
+        "start": 845,
+        "end": 860
+      },
+      {
+        "text": "the Institute of Robotics and Intelligent Systems",
+        "label": "ORG",
+        "start": 875,
+        "end": 924
+      },
+      {
+        "text": "Corporate Relations",
+        "label": "ORG",
+        "start": 957,
+        "end": 976
+      },
+      {
+        "text": "Vortex",
+        "label": "ORG",
+        "start": 1025,
+        "end": 1031
+      },
+      {
+        "text": "Paraswift",
+        "label": "ORG",
+        "start": 33,
+        "end": 42
+      },
+      {
+        "text": "Disney",
+        "label": "ORG",
+        "start": 90,
+        "end": 96
+      },
+      {
+        "text": "Siegwart",
+        "label": "WORK_OF_ART",
+        "start": 199,
+        "end": 207
+      },
+      {
+        "text": "Paraswift as C2D2 (Climbing Corrosion Detecting Device",
+        "label": "ORG",
+        "start": 252,
+        "end": 306
+      },
+      {
+        "text": "Elsener",
+        "label": "ORG",
+        "start": 468,
+        "end": 475
+      },
+      {
+        "text": "C2D2",
+        "label": "ORG",
+        "start": 774,
+        "end": 778
+      },
+      {
+        "text": "the Einstein bridge",
+        "label": "FAC",
+        "start": 1038,
+        "end": 1057
+      },
+      {
+        "text": "ETH’s Hönggerberg",
+        "label": "ORG",
+        "start": 1061,
+        "end": 1078
+      },
+      {
+        "text": "mid-2015",
+        "label": "DATE",
+        "start": 1135,
+        "end": 1143
+      },
+      {
+        "text": "C2D2",
+        "label": "ORG",
+        "start": 1258,
+        "end": 1262
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1532,
+        "end": 1535
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1580,
+        "end": 1590
+      },
+      {
+        "text": "C2D2",
+        "label": "ORG",
+        "start": 1592,
+        "end": 1596
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1661,
+        "end": 1672
+      },
+      {
+        "text": "The Federal Roads Office",
+        "label": "ORG",
+        "start": 1814,
+        "end": 1838
+      },
+      {
+        "text": "C2D2",
+        "label": "LOC",
+        "start": 1928,
+        "end": 1932
+      },
+      {
+        "text": "Elsener",
+        "label": "ORG",
+        "start": 2002,
+        "end": 2009
+      },
+      {
+        "text": "the Concrete Innovation Conference (COIN",
+        "label": "ORG",
+        "start": 2268,
+        "end": 2308
+      },
+      {
+        "text": "13 June 2014",
+        "label": "DATE",
+        "start": 2313,
+        "end": 2325
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2360,
+        "end": 2365
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 2371,
+        "end": 2380
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexis Leibbrandt",
+        "Bernhard Elsener",
+        "Elsener",
+        "Gilles Caprari",
+        "Oliver Glauser",
+        "Robert Flatt",
+        "Roland Siegwart"
+      ],
+      "ORG": [
+        "Bernhard Elsener",
+        "C2D2",
+        "Corporate Relations",
+        "Disney",
+        "ETH",
+        "ETH Zurich",
+        "ETH’s Hönggerberg",
+        "Elsener",
+        "Fighting Corrosion",
+        "Paraswift",
+        "Paraswift as C2D2 (Climbing Corrosion Detecting Device",
+        "The Federal Roads Office",
+        "Ueli Angst",
+        "Vortex",
+        "the Autonomous Systems Lab",
+        "the Concrete Innovation Conference (COIN",
+        "the Institute for Building Materials",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "LOCATION": [
+        "C2D2",
+        "ETH Zurich",
+        "Switzerland",
+        "the Einstein bridge"
+      ],
+      "DATE": [
+        "13 June 2014",
+        "25 years ago",
+        "four years ago",
+        "mid-2015",
+        "more than 50 years old",
+        "this year"
+      ],
+      "MISC": [
+        "3,500",
+        "Siegwart",
+        "first",
+        "one",
+        "thousands",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 5,
+      "C2D2": 5,
+      "Bernhard Elsener": 3,
+      "the Institute for Building Materials": 3,
+      "ETH Zurich": 3,
+      "Elsener": 3,
+      "one": 2,
+      "Oliver Glauser": 2,
+      "Robert Flatt": 2,
+      "the Institute of Robotics and Intelligent Systems": 2,
+      "Fighting Corrosion": 1,
+      "3,500": 1,
+      "thousands": 1,
+      "two": 1,
+      "more than 50 years old": 1,
+      "25 years ago": 1,
+      "Alexis Leibbrandt": 1,
+      "Ueli Angst": 1,
+      "Gilles Caprari": 1,
+      "the Autonomous Systems Lab": 1
+    },
+    "total_entities": 57,
+    "unique_entities": 37
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "d2d2-fighting-corrosion.md",
+      "title": "En News Events/2014/08/d2d2 Fighting Corrosion",
+      "language": "en",
+      "source_path": "en_news_events/2014/08/d2d2-fighting-corrosion.html"
+    },
+    "temporal": {
+      "publication_date": "2014-08",
+      "mentioned_years": [
+        "2012",
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexis Leibbrandt",
+        "Bernhard Elsener",
+        "Elsener",
+        "Gilles Caprari",
+        "Oliver Glauser",
+        "Robert Flatt",
+        "Roland Siegwart"
+      ],
+      "people_with_roles": {
+        "Bernhard Elsener": [
+          "professor"
+        ],
+        "Elsener": [
+          "Professor",
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Roland Siegwart": [
+          "president",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "head",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "3,500",
+        "Siegwart",
+        "first",
+        "thousands"
+      ],
+      "grants_funding": [
+        "ERC",
+        "funding"
+      ],
+      "projects": [
+        "Professor Elsener",
+        "Robert Flatt",
+        "Roads Office",
+        "Climbing Corrosion",
+        "Vice President",
+        "The Federal",
+        "Roland Siegwart",
+        "Oliver Glauser",
+        "Concrete Innovation",
+        "Detecting Device",
+        "Intelligent Systems",
+        "Building Materials",
+        "Gilles Caprari",
+        "Ueli Angst",
+        "Autonomous Systems",
+        "En News",
+        "Alexis Leibbrandt",
+        "Fighting Corrosion",
+        "Corporate Relations",
+        "Bernhard Elsener",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Building Materials at ETH Zurich",
+        "Building Materials joined forces with the Institute of Robotics and Intelligent Systems and formed a project team consisting of Bernhard Elsener",
+        "Building Materials"
+      ],
+      "institutions": [
+        "Bernhard Elsener",
+        "C2D2",
+        "Corporate Relations",
+        "Disney",
+        "ETH",
+        "ETH Zurich",
+        "ETH’s Hönggerberg",
+        "Elsener",
+        "Fighting Corrosion",
+        "Paraswift",
+        "Paraswift as C2D2 (Climbing Corrosion Detecting Device",
+        "The Federal Roads Office",
+        "Ueli Angst",
+        "Vortex",
+        "the Autonomous Systems Lab",
+        "the Concrete Innovation Conference (COIN",
+        "the Institute for Building Materials",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "locations": [
+        "C2D2",
+        "ETH Zurich",
+        "Switzerland",
+        "the Einstein bridge"
+      ],
+      "programs": [
+        "program",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "C2D2",
+        "Bernhard Elsener",
+        "the Institute for Building Materials",
+        "ETH Zurich",
+        "Elsener",
+        "one",
+        "Oliver Glauser",
+        "Robert Flatt",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Corrosion jeopardises Swiss infrastructure",
+          "Detecting corrosion with a robot",
+          "Paraswift now C2D2",
+          "Successful initial tests"
+        ],
+        "content_length": 5767
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Robert Flatt",
+        "ERC",
+        "ETH’s Hönggerberg",
+        "Roland Siegwart",
+        "funding",
+        "the Concrete Innovation Conference (COIN",
+        "The Federal Roads Office",
+        "Oliver Glauser",
+        "the Institute of Robotics and Intelligent Systems",
+        "2014",
+        "Vortex",
+        "2015",
+        "Paraswift",
+        "the Autonomous Systems Lab",
+        "2012",
+        "Paraswift as C2D2 (Climbing Corrosion Detecting Device",
+        "Gilles Caprari",
+        "Disney",
+        "Ueli Angst",
+        "Alexis Leibbrandt",
+        "C2D2",
+        "Fighting Corrosion",
+        "Elsener",
+        "Corporate Relations",
+        "the Institute for Building Materials",
+        "Bernhard Elsener",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Siegwart",
+        "who",
+        "thousands",
+        "3,500",
+        "where",
+        "what",
+        "computer_science",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Bernhard Elsener_has_role_professor",
+        "Elsener_has_role_Professor",
+        "Elsener_has_role_researcher",
+        "Elsener_has_role_head",
+        "Elsener_has_role_professor",
+        "Roland Siegwart_has_role_president",
+        "Roland Siegwart_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

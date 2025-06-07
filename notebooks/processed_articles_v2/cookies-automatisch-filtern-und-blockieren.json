@@ -1,0 +1,639 @@
+{
+  "filename": "cookies-automatisch-filtern-und-blockieren.md",
+  "original_filename": "cookies-automatisch-filtern-und-blockieren.html",
+  "source_path": "de_news_events/2022/03/cookies-automatisch-filtern-und-blockieren.html",
+  "date": "2022-03",
+  "title": "Cookies Automatisch Filtern Und Blockieren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Scheinkontrolle durch Cookie-Banner",
+      "text": "In grossen Bannern und quer über den Bildschirm fragen uns Websites, ob wir der Nutzung von Cookies zustimmen. Cookies sind kleine Dateien, die im Webbrowser angelegt werden und die eine:n Nutzer:in für eine Website identifizierbar macht, ohne auf personenbezogene Daten wie eine E-Mail-Adresse angewiesen zu sein. Dadurch können beispielsweise persönliche Einstellungen oder Anmeldedaten gespeichert werden oder die Nutzungszeit- und Dauer ermittelt werden.\n\nCookies können jedoch auch Daten über das Verhalten der Nutzer:in sammeln und machen so personalisierte Werbung möglich. Deshalb haben Gesetzgeber die Verwendung von Cookies reguliert. Die Datenschutz-Grundverordnung der Europäischen Union (DSGVO) besagt, dass Website-Betreiber:innen ohne die Einwilligung der Nutzer:innen keine Cookies mehr setzen dürfen, die Daten über das Nutzungsverhalten sammeln."
+    },
+    {
+      "heading": "Scheinkontrolle durch Cookie-Banner",
+      "text": "Cookie-Banner holen diese Einwilligung für die Website-Betreiber:innen ein und sollen so sicherstellen, dass Nutzer:innen frei wählen können, ob und welche Cookies sie zulassen wollen.\n\nDie Praxis der Cookie-Banner ist jedoch weit davon entfernt: Mehrere Studien haben gezeigt, dass Cookie-Banner den Nutzer:innen nur scheinbar eine Kontrolle über ihre Daten geben. Sei es, indem sie die Nutzer:innen mit gestalterischen Mitteln dazu bringen, alle Cookies zu akzeptieren, oder Cookies und ihre Funktionen unvollständig oder gar nicht deklarieren."
+    },
+    {
+      "heading": "Kontrolle für die Nutzer:innen",
+      "text": "ETH-Forscher schlagen deshalb eine Lösung vor, bei der sich die Nutzer:innen nicht auf die Angaben der Website-Betreiber:innen verlassen müssen. Dino Bollinger, Karel Kubíček und Carlos Cotrini aus der Gruppe von ETH-Professor David Basin haben eine Browser-Erweiterung entwickelt, die Cookies automatisiert kategorisieren und entfernen kann. Ihre Studie präsentieren die Wissenschaftler an einer renommierten Security-Konferenz im August.\n\nDas Hilfsprogramm mit dem Namen Cookieblock verwendet maschinelles Lernen (ML), um Cookies den Datenschutzkategorien «Notwendig», «Funktional», «Analytisch» und «Werbung» zuzuordnen. Mit der Browser-Erweiterung sollen Nutzer nur einmalig angeben müssen, welchen Cookies sie zustimmen, danach übernimmt das Programm. Es entfernt dann alle anderen Cookies unabhängig von den Cookie-Bannern. Diese erscheinen zwar immer noch, werden durch die Browser-Erweiterung aber obsolet. Um Cookie-Banner ganz auszublenden, existieren Browser-Erweiterungen von anderen Anbietern.\n\nCookieblock ist für die Browser Chrome, Firefox, Edge und Opera erhältlich. In Tests zeigte sich, dass mit der Erweiterung mehr als 90 Prozent der Cookies entfernt werden, die Daten über Nutzer sammeln. Bei 85 Prozent der Websites geschah dies ohne Einfluss auf die Funktionen der Websites, bei 8 Prozent stellten die Autoren kleine Fehler bei «nicht wesentlichen Website-Funktionen» fest, und bei 7 Prozent der Websites störte die Erweiterung die Nutzung der Websites, etwa indem Logins verloren gingen. In solchen Fällen können einzelne Websites aber vom Prozess ausgenommen werden."
+    },
+    {
+      "heading": "Datenschutzmängel weit verbreitet",
+      "text": "Im Rahmen der Studie haben die Forschenden mehr als 30'000 Websites mit Cookie-Bannern darauf geprüft, ob die Banner der Europäischen Datenschutzverordnung gerecht werden. Konkret haben sie analysiert, ob die gesetzten Cookies über die Banner vollständig und korrekt deklariert werden und ob nur Cookies mit Zustimmung aktiviert wurden.\n\nDas Resultat: Bei fast 95 Prozent der Websites fanden sie mindestens ein Problem, das sie als potenzieller Verstoss gegen die Datenschutz-Grundverordnung sehen. Mehr als 20 Prozent der Websites verwendeten Cookies, die der Nutzer ausdrücklich abgelehnt hatte, und 70 Prozent der Websites aktivieren bereits Cookies, bevor der Nutzer überhaupt mit dem Banner interagierte. «Das zeigt, wie wichtig es ist, dass die Nutzer die Kontrolle haben», sagt Karel Kubíček.\n\nBollinger D, Kubicek K, Cotrini C, Basin D: externe Seite Automating Cookie Consent and GDPR Violation Detection , 31st USENIX Security Symposium, August 2022, (Preprint)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "cookies Automatisch",
+        "label": "PER",
+        "start": 23,
+        "end": 42
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 92,
+        "end": 99
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 111,
+        "end": 118
+      },
+      {
+        "text": "Webbrowser",
+        "label": "MISC",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 459,
+        "end": 466
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 625,
+        "end": 632
+      },
+      {
+        "text": "Datenschutz-Grundverordnung der Europäischen Union",
+        "label": "ORG",
+        "start": 648,
+        "end": 698
+      },
+      {
+        "text": "DSGVO",
+        "label": "ORG",
+        "start": 700,
+        "end": 705
+      },
+      {
+        "text": "Website-Betreiber",
+        "label": "PER",
+        "start": 720,
+        "end": 737
+      },
+      {
+        "text": "Cookie-Banner",
+        "label": "MISC",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Website-Betreiber",
+        "label": "MISC",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 156,
+        "end": 163
+      },
+      {
+        "text": "Cookie-Banner",
+        "label": "LOC",
+        "start": 200,
+        "end": 213
+      },
+      {
+        "text": "Cookie-Banner",
+        "label": "LOC",
+        "start": 282,
+        "end": 295
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 447,
+        "end": 454
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 476,
+        "end": 483
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Website-Betreiber",
+        "label": "MISC",
+        "start": 103,
+        "end": 120
+      },
+      {
+        "text": "Dino Bollinger",
+        "label": "PER",
+        "start": 145,
+        "end": 159
+      },
+      {
+        "text": "Karel Kubíček",
+        "label": "PER",
+        "start": 161,
+        "end": 174
+      },
+      {
+        "text": "Carlos Cotrini",
+        "label": "PER",
+        "start": 179,
+        "end": 193
+      },
+      {
+        "text": "ETH-Professor David Basin",
+        "label": "PER",
+        "start": 213,
+        "end": 238
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 286,
+        "end": 293
+      },
+      {
+        "text": "Cookieblock",
+        "label": "LOC",
+        "start": 472,
+        "end": 483
+      },
+      {
+        "text": "ML",
+        "label": "MISC",
+        "start": 515,
+        "end": 517
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 523,
+        "end": 530
+      },
+      {
+        "text": "Browser-Erweiterung",
+        "label": "MISC",
+        "start": 631,
+        "end": 650
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 702,
+        "end": 709
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 786,
+        "end": 793
+      },
+      {
+        "text": "Cookie-Bannern",
+        "label": "MISC",
+        "start": 813,
+        "end": 827
+      },
+      {
+        "text": "Browser-Erweiterung",
+        "label": "MISC",
+        "start": 880,
+        "end": 899
+      },
+      {
+        "text": "Cookie-Banner",
+        "label": "LOC",
+        "start": 917,
+        "end": 930
+      },
+      {
+        "text": "Browser-Erweiterungen",
+        "label": "MISC",
+        "start": 961,
+        "end": 982
+      },
+      {
+        "text": "Cookieblock",
+        "label": "LOC",
+        "start": 1006,
+        "end": 1017
+      },
+      {
+        "text": "Browser",
+        "label": "MISC",
+        "start": 1030,
+        "end": 1037
+      },
+      {
+        "text": "Chrome",
+        "label": "MISC",
+        "start": 1038,
+        "end": 1044
+      },
+      {
+        "text": "Firefox",
+        "label": "MISC",
+        "start": 1046,
+        "end": 1053
+      },
+      {
+        "text": "Edge",
+        "label": "MISC",
+        "start": 1055,
+        "end": 1059
+      },
+      {
+        "text": "Opera",
+        "label": "MISC",
+        "start": 1064,
+        "end": 1069
+      },
+      {
+        "text": "Tests",
+        "label": "LOC",
+        "start": 1085,
+        "end": 1090
+      },
+      {
+        "text": "Cookies",
+        "label": "LOC",
+        "start": 1153,
+        "end": 1160
+      },
+      {
+        "text": "Logins",
+        "label": "PER",
+        "start": 1487,
+        "end": 1493
+      },
+      {
+        "text": "Cookie-Bannern",
+        "label": "PER",
+        "start": 72,
+        "end": 86
+      },
+      {
+        "text": "Europäischen Datenschutzverordnung",
+        "label": "ORG",
+        "start": 121,
+        "end": 155
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 219,
+        "end": 226
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 296,
+        "end": 303
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 543,
+        "end": 550
+      },
+      {
+        "text": "Cookies",
+        "label": "PER",
+        "start": 644,
+        "end": 651
+      },
+      {
+        "text": "Karel Kubíček",
+        "label": "PER",
+        "start": 784,
+        "end": 797
+      },
+      {
+        "text": "Bollinger D",
+        "label": "MISC",
+        "start": 799,
+        "end": 810
+      },
+      {
+        "text": "Kubicek K",
+        "label": "MISC",
+        "start": 812,
+        "end": 821
+      },
+      {
+        "text": "Cotrini C",
+        "label": "MISC",
+        "start": 823,
+        "end": 832
+      },
+      {
+        "text": "Basin D",
+        "label": "PER",
+        "start": 834,
+        "end": 841
+      },
+      {
+        "text": "Automating Cookie Consent",
+        "label": "PER",
+        "start": 857,
+        "end": 882
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Automating Cookie Consent",
+        "Basin D",
+        "Carlos Cotrini",
+        "Cookie-Bannern",
+        "Cookies",
+        "De News",
+        "Dino Bollinger",
+        "ETH-Professor David Basin",
+        "Karel Kubíček",
+        "Logins",
+        "Website-Betreiber",
+        "cookies Automatisch"
+      ],
+      "ORG": [
+        "DSGVO",
+        "Datenschutz-Grundverordnung der Europäischen Union",
+        "Europäischen Datenschutzverordnung"
+      ],
+      "LOCATION": [
+        "Cookie-Banner",
+        "Cookieblock",
+        "Cookies",
+        "Tests"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Bollinger D",
+        "Browser",
+        "Browser-Erweiterung",
+        "Browser-Erweiterungen",
+        "Chrome",
+        "Cookie-Banner",
+        "Cookie-Bannern",
+        "Cotrini C",
+        "ETH-Forscher",
+        "Edge",
+        "Firefox",
+        "Kubicek K",
+        "ML",
+        "Opera",
+        "Webbrowser",
+        "Website-Betreiber"
+      ]
+    },
+    "entity_counts": {
+      "Cookies": 16,
+      "Cookie-Banner": 4,
+      "Website-Betreiber": 3,
+      "Karel Kubíček": 2,
+      "Cookieblock": 2,
+      "Browser-Erweiterung": 2,
+      "Cookie-Bannern": 2,
+      "De News": 1,
+      "cookies Automatisch": 1,
+      "Webbrowser": 1,
+      "Datenschutz-Grundverordnung der Europäischen Union": 1,
+      "DSGVO": 1,
+      "ETH-Forscher": 1,
+      "Dino Bollinger": 1,
+      "Carlos Cotrini": 1,
+      "ETH-Professor David Basin": 1,
+      "ML": 1,
+      "Browser-Erweiterungen": 1,
+      "Browser": 1,
+      "Chrome": 1
+    },
+    "total_entities": 55,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "cookies-automatisch-filtern-und-blockieren.md",
+      "title": "De News Events/2022/03/cookies Automatisch Filtern und Blockieren",
+      "language": "de",
+      "source_path": "de_news_events/2022/03/cookies-automatisch-filtern-und-blockieren.html"
+    },
+    "temporal": {
+      "publication_date": "2022-03",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Automating Cookie Consent",
+        "Basin D",
+        "Carlos Cotrini",
+        "Cookie-Bannern",
+        "Cookies",
+        "De News",
+        "Dino Bollinger",
+        "ETH-Professor David Basin",
+        "Karel Kubíček",
+        "Logins",
+        "Website-Betreiber",
+        "cookies Automatisch"
+      ],
+      "people_with_roles": {
+        "Carlos Cotrini": [
+          "professor"
+        ],
+        "Cookies": [
+          "professor"
+        ],
+        "Dino Bollinger": [
+          "professor"
+        ],
+        "ETH-Professor David Basin": [
+          "professor"
+        ],
+        "Karel Kubíček": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Bollinger D",
+        "Browser",
+        "Browser-Erweiterung",
+        "Browser-Erweiterungen",
+        "Chrome",
+        "Cookie-Banner",
+        "Cookie-Bannern",
+        "Cotrini C",
+        "ETH-Forscher",
+        "Edge",
+        "Firefox",
+        "Kubicek K",
+        "Opera",
+        "Webbrowser",
+        "Website-Betreiber"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Datenschutz-Grundverordnung",
+        "Cotrini C",
+        "Carlos Cotrini",
+        "Browser Chrome",
+        "Security-Konferenz",
+        "Kubicek K",
+        "ETH-Professor",
+        "USENIX Security",
+        "Automatisch Filtern",
+        "Ihre Studie",
+        "In Tests",
+        "GDPR Violation",
+        "Seite Automating",
+        "ETH-Forscher",
+        "Cookie-Bannern",
+        "Das Hilfsprogramm",
+        "Im Rahmen",
+        "Die Datenschutz",
+        "Blockieren In",
+        "Namen Cookieblock",
+        "Browser-Erweiterungen",
+        "Cookie-Banner",
+        "Dino Bollinger",
+        "Bollinger D",
+        "Cookie Consent",
+        "Website-Betreiber",
+        "Die Praxis",
+        "Mehrere Studien",
+        "Browser-Erweiterung",
+        "Um Cookie",
+        "E-Mail",
+        "Website-Funktionen",
+        "Das Resultat",
+        "De News",
+        "David Basin",
+        "Basin D"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DSGVO",
+        "Datenschutz-Grundverordnung der Europäischen Union",
+        "Europäischen Datenschutzverordnung"
+      ],
+      "locations": [
+        "Cookie-Banner",
+        "Cookieblock",
+        "Cookies",
+        "Tests"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Cookies",
+        "Cookie-Banner",
+        "Website-Betreiber",
+        "Karel Kubíček",
+        "Cookieblock",
+        "Browser-Erweiterung",
+        "Cookie-Bannern",
+        "De News",
+        "cookies Automatisch",
+        "Webbrowser"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Scheinkontrolle durch Cookie-Banner",
+          "Scheinkontrolle durch Cookie-Banner",
+          "Kontrolle für die Nutzer:innen",
+          "Datenschutzmängel weit verbreitet"
+        ],
+        "content_length": 4042
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Europäischen Datenschutzverordnung",
+        "DSGVO",
+        "cookies Automatisch",
+        "Automating Cookie Consent",
+        "Datenschutz-Grundverordnung der Europäischen Union",
+        "EU",
+        "Carlos Cotrini",
+        "Dino Bollinger",
+        "Cookie-Bannern",
+        "2022",
+        "De News",
+        "Cookies",
+        "Karel Kubíček",
+        "Website-Betreiber",
+        "Basin D",
+        "Logins",
+        "ETH-Professor David Basin"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Webbrowser",
+        "Chrome",
+        "Browser-Erweiterungen",
+        "Cookie-Banner",
+        "Browser",
+        "Cotrini C",
+        "who",
+        "Bollinger D",
+        "Cookie-Bannern",
+        "ETH-Forscher",
+        "Edge",
+        "Firefox",
+        "Kubicek K",
+        "when",
+        "Website-Betreiber",
+        "Opera",
+        "Browser-Erweiterung"
+      ],
+      "graph_relations": [
+        "Carlos Cotrini_has_role_professor",
+        "Cookies_has_role_professor",
+        "Dino Bollinger_has_role_professor",
+        "ETH-Professor David Basin_has_role_professor",
+        "Karel Kubíček_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

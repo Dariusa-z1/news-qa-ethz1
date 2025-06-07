@@ -1,0 +1,128 @@
+{
+  "filename": "de_internal_2024_01_usa-fulbright-specialist-program.md",
+  "original_filename": "de_internal_2024_01_usa-fulbright-specialist-program.html",
+  "source_path": "de_internal/2024/01/usa-fulbright-specialist-program.html",
+  "date": "2024-01",
+  "title": "Usa Fulbright Specialist Program",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Siehe Details auf der englischen Webseite ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/01/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Program",
+        "label": "LOC",
+        "start": 45,
+        "end": 52
+      },
+      {
+        "text": "Details auf der englischen Webseite",
+        "label": "MISC",
+        "start": 6,
+        "end": 41
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2024/01/",
+        "Program"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Details auf der englischen Webseite"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2024/01/": 1,
+      "Program": 1,
+      "Details auf der englischen Webseite": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2024_01_usa-fulbright-specialist-program.md",
+      "title": "De Internal/2024/01/usa Fulbright Specialist Program",
+      "language": "de",
+      "source_path": "de_internal/2024/01/usa-fulbright-specialist-program.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Details auf der englischen Webseite"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Fulbright Specialist",
+        "De Internal",
+        "Program Siehe"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2024/01/",
+        "Program"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2024/01/",
+        "Program",
+        "Details auf der englischen Webseite"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 96
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Details auf der englischen Webseite"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "filename": "eine-neue-app-entlarvt-gefaelschte-dokumente.md",
+  "original_filename": "eine-neue-app-entlarvt-gefaelschte-dokumente.html",
+  "source_path": "de_news_events/2024/03/eine-neue-app-entlarvt-gefaelschte-dokumente.html",
+  "date": "2024-03",
+  "title": "Eine Neue App Entlarvt Gefaelschte Dokumente",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "In Kürze",
+      "text": "- Mit der App des ETH Spin-offs Thenti lassen sich physische Dokumente authentisieren. Abweichungen vom Original werden umgehend auf dem Bildschirm angezeigt.\n\n- Zusammen mit der Stadt Zürich führt Thenti ein Pilotprojekt durch. Ab sofort können die Betreibungsregisterauszüge der städtischen Betreibungsämter auf ihre Echtheit überprüft werden.\n\n- Bald wird die App in der Lage sein, auch dreidimensionale Objekte wie Luxusuhren auf ihre Echtheit zu überprüfen."
+    },
+    {
+      "heading": "Digitale Authentisierung für die reale Welt",
+      "text": "Teure Uhren, Bankauszüge, Diplome oder amtliche Dokumente: Es gibt viele Dinge, die gefälscht werden können und noch mehr Gründe, um sie zu fälschen. Mit einer Smartphone-App machen Forschende aus der Gruppe für Informationssicherheit von David Basin Fälschern einen Strich durch die Rechnung. Das Prinzip ist simpel, die Technologie dahinter komplex. Die Organisation, die ein Dokument ausstellt, versieht das Dokument mit einem QR-Code, speichert das Original verschlüsselt auf einem Server und verschickt eine gedruckte Kopie an die Empfänger:in. Wer nun das gedruckte Dokument auf Echtheit prüfen will, öffnet die Verifizierungs-App der Organisation, scannt den QR-Code und filmt das Dokument, bis die App «grünes Licht» gibt. In der Regel dauert das nur etwas mehr als eine Sekunde. Die App vergleicht die einzelnen Bilder der Filmsequenz mit dem Original und markiert allfällige, auch kleinste Änderungen in Echtzeit auf dem Bildschirm. Aus Gründen des Datenschutzes wird das gefilmte Dokument dazu nicht auf dem Smartphone gespeichert. Die Herausforderung lag für die Forschenden darin, dass nur relevante Unterschiede angezeigt werden und nicht Kaffeeflecken, Falten oder abgenutzte Stellen auf dem Papier. Die App funktioniert auch dann, wenn jemand eine gescannte Version des Dokuments direkt auf dem Computerbildschirm abfilmt."
+    },
+    {
+      "heading": "Digitale Authentisierung für die reale Welt",
+      "text": "Allen Versprechen in der Vergangenheit zum Trotz hat der technologische Fortschritt nicht zum papierlosen Büro geführt. «Die digitale und die physische Welt ergänzen sich», sagt Martín Ochoa, Erstautor des zugrundeliegenden Forschungsartikels. «Die Authentisierung von digitalen Dokumenten ist heute sehr ausgereift. Für uns war es daher nur logisch, die Prinzipien der digitalen Authentisierung auf die physische Welt auszuweiten.» Um der Technologie zum Durchbruch zu verhelfen, hat er zusammen mit David Basin das ETH-Spin-off thenti gegründet. «Papier ist die Verbindung zwischen der digitalen und der realen Welt», ergänzt Basin. «Es gibt immer mehr QR-Codes und Augmented-Reality-Anwendungen, welche die beiden Bereiche miteinander verschmelzen.» Entsprechend wichtig ist es, die Authentisierungstechnologien zu entwickeln, die beiden Bereichen gerecht werden. Der Bedarf ist jedenfalls vorhanden. Gemäss Berichten des britischen Rundfunks BBC verkaufte allein im Jahr 2015 eine sogenannte «Titelmühle» über 200'000 falsche pseudo-akademische Urkunden für rund 50 Millionen Dollar."
+    },
+    {
+      "heading": "Pilotprojekt in Zürich soll Betreibungsregisterauszüge schützen",
+      "text": "Dieses Problem kennt auch die Stadt Zürich. Wer in der Schweiz zum Beispiel eine Wohnung mieten oder ein Auto leasen will, wird in der Regel nach einem Auszug aus dem Betreibungsregister gefragt. Dieser gibt darüber Auskunft, ob in den vergangenen fünf Jahren Betreibungsverfahren gegen die Person eröffnet worden sind. Wer einen Eintrag hat, muss mit spürbaren Nachteilen rechnen, weshalb das Fälschen der Dokumente durchaus vorkommt. Bei den Betreibungsämtern der Stadt Zürich allein gehen daher täglich mehrere Anfragen ein, ob eine eingereichte Auskunft gefälscht sei, was pro Woche schätzungsweise ein- bis 2-mal der Fall ist. Die Dunkelziffer dürfte deutlich höher sein. Das sorgt nicht nur für Ärger bei Vermieter*innen sondern auch für unnötige Aufwände bei den Betreibungsämtern sowie Umtriebe und hohe Kosten bei den Strafverfolgungsbehörden und Gerichten.\n\n«Als wir von der Technologie erfuhren, wussten wir sofort, dass sie für die Stadt interessant sein dürfte», sagt Alejandra Itel, Projektleiterin Organisation und Informatik Stadt Zürich, «einerseits, weil sie für uns ein kostspieliges Problem lösen kann, andererseits, weil wir damit einen Beitrag zur Stärkung von Vertrauen und Sicherheit leisten können.» Die Betreibungsämter meldeten unverzüglich Bedarf an und werden die Lösung ab März 2024 einsetzen. Wird der Pilot zum Erfolg, könnten andere Anwendungsbereiche in der Stadt folgen. Es ist davon auszugehen, dass schweizweit bald weitere Betreibungsämter die neue Technologie einsetzen werden."
+    },
+    {
+      "heading": "Auch dreidimensionale Objekte können überprüft werden",
+      "text": "Die Forschung, die der App zugrunde liegt, finanziert das Zentrum für digitales Vertrauen der Werner Siemens Stiftung. Die Stadt Zürich setzt das Pilotprojekt um und unterstützt mit ihren Erfahrungen die finale Entwicklung der Lösung. Das Geschäftsmodell von thenti sieht vor, dass die App für einige Überprüfungen kostenfrei genutzt werden kann und danach ein Abonnement gelöst werden muss. «Wir hoffen natürlich, dass das Beispiel der Stadt Zürich weitere Interessenten anlockt,» sagt Martín Ochoa. Gleichzeitig arbeitet das Team an weiteren Anwendungsmöglichkeiten. So soll die App bald nicht nur in der Lage sein, Unterschiede auf zweidimensionalen Dokumenten zu erkennen, sondern auch im dreidimensionalen Bereich. Damit könnten beispielsweise Hersteller von Luxusuhren ihre Produkte im System erfassen, wodurch die Kunden in der Lage sind, ihre Uhr mit den registrierten Exemplaren abzugleichen und so eine Fälschung auszuschliessen. «Selbst Produkte höchster Präzision und Qualität weisen kleine Eigenheiten auf, die unser System erkennen kann», verspricht David Basin."
+    },
+    {
+      "heading": "Serie «Künstliche Intelligenz für die Schweiz»",
+      "text": "Künstliche Intelligenz (KI) durchdringt sämtliche Bereiche unseres Lebens. Die ETH-Forschenden entwickeln nicht nur die technischen, formalen und ethischen Grundlagen der KI, sondern sie untersuchen auch ihre Anwendbarkeit. Diese Entwicklungen kommen auch der Schweiz zugute. Darüber hinaus hat die ETH Zürich gemeinsam mit der EPFL die «Swiss AI»-Initiative lanciert. Sie hat zum Ziel, die Schweiz als weltweit führenden Standort für die Entwicklung und Nutzung einer transparenten und vertrauenswürdigen KI zu positionieren. In dieser Serie bündeln wir die KI-Beiträge der ETH Zürich für die Schweiz .\n\nOchoa, M., Toro-Pozo, J., Basin, d. SealClub: Computer-aided Paper Document Authentication. externe Seite https://arxiv.org/pdf/2210.07884.pdf"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Spin-offs Thenti",
+        "label": "ORG",
+        "start": 18,
+        "end": 38
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 178,
+        "end": 190
+      },
+      {
+        "text": "Thenti",
+        "label": "PER",
+        "start": 197,
+        "end": 203
+      },
+      {
+        "text": "Diplome",
+        "label": "LOC",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "text": "Gruppe für Informationssicherheit",
+        "label": "ORG",
+        "start": 201,
+        "end": 234
+      },
+      {
+        "text": "David Basin Fälschern",
+        "label": "PER",
+        "start": 239,
+        "end": 260
+      },
+      {
+        "text": "QR-Code",
+        "label": "ORG",
+        "start": 666,
+        "end": 673
+      },
+      {
+        "text": "Unterschiede",
+        "label": "LOC",
+        "start": 1113,
+        "end": 1125
+      },
+      {
+        "text": "Dokuments",
+        "label": "LOC",
+        "start": 1286,
+        "end": 1295
+      },
+      {
+        "text": "Allen Versprechen",
+        "label": "PER",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Martín Ochoa",
+        "label": "PER",
+        "start": 178,
+        "end": 190
+      },
+      {
+        "text": "Forschungsartikels",
+        "label": "LOC",
+        "start": 224,
+        "end": 242
+      },
+      {
+        "text": "David Basin",
+        "label": "PER",
+        "start": 501,
+        "end": 512
+      },
+      {
+        "text": "QR-Codes",
+        "label": "MISC",
+        "start": 655,
+        "end": 663
+      },
+      {
+        "text": "Augmented-Reality-Anwendungen",
+        "label": "MISC",
+        "start": 668,
+        "end": 697
+      },
+      {
+        "text": "Authentisierungstechnologien",
+        "label": "LOC",
+        "start": 786,
+        "end": 814
+      },
+      {
+        "text": "britischen Rundfunks",
+        "label": "ORG",
+        "start": 925,
+        "end": 945
+      },
+      {
+        "text": "BBC",
+        "label": "ORG",
+        "start": 946,
+        "end": 949
+      },
+      {
+        "text": "pseudo-akademische",
+        "label": "MISC",
+        "start": 1030,
+        "end": 1048
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 30,
+        "end": 42
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 55,
+        "end": 62
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 466,
+        "end": 478
+      },
+      {
+        "text": "Dunkelziffer",
+        "label": "LOC",
+        "start": 636,
+        "end": 648
+      },
+      {
+        "text": "Stadt",
+        "label": "LOC",
+        "start": 943,
+        "end": 948
+      },
+      {
+        "text": "Alejandra Itel",
+        "label": "PER",
+        "start": 980,
+        "end": 994
+      },
+      {
+        "text": "Projektleiterin Organisation und Informatik",
+        "label": "ORG",
+        "start": 996,
+        "end": 1039
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 1040,
+        "end": 1052
+      },
+      {
+        "text": "Stadt",
+        "label": "LOC",
+        "start": 1391,
+        "end": 1396
+      },
+      {
+        "text": "Zentrum für digitales Vertrauen",
+        "label": "ORG",
+        "start": 58,
+        "end": 89
+      },
+      {
+        "text": "Werner Siemens Stiftung",
+        "label": "ORG",
+        "start": 94,
+        "end": 117
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 123,
+        "end": 135
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 437,
+        "end": 449
+      },
+      {
+        "text": "Martín Ochoa",
+        "label": "PER",
+        "start": 487,
+        "end": 499
+      },
+      {
+        "text": "Unterschiede",
+        "label": "LOC",
+        "start": 618,
+        "end": 630
+      },
+      {
+        "text": "David Basin",
+        "label": "PER",
+        "start": 1064,
+        "end": 1075
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 24,
+        "end": 26
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 79,
+        "end": 94
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 171,
+        "end": 173
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 260,
+        "end": 267
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 299,
+        "end": 309
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 328,
+        "end": 332
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 391,
+        "end": 398
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 506,
+        "end": 508
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 575,
+        "end": 585
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 594,
+        "end": 601
+      },
+      {
+        "text": "Ochoa",
+        "label": "PER",
+        "start": 604,
+        "end": 609
+      },
+      {
+        "text": "Toro-Pozo",
+        "label": "PER",
+        "start": 615,
+        "end": 624
+      },
+      {
+        "text": "J.",
+        "label": "PER",
+        "start": 626,
+        "end": 628
+      },
+      {
+        "text": "SealClub",
+        "label": "ORG",
+        "start": 640,
+        "end": 648
+      },
+      {
+        "text": "Computer-aided Paper Document",
+        "label": "MISC",
+        "start": 650,
+        "end": 679
+      },
+      {
+        "text": "https://arxiv.org/pdf/2210.07884.pdf",
+        "label": "PER",
+        "start": 710,
+        "end": 746
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alejandra Itel",
+        "Allen Versprechen",
+        "David Basin",
+        "David Basin Fälschern",
+        "J.",
+        "Martín Ochoa",
+        "Ochoa",
+        "Thenti",
+        "Toro-Pozo",
+        "https://arxiv.org/pdf/2210.07884.pdf"
+      ],
+      "ORG": [
+        "BBC",
+        "EPFL",
+        "ETH Spin-offs Thenti",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Gruppe für Informationssicherheit",
+        "KI",
+        "Projektleiterin Organisation und Informatik",
+        "QR-Code",
+        "SealClub",
+        "Werner Siemens Stiftung",
+        "Zentrum für digitales Vertrauen",
+        "britischen Rundfunks"
+      ],
+      "LOCATION": [
+        "Authentisierungstechnologien",
+        "Diplome",
+        "Dokuments",
+        "Dunkelziffer",
+        "Forschungsartikels",
+        "Schweiz",
+        "Stadt",
+        "Stadt Zürich",
+        "Unterschiede"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Augmented-Reality-Anwendungen",
+        "Computer-aided Paper Document",
+        "QR-Codes",
+        "pseudo-akademische"
+      ]
+    },
+    "entity_counts": {
+      "Stadt Zürich": 6,
+      "Schweiz": 4,
+      "KI": 3,
+      "Unterschiede": 2,
+      "Martín Ochoa": 2,
+      "David Basin": 2,
+      "Stadt": 2,
+      "ETH Zürich": 2,
+      "ETH Spin-offs Thenti": 1,
+      "Thenti": 1,
+      "Diplome": 1,
+      "Gruppe für Informationssicherheit": 1,
+      "David Basin Fälschern": 1,
+      "QR-Code": 1,
+      "Dokuments": 1,
+      "Allen Versprechen": 1,
+      "Forschungsartikels": 1,
+      "QR-Codes": 1,
+      "Augmented-Reality-Anwendungen": 1,
+      "Authentisierungstechnologien": 1
+    },
+    "total_entities": 51,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eine-neue-app-entlarvt-gefaelschte-dokumente.md",
+      "title": "De News Events/2024/03/eine Neue App Entlarvt Gefaelschte Dokumente",
+      "language": "de",
+      "source_path": "de_news_events/2024/03/eine-neue-app-entlarvt-gefaelschte-dokumente.html"
+    },
+    "temporal": {
+      "publication_date": "2024-03",
+      "mentioned_years": [
+        "2015",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Alejandra Itel",
+        "Allen Versprechen",
+        "David Basin",
+        "David Basin Fälschern",
+        "J.",
+        "Martín Ochoa",
+        "Ochoa",
+        "Thenti",
+        "Toro-Pozo",
+        "https://arxiv.org/pdf/2210.07884.pdf"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Augmented-Reality-Anwendungen",
+        "Computer-aided Paper Document",
+        "QR-Codes",
+        "pseudo-akademische"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Der Bedarf",
+        "Rundfunks BBC",
+        "Smartphone-App",
+        "Augmented-Reality",
+        "Entlarvt Gefaelschte",
+        "Projektleiterin Organisation",
+        "ETH-Spin",
+        "Millionen Dollar",
+        "Teure Uhren",
+        "Dieses Problem",
+        "QR-Code",
+        "Die ETH",
+        "Die Herausforderung",
+        "Die App",
+        "Selbst Produkte",
+        "Die Stadt",
+        "Die Forschung",
+        "Jahren Betreibungsverfahren",
+        "Die Dunkelziffer",
+        "Paper Document",
+        "Werner Siemens",
+        "Toro-Pozo",
+        "QR-Codes",
+        "Verifizierungs-App",
+        "Swiss AI",
+        "Diese Entwicklungen",
+        "Das Prinzip",
+        "Die Authentisierung",
+        "ETH Spin",
+        "Alejandra Itel",
+        "De News",
+        "David Basin",
+        "Neue App",
+        "Informatik Stadt",
+        "Allen Versprechen",
+        "Die Organisation"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "BBC",
+        "EPFL",
+        "ETH Spin-offs Thenti",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "Gruppe für Informationssicherheit",
+        "KI",
+        "Projektleiterin Organisation und Informatik",
+        "QR-Code",
+        "SealClub",
+        "Werner Siemens Stiftung",
+        "Zentrum für digitales Vertrauen",
+        "britischen Rundfunks"
+      ],
+      "locations": [
+        "Authentisierungstechnologien",
+        "Diplome",
+        "Dokuments",
+        "Dunkelziffer",
+        "Forschungsartikels",
+        "Schweiz",
+        "Stadt",
+        "Stadt Zürich",
+        "Unterschiede"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Stadt Zürich",
+        "Schweiz",
+        "KI",
+        "Unterschiede",
+        "Martín Ochoa",
+        "David Basin",
+        "Stadt",
+        "ETH Zürich",
+        "ETH Spin-offs Thenti",
+        "Thenti"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In Kürze",
+          "Digitale Authentisierung für die reale Welt",
+          "Digitale Authentisierung für die reale Welt",
+          "Pilotprojekt in Zürich soll Betreibungsregisterauszüge schützen",
+          "Auch dreidimensionale Objekte können überprüft werden",
+          "Serie «Künstliche Intelligenz für die Schweiz»"
+        ],
+        "content_length": 6299
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "Werner Siemens Stiftung",
+        "Martín Ochoa",
+        "Ochoa",
+        "ETH Zürich",
+        "QR-Code",
+        "Zentrum für digitales Vertrauen",
+        "Projektleiterin Organisation und Informatik",
+        "2015",
+        "Thenti",
+        "EU",
+        "Toro-Pozo",
+        "britischen Rundfunks",
+        "2024",
+        "BBC",
+        "David Basin Fälschern",
+        "Alejandra Itel",
+        "SealClub",
+        "ETH-Forschenden",
+        "ETH Spin-offs Thenti",
+        "J.",
+        "https://arxiv.org/pdf/2210.07884.pdf",
+        "David Basin",
+        "KI",
+        "Gruppe für Informationssicherheit",
+        "Allen Versprechen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "pseudo-akademische",
+        "who",
+        "Augmented-Reality-Anwendungen",
+        "Computer-aided Paper Document",
+        "QR-Codes",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

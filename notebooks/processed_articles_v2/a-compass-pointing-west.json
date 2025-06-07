@@ -1,0 +1,769 @@
+{
+  "filename": "a-compass-pointing-west.md",
+  "original_filename": "a-compass-pointing-west.html",
+  "source_path": "en_news_events/2019/03/a-compass-pointing-west.html",
+  "date": "2019-03",
+  "title": "A Compass Pointing West",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "North-West and South-East coupling of atoms",
+      "text": "Magnets are characterized by the fact that they have a North pole and a South pole. If two common magnets are held close to each other, opposite poles attract and the like poles repel each other. This is why magnetic needles, such as those found in a compass, align themselves in the Earth's magnetic field so that we can use them to determine the cardinal directions North and South and, derived from this, East and West. In the world that we experience every day with our senses, this rule is correct. If you leave the macroscopic world and dive into depths of much smaller dimensions, this changes. Researchers at the Paul Scherrer Institute PSI and the ETH Zurich have now discovered a very special magnetic interaction at the level of nanoscopic structures made of magnetic layers only a few atoms thick.\n\nThe atoms act like tiny compass needles and unfold their effect over tiny distances in the nanometer range, for instance a few millionths of a millimeter. That is why researchers also talk about nanomagnets.\n\nThe phenomenon that researchers at PSI have now been able to observe is based on an interaction that the two physicists Igor Dzyaloshinskii and Toru Mariya predicted more than 60 years ago. \"That was our starting point,\" says Zhaochu Luo, physicist at PSI and ETH Zurich."
+    },
+    {
+      "heading": "Logical gates for computers",
+      "text": "If a group of cobalt atoms aligns to the North or South (red), the neighbouring cobalt atoms align to the West or East (blue). The orientation of the neighbouring atoms is within the plane. This interaction requires sandwiching of the cobalt layer between a platinum layer (below, beige) and an aluminium oxide layer (above, not shown here). (Illustration: Paul Scherrer Institute/Zhaochu Luo)\n\nIn this interaction, the atomic compass needles do not only align in a North-South direction, but also in an East-West direction. \"Where they point depends on how the atoms in their neighbourhood orient themselves,\" says Zhaochu Luo, first author of the study. For example, if a group of atoms points North, the neighbouring group always points West. If one group of atoms points to the South, then the neighbouring atoms orient themselves to the East.\n\nThese orientations can be reversed by magnetic fields or electric currents, i.e. North to South and vice versa. The neighbouring atomic groups then reorient themselves accordingly, either from West to East or vice versa.\n\nThe researchers discovered the coupling of North-West and South-East orientation with the help of a layer of cobalt atoms only 1.6 nanometres thick, which was sandwiched between a platinum layer on one side and an aluminium oxide layer on the other. \"The development of these special layers for our experiments alone took about half a year,\" says Zhaochu Luo, who works in Laura Heyderman's Mesoscopic Systems research group at PSI.\n\nWhat is unusual is that this interaction takes place laterally in one plane. Previously, comparable couplings between nanomagnets could only be detected vertically, with groups of atoms arranged one above the other.\n\nLaura Heyderman, Zhaochu Luo and Pietro Gambardella have discovered the new phenomen in nanomagnets. (Photograph: ETH Zurich)\n\nThe phenomenon observed jointly by PSI and ETH Zurich researchers enables the development of planar magnetic networks. Among other things, synthetic antiferromagnets can be produced. In these antiferromagnets, atomic groups point either North or South at regular intervals. The number of opposing nanomagnets is approximately the same, so that they neutralize each other in sum. This is why, at first glance, antiferromagnets do not act like magnets – for example, they do not stick to a fridge door. The neighbouring atoms, which are oriented either to the West or to the East, act as spacers separating the magnets pointing North or South, each of which is as small as a few nanometers. This makes it possible, for example, to build new, more efficient computer memories and switches, which in turn makes microprocessors more powerful."
+    },
+    {
+      "heading": "Logical gates for computers",
+      "text": "The individual nanomagnets, which face either North or South, are suitable for constructing logic gates. A logic gate is a building block in a computer and functions as a kind of switch. Signals enter these gates and are then processed into an output signal. In a computer many of these gates are networked to perform operations. Such a gate can also be constructed with the help of nanomagnets aligned to the North or South. These are analogous to processors commonly used today with transistors processing signals in binary form, which interpret all signals as zero or one. Nanomagnets that are oriented either North or South can also do this. This could make microprocessors more compact and efficient.\n\nAccording to Prof. Pietro Gambardella, who supervised this study with Prof. Laura Heyderman, \"This work provides a platform to design arrays of linked nanomagnets and achieve all-electric control of planar logic gates and storage devices,\" as reported in Science this week.\n\nIn addition to laboratory based methods, the researchers achieved their results by means of X-ray photoelectron microscopy at the PSI's Swiss Light Source SLS.\n\nThis articles appeared first as press release of the Paul Scherrer Institut.\n\nLuo Z, Phuong Dao T, Hrabec A, Vijayakumar J, Kleibert A, Baumgartner M, Kirk E, Cui J, Savchenko T, Krishnaswamy G, Heyderman LJ, Gambardella P. Chirally coupled nanomagnets. Science (2019), published online March 28th, doi: 10.1126/science.aau7913"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "South",
+        "label": "LOC",
+        "start": 72,
+        "end": 77
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 87,
+        "end": 90
+      },
+      {
+        "text": "poles",
+        "label": "NORP",
+        "start": 172,
+        "end": 177
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 284,
+        "end": 289
+      },
+      {
+        "text": "North and South",
+        "label": "LOC",
+        "start": 368,
+        "end": 383
+      },
+      {
+        "text": "East",
+        "label": "LOC",
+        "start": 408,
+        "end": 412
+      },
+      {
+        "text": "West",
+        "label": "LOC",
+        "start": 417,
+        "end": 421
+      },
+      {
+        "text": "the Paul Scherrer Institute PSI",
+        "label": "ORG",
+        "start": 617,
+        "end": 648
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 653,
+        "end": 667
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 1053,
+        "end": 1056
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1123,
+        "end": 1126
+      },
+      {
+        "text": "Igor Dzyaloshinskii",
+        "label": "ORG",
+        "start": 1138,
+        "end": 1157
+      },
+      {
+        "text": "Toru Mariya",
+        "label": "GPE",
+        "start": 1162,
+        "end": 1173
+      },
+      {
+        "text": "more than 60 years ago",
+        "label": "DATE",
+        "start": 1184,
+        "end": 1206
+      },
+      {
+        "text": "Zhaochu Luo",
+        "label": "PERSON",
+        "start": 1244,
+        "end": 1255
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 1270,
+        "end": 1273
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1278,
+        "end": 1288
+      },
+      {
+        "text": "the North or South",
+        "label": "LOC",
+        "start": 37,
+        "end": 55
+      },
+      {
+        "text": "West",
+        "label": "LOC",
+        "start": 106,
+        "end": 110
+      },
+      {
+        "text": "East",
+        "label": "LOC",
+        "start": 114,
+        "end": 118
+      },
+      {
+        "text": "Paul Scherrer Institute/Zhaochu Luo",
+        "label": "ORG",
+        "start": 357,
+        "end": 392
+      },
+      {
+        "text": "North-South",
+        "label": "LOC",
+        "start": 465,
+        "end": 476
+      },
+      {
+        "text": "Zhaochu Luo",
+        "label": "PERSON",
+        "start": 615,
+        "end": 626
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 628,
+        "end": 633
+      },
+      {
+        "text": "North",
+        "label": "LOC",
+        "start": 695,
+        "end": 700
+      },
+      {
+        "text": "West",
+        "label": "LOC",
+        "start": 739,
+        "end": 743
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 748,
+        "end": 751
+      },
+      {
+        "text": "South",
+        "label": "LOC",
+        "start": 781,
+        "end": 786
+      },
+      {
+        "text": "East",
+        "label": "LOC",
+        "start": 841,
+        "end": 845
+      },
+      {
+        "text": "North to South",
+        "label": "LOC",
+        "start": 928,
+        "end": 942
+      },
+      {
+        "text": "West",
+        "label": "LOC",
+        "start": 1040,
+        "end": 1044
+      },
+      {
+        "text": "East",
+        "label": "LOC",
+        "start": 1048,
+        "end": 1052
+      },
+      {
+        "text": "North-West",
+        "label": "LOC",
+        "start": 1111,
+        "end": 1121
+      },
+      {
+        "text": "South-East",
+        "label": "LOC",
+        "start": 1126,
+        "end": 1136
+      },
+      {
+        "text": "only 1.6 nanometres",
+        "label": "QUANTITY",
+        "start": 1190,
+        "end": 1209
+      },
+      {
+        "text": "about half a year",
+        "label": "DATE",
+        "start": 1390,
+        "end": 1407
+      },
+      {
+        "text": "Zhaochu Luo",
+        "label": "PERSON",
+        "start": 1415,
+        "end": 1426
+      },
+      {
+        "text": "Laura Heyderman's",
+        "label": "PERSON",
+        "start": 1441,
+        "end": 1458
+      },
+      {
+        "text": "Mesoscopic Systems",
+        "label": "ORG",
+        "start": 1459,
+        "end": 1477
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 1496,
+        "end": 1499
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1567,
+        "end": 1570
+      },
+      {
+        "text": "Laura Heyderman",
+        "label": "PERSON",
+        "start": 1717,
+        "end": 1732
+      },
+      {
+        "text": "Zhaochu Luo",
+        "label": "PERSON",
+        "start": 1734,
+        "end": 1745
+      },
+      {
+        "text": "Pietro Gambardella",
+        "label": "PERSON",
+        "start": 1750,
+        "end": 1768
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1831,
+        "end": 1841
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 1878,
+        "end": 1881
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1886,
+        "end": 1896
+      },
+      {
+        "text": "North or South",
+        "label": "LOC",
+        "start": 2080,
+        "end": 2094
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2238,
+        "end": 2243
+      },
+      {
+        "text": "West",
+        "label": "LOC",
+        "start": 2401,
+        "end": 2405
+      },
+      {
+        "text": "East",
+        "label": "LOC",
+        "start": 2416,
+        "end": 2420
+      },
+      {
+        "text": "North or South",
+        "label": "LOC",
+        "start": 2469,
+        "end": 2483
+      },
+      {
+        "text": "North or South",
+        "label": "LOC",
+        "start": 46,
+        "end": 60
+      },
+      {
+        "text": "North",
+        "label": "LOC",
+        "start": 410,
+        "end": 415
+      },
+      {
+        "text": "South",
+        "label": "LOC",
+        "start": 419,
+        "end": 424
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 474,
+        "end": 479
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 563,
+        "end": 567
+      },
+      {
+        "text": "North or South",
+        "label": "LOC",
+        "start": 613,
+        "end": 627
+      },
+      {
+        "text": "Pietro Gambardella",
+        "label": "PERSON",
+        "start": 725,
+        "end": 743
+      },
+      {
+        "text": "Laura Heyderman",
+        "label": "PERSON",
+        "start": 782,
+        "end": 797
+      },
+      {
+        "text": "Science",
+        "label": "GPE",
+        "start": 961,
+        "end": 968
+      },
+      {
+        "text": "this week",
+        "label": "DATE",
+        "start": 969,
+        "end": 978
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 1110,
+        "end": 1113
+      },
+      {
+        "text": "Swiss Light Source SLS",
+        "label": "ORG",
+        "start": 1116,
+        "end": 1138
+      },
+      {
+        "text": "the Paul Scherrer Institut",
+        "label": "ORG",
+        "start": 1189,
+        "end": 1215
+      },
+      {
+        "text": "Luo Z",
+        "label": "ORG",
+        "start": 1217,
+        "end": 1222
+      },
+      {
+        "text": "Phuong Dao T",
+        "label": "ORG",
+        "start": 1224,
+        "end": 1236
+      },
+      {
+        "text": "Hrabec A",
+        "label": "ORG",
+        "start": 1238,
+        "end": 1246
+      },
+      {
+        "text": "Vijayakumar J",
+        "label": "PERSON",
+        "start": 1248,
+        "end": 1261
+      },
+      {
+        "text": "Kleibert A",
+        "label": "PERSON",
+        "start": 1263,
+        "end": 1273
+      },
+      {
+        "text": "Baumgartner M",
+        "label": "ORG",
+        "start": 1275,
+        "end": 1288
+      },
+      {
+        "text": "Savchenko",
+        "label": "PERSON",
+        "start": 1305,
+        "end": 1314
+      },
+      {
+        "text": "Krishnaswamy G",
+        "label": "PERSON",
+        "start": 1318,
+        "end": 1332
+      },
+      {
+        "text": "Heyderman LJ",
+        "label": "PERSON",
+        "start": 1334,
+        "end": 1346
+      },
+      {
+        "text": "Gambardella P. Chirally",
+        "label": "PERSON",
+        "start": 1348,
+        "end": 1371
+      },
+      {
+        "text": "March 28th",
+        "label": "DATE",
+        "start": 1426,
+        "end": 1436
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 1443,
+        "end": 1450
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Gambardella P. Chirally",
+        "Heyderman LJ",
+        "Kleibert A",
+        "Krishnaswamy G",
+        "Laura Heyderman",
+        "Laura Heyderman's",
+        "Pietro Gambardella",
+        "Savchenko",
+        "Vijayakumar J",
+        "Zhaochu Luo"
+      ],
+      "ORG": [
+        "Baumgartner M",
+        "ETH Zurich",
+        "Hrabec A",
+        "Igor Dzyaloshinskii",
+        "Luo Z",
+        "Mesoscopic Systems",
+        "PSI",
+        "Paul Scherrer Institute/Zhaochu Luo",
+        "Phuong Dao T",
+        "Swiss Light Source SLS",
+        "the ETH Zurich",
+        "the Paul Scherrer Institut",
+        "the Paul Scherrer Institute PSI"
+      ],
+      "LOCATION": [
+        "Earth",
+        "East",
+        "North",
+        "North and South",
+        "North or South",
+        "North to South",
+        "North-South",
+        "North-West",
+        "Science",
+        "South",
+        "South-East",
+        "Toru Mariya",
+        "West",
+        "the North or South"
+      ],
+      "DATE": [
+        "March 28th",
+        "about half a year",
+        "more than 60 years ago",
+        "this week",
+        "today"
+      ],
+      "MISC": [
+        "10.1126",
+        "first",
+        "one",
+        "only 1.6 nanometres",
+        "poles",
+        "two",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "East": 5,
+      "West": 5,
+      "PSI": 5,
+      "Zhaochu Luo": 4,
+      "North or South": 4,
+      "South": 3,
+      "ETH Zurich": 3,
+      "two": 2,
+      "first": 2,
+      "North": 2,
+      "one": 2,
+      "Laura Heyderman": 2,
+      "Pietro Gambardella": 2,
+      "poles": 1,
+      "Earth": 1,
+      "North and South": 1,
+      "the Paul Scherrer Institute PSI": 1,
+      "the ETH Zurich": 1,
+      "Igor Dzyaloshinskii": 1,
+      "Toru Mariya": 1
+    },
+    "total_entities": 77,
+    "unique_entities": 49
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-compass-pointing-west.md",
+      "title": "En News Events/2019/03/a Compass Pointing West",
+      "language": "en",
+      "source_path": "en_news_events/2019/03/a-compass-pointing-west.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Gambardella P. Chirally",
+        "Heyderman LJ",
+        "Kleibert A",
+        "Krishnaswamy G",
+        "Laura Heyderman",
+        "Laura Heyderman's",
+        "Pietro Gambardella",
+        "Savchenko",
+        "Vijayakumar J",
+        "Zhaochu Luo"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "10.1126",
+        "first",
+        "only 1.6 nanometres",
+        "poles",
+        "zero"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Phuong Dao",
+        "Heyderman LJ",
+        "Kleibert A",
+        "Cui J",
+        "Laura Heyderman",
+        "North-West",
+        "Swiss Light",
+        "South-East",
+        "Baumgartner M",
+        "Toru Mariya",
+        "Compass Pointing",
+        "Institute PSI",
+        "Source SLS",
+        "Pietro Gambardella",
+        "Hrabec A",
+        "Gambardella P",
+        "Igor Dzyaloshinskii",
+        "Savchenko T",
+        "Luo Z",
+        "West Magnets",
+        "Paul Scherrer",
+        "East-West",
+        "En News",
+        "Zhaochu Luo",
+        "Mesoscopic Systems",
+        "Vijayakumar J",
+        "Kirk E",
+        "ETH Zurich",
+        "Krishnaswamy G",
+        "North-South"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Baumgartner M",
+        "ETH Zurich",
+        "Hrabec A",
+        "Igor Dzyaloshinskii",
+        "Luo Z",
+        "Mesoscopic Systems",
+        "PSI",
+        "Paul Scherrer Institute/Zhaochu Luo",
+        "Phuong Dao T",
+        "Swiss Light Source SLS",
+        "the ETH Zurich",
+        "the Paul Scherrer Institut",
+        "the Paul Scherrer Institute PSI"
+      ],
+      "locations": [
+        "Earth",
+        "East",
+        "North",
+        "North and South",
+        "North or South",
+        "North to South",
+        "North-South",
+        "North-West",
+        "Science",
+        "South",
+        "South-East",
+        "Toru Mariya",
+        "West",
+        "the North or South"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "East",
+        "West",
+        "PSI",
+        "Zhaochu Luo",
+        "North or South",
+        "South",
+        "ETH Zurich",
+        "two",
+        "first",
+        "North"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "North-West and South-East coupling of atoms",
+          "Logical gates for computers",
+          "Logical gates for computers"
+        ],
+        "content_length": 5496
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Paul Scherrer Institute/Zhaochu Luo",
+        "the ETH Zurich",
+        "the Paul Scherrer Institute PSI",
+        "Heyderman LJ",
+        "Kleibert A",
+        "2019",
+        "Laura Heyderman",
+        "Baumgartner M",
+        "Gambardella P. Chirally",
+        "Pietro Gambardella",
+        "Hrabec A",
+        "Savchenko",
+        "EU",
+        "Igor Dzyaloshinskii",
+        "Luo Z",
+        "Swiss Light Source SLS",
+        "Zhaochu Luo",
+        "Laura Heyderman's",
+        "Mesoscopic Systems",
+        "Vijayakumar J",
+        "PSI",
+        "ETH Zurich",
+        "the Paul Scherrer Institut",
+        "Phuong Dao T",
+        "Krishnaswamy G"
+      ],
+      "semantic_concepts": [
+        "first",
+        "zero",
+        "only 1.6 nanometres",
+        "who",
+        "10.1126",
+        "what",
+        "how",
+        "poles",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher"
+      ]
+    }
+  }
+}

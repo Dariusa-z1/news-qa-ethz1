@@ -1,0 +1,237 @@
+{
+  "filename": "rekrutierung.md",
+  "original_filename": "rekrutierung.html",
+  "source_path": "de_internal/2019/09/rekrutierung.html",
+  "date": "2019-09",
+  "title": "Rekrutierung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Auf dem Stellenportal der ETH Zürich werden jährlich rund 1000 Stellen veröffentlicht. Diese werden neu über die Rekrutierungssoftware softfactors erfasst, die Rekrutierenden eine einfache Handhabung des Ausschreibungsprozesses, Unterstützung in der Vorselektion und ein effizientes Bewerbermanagement bietet.\n\nUm die publizierten Stellen auf den ETH-Webseiten einzubinden und zu bewerben, konnten ETH-Einheiten im Web Content Management System AEM bisher die Spezialkomponente Stellenportal nutzen. Die Filterung der Stellen geschah über ein Freitextfeld, was bei nicht genauer Wortfolge zu Anzeigeproblemen führen konnte.\n\nNun wurde die AEM-Spezialkomponente verbessert und die Einbindung von Stellen vereinfacht. Bei der Stellenerfassung gibt die oder der Rekrutierende die fünfstellige Leitzahl an, auf der die zukünftige Mitarbeiterin oder der Mitarbeiter angestellt sein wird. Somit können mit der Komponente neu die Stellen gefiltert nach der Leitzahl in der Webseite integriert werden. In der Standardkonfiguration der Komponente werden alle offenen Stellen an der ETH Zürich angezeigt. Die genaue Anleitung finden Sie im geschützte Seite AEM-Manual lock .\n\nMit dieser Verbesserung möchten wir dazu beitragen, dass alle ETH-Einheiten ihre offenen Stellen tagesaktuell und einheitlich auf den ETH-Webseiten publizieren können. Damit wird die Attraktivität der ETH Zürich als Arbeitgeberin sichtbarer und wir erleichtern interessierten Arbeitnehmerinnen und Arbeitnehmern den Bewerbungsprozess."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/09/rekrutierung",
+        "label": "LOC",
+        "start": 0,
+        "end": 32
+      },
+      {
+        "text": "Stellenportal",
+        "label": "LOC",
+        "start": 8,
+        "end": 21
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 26,
+        "end": 36
+      },
+      {
+        "text": "Rekrutierungssoftware",
+        "label": "LOC",
+        "start": 113,
+        "end": 134
+      },
+      {
+        "text": "ETH-Webseiten",
+        "label": "MISC",
+        "start": 346,
+        "end": 359
+      },
+      {
+        "text": "ETH-Einheiten",
+        "label": "MISC",
+        "start": 397,
+        "end": 410
+      },
+      {
+        "text": "Web Content Management System AEM",
+        "label": "MISC",
+        "start": 414,
+        "end": 447
+      },
+      {
+        "text": "Stellenportal",
+        "label": "PER",
+        "start": 477,
+        "end": 490
+      },
+      {
+        "text": "AEM-Spezialkomponente",
+        "label": "MISC",
+        "start": 637,
+        "end": 658
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1071,
+        "end": 1081
+      },
+      {
+        "text": "AEM-Manual lock",
+        "label": "PER",
+        "start": 1145,
+        "end": 1160
+      },
+      {
+        "text": "ETH-Einheiten",
+        "label": "MISC",
+        "start": 1225,
+        "end": 1238
+      },
+      {
+        "text": "ETH-Webseiten",
+        "label": "MISC",
+        "start": 1297,
+        "end": 1310
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1364,
+        "end": 1374
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "AEM-Manual lock",
+        "Stellenportal"
+      ],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2019/09/rekrutierung",
+        "Rekrutierungssoftware",
+        "Stellenportal"
+      ],
+      "DATE": [],
+      "MISC": [
+        "AEM-Spezialkomponente",
+        "ETH-Einheiten",
+        "ETH-Webseiten",
+        "Web Content Management System AEM"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 3,
+      "Stellenportal": 2,
+      "ETH-Webseiten": 2,
+      "ETH-Einheiten": 2,
+      "De Internal/2019/09/rekrutierung": 1,
+      "Rekrutierungssoftware": 1,
+      "Web Content Management System AEM": 1,
+      "AEM-Spezialkomponente": 1,
+      "AEM-Manual lock": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rekrutierung.md",
+      "title": "De Internal/2019/09/rekrutierung",
+      "language": "de",
+      "source_path": "de_internal/2019/09/rekrutierung.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "AEM-Manual lock",
+        "Stellenportal"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "AEM-Spezialkomponente",
+        "ETH-Einheiten",
+        "ETH-Webseiten",
+        "Web Content Management System AEM"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seite AEM",
+        "Die Filterung",
+        "De Internal",
+        "AEM-Spezialkomponente",
+        "ETH-Webseiten",
+        "Management System",
+        "Web Content",
+        "ETH-Einheiten",
+        "Spezialkomponente Stellenportal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2019/09/rekrutierung",
+        "Rekrutierungssoftware",
+        "Stellenportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "Stellenportal",
+        "ETH-Webseiten",
+        "ETH-Einheiten",
+        "De Internal/2019/09/rekrutierung",
+        "Rekrutierungssoftware",
+        "Web Content Management System AEM",
+        "AEM-Spezialkomponente",
+        "AEM-Manual lock"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1533
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "EU",
+        "AEM-Manual lock",
+        "ETH Zürich",
+        "Stellenportal"
+      ],
+      "semantic_concepts": [
+        "Web Content Management System AEM",
+        "AEM-Spezialkomponente",
+        "computer_science",
+        "ETH-Webseiten",
+        "ETH-Einheiten"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

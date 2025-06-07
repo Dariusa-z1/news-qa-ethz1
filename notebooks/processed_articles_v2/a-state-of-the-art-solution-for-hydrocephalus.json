@@ -1,0 +1,168 @@
+{
+  "filename": "a-state-of-the-art-solution-for-hydrocephalus.md",
+  "original_filename": "a-state-of-the-art-solution-for-hydrocephalus.html",
+  "source_path": "en_news_events/2022/05/a-state-of-the-art-solution-for-hydrocephalus.html",
+  "date": "2022-05",
+  "title": "A State Of The Art Solution For Hydrocephalus",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Focus projects",
+      "text": "Hydrocephalus is a disease in which cerebrospinal fluid collects in the cavities of the brain. One treatment option is to drain this fluid into the abdominal cavity via a surgically inserted device called a shunt. However, such purely mechanical shunts often lead to complications. The seven-member VIEshunt team therefore want to improve the treatment method by developing a mechatronic smart shunt. They are developing an intelligent system that automatically regulates the intracranial pressure to a healthy level."
+    },
+    {
+      "heading": "Focus projects",
+      "text": "In focus projects, bachelor’s students in mechanical engineering and electrical engineering put what they have learned into practice by developing a product independently. After identifying a market-oriented problem, the teams go through the entire product development process under realistic conditions: from marketing, conception, design and engineering to simulation and production. On 31 May 2022, the students will present their projects in a public exhibition."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Hydrocephalus",
+        "label": "GPE",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 95,
+        "end": 98
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 286,
+        "end": 291
+      },
+      {
+        "text": "VIEshunt",
+        "label": "ORG",
+        "start": 299,
+        "end": 307
+      },
+      {
+        "text": "31 May 2022",
+        "label": "DATE",
+        "start": 389,
+        "end": 400
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "VIEshunt"
+      ],
+      "LOCATION": [
+        "Hydrocephalus"
+      ],
+      "DATE": [
+        "31 May 2022"
+      ],
+      "MISC": [
+        "One",
+        "seven"
+      ]
+    },
+    "entity_counts": {
+      "Hydrocephalus": 1,
+      "One": 1,
+      "seven": 1,
+      "VIEshunt": 1,
+      "31 May 2022": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-state-of-the-art-solution-for-hydrocephalus.md",
+      "title": "En News Events/2022/05/a State Of The Art Solution For Hydrocephalus",
+      "language": "en",
+      "source_path": "en_news_events/2022/05/a-state-of-the-art-solution-for-hydrocephalus.html"
+    },
+    "temporal": {
+      "publication_date": "2022-05",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "seven"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Art",
+        "En News",
+        "State Of",
+        "Solution For",
+        "Hydrocephalus Hydrocephalus"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "VIEshunt"
+      ],
+      "locations": [
+        "Hydrocephalus"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Hydrocephalus",
+        "One",
+        "seven",
+        "VIEshunt",
+        "31 May 2022"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Focus projects",
+          "Focus projects"
+        ],
+        "content_length": 1053
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022",
+        "VIEshunt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "seven",
+        "what",
+        "how",
+        "medical_research",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

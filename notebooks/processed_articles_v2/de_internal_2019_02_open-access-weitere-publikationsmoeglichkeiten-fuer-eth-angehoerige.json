@@ -1,0 +1,191 @@
+{
+  "filename": "de_internal_2019_02_open-access-weitere-publikationsmoeglichkeiten-fuer-eth-angehoerige.md",
+  "original_filename": "de_internal_2019_02_open-access-weitere-publikationsmoeglichkeiten-fuer-eth-angehoerige.html",
+  "source_path": "de_internal/2019/02/open-access-weitere-publikationsmoeglichkeiten-fuer-eth-angehoerige.html",
+  "date": "2019-02",
+  "title": "Open Access Weitere Publikationsmoeglichkeiten Fuer Eth Angehoerige",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der korrespondierende Autor einer Publikation muss Angehöriger der ETH Zürich sein, damit die gratis Open-Access-Option bei IGI Global oder beim Journal of Experimental Botany gültig ist.\n\nBei , falls Sie an dieser Option interessiert sind.\n\nAutorinnen und Autoren von subskribierenden Institutionen sind berechtigt, im externe Seite Journal of Experimental Botany gratis Open Access zu publizieren. Von diesem Angebot profitieren Sie auch als ETH-Angehörige oder ETH-Angehöriger.\n\nWeitere Informationen zur Finanzierung von Open-Access-Publikationen\n\nBei Fragen wenden Sie sich bitte an die Fachstelle E-Publishing der ETH-Bibliothek: ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/02/open Access",
+        "label": "LOC",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "Fuer Eth",
+        "label": "PER",
+        "start": 67,
+        "end": 75
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 67,
+        "end": 77
+      },
+      {
+        "text": "IGI Global",
+        "label": "ORG",
+        "start": 124,
+        "end": 134
+      },
+      {
+        "text": "Journal of Experimental Botany",
+        "label": "MISC",
+        "start": 145,
+        "end": 175
+      },
+      {
+        "text": "Journal of Experimental Botany",
+        "label": "MISC",
+        "start": 332,
+        "end": 362
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 442,
+        "end": 456
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 616,
+        "end": 630
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fuer Eth"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "IGI Global"
+      ],
+      "LOCATION": [
+        "De Internal/2019/02/open Access"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "Journal of Experimental Botany"
+      ]
+    },
+    "entity_counts": {
+      "Journal of Experimental Botany": 2,
+      "De Internal/2019/02/open Access": 1,
+      "Fuer Eth": 1,
+      "ETH Zürich": 1,
+      "IGI Global": 1,
+      "ETH-Angehörige": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_02_open-access-weitere-publikationsmoeglichkeiten-fuer-eth-angehoerige.md",
+      "title": "De Internal/2019/02/open Access Weitere Publikationsmoeglichkeiten Fuer Eth Angehoerige",
+      "language": "de",
+      "source_path": "de_internal/2019/02/open-access-weitere-publikationsmoeglichkeiten-fuer-eth-angehoerige.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fuer Eth"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "physics"
+      ],
+      "research_topics": [
+        "ETH-Angehörige",
+        "Journal of Experimental Botany"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Experimental Botany",
+        "Weitere Informationen",
+        "Publikationsmoeglichkeiten Fuer",
+        "IGI Global",
+        "De Internal",
+        "Seite Journal",
+        "Fachstelle E",
+        "Open-Access",
+        "Bei Fragen",
+        "Access Weitere",
+        "Open Access",
+        "Eth Angehoerige"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Bibliothek",
+        "IGI Global"
+      ],
+      "locations": [
+        "De Internal/2019/02/open Access"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Journal of Experimental Botany",
+        "De Internal/2019/02/open Access",
+        "Fuer Eth",
+        "ETH Zürich",
+        "IGI Global",
+        "ETH-Angehörige",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 725
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "2019",
+        "IGI Global",
+        "ETH Zürich",
+        "Fuer Eth"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "physics",
+        "Journal of Experimental Botany"
+      ],
+      "graph_relations": [
+        "research_domain_physics"
+      ]
+    }
+  }
+}

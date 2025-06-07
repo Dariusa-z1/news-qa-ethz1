@@ -1,0 +1,133 @@
+{
+  "filename": "access-to-proquest-materials-science-collection.md",
+  "original_filename": "access-to-proquest-materials-science-collection.html",
+  "source_path": "en_internal/2015/07/access-to-proquest-materials-science-collection.html",
+  "date": "2015-07",
+  "title": "Access To Proquest Materials Science Collection",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "It comprises several sub-databases, especially in the following fields:\n\nMoreover, the ProQuest Materials Science Collection includes:\n\nThe ProQuest Materials Science Collection contains sources that are not referenced in interdisciplinary databases, such as Web of Science."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Proquest Materials Science Collection",
+        "label": "ORG",
+        "start": 30,
+        "end": 67
+      },
+      {
+        "text": "the ProQuest Materials Science Collection",
+        "label": "ORG",
+        "start": 82,
+        "end": 123
+      },
+      {
+        "text": "The ProQuest Materials Science Collection",
+        "label": "ORG",
+        "start": 134,
+        "end": 175
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Proquest Materials Science Collection",
+        "The ProQuest Materials Science Collection",
+        "the ProQuest Materials Science Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Proquest Materials Science Collection": 1,
+      "the ProQuest Materials Science Collection": 1,
+      "The ProQuest Materials Science Collection": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "access-to-proquest-materials-science-collection.md",
+      "title": "En Internal/2015/07/access To Proquest Materials Science Collection",
+      "language": "en",
+      "source_path": "en_internal/2015/07/access-to-proquest-materials-science-collection.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "To Proquest",
+        "The ProQuest",
+        "En Internal",
+        "Science Collection",
+        "ProQuest Materials",
+        "Collection It",
+        "Materials Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Proquest Materials Science Collection",
+        "The ProQuest Materials Science Collection",
+        "the ProQuest Materials Science Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Proquest Materials Science Collection",
+        "the ProQuest Materials Science Collection",
+        "The ProQuest Materials Science Collection"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 342
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "The ProQuest Materials Science Collection",
+        "Proquest Materials Science Collection",
+        "the ProQuest Materials Science Collection",
+        "2015"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

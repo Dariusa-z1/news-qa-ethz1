@@ -1,0 +1,497 @@
+{
+  "filename": "we-need-to-track-down-hidden-infections.md",
+  "original_filename": "we-need-to-track-down-hidden-infections.html",
+  "source_path": "en_news_events/2021/01/we-need-to-track-down-hidden-infections.html",
+  "date": "2021-01",
+  "title": "We Need To Track Down Hidden Infections",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Two stages",
+      "text": "Since December, the Swiss canton of Graubünden has conducted in certain areas several rounds of mass testing for SARS-CoV-2. Any of the residents could have themselves tested for the virus free of charge, whether they exhibited typical COVID symptoms or not.\n\nWe propose taking this approach further by regularly testing segments of the population in intervals of a few days or weeks. Such a strategy could be flexibly adjusted depending on the incidence of infection and complement the portfolio of COVID-19 measures. This would be a targeted, appropriate means for controlling local outbreaks or rising numbers of cases across a canton or the whole country. The more testing is done, the more effective the method is, and the less we will need to rely on other measures such as the closing of schools, restaurants or shops. In light of the new and more infectious virus variants, such an effective and flexible testing strategy is more important than ever.\n\nThe fight against the pandemic ultimately comes down to isolating as many infectious people as possible. When comparing two strategies, the superior one will identify the higher number of infectious people. Simulations to which we contributed show that regular virus testing – as long as large numbers of people participate voluntarily – is better suited to this task than Switzerland’s current testing strategy, which targets people who exhibit COVID-19 symptoms.\n\nThe main reason for this superior performance is that a testing strategy based on symptoms is blind on one eye. Two key groups of people are difficult to identify: those in the early days of the infection, before they show any symptoms, and those who are infected but never develop symptoms at all (asymptomatic carriers). The latter remain infectious for an average of more than ten days. Unaware that they are infected, they spread the virus further."
+    },
+    {
+      "heading": "Two stages",
+      "text": "The testing strategy we propose has two stages and takes into account the specific advantages and disadvantages of the rapid antigen and PCR tests. In the first stage, the population is tested regularly using the rapid antigen test. These tests are relatively inexpensive and provide results almost instantly. Anyone who tested positive has to isolate immediately. Because rapid tests can produce a false positive, we propose double-checking every positive result in a second step with a more accurate PCR test. People with a positive rapid test result but a negative PCR test may leave isolation immediately, whereas those testing positive a second time must stay in isolation.\n\nPublic discussion often points out that the rapid antigen tests are less accurate and therefore fail to detect all who are infectious. While this is true, it is of secondary importance when trying to detect a certain number of infectious people among a large group. You only need to test more people. Even clumsy fishermen catch fish; to catch the same number of fish as good fishermen, you simply need a higher number of clumsy ones.\n\nCritics may object that mass testing is too expensive, but we believe it is worth it. With every infection prevented, economic costs (externalities) can be avoided. It is difficult to put a precise figure on these. American economists estimate them at around 250,000 Swiss francs per infection. 1 Even if a relatively small number of people volunteer for testing, the economic benefits would likely still outweigh the costs.\n\nNevertheless, the more people take part in a test-based strategy, the more successful it will be. Our small team of scientists from ETH Zurich and Empa plus other fellow researchers have developed a simulation algorithm 2 (also available as an interactive online application 3 ) that decision-makers can use to estimate the impact of participation on the spread of the virus. In this way, they can weigh up the cost of testing versus the cost of alternative measures, such as benefit payments for the economy.\n\nOur simulations show that if a quarter of the population in a given area is tested once a week, the reproductive number (R number) can be reduced by some 40 percent. If half the population is tested once a week, the R number can actually be halved. If instead of testing the general population, authorities tested specific groups that are particularly prone to infection, they could test fewer people and still achieve the same effect. 4 These groups would include those who come into contact with many others, for instance when commuting, at work, in community facilities, or at schools."
+    },
+    {
+      "heading": "Staying on top of the situation is crucial",
+      "text": "Focusing on these groups means that testing – even testing those with no symptoms – could become so effective that it would be possible to relax other control measures, such as the closing of shops or restaurants, at an earlier point in time. This testing strategy would serve as an important and flexible weapon in our arsenal for combatting new and more infectious viral strains. With a sufficiently high number of participants, it may even be possible to keep the new variants in check without a lockdown.\n\nTo safeguard the long-term success of this strategy, however, testing needs to continue at the same rate – despite any initial success and declines in case numbers – until enough people have been vaccinated.\n\nParticipation in mass testing must remain voluntary, and Graubünden’s experience so far shows that enough people are willing to be tested. What is important is that the population has an incentive. Travel time to the testing site and waiting times must be short, and the test must not be too unpleasant. This is why Graubünden not only uses nasal swabs but also saliva tests; they also have the added benefit of requiring less in terms of staff and logistics.\n\nNow Graubünden will show if a strategy focused on testing asymptomatic people can be effective. The hands-on experience we gather there will teach us how best to organise such tests. From a theoretical, mathematical point of view, there is no reason to assume that this strategy will not work. And we also see no reason not to expand this testing strategy across the whole of Switzerland."
+    },
+    {
+      "heading": "References",
+      "text": "This text also appeared as a guest commentary in the Tages-Anzeiger (in German).\n\n1 https://www.nber.org/papers/w27009 2 https://www.medrxiv.org/content/10.1101/2020.11.30.20239566v1 3 https://corona-lab.ch 4 https://www.medrxiv.org/content/10.1101/2020.03.27.20045237v3"
+    },
+    {
+      "heading": "About the authors",
+      "text": "Patrick Jenny Professor for Computational Fluid Dynamics and Multiscale Modelling at ETH Zurich\n\nWolf-Dietrich Hardt Professor for Microbiology at ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "December",
+        "label": "DATE",
+        "start": 6,
+        "end": 14
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "Graubünden",
+        "label": "ORG",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "text": "COVID",
+        "label": "PERSON",
+        "start": 236,
+        "end": 241
+      },
+      {
+        "text": "a few days",
+        "label": "DATE",
+        "start": 363,
+        "end": 373
+      },
+      {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 377,
+        "end": 382
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 499,
+        "end": 507
+      },
+      {
+        "text": "canton",
+        "label": "GPE",
+        "start": 630,
+        "end": 636
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1078,
+        "end": 1081
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1331,
+        "end": 1342
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1526,
+        "end": 1529
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 1535,
+        "end": 1538
+      },
+      {
+        "text": "the early days",
+        "label": "DATE",
+        "start": 1596,
+        "end": 1610
+      },
+      {
+        "text": "more than ten days",
+        "label": "DATE",
+        "start": 1793,
+        "end": 1811
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 36,
+        "end": 39
+      },
+      {
+        "text": "PCR",
+        "label": "ORG",
+        "start": 137,
+        "end": 140
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 155,
+        "end": 160
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 469,
+        "end": 475
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 643,
+        "end": 649
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 1329,
+        "end": 1337
+      },
+      {
+        "text": "around 250,000 Swiss francs",
+        "label": "MONEY",
+        "start": 1366,
+        "end": 1393
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1671,
+        "end": 1681
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 1686,
+        "end": 1690
+      },
+      {
+        "text": "a quarter",
+        "label": "CARDINAL",
+        "start": 2078,
+        "end": 2087
+      },
+      {
+        "text": "a week",
+        "label": "DATE",
+        "start": 2137,
+        "end": 2143
+      },
+      {
+        "text": "some 40 percent",
+        "label": "PERCENT",
+        "start": 2198,
+        "end": 2213
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 2218,
+        "end": 2222
+      },
+      {
+        "text": "a week",
+        "label": "DATE",
+        "start": 2253,
+        "end": 2259
+      },
+      {
+        "text": "Graubünden",
+        "label": "ORG",
+        "start": 774,
+        "end": 784
+      },
+      {
+        "text": "Graubünden",
+        "label": "PERSON",
+        "start": 1033,
+        "end": 1043
+      },
+      {
+        "text": "Graubünden",
+        "label": "PERSON",
+        "start": 1181,
+        "end": 1191
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1553,
+        "end": 1564
+      },
+      {
+        "text": "the Tages-Anzeiger",
+        "label": "ORG",
+        "start": 49,
+        "end": 67
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 72,
+        "end": 78
+      },
+      {
+        "text": "Patrick Jenny Professor",
+        "label": "PERSON",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "Computational Fluid Dynamics",
+        "label": "ORG",
+        "start": 28,
+        "end": 56
+      },
+      {
+        "text": "Multiscale Modelling",
+        "label": "PERSON",
+        "start": 61,
+        "end": 81
+      },
+      {
+        "text": "Zurich Wolf-Dietrich",
+        "label": "PERSON",
+        "start": 89,
+        "end": 109
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "COVID",
+        "Graubünden",
+        "Multiscale Modelling",
+        "Patrick Jenny Professor",
+        "Zurich Wolf-Dietrich"
+      ],
+      "ORG": [
+        "COVID-19",
+        "Computational Fluid Dynamics",
+        "ETH Zurich",
+        "Empa",
+        "Graubünden",
+        "PCR",
+        "the Tages-Anzeiger"
+      ],
+      "LOCATION": [
+        "Switzerland",
+        "canton"
+      ],
+      "DATE": [
+        "December",
+        "a few days",
+        "a week",
+        "more than ten days",
+        "the early days",
+        "weeks"
+      ],
+      "MISC": [
+        "American",
+        "German",
+        "Swiss",
+        "Two",
+        "a quarter",
+        "around 250,000 Swiss francs",
+        "first",
+        "half",
+        "one",
+        "second",
+        "some 40 percent",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Graubünden": 4,
+      "two": 2,
+      "Switzerland": 2,
+      "second": 2,
+      "a week": 2,
+      "December": 1,
+      "Swiss": 1,
+      "COVID": 1,
+      "a few days": 1,
+      "weeks": 1,
+      "COVID-19": 1,
+      "canton": 1,
+      "one": 1,
+      "Two": 1,
+      "the early days": 1,
+      "more than ten days": 1,
+      "PCR": 1,
+      "first": 1,
+      "American": 1,
+      "around 250,000 Swiss francs": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "we-need-to-track-down-hidden-infections.md",
+      "title": "En News Events/2021/01/we Need To Track Down Hidden Infections",
+      "language": "en",
+      "source_path": "en_news_events/2021/01/we-need-to-track-down-hidden-infections.html"
+    },
+    "temporal": {
+      "publication_date": "2021-01",
+      "mentioned_years": [
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "COVID",
+        "Graubünden",
+        "Multiscale Modelling",
+        "Patrick Jenny Professor",
+        "Zurich Wolf-Dietrich"
+      ],
+      "people_with_roles": {
+        "Multiscale Modelling": [
+          "professor"
+        ],
+        "Patrick Jenny Professor": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "American",
+        "German",
+        "Swiss",
+        "a quarter",
+        "around 250,000 Swiss francs",
+        "first",
+        "half",
+        "second",
+        "some 40 percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Tages-Anzeiger",
+        "Wolf-Dietrich",
+        "En News",
+        "Patrick Jenny",
+        "SARS-CoV",
+        "Hidden Infections",
+        "Track Down",
+        "Computational Fluid",
+        "Hardt Professor",
+        "Need To",
+        "ETH Zurich",
+        "Multiscale Modelling",
+        "Since December"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "Computational Fluid Dynamics",
+        "ETH Zurich",
+        "Empa",
+        "Graubünden",
+        "PCR",
+        "the Tages-Anzeiger"
+      ],
+      "locations": [
+        "Switzerland",
+        "canton"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Graubünden",
+        "two",
+        "Switzerland",
+        "second",
+        "a week",
+        "December",
+        "Swiss",
+        "COVID",
+        "a few days",
+        "weeks"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Two stages",
+          "Two stages",
+          "Staying on top of the situation is crucial",
+          "References",
+          "About the authors"
+        ],
+        "content_length": 6581
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zurich Wolf-Dietrich",
+        "COVID",
+        "Patrick Jenny Professor",
+        "the Tages-Anzeiger",
+        "2020",
+        "Computational Fluid Dynamics",
+        "ETH Zurich",
+        "Graubünden",
+        "PCR",
+        "COVID-19",
+        "Multiscale Modelling",
+        "2021",
+        "ERC",
+        "Empa"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "a quarter",
+        "half",
+        "American",
+        "who",
+        "Swiss",
+        "what",
+        "second",
+        "German",
+        "some 40 percent",
+        "how",
+        "around 250,000 Swiss francs",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Multiscale Modelling_has_role_professor",
+        "Patrick Jenny Professor_has_role_professor",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

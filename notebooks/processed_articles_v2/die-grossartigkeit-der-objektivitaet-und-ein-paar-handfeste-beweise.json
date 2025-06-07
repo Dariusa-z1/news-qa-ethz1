@@ -1,0 +1,702 @@
+{
+  "filename": "die-grossartigkeit-der-objektivitaet-und-ein-paar-handfeste-beweise.md",
+  "original_filename": "die-grossartigkeit-der-objektivitaet-und-ein-paar-handfeste-beweise.html",
+  "source_path": "de_news_events/2023/12/die-grossartigkeit-der-objektivitaet-und-ein-paar-handfeste-beweise.html",
+  "date": "2023-12",
+  "title": "Die Grossartigkeit Der Objektivitaet Und Ein Paar Handfeste Beweise",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Die Mathematik von Strassennetzen",
+      "text": "Wenn User:innen Google Maps oder einen anderen digitalen Kartenanbieter aufrufen, sehen sie Bushaltestellen, Velowege, Autobahnen. Raphael Steiner sieht Knoten, Kanten, Graphen. Mit Graphen sind nicht etwa Kurven wie Funktionsgraphen gemeint, sondern Netzwerke aus Knoten, die miteinander verbunden sind – oder nicht. Die Verbindung zwischen zwei Knoten nennen die Forschenden Kanten.\n\nSteiners Fach sind die Mathematik und die theoretische Informatik. Die Büros des ETH-Instituts für theoretische Informatik befinden sich im 21. Stock des Hochhauses Andreasturm in Zürich-Oerlikon. Der Ort mit der fantastischen Aussicht könnte nicht passender sein für einen Überflieger wie Steiner. Der 23-Jährige arbeitet bereits seit über zwei Jahren an der ETH Zürich. Zuerst als ETH-Fellow im Rahmen eines Programms, das sich an exzellente Postdoktorierende richtet, die sich schon früh in ihrer Karriere ausgezeichnet haben. Seit September 2023 unterstützt ihn der Schweizerische Nationalfonds mit einem Ambizione-Beitrag, der ihm für die nächsten vier Jahre die Durchführung eines eigenen Forschungsprojekts und die Betreuung seines ersten eigenen Doktoranden ermöglicht."
+    },
+    {
+      "heading": "Die Mathematik von Strassennetzen",
+      "text": "«Ich beschäftige mich mit der diskreten Mathematik», erklärt Steiner. «Das heisst, die Objekte, die ich untersuche, sind meistens endliche Dinge.» Ein Beispiel dafür sind Graphen, die den jungen Mathematiker besonders interessieren.\n\nEin Verkehrsnetz lässt sich auf diese Weise darstellen mit den Kreuzungen als Knotenpunkte und den Strassen als Kanten, auf denen sich zusätzliche Informationen speichern lassen wie die Zeit, die das Befahren dieser Verbindung benötigt. «Google-Maps benutzt solche Graphen, um den kürzesten Weg von A nach B zu finden», erklärt Steiner. «Die Graphen-Theorie hat also durchaus praktische Relevanz, wenn es darum geht, Algorithmen zu entwickeln, um möglichst schnell die Lösung von Problemen der optimalen Verbindung zu finden. Ich beschäftige mich aber eher mit theoretischen Fragestellungen.»"
+    },
+    {
+      "heading": "Abitur und Master im selben Jahr",
+      "text": "Schon als Bub, der im süddeutschen Tuttlingen aufwuchs, begann Raphael Steiner, sich für Mathematik zu interessieren. In der Schule las er Bücher über Astrophysik. «Da habe ich mich auch ein bisschen mit Relativitätstheorie befasst und gemerkt, dass man viel Mathematik braucht, um unter anderem zu verstehen, was in schwarzen Löchern passiert», erzählt er. Am Ende der sechsten Klasse hatte er sich bereits durch sämtliche Mathematikbücher der Oberstufe gearbeitet. Zusammen mit seiner fünf Jahre älteren Schwester, die sich auf das Abitur vorbereitete, löste er Aufgaben auf diesem Niveau."
+    },
+    {
+      "heading": "Zwischenziel in Reichweite",
+      "text": "«In der Schule habe ich mich gelangweilt», gibt er zu. Deshalb suchte sein Vater, ein Ingenieur, nach Möglichkeiten, den hochbegabten Sohn weiter zu fördern und stiess auf die Fernuniversität Hagen. «So konnte ich weiter normal zur Schule gehen und ohne dass es dort auffiel, parallel von zu Hause aus ein Studium machen», sagt Steiner. Den Mastertitel in Mathematik erwarb er gleichzeitig mit dem Abitur als 18-Jähriger.\n\nBereits mit seiner Bachelorarbeit hatte er in der Fachwelt Aufsehen erregt. Zusammen mit einem Mathematikprofessor in Berlin schrieb er noch vor seinem Masterabschluss ein wissenschaftliches Paper und nahm danach eine Doktorandenstelle an der Technischen Universität Berlin an. 2021 promovierte er mit gerade einmal 21 Jahren summa cum laude. «Danach wollte ich in der Nähe von meinem Zuhause in Süddeutschland bleiben», erzählt er, «da war die ETH als hervorragende Hochschule natürlich eine Option.»\n\nEr kontaktierte Angelika Steger, Professorin am ETH-Institut für theoretische Informatik, und erhielt das begehrte ETH-Fellowship . Dass es danach auch mit der Ambizione-Förderung klappte, freut ihn besonders. «Ich bin sehr glücklich darüber, weil dies vier Jahre Sicherheit bedeutet», sagt er. «Der Beruf als akademischer Forscher ist zwar toll, aber als Postdoc sorgt man sich normalerweise schon auch um seine Zukunft.»"
+    },
+    {
+      "heading": "Beweis mit Computerhilfe",
+      "text": "Das Thema, das er im Rahmen der Ambizione-Förderung bearbeitet, ist denn für Laien auch nur schwer verständlich. Es geht um eine Vermutung, die der Schweizer Mathematiker Hugo Hadwiger 1943 aufgestellt hat. Sie macht eine Aussage über Graphen mit bestimmten strukturellen Eigenschaften. Die Vermutung besagt, dass sich diese Gebilde auf eine ganz bestimmte Art und Weise in einfache Substrukturen zerlegen lassen, wobei sie zugleich gewisse andere Substrukturen nicht enthalten dürfen. «Ich versuche, das zu beweisen oder zumindest Fortschritte in Richtung eines Beweises zu machen», sagt Steiner. «Das ist ein grosses Problem, darüber haben sich schon viele Denker den Kopf zerbrochen.»\n\nBei Hadwigers Vermutung gehe es um Graphen-Färbung, erklärt der Mathematiker. Dabei wird jedem Knoten eines Graphen eine Farbe zugewiesen. Als einzige Bedingung gilt, dass Knoten, die miteinander verbunden sind, also eine Kante haben, nicht die gleiche Farbe erhalten dürfen. Ein Teil von Hadwigers Vermutung ist der sogenannte Vier-Farben-Satz. Er besagt Folgendes: Will man eine Landkarte mit verschiedenen Ländern so einfärben, dass benachbarte Länder unterschiedliche Farben haben, so genügen vier Farben. Obwohl der Vier-Farben-Satz bereits Mitte des 19. Jahrhunderts aufgestellt wurde, dauerte es über 100 Jahre, bis man ihn beweisen konnte. «Das Vorgehen war in der Mathematik umstritten», erzählt Steiner. «Denn der Beweis erforderte Computerhilfe. Das war etwas Neues.»\n\nFrüher analysierten die Mathematiker die verschiedenen, möglichen Fälle einer Vermutung von Hand. Doch beim Vier-Farben-Problem gab es so viele problematischen Fälle, dass dies nur ein Computer schaffte. «Die Leute waren damals skeptisch, ob der Programmcode tatsächlich fehlerfrei war», sagt Steiner. Inzwischen wurde der Beweis mit modernen Programmiersprachen überprüft und es bestehen keine Zweifel mehr. «Dennoch sind nicht alle glücklich über diese Art von Beweis», sagt Steiner. «Löst man ein Problem mit dem Computer, ist es dann zwar ein Fakt, doch intuitiv versteht man nicht so richtig, warum dies gilt.» Diese Herausforderung dürfte sich in naher Zukunft noch akzentuieren, wenn auch KI-basierte Beweisassistenten zum Einsatz kommen.\n\nAuch für den Beweis der viel allgemeineren Hadwiger Vermutung gibt es verschiedene Ansätze. Ausgangspunkt könnte ein neuer, nicht computerassistierter Beweis des Vier-Farben-Satzes sein, der als Basis für eine Verallgemeinerung dienen könnte. «Auch ich habe das schon versucht, doch es ist schwierig», gibt Steiner zu. Nun verfolgt er eine andere Herangehensweise: «Wenn wir ein mathematisches Problem nicht lösen können, vereinfachen wir es oft ein wenig und versuchen, uns dann schrittweise dem wirklichen Problem anzunähern.» Ein Zwischenziel scheint in Reichweite zu sein, wie bisherige Arbeiten zeigen.\n\nDas Grosse Ziel im Auge, sich aber auf Zwischenschritte konzentrieren. Das macht Steiner auch, wenn er, wie so häufig in seiner Freizeit, Schach spielt. «Das macht mir sehr viel Spass», sagt er. Der Denker findet aber auch ab und zu Ausgleich im Konditionstraining der ETH oder geht laufen. «Ich singe auch gerne und überlege mir, ob ich eine Band suchen soll», erzählt er.\n\nWie aber geht so ein Überflieger damit um, wenn es nicht auf Anhieb klappt? Dass es bei der Arbeit auch manchmal Tage gibt, an denen die Lösungsideen nicht wie aus einem Fluss hervorquellen, gibt er gerne zu. Doch die Faszination überwiegt bei weitem. «Das Schöne an der Mathematik ist, dass sie auf konkrete Fragen auch eindeutige Antworten gibt», erklärt er. «Existiert ein handfester Beweis für etwas, dann muss selbst jemand, der dich nicht mag, diesen akzeptieren. Diese Objektivität finde ich grossartig.»\n\nSteiner, R. Asymptotic equivalence of Hadwiger's conjecture and its odd minor-variant. Journal of Combinatorial Theory, Series B, Volume 155, 2022, Pages 45-51. DOI: externe Seite 10.1016/j.jctb.2022.02.002 .\n\nMartinsson, A, Steiner, R. Strengthening Hadwiger's conjecture for 4- and 5-chromatic graphs. Journal of Combinatorial Theory, Series B, Volume 164, 2024, Pages 1-16. DOI: externe Seite 10.1016/j.jctb.2023.08.009 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Google Maps",
+        "label": "MISC",
+        "start": 16,
+        "end": 27
+      },
+      {
+        "text": "Raphael Steiner",
+        "label": "PER",
+        "start": 131,
+        "end": 146
+      },
+      {
+        "text": "Graphen",
+        "label": "PER",
+        "start": 182,
+        "end": 189
+      },
+      {
+        "text": "ETH-Instituts",
+        "label": "MISC",
+        "start": 466,
+        "end": 479
+      },
+      {
+        "text": "Andreasturm",
+        "label": "LOC",
+        "start": 550,
+        "end": 561
+      },
+      {
+        "text": "Zürich-Oerlikon",
+        "label": "LOC",
+        "start": 565,
+        "end": 580
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 675,
+        "end": 682
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 745,
+        "end": 755
+      },
+      {
+        "text": "ETH-Fellow",
+        "label": "ORG",
+        "start": 768,
+        "end": 778
+      },
+      {
+        "text": "Schweizerische Nationalfonds",
+        "label": "ORG",
+        "start": 955,
+        "end": 983
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 61,
+        "end": 68
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 419,
+        "end": 423
+      },
+      {
+        "text": "Google-Maps",
+        "label": "PER",
+        "start": 471,
+        "end": 482
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 561,
+        "end": 568
+      },
+      {
+        "text": "Graphen-Theorie",
+        "label": "MISC",
+        "start": 575,
+        "end": 590
+      },
+      {
+        "text": "Tuttlingen",
+        "label": "LOC",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "Raphael Steiner",
+        "label": "PER",
+        "start": 63,
+        "end": 78
+      },
+      {
+        "text": "Löchern",
+        "label": "MISC",
+        "start": 327,
+        "end": 334
+      },
+      {
+        "text": "Schwester",
+        "label": "PER",
+        "start": 506,
+        "end": 515
+      },
+      {
+        "text": "Sohn",
+        "label": "PER",
+        "start": 134,
+        "end": 138
+      },
+      {
+        "text": "Fernuniversität Hagen",
+        "label": "ORG",
+        "start": 176,
+        "end": 197
+      },
+      {
+        "text": "Hause",
+        "label": "PER",
+        "start": 292,
+        "end": 297
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 328,
+        "end": 335
+      },
+      {
+        "text": "Berlin",
+        "label": "LOC",
+        "start": 540,
+        "end": 546
+      },
+      {
+        "text": "Technischen Universität Berlin",
+        "label": "ORG",
+        "start": 665,
+        "end": 695
+      },
+      {
+        "text": "Süddeutschland",
+        "label": "LOC",
+        "start": 818,
+        "end": 832
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 867,
+        "end": 870
+      },
+      {
+        "text": "ETH-Institut für theoretische Informatik",
+        "label": "MISC",
+        "start": 972,
+        "end": 1012
+      },
+      {
+        "text": "ETH-Fellowship",
+        "label": "MISC",
+        "start": 1039,
+        "end": 1053
+      },
+      {
+        "text": "Ambizione-Förderung",
+        "label": "MISC",
+        "start": 1084,
+        "end": 1103
+      },
+      {
+        "text": "Ambizione-Förderung",
+        "label": "MISC",
+        "start": 32,
+        "end": 51
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 148,
+        "end": 157
+      },
+      {
+        "text": "Hugo Hadwiger",
+        "label": "PER",
+        "start": 171,
+        "end": 184
+      },
+      {
+        "text": "Graphen",
+        "label": "PER",
+        "start": 235,
+        "end": 242
+      },
+      {
+        "text": "Beweises",
+        "label": "MISC",
+        "start": 563,
+        "end": 571
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 589,
+        "end": 596
+      },
+      {
+        "text": "Hadwigers",
+        "label": "PER",
+        "start": 692,
+        "end": 701
+      },
+      {
+        "text": "Hadwigers",
+        "label": "PER",
+        "start": 977,
+        "end": 986
+      },
+      {
+        "text": "Vier-Farben-Satz",
+        "label": "LOC",
+        "start": 1209,
+        "end": 1225
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 1393,
+        "end": 1400
+      },
+      {
+        "text": "Computerhilfe",
+        "label": "ORG",
+        "start": 1430,
+        "end": 1443
+      },
+      {
+        "text": "Vier-Farben-Problem",
+        "label": "LOC",
+        "start": 1575,
+        "end": 1594
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 1760,
+        "end": 1767
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 1944,
+        "end": 1951
+      },
+      {
+        "text": "Hadwiger",
+        "label": "LOC",
+        "start": 2256,
+        "end": 2264
+      },
+      {
+        "text": "Vier-Farben-Satzes",
+        "label": "MISC",
+        "start": 2375,
+        "end": 2393
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 2520,
+        "end": 2527
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 2902,
+        "end": 2909
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 3090,
+        "end": 3093
+      },
+      {
+        "text": "Das Schöne",
+        "label": "MISC",
+        "start": 3448,
+        "end": 3458
+      },
+      {
+        "text": "Existiert",
+        "label": "PER",
+        "start": 3557,
+        "end": 3566
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 3707,
+        "end": 3714
+      },
+      {
+        "text": "R. Asymptotic equivalence of Hadwiger's",
+        "label": "ORG",
+        "start": 3716,
+        "end": 3755
+      },
+      {
+        "text": "Series B",
+        "label": "PER",
+        "start": 3827,
+        "end": 3835
+      },
+      {
+        "text": "Pages",
+        "label": "PER",
+        "start": 3855,
+        "end": 3860
+      },
+      {
+        "text": "j.jctb.2022.02.002",
+        "label": "PER",
+        "start": 3895,
+        "end": 3913
+      },
+      {
+        "text": "Martinsson",
+        "label": "PER",
+        "start": 3916,
+        "end": 3926
+      },
+      {
+        "text": "Steiner",
+        "label": "PER",
+        "start": 3931,
+        "end": 3938
+      },
+      {
+        "text": "R. Strengthening Hadwiger's",
+        "label": "PER",
+        "start": 3940,
+        "end": 3967
+      },
+      {
+        "text": "Journal of Combinatorial Theory",
+        "label": "MISC",
+        "start": 4010,
+        "end": 4041
+      },
+      {
+        "text": "Series B",
+        "label": "PER",
+        "start": 4043,
+        "end": 4051
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Existiert",
+        "Google-Maps",
+        "Graphen",
+        "Hadwigers",
+        "Hause",
+        "Hugo Hadwiger",
+        "Martinsson",
+        "Pages",
+        "R. Strengthening Hadwiger's",
+        "Raphael Steiner",
+        "Schwester",
+        "Series B",
+        "Sohn",
+        "Steiner",
+        "j.jctb.2022.02.002"
+      ],
+      "ORG": [
+        "Computerhilfe",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Fellow",
+        "Fernuniversität Hagen",
+        "R. Asymptotic equivalence of Hadwiger's",
+        "Schweizerische Nationalfonds",
+        "Technischen Universität Berlin"
+      ],
+      "LOCATION": [
+        "Andreasturm",
+        "Berlin",
+        "Hadwiger",
+        "Süddeutschland",
+        "Tuttlingen",
+        "Vier-Farben-Problem",
+        "Vier-Farben-Satz",
+        "Zürich-Oerlikon"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Ambizione-Förderung",
+        "Beweises",
+        "Das Schöne",
+        "ETH-Fellowship",
+        "ETH-Institut für theoretische Informatik",
+        "ETH-Instituts",
+        "Google Maps",
+        "Graphen-Theorie",
+        "Journal of Combinatorial Theory",
+        "Löchern",
+        "Schweizer",
+        "Vier-Farben-Satzes",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "Steiner": 12,
+      "Raphael Steiner": 2,
+      "Graphen": 2,
+      "ETH": 2,
+      "Ambizione-Förderung": 2,
+      "Hadwigers": 2,
+      "Series B": 2,
+      "Google Maps": 1,
+      "ETH-Instituts": 1,
+      "Andreasturm": 1,
+      "Zürich-Oerlikon": 1,
+      "ETH Zürich": 1,
+      "ETH-Fellow": 1,
+      "Schweizerische Nationalfonds": 1,
+      "Zeit": 1,
+      "Google-Maps": 1,
+      "Graphen-Theorie": 1,
+      "Tuttlingen": 1,
+      "Löchern": 1,
+      "Schwester": 1
+    },
+    "total_entities": 61,
+    "unique_entities": 44
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "die-grossartigkeit-der-objektivitaet-und-ein-paar-handfeste-beweise.md",
+      "title": "De News Events/2023/12/die Grossartigkeit der Objektivitaet und ein Paar Handfeste Beweise",
+      "language": "de",
+      "source_path": "de_news_events/2023/12/die-grossartigkeit-der-objektivitaet-und-ein-paar-handfeste-beweise.html"
+    },
+    "temporal": {
+      "publication_date": "2023-12",
+      "mentioned_years": [
+        "1943",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Existiert",
+        "Google-Maps",
+        "Graphen",
+        "Hadwigers",
+        "Hause",
+        "Hugo Hadwiger",
+        "Martinsson",
+        "Pages",
+        "R. Strengthening Hadwiger's",
+        "Raphael Steiner",
+        "Schwester",
+        "Series B",
+        "Sohn",
+        "Steiner",
+        "j.jctb.2022.02.002"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Ambizione-Förderung",
+        "Beweises",
+        "Das Schöne",
+        "ETH-Fellowship",
+        "ETH-Institut für theoretische Informatik",
+        "ETH-Instituts",
+        "Google Maps",
+        "Graphen-Theorie",
+        "Journal of Combinatorial Theory",
+        "Löchern",
+        "Schweizer",
+        "Vier-Farben-Satzes",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU",
+        "fellowship"
+      ],
+      "projects": [
+        "Mit Graphen",
+        "Hugo Hadwiger",
+        "Hadwiger Vermutung",
+        "Steiners Fach",
+        "Am Ende",
+        "Seit September",
+        "Fachwelt Aufsehen",
+        "Paar Handfeste",
+        "Ein Zwischenziel",
+        "Der Ort",
+        "Der Denker",
+        "Hochhauses Andreasturm",
+        "Schweizerische Nationalfonds",
+        "Beweise Wenn",
+        "ETH-Institut",
+        "Das Grosse",
+        "Bei Hadwigers",
+        "Ein Verkehrsnetz",
+        "Die Graphen",
+        "Jahre Sicherheit",
+        "Vier-Farben",
+        "Das Vorgehen",
+        "Schweizer Mathematiker",
+        "Raphael Steiner",
+        "ETH-Instituts",
+        "Google Maps",
+        "Ambizione-Beitrag",
+        "Das Thema",
+        "Diese Herausforderung",
+        "Angelika Steger",
+        "Die Verbindung",
+        "Der Beruf",
+        "Google-Maps",
+        "Die Vermutung",
+        "Ein Beispiel",
+        "Forschenden Kanten",
+        "ETH-Fellowship",
+        "Den Mastertitel",
+        "Combinatorial Theory",
+        "De News",
+        "Die Leute",
+        "ETH-Fellow",
+        "Ein Teil",
+        "Series B",
+        "Strengthening Hadwiger",
+        "Hadwigers Vermutung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Computerhilfe",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Fellow",
+        "Fernuniversität Hagen",
+        "R. Asymptotic equivalence of Hadwiger's",
+        "Schweizerische Nationalfonds",
+        "Technischen Universität Berlin"
+      ],
+      "locations": [
+        "Andreasturm",
+        "Berlin",
+        "Hadwiger",
+        "Süddeutschland",
+        "Tuttlingen",
+        "Vier-Farben-Problem",
+        "Vier-Farben-Satz",
+        "Zürich-Oerlikon"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Steiner",
+        "Raphael Steiner",
+        "Graphen",
+        "ETH",
+        "Ambizione-Förderung",
+        "Hadwigers",
+        "Series B",
+        "Google Maps",
+        "ETH-Instituts",
+        "Andreasturm"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Die Mathematik von Strassennetzen",
+          "Die Mathematik von Strassennetzen",
+          "Abitur und Master im selben Jahr",
+          "Zwischenziel in Reichweite",
+          "Beweis mit Computerhilfe"
+        ],
+        "content_length": 8160
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "R. Asymptotic equivalence of Hadwiger's",
+        "Sohn",
+        "Hugo Hadwiger",
+        "Schwester",
+        "Martinsson",
+        "Steiner",
+        "j.jctb.2022.02.002",
+        "1943",
+        "Existiert",
+        "ETH Zürich",
+        "Schweizerische Nationalfonds",
+        "2022",
+        "Hadwigers",
+        "R. Strengthening Hadwiger's",
+        "Graphen",
+        "Fernuniversität Hagen",
+        "Raphael Steiner",
+        "fellowship",
+        "EU",
+        "Pages",
+        "Google-Maps",
+        "2024",
+        "Computerhilfe",
+        "Technischen Universität Berlin",
+        "Hause",
+        "ETH-Fellow",
+        "Series B",
+        "2021",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Graphen-Theorie",
+        "Journal of Combinatorial Theory",
+        "Zeit",
+        "Das Schöne",
+        "ETH-Institut für theoretische Informatik",
+        "Schweizer",
+        "who",
+        "Beweises",
+        "ETH-Fellowship",
+        "ETH-Instituts",
+        "Google Maps",
+        "Ambizione-Förderung",
+        "Löchern",
+        "Vier-Farben-Satzes"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

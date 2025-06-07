@@ -1,0 +1,490 @@
+{
+  "filename": "faster-diagnosis-of-endometriosis-with-ai.md",
+  "original_filename": "faster-diagnosis-of-endometriosis-with-ai.html",
+  "source_path": "en_news_events/2024/03/faster-diagnosis-of-endometriosis-with-ai.html",
+  "date": "2024-03",
+  "title": "Faster Diagnosis Of Endometriosis With Ai",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Entrepreneurs by chance",
+      "text": "Endometriosis is widespread. Around ten percent of all women of childbearing age throughout the world suffer from it. And “suffer” is the operative word here, as it takes an average of eight to twelve years for these benign growths of the endometrium in the abdominal cavity to be diagnosed. Years in which women endure severe pain generally before and during menstruation.\n\nIn order to reliably diagnose endometriosis, many gynaecologists still rely on a laparoscopy performed under general anaesthetic. However, this procedure is not only laborious and onerous for patients but also relatively costly. While endometriosis could be diagnosed for most patients via ultrasound, this calls for a certain degree of experience as it can easily go undetected.\n\nAI expert Fabian Laumer and gynaecologist Michael Bajka therefore founded the spin-off Scanvio in the summer of 2023. Their goal is to develop an algorithm to assist doctors in interpreting the ultrasound data of the womb during the initial examination in order to diagnose endometriosis reliable and much faster. They are receiving specialist support from the ETH AI Center and their two co-founders ETH Computer Science Professor Joachim Buhmann and Julian Metzler, an endometriosis specialist at University Hospital Zurich."
+    },
+    {
+      "heading": "Entrepreneurs by chance",
+      "text": "The fact that Laumer is today developing medical solutions is something he owes on two counts to chance. For although medicine and biology already fascinated him as a child, he initially studied electrical engineering and information technology. It was only when he was studying for his Master’s degree that he had the opportunity to combine artificial intelligence (AI) and medicine. “I heard by chance that Buhmann’s research group was offering a Master’s thesis on the AI-based analysis of ultrasound data of the heart,” explains Laumer. He immediately applied – and was successful.\n\nAfter completing his Master’s degree he continued the research work in a doctoral project. And once again chance came to his aid. Bajka contacted his research group asking whether AI could be used to detect endometriosis. Laumer was exactly the right person for the gynaecologist specialising in endometriosis to put his question to. For his doctoral project, the ETH researcher developed an algorithm enabling the better interpretation of ultrasound data of the heart. This approach was then transferred to the womb."
+    },
+    {
+      "heading": "Creating a 3D model from 2D images",
+      "text": "Laumer and Bajka developed an algorithm that identifies pathologies on the ultrasound images of the womb that are often difficult or even impossible for the human eye to see. To this end, Laumer trained the algorithm with ultrasound images and patient data. “The number of pregnancies and Caesareans, age or phase in the menstrual cycle – all these factors obviously influence the appearance of the womb,” he explains.\n\nThe algorithm currently shows the endometriosis in colour on 2D ultrasound images. If the development work proceeds as planned, Laumer hopes to generate a 3D model of the womb by the end of the year on which all growths and adhesions are clearly marked. This could enable gynaecologists to precisely localise endometriosis and better assess the severity of the condition.\n\nTo ensure that the Scanvio AI solution delivers the most reliable results possible, Bajka and Laumer also wish to define fixed standards for the ultrasound examination of endometriosis. A software program with integrated AI will therefore actively guide gynaecologists through the examination in future. “This way we can achieve standardisation while the program will ensure that the entire womb is mapped.”\n\nIn order to push forward the research, the spin-off is currently on the look-out for further investors and holding initial talks with manufacturers of medical devices. If everything goes to plan, market entry at the end of 2025 is conceivable. However, various certifications will still be pending to allow the intelligent software to be used in medical devices. One thing is certain for Laumer: “My aim is for women in future to receive a reliable diagnosis within a year.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Diagnosis Of Endometriosis",
+        "label": "ORG",
+        "start": 30,
+        "end": 56
+      },
+      {
+        "text": "Around ten percent",
+        "label": "PERCENT",
+        "start": 29,
+        "end": 47
+      },
+      {
+        "text": "eight to twelve years",
+        "label": "DATE",
+        "start": 185,
+        "end": 206
+      },
+      {
+        "text": "Years",
+        "label": "DATE",
+        "start": 292,
+        "end": 297
+      },
+      {
+        "text": "Fabian Laumer",
+        "label": "PERSON",
+        "start": 764,
+        "end": 777
+      },
+      {
+        "text": "Michael Bajka",
+        "label": "PERSON",
+        "start": 796,
+        "end": 809
+      },
+      {
+        "text": "Scanvio",
+        "label": "GPE",
+        "start": 841,
+        "end": 848
+      },
+      {
+        "text": "the summer of 2023",
+        "label": "DATE",
+        "start": 852,
+        "end": 870
+      },
+      {
+        "text": "the ETH AI Center",
+        "label": "ORG",
+        "start": 1111,
+        "end": 1128
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1139,
+        "end": 1142
+      },
+      {
+        "text": "ETH Computer",
+        "label": "ORG",
+        "start": 1155,
+        "end": 1167
+      },
+      {
+        "text": "Joachim Buhmann",
+        "label": "PERSON",
+        "start": 1186,
+        "end": 1201
+      },
+      {
+        "text": "Julian Metzler",
+        "label": "PERSON",
+        "start": 1206,
+        "end": 1220
+      },
+      {
+        "text": "University Hospital Zurich",
+        "label": "ORG",
+        "start": 1253,
+        "end": 1279
+      },
+      {
+        "text": "Laumer",
+        "label": "PERSON",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 24,
+        "end": 29
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 83,
+        "end": 86
+      },
+      {
+        "text": "Buhmann",
+        "label": "ORG",
+        "start": 409,
+        "end": 416
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 472,
+        "end": 474
+      },
+      {
+        "text": "Laumer",
+        "label": "PERSON",
+        "start": 533,
+        "end": 539
+      },
+      {
+        "text": "Bajka",
+        "label": "PERSON",
+        "start": 716,
+        "end": 721
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 766,
+        "end": 768
+      },
+      {
+        "text": "Laumer",
+        "label": "PERSON",
+        "start": 808,
+        "end": 814
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 950,
+        "end": 953
+      },
+      {
+        "text": "Laumer",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Bajka",
+        "label": "PERSON",
+        "start": 11,
+        "end": 16
+      },
+      {
+        "text": "Laumer",
+        "label": "PERSON",
+        "start": 188,
+        "end": 194
+      },
+      {
+        "text": "Caesareans",
+        "label": "NORP",
+        "start": 289,
+        "end": 299
+      },
+      {
+        "text": "2D",
+        "label": "CARDINAL",
+        "start": 480,
+        "end": 482
+      },
+      {
+        "text": "Laumer",
+        "label": "PERSON",
+        "start": 547,
+        "end": 553
+      },
+      {
+        "text": "the end of the year",
+        "label": "DATE",
+        "start": 598,
+        "end": 617
+      },
+      {
+        "text": "Scanvio AI",
+        "label": "GPE",
+        "start": 810,
+        "end": 820
+      },
+      {
+        "text": "Bajka",
+        "label": "PERSON",
+        "start": 875,
+        "end": 880
+      },
+      {
+        "text": "Laumer",
+        "label": "PERSON",
+        "start": 885,
+        "end": 891
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 1012,
+        "end": 1014
+      },
+      {
+        "text": "the end of 2025",
+        "label": "DATE",
+        "start": 1411,
+        "end": 1426
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1562,
+        "end": 1565
+      },
+      {
+        "text": "Laumer",
+        "label": "PERSON",
+        "start": 1587,
+        "end": 1593
+      },
+      {
+        "text": "a year",
+        "label": "DATE",
+        "start": 1665,
+        "end": 1671
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bajka",
+        "Fabian Laumer",
+        "Joachim Buhmann",
+        "Julian Metzler",
+        "Laumer",
+        "Michael Bajka"
+      ],
+      "ORG": [
+        "Buhmann",
+        "Diagnosis Of Endometriosis",
+        "ETH",
+        "ETH Computer",
+        "University Hospital Zurich",
+        "the ETH AI Center"
+      ],
+      "LOCATION": [
+        "AI",
+        "Scanvio",
+        "Scanvio AI"
+      ],
+      "DATE": [
+        "Years",
+        "a year",
+        "eight to twelve years",
+        "the end of 2025",
+        "the end of the year",
+        "the summer of 2023",
+        "today"
+      ],
+      "MISC": [
+        "2D",
+        "Around ten percent",
+        "Caesareans",
+        "One",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Laumer": 8,
+      "AI": 3,
+      "Bajka": 3,
+      "two": 2,
+      "Diagnosis Of Endometriosis": 1,
+      "Around ten percent": 1,
+      "eight to twelve years": 1,
+      "Years": 1,
+      "Fabian Laumer": 1,
+      "Michael Bajka": 1,
+      "Scanvio": 1,
+      "the summer of 2023": 1,
+      "the ETH AI Center": 1,
+      "ETH Computer": 1,
+      "Joachim Buhmann": 1,
+      "Julian Metzler": 1,
+      "University Hospital Zurich": 1,
+      "today": 1,
+      "Buhmann": 1,
+      "ETH": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "faster-diagnosis-of-endometriosis-with-ai.md",
+      "title": "En News Events/2024/03/faster Diagnosis Of Endometriosis With Ai",
+      "language": "en",
+      "source_path": "en_news_events/2024/03/faster-diagnosis-of-endometriosis-with-ai.html"
+    },
+    "temporal": {
+      "publication_date": "2024-03",
+      "mentioned_years": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bajka",
+        "Fabian Laumer",
+        "Joachim Buhmann",
+        "Julian Metzler",
+        "Laumer",
+        "Michael Bajka"
+      ],
+      "people_with_roles": {
+        "Joachim Buhmann": [
+          "Professor",
+          "professor"
+        ],
+        "Julian Metzler": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Around ten percent",
+        "Caesareans"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "En News",
+        "Michael Bajka",
+        "Science Professor",
+        "Julian Metzler",
+        "ETH AI",
+        "Endometriosis With",
+        "Ai Endometriosis",
+        "University Hospital",
+        "Joachim Buhmann",
+        "Diagnosis Of",
+        "Scanvio AI",
+        "ETH Computer",
+        "Fabian Laumer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Buhmann",
+        "Diagnosis Of Endometriosis",
+        "ETH",
+        "ETH Computer",
+        "University Hospital Zurich",
+        "the ETH AI Center"
+      ],
+      "locations": [
+        "AI",
+        "Scanvio",
+        "Scanvio AI"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Laumer",
+        "AI",
+        "Bajka",
+        "two",
+        "Diagnosis Of Endometriosis",
+        "Around ten percent",
+        "eight to twelve years",
+        "Years",
+        "Fabian Laumer",
+        "Michael Bajka"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Entrepreneurs by chance",
+          "Entrepreneurs by chance",
+          "Creating a 3D model from 2D images"
+        ],
+        "content_length": 4129
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "2025",
+        "Michael Bajka",
+        "Buhmann",
+        "Julian Metzler",
+        "Bajka",
+        "Diagnosis Of Endometriosis",
+        "University Hospital Zurich",
+        "Laumer",
+        "Joachim Buhmann",
+        "the ETH AI Center",
+        "ERC",
+        "ETH Computer",
+        "Fabian Laumer",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "computer_science",
+        "who",
+        "when",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "Around ten percent",
+        "why",
+        "Caesareans",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Joachim Buhmann_has_role_Professor",
+        "Joachim Buhmann_has_role_professor",
+        "Julian Metzler_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

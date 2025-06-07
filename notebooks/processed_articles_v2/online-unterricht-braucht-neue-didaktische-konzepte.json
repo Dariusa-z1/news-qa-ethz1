@@ -1,0 +1,152 @@
+{
+  "filename": "online-unterricht-braucht-neue-didaktische-konzepte.md",
+  "original_filename": "online-unterricht-braucht-neue-didaktische-konzepte.html",
+  "source_path": "de_internal/2020/03/online-unterricht-braucht-neue-didaktische-konzepte.html",
+  "date": "2020-03",
+  "title": "Online Unterricht Braucht Neue Didaktische Konzepte",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Lesen Sie das Interview auf den Seiten des D-INFK:\n\nhttps://inf.ethz.ch/de/news-und-verstaltungen/spotlights/2020/03/interview-ueli-maurer.html"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/03/online Unterricht",
+        "label": "LOC",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "text": "Braucht Neue Didaktische",
+        "label": "ORG",
+        "start": 38,
+        "end": 62
+      },
+      {
+        "text": "Konzepte",
+        "label": "LOC",
+        "start": 63,
+        "end": 71
+      },
+      {
+        "text": "D-INFK",
+        "label": "MISC",
+        "start": 43,
+        "end": 49
+      },
+      {
+        "text": "https://inf.ethz.ch/de/news-und-verstaltungen/spotlights/2020/03/interview-ueli-maurer.html",
+        "label": "PER",
+        "start": 51,
+        "end": 142
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "https://inf.ethz.ch/de/news-und-verstaltungen/spotlights/2020/03/interview-ueli-maurer.html"
+      ],
+      "ORG": [
+        "Braucht Neue Didaktische"
+      ],
+      "LOCATION": [
+        "De Internal/2020/03/online Unterricht",
+        "Konzepte"
+      ],
+      "DATE": [],
+      "MISC": [
+        "D-INFK"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2020/03/online Unterricht": 1,
+      "Braucht Neue Didaktische": 1,
+      "Konzepte": 1,
+      "D-INFK": 1,
+      "https://inf.ethz.ch/de/news-und-verstaltungen/spotlights/2020/03/interview-ueli-maurer.html": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "online-unterricht-braucht-neue-didaktische-konzepte.md",
+      "title": "De Internal/2020/03/online Unterricht Braucht Neue Didaktische Konzepte",
+      "language": "de",
+      "source_path": "de_internal/2020/03/online-unterricht-braucht-neue-didaktische-konzepte.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "https://inf.ethz.ch/de/news-und-verstaltungen/spotlights/2020/03/interview-ueli-maurer.html"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "D-INFK"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "D-INFK",
+        "De Internal",
+        "Konzepte Lesen",
+        "Neue Didaktische",
+        "Unterricht Braucht"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Braucht Neue Didaktische"
+      ],
+      "locations": [
+        "De Internal/2020/03/online Unterricht",
+        "Konzepte"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2020/03/online Unterricht",
+        "Braucht Neue Didaktische",
+        "Konzepte",
+        "D-INFK",
+        "https://inf.ethz.ch/de/news-und-verstaltungen/spotlights/2020/03/interview-ueli-maurer.html"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 215
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020",
+        "EU",
+        "https://inf.ethz.ch/de/news-und-verstaltungen/spotlights/2020/03/interview-ueli-maurer.html",
+        "Braucht Neue Didaktische"
+      ],
+      "semantic_concepts": [
+        "D-INFK"
+      ],
+      "graph_relations": []
+    }
+  }
+}

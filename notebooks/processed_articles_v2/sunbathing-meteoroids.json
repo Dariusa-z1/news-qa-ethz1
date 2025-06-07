@@ -1,0 +1,498 @@
+{
+  "filename": "sunbathing-meteoroids.md",
+  "original_filename": "sunbathing-meteoroids.html",
+  "source_path": "en_news_events/2017/03/sunbathing-meteoroids.html",
+  "date": "2017-03",
+  "title": "Sunbathing Meteoroids",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Samples from Omani–Swiss project",
+      "text": "The inconspicuous, small stone that was analysed with high-tech equipment is named Jiddat al Harasis 466. It travelled a long way before it entered the Earth’s atmosphere and landed in the desert of Oman. “We think that Jiddat al Harasis 466 was formed 4 million years ago as a remnant of a crash of bigger blocks in the asteroid belt between Mars and Jupiter,” explains Antoine Roth from the Institute of Geochemistry and Petrology at ETH Zurich. Then, after a rapid transfer from the asteroid belt to Earth, it heated up intensely during atmospheric entry and lost a lot of material. What was originally a stone with a radius of two centimetres ended up as a one centimetre meteorite.\n\nPhotomicrograph of Jiddat al Harasis 466 (thin-section). (Image: A.Roth / ETH Zurich)\n\nJiddat al Harasis 466 is one of 25 small meteorites that Roth chose for his study, which is now to be published by the journal Meteoritics & Planetary Science . In order to find out more about the history of the samples, he was looking for neon: a noble gas that can be produced by energetic solar radiation, for instance when it splits the magnesium atoms that are part of the rocky material. Knowing the amount of neon produced by solar cosmic ray allows scientists to figure out how far from the sun and how long a meteorite travelled in space. “It’s like being able to tell whether your friends spent their holiday at a sunny beach or in a cold place because of their tan,” says Roth, who is also a member of the Swiss National Centre of Competence in Research PlanetS .\n\nPreviously, neon produced by solar cosmic rays had been found in Martian meteorites, but not in ordinary “chondrites” originating from the asteroid belt. “This may be the result of a sampling bias,” Roth says, “because neon produced by solar radiation is better preserved in meteorites with small pre-atmospheric radii – and these specimens are often studied only if they belong to unusual or rare classes.” Since the solar cosmic rays penetrate only a few centimetres into the rocky material, with bigger samples the neon gets lost when the meteorite is ablated during its entry into Earth’s atmosphere. But in small samples, the noble gas can be preserved in the centre."
+    },
+    {
+      "heading": "Samples from Omani–Swiss project",
+      "text": "Looking for small meteorites, the scientist found a rich collection at the Natural History Museum in Bern, which coordinated several meteorite search campaigns in Oman. Using an infrared laser and a mass spectrometer at the University of Bern, the researchers were able to extract the neon from the samples and measure its isotopic concentrations: this allows them to determine the proportion of the noble gas that originated from solar cosmic rays rather than galactic cosmic rays. To analyse the measured data and calculate the actual production rate, Roth and his colleagues developed a new physical model that also predicts the average distance to the sun at which the meteoroid has been irradiated.\n\nAs a result, Roth found neon produced by solar radiation in 4 of the 25 chondrites that were studied. Some of the samples that didn’t show the sought-after noble gas were probably part of a bigger stone that first fell apart during entry into Earth’s atmosphere. “Our data indicate that neon produced by solar cosmic rays is by no means limited to Martian meteorites,” summarises the PlanetS member. In an upcoming study he will analyse meteorites collected by NASA in Antarctica. Since he needs small samples that weigh less than 10 grams each, it was not too complicated to get appropriate material – although the chondrites are destroyed during the analysis.\n\nRoth A, Trappitsch R, Metzler K, Hofmann B, Leya I: Neon produced by solar cosmic rays in ordinary chondrites. Meteoritics & Planetary Science. DOI: 10.1111/maps.12868"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Meteoroids",
+        "label": "ORG",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Jiddat al Harasis",
+        "label": "PERSON",
+        "start": 83,
+        "end": 100
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 152,
+        "end": 157
+      },
+      {
+        "text": "Oman",
+        "label": "GPE",
+        "start": 199,
+        "end": 203
+      },
+      {
+        "text": "Jiddat al Harasis",
+        "label": "PERSON",
+        "start": 220,
+        "end": 237
+      },
+      {
+        "text": "4 million years ago",
+        "label": "DATE",
+        "start": 253,
+        "end": 272
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 343,
+        "end": 347
+      },
+      {
+        "text": "Jupiter",
+        "label": "LOC",
+        "start": 352,
+        "end": 359
+      },
+      {
+        "text": "Antoine Roth",
+        "label": "PERSON",
+        "start": 371,
+        "end": 383
+      },
+      {
+        "text": "the Institute of Geochemistry and Petrology",
+        "label": "ORG",
+        "start": 389,
+        "end": 432
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 436,
+        "end": 446
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 503,
+        "end": 508
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 631,
+        "end": 634
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 661,
+        "end": 664
+      },
+      {
+        "text": "Jiddat al Harasis",
+        "label": "PERSON",
+        "start": 706,
+        "end": 723
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 761,
+        "end": 771
+      },
+      {
+        "text": "Jiddat al Harasis",
+        "label": "PERSON",
+        "start": 773,
+        "end": 790
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 798,
+        "end": 801
+      },
+      {
+        "text": "Roth",
+        "label": "PERSON",
+        "start": 830,
+        "end": 834
+      },
+      {
+        "text": "Meteoritics & Planetary Science",
+        "label": "ORG",
+        "start": 900,
+        "end": 931
+      },
+      {
+        "text": "Roth",
+        "label": "PERSON",
+        "start": 1456,
+        "end": 1460
+      },
+      {
+        "text": "the Swiss National Centre of Competence in Research",
+        "label": "ORG",
+        "start": 1486,
+        "end": 1537
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 1613,
+        "end": 1620
+      },
+      {
+        "text": "Roth",
+        "label": "PERSON",
+        "start": 1747,
+        "end": 1751
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 2133,
+        "end": 2138
+      },
+      {
+        "text": "the Natural History Museum",
+        "label": "ORG",
+        "start": 71,
+        "end": 97
+      },
+      {
+        "text": "Bern",
+        "label": "ORG",
+        "start": 101,
+        "end": 105
+      },
+      {
+        "text": "Oman",
+        "label": "GPE",
+        "start": 163,
+        "end": 167
+      },
+      {
+        "text": "the University of Bern",
+        "label": "ORG",
+        "start": 220,
+        "end": 242
+      },
+      {
+        "text": "Roth",
+        "label": "PERSON",
+        "start": 554,
+        "end": 558
+      },
+      {
+        "text": "Roth",
+        "label": "PERSON",
+        "start": 717,
+        "end": 721
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 912,
+        "end": 917
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 947,
+        "end": 952
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 1052,
+        "end": 1059
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 1165,
+        "end": 1169
+      },
+      {
+        "text": "Antarctica",
+        "label": "LOC",
+        "start": 1173,
+        "end": 1183
+      },
+      {
+        "text": "less than 10 grams",
+        "label": "QUANTITY",
+        "start": 1225,
+        "end": 1243
+      },
+      {
+        "text": "Trappitsch",
+        "label": "ORG",
+        "start": 1374,
+        "end": 1384
+      },
+      {
+        "text": "Metzler K",
+        "label": "ORG",
+        "start": 1388,
+        "end": 1397
+      },
+      {
+        "text": "Hofmann B",
+        "label": "PERSON",
+        "start": 1399,
+        "end": 1408
+      },
+      {
+        "text": "Leya",
+        "label": "PERSON",
+        "start": 1410,
+        "end": 1414
+      },
+      {
+        "text": "Meteoritics & Planetary Science",
+        "label": "ORG",
+        "start": 1477,
+        "end": 1508
+      },
+      {
+        "text": "10.1111",
+        "label": "CARDINAL",
+        "start": 1515,
+        "end": 1522
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Antoine Roth",
+        "ETH Zurich",
+        "Hofmann B",
+        "Jiddat al Harasis",
+        "Leya",
+        "Roth"
+      ],
+      "ORG": [
+        "Bern",
+        "ETH Zurich",
+        "Meteoritics & Planetary Science",
+        "Meteoroids",
+        "Metzler K",
+        "NASA",
+        "Trappitsch",
+        "the Institute of Geochemistry and Petrology",
+        "the Natural History Museum",
+        "the Swiss National Centre of Competence in Research",
+        "the University of Bern"
+      ],
+      "LOCATION": [
+        "Antarctica",
+        "Earth",
+        "Jupiter",
+        "Mars",
+        "Oman"
+      ],
+      "DATE": [
+        "4 million years ago"
+      ],
+      "MISC": [
+        "10.1111",
+        "Martian",
+        "first",
+        "less than 10 grams",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Roth": 5,
+      "Jiddat al Harasis": 4,
+      "Earth": 4,
+      "Oman": 2,
+      "ETH Zurich": 2,
+      "one": 2,
+      "Meteoritics & Planetary Science": 2,
+      "Martian": 2,
+      "Meteoroids": 1,
+      "4 million years ago": 1,
+      "Mars": 1,
+      "Jupiter": 1,
+      "Antoine Roth": 1,
+      "the Institute of Geochemistry and Petrology": 1,
+      "two": 1,
+      "the Swiss National Centre of Competence in Research": 1,
+      "the Natural History Museum": 1,
+      "Bern": 1,
+      "the University of Bern": 1,
+      "first": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sunbathing-meteoroids.md",
+      "title": "En News Events/2017/03/sunbathing Meteoroids",
+      "language": "en",
+      "source_path": "en_news_events/2017/03/sunbathing-meteoroids.html"
+    },
+    "temporal": {
+      "publication_date": "2017-03",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Antoine Roth",
+        "ETH Zurich",
+        "Hofmann B",
+        "Jiddat al Harasis",
+        "Leya",
+        "Roth"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1111",
+        "Martian",
+        "first",
+        "less than 10 grams"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Planetary Science",
+        "Natural History",
+        "Roth A",
+        "Metzler K",
+        "En News",
+        "Meteoroids The",
+        "Research PlanetS",
+        "Trappitsch R",
+        "Leya I",
+        "Swiss National",
+        "Antoine Roth",
+        "ETH Zurich",
+        "Hofmann B"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Bern",
+        "ETH Zurich",
+        "Meteoritics & Planetary Science",
+        "Meteoroids",
+        "Metzler K",
+        "NASA",
+        "Trappitsch",
+        "the Institute of Geochemistry and Petrology",
+        "the Natural History Museum",
+        "the Swiss National Centre of Competence in Research",
+        "the University of Bern"
+      ],
+      "locations": [
+        "Antarctica",
+        "Earth",
+        "Jupiter",
+        "Mars",
+        "Oman"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Roth",
+        "Jiddat al Harasis",
+        "Earth",
+        "Oman",
+        "ETH Zurich",
+        "one",
+        "Meteoritics & Planetary Science",
+        "Martian",
+        "Meteoroids",
+        "4 million years ago"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Samples from Omani–Swiss project",
+          "Samples from Omani–Swiss project"
+        ],
+        "content_length": 3804
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Roth",
+        "Metzler K",
+        "Meteoroids",
+        "the University of Bern",
+        "the Swiss National Centre of Competence in Research",
+        "2017",
+        "Leya",
+        "EU",
+        "Bern",
+        "the Institute of Geochemistry and Petrology",
+        "the Natural History Museum",
+        "Antoine Roth",
+        "NASA",
+        "Meteoritics & Planetary Science",
+        "ETH Zurich",
+        "Hofmann B",
+        "Trappitsch",
+        "Jiddat al Harasis"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "who",
+        "10.1111",
+        "what",
+        "how",
+        "less than 10 grams",
+        "when",
+        "where",
+        "Martian"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

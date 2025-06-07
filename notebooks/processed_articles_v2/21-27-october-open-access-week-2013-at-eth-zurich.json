@@ -1,0 +1,199 @@
+{
+  "filename": "21-27-october-open-access-week-2013-at-eth-zurich.md",
+  "original_filename": "21-27-october-open-access-week-2013-at-eth-zurich.html",
+  "source_path": "en_internal/2013/10/21-27-october-open-access-week-2013-at-eth-zurich.html",
+  "date": "2013-10",
+  "title": "21 27 October Open Access Week 2013 At Eth Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Visit us at our stands and find out about ETH Zurich’s open-access policy and the open-access strategies of key research sponsors:\n\nThe staff from the E-Publishing office will gladly advise you on the legal, financial and organisational parameters of open access on site.\n\nWe will also be drawing three book tokens worth up to 250 Swiss francs from all visitors who enter our open-access quiz.\n\nAll the information you need on the publication possibilities open to members of ETH Zurich is provided on the Open Access at ETH Zurich website ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "October",
+        "label": "DATE",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "text": "Week 2013",
+        "label": "DATE",
+        "start": 46,
+        "end": 55
+      },
+      {
+        "text": "Eth Zurich",
+        "label": "FAC",
+        "start": 59,
+        "end": 69
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 42,
+        "end": 54
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 295,
+        "end": 300
+      },
+      {
+        "text": "up to",
+        "label": "CARDINAL",
+        "start": 319,
+        "end": 324
+      },
+      {
+        "text": "250 Swiss francs",
+        "label": "MONEY",
+        "start": 325,
+        "end": 341
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 473,
+        "end": 483
+      },
+      {
+        "text": "the Open Access",
+        "label": "ORG",
+        "start": 499,
+        "end": 514
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "the Open Access"
+      ],
+      "LOCATION": [
+        "Eth Zurich"
+      ],
+      "DATE": [
+        "October",
+        "Week 2013"
+      ],
+      "MISC": [
+        "250 Swiss francs",
+        "three",
+        "up to"
+      ]
+    },
+    "entity_counts": {
+      "October": 1,
+      "Week 2013": 1,
+      "Eth Zurich": 1,
+      "ETH Zurich’s": 1,
+      "three": 1,
+      "up to": 1,
+      "250 Swiss francs": 1,
+      "ETH Zurich": 1,
+      "the Open Access": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "21-27-october-open-access-week-2013-at-eth-zurich.md",
+      "title": "En Internal/2013/10/21 27 October Open Access Week 2013 At Eth Zurich",
+      "language": "en",
+      "source_path": "en_internal/2013/10/21-27-october-open-access-week-2013-at-eth-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "250 Swiss francs",
+        "three",
+        "up to"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En Internal",
+        "Access Week",
+        "At Eth",
+        "Zurich Visit",
+        "ETH Zurich",
+        "Open Access",
+        "October Open",
+        "E-Publishing"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "the Open Access"
+      ],
+      "locations": [
+        "Eth Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "October",
+        "Week 2013",
+        "Eth Zurich",
+        "ETH Zurich’s",
+        "three",
+        "up to",
+        "250 Swiss francs",
+        "ETH Zurich",
+        "the Open Access"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 611
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "2013",
+        "the Open Access",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "up to",
+        "three",
+        "who",
+        "what",
+        "250 Swiss francs"
+      ],
+      "graph_relations": []
+    }
+  }
+}

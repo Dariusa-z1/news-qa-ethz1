@@ -1,0 +1,98 @@
+{
+  "filename": "de_internal_2013_12_pc-herunterfahrenabschalten.md",
+  "original_filename": "de_internal_2013_12_pc-herunterfahrenabschalten.html",
+  "source_path": "de_internal/2013/12/pc-herunterfahrenabschalten.html",
+  "date": "2013-12",
+  "title": "Pc Herunterfahrenabschalten",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2013/12/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "pc",
+        "label": "MISC",
+        "start": 20,
+        "end": 22
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2013/12/"
+      ],
+      "DATE": [],
+      "MISC": [
+        "pc"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2013/12/": 1,
+      "pc": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2013_12_pc-herunterfahrenabschalten.md",
+      "title": "De Internal/2013/12/pc Herunterfahrenabschalten",
+      "language": "unknown",
+      "source_path": "de_internal/2013/12/pc-herunterfahrenabschalten.html"
+    },
+    "temporal": {
+      "publication_date": "2013-12",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "De Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2013/12/"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2013/12/",
+        "pc"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 48
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

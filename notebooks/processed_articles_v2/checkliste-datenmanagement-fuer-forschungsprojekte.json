@@ -1,0 +1,131 @@
+{
+  "filename": "checkliste-datenmanagement-fuer-forschungsprojekte.md",
+  "original_filename": "checkliste-datenmanagement-fuer-forschungsprojekte.html",
+  "source_path": "de_internal/2016/04/checkliste-datenmanagement-fuer-forschungsprojekte.html",
+  "date": "2016-04",
+  "title": "Checkliste Datenmanagement Fuer Forschungsprojekte",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In unserem neuesten Blogbeitrag stellen wir die Checkliste \" externe Seite Datenmanagement \" (pdf, 281 kB) vor und zeigen die Vorteile eines professionellen Datenmanagements auf.\n\nBlog Innovation@ETH-Bibliothek"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/04/checkliste",
+        "label": "LOC",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Datenmanagement Fuer",
+        "label": "PER",
+        "start": 31,
+        "end": 51
+      },
+      {
+        "text": "Blog",
+        "label": "PER",
+        "start": 179,
+        "end": 183
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Blog",
+        "Datenmanagement Fuer"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2016/04/checkliste"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2016/04/checkliste": 1,
+      "Datenmanagement Fuer": 1,
+      "Blog": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "checkliste-datenmanagement-fuer-forschungsprojekte.md",
+      "title": "De Internal/2016/04/checkliste Datenmanagement Fuer Forschungsprojekte",
+      "language": "de",
+      "source_path": "de_internal/2016/04/checkliste-datenmanagement-fuer-forschungsprojekte.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Blog",
+        "Datenmanagement Fuer"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Forschungsprojekte In",
+        "Datenmanagement Fuer",
+        "Blog Innovation",
+        "De Internal",
+        "Seite Datenmanagement"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2016/04/checkliste"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2016/04/checkliste",
+        "Datenmanagement Fuer",
+        "Blog"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 281
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "Datenmanagement Fuer",
+        "Blog",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

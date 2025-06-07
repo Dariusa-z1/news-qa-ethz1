@@ -1,0 +1,359 @@
+{
+  "filename": "glass-from-a-3d-printer.md",
+  "original_filename": "glass-from-a-3d-printer.html",
+  "source_path": "en_news_events/2019/11/glass-from-a-3d-printer.html",
+  "date": "2019-11",
+  "title": "Glass From A 3D Printer",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Light used to “grow” objects",
+      "text": "Producing glass objects using 3D printing is not easy. Only a few groups of researchers around the world have attempted to produce glass using additive methods. Some have made objects by printing molten glass, but the disadvantage is that this requires extremely high temperatures and heat-resistant equipment. Others have used powdered ceramic particles that can be printed at room temperature and then sintered later to create glass; however, objects produced in this way are not very complex.\n\nResearchers from ETH Zurich have now used a new technique to produce complex glass objects with 3D printing. The method is based on stereolithography, one of the first 3D printing techniques developed during the 1980s. David Moore, Lorenzo Barbera, and Kunal Masania in the Complex Materials group led by ETH processor André Studart have developed a special resin that contains a plastic, and organic molecules to which glass precursors are bonded. The researchers reported their results in the latest issue of the journal Natural Materials ."
+    },
+    {
+      "heading": "Light used to “grow” objects",
+      "text": "The resin can be processed using commercially available Digital Light Processing technology. This involves irradiating the resin with UV light patterns. Wherever the light strikes the resin, it hardens because the light sensitive components of the polymer resin cross link at the exposed points. The plastic monomers combine to form a labyrinth-like structure, creating the polymer. The ceramic-bearing molecules fill the interstices of this labyrinth.\n\nAn object can thus be built up layer by layer. The researchers can change various parameters in each layer, including pore size: weak light intensity results in large pores; intense illumination produces small pores. “We discovered that by accident, but we can use this to directly influence the pore size of the printed object,” says Masania.\n\nThe researchers are also able to modify the microstructure, layer by layer, by mixing silica with borate or phosphate and adding it to the resin. Complex objects can be made from different types of glass, or even combined in the same object using the technique.\n\nThe researchers then fire the blank produced in this way at two different temperatures: at 600 ̊C to burn off the polymer framework and then at around 1000 ̊C to densify the ceramic structure into glass. During the firing process, the objects shrink significantly, but become transparent and hard like window glass."
+    },
+    {
+      "heading": "Patent application submitted",
+      "text": "These 3D-printed glass objects are still no bigger than a die. Large glass objects, such as bottles, drinking glasses or window panes, cannot be produced in this way – which was not actually the goal of the project, emphasises Masania.\n\nThe aim was rather to prove the feasibility of producing glass objects of complex geometry using a 3D printing process. However, the new technology is not just a gimmick. The researchers applied for a patent and are currently negotiating with a major Swiss glassware dealer who wants to use the technology in his company.\n\nMoore DG, Barbera L, Masania K, Studart AR. Three-dimensional printing of multicomponent glasses using phase-separating resins. Nature Materials. (2019) doi: 10.1038/s41563-019-0525-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "3d",
+        "label": "CARDINAL",
+        "start": 36,
+        "end": 38
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 513,
+        "end": 523
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 647,
+        "end": 650
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 658,
+        "end": 663
+      },
+      {
+        "text": "the 1980s",
+        "label": "DATE",
+        "start": 704,
+        "end": 713
+      },
+      {
+        "text": "David Moore",
+        "label": "PERSON",
+        "start": 715,
+        "end": 726
+      },
+      {
+        "text": "Lorenzo Barbera",
+        "label": "PERSON",
+        "start": 728,
+        "end": 743
+      },
+      {
+        "text": "Kunal Masania in the Complex Materials",
+        "label": "WORK_OF_ART",
+        "start": 749,
+        "end": 787
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 801,
+        "end": 804
+      },
+      {
+        "text": "André Studart",
+        "label": "PERSON",
+        "start": 815,
+        "end": 828
+      },
+      {
+        "text": "Natural Materials",
+        "label": "ORG",
+        "start": 1019,
+        "end": 1036
+      },
+      {
+        "text": "Digital Light Processing",
+        "label": "ORG",
+        "start": 56,
+        "end": 80
+      },
+      {
+        "text": "Masania",
+        "label": "PERSON",
+        "start": 788,
+        "end": 795
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1119,
+        "end": 1122
+      },
+      {
+        "text": "around 1000",
+        "label": "CARDINAL",
+        "start": 1203,
+        "end": 1214
+      },
+      {
+        "text": "Masania",
+        "label": "PERSON",
+        "start": 227,
+        "end": 234
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 487,
+        "end": 492
+      },
+      {
+        "text": "Barbera L",
+        "label": "PERSON",
+        "start": 568,
+        "end": 577
+      },
+      {
+        "text": "Masania K",
+        "label": "PERSON",
+        "start": 579,
+        "end": 588
+      },
+      {
+        "text": "Studart AR",
+        "label": "PERSON",
+        "start": 590,
+        "end": 600
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL",
+        "start": 602,
+        "end": 607
+      },
+      {
+        "text": "10.1038/s41563",
+        "label": "MONEY",
+        "start": 716,
+        "end": 730
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "André Studart",
+        "Barbera L",
+        "David Moore",
+        "Lorenzo Barbera",
+        "Masania",
+        "Masania K",
+        "Studart AR"
+      ],
+      "ORG": [
+        "Digital Light Processing",
+        "ETH",
+        "ETH Zurich",
+        "Natural Materials"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "the 1980s"
+      ],
+      "MISC": [
+        "10.1038/s41563",
+        "3d",
+        "Kunal Masania in the Complex Materials",
+        "Swiss",
+        "Three",
+        "around 1000",
+        "first",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Masania": 2,
+      "3d": 1,
+      "ETH Zurich": 1,
+      "one": 1,
+      "first": 1,
+      "the 1980s": 1,
+      "David Moore": 1,
+      "Lorenzo Barbera": 1,
+      "Kunal Masania in the Complex Materials": 1,
+      "ETH": 1,
+      "André Studart": 1,
+      "Natural Materials": 1,
+      "Digital Light Processing": 1,
+      "two": 1,
+      "around 1000": 1,
+      "Swiss": 1,
+      "Barbera L": 1,
+      "Masania K": 1,
+      "Studart AR": 1,
+      "Three": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "glass-from-a-3d-printer.md",
+      "title": "En News Events/2019/11/glass From A 3d Printer",
+      "language": "en",
+      "source_path": "en_news_events/2019/11/glass-from-a-3d-printer.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "André Studart",
+        "Barbera L",
+        "David Moore",
+        "Lorenzo Barbera",
+        "Masania",
+        "Masania K",
+        "Studart AR"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038/s41563",
+        "Kunal Masania in the Complex Materials",
+        "Swiss",
+        "Three",
+        "around 1000",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Kunal Masania",
+        "From A",
+        "Nature Materials",
+        "Printer Producing",
+        "En News",
+        "Digital Light",
+        "Barbera L",
+        "Studart AR",
+        "Moore DG",
+        "Lorenzo Barbera",
+        "Complex Materials",
+        "Natural Materials",
+        "ETH Zurich",
+        "David Moore",
+        "Masania K"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Digital Light Processing",
+        "ETH",
+        "ETH Zurich",
+        "Natural Materials"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Masania",
+        "3d",
+        "ETH Zurich",
+        "one",
+        "first",
+        "the 1980s",
+        "David Moore",
+        "Lorenzo Barbera",
+        "Kunal Masania in the Complex Materials",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Light used to “grow” objects",
+          "Light used to “grow” objects",
+          "Patent application submitted"
+        ],
+        "content_length": 3208
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Digital Light Processing",
+        "ETH",
+        "Barbera L",
+        "2019",
+        "Studart AR",
+        "André Studart",
+        "Lorenzo Barbera",
+        "Masania",
+        "Natural Materials",
+        "ETH Zurich",
+        "David Moore",
+        "ERC",
+        "Masania K"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "around 1000",
+        "who",
+        "Three",
+        "Swiss",
+        "chemistry",
+        "Kunal Masania in the Complex Materials",
+        "10.1038/s41563",
+        "where",
+        "what",
+        "how",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

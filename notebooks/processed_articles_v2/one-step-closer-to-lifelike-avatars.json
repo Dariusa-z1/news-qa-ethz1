@@ -1,0 +1,540 @@
+{
+  "filename": "one-step-closer-to-lifelike-avatars.md",
+  "original_filename": "one-step-closer-to-lifelike-avatars.html",
+  "source_path": "en_news_events/2022/01/one-step-closer-to-lifelike-avatars.html",
+  "date": "2022-01",
+  "title": "One Step Closer To Lifelike Avatars",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Computer model can even handle handsprings",
+      "text": "These days, people stare at their screens ever more frequently – especially since the onset of the coronavirus pandemic. Conferences, meetings and discussions with work colleagues all take place via video call. If the big tech companies have their way, such encounters will become an immersive experience in the so-called metaverse as early as next year, thanks to 3D glasses and specialised computer programs.\n\nThe key to permitting a natural user experience in VR and AR applications is to create what are known as avatars, which are computer-generated, dynamic representations of people. The more realistic the avatars’ appearance and behaviour, the more likely it is that people will gain a sense of real social interaction.\n\nHowever, modelling a human being in detail and in motion is a task that continues to challenge the developers of these applications. Today’s graphics programs can already create photorealistic, static avatars. But to animate a smiling face, say, graphic designers have to manually edit almost every single image on the computer to correct nuances such as wrinkles and shadows.\n\nResearchers led by Otmar Hilliges, Professor of Computer Science at ETH Zurich, showed how to do this more easily at the International Conference on Computer Vision in October 2021. Instead of modelling every last detail, they use intelligent algorithms that learn to automatically render animated avatars in every conceivable pose by observing 3D images of humans in just a few poses."
+    },
+    {
+      "heading": "Computer model can even handle handsprings",
+      "text": "Computer programs that use artificial intelligence to create lifelike virtual humans have existed only for a few years. These programs learn to realistically depict different body positions using 3D scans of a real person, which are recorded beforehand using a complex camera system.\n\nThe AI algorithms process the scans by measuring countless points inside and outside the person’s body to define its contours as a mathematical function. In this way, the algorithms build a template shape of the person. To move the avatar to new poses, the algorithms learn to memorize the path from the moving pose back to the template.\n\nHowever, for extreme poses outside the known repertoire of movements, such algorithms do not have the knowledge and predict wrong paths, leading to clearly visible artifacts: the arms might be detached from the body or the joints located in the wrong place. This is why today’s models are trained on as many different poses as possible – which entails a huge effort for 3D scanning and requires enormous computing power.\n\nTo date, AI avatars are hardly applicable, especially for interactive applications. “It’s impractical to capture the entire possible repertoire of movements,” says Xu Chen, a doctoral student and lead author of the study."
+    },
+    {
+      "heading": "A close look can unmask deepfakes",
+      "text": "The new method Chen has developed takes the opposite approach: the model computes the path from the template to the moving poses. Since this means the calculations always have the same starting point, it lets the intelligent algorithms learn better how to generalise movements.\n\nIndeed, for the first time, it puts such a computer model in a position to easily represent new motion patterns as well. It can even produce acrobatic movements such as a somersault or a back bridge."
+    },
+    {
+      "heading": "Any number of new faces from just one image",
+      "text": "The new full-body avatars can’t yet be personalised; the representations are limited to the person scanned in the original 3D images. Chen and his colleagues would like to further develop their computer model so that it can create new identities at will.\n\nMarcel Bühler, another doctoral student in Hillige’s group, has already found a solution for personalising avatar faces and changing them as desired. Like Chen in his full-body models, Bühler used intelligent algorithms to create new animated faces from a combination of a 3D face model and a large collection of portrait photos.\n\nWhile previous computer programs already provided good animations of faces from the front, Bühler’s model can also realistically represent faces from the side as well as from above and below.\n\nIs there a danger that the new technology will soon allow even more realistic deepfake videos to circulate, for example to fake a speech by an important politician? “Deepfake videos are still far from perfect,” Bühler says. Most computer programs, he points out, achieve good results only for a particular setting. For example, the new face model can’t yet realistically represent details such as hair.\n\n“Anyone who looks closely will still find artifacts,” Bühler says. He thinks it is more important to keep the public informed and aware of the current state of affairs. Making the research on 3D rendering techniques, as well as their vulnerabilities, publicly available could help cybersecurity experts more easily detect deepfake videos on the web, he adds.\n\nFor interactive virtual reality applications, the work of these ETH researchers represents enormous progress. It’s quite possible that tech companies like Facebook and Microsoft will implement the two doctoral students’ newly developed techniques in their avatars.\n\nChen X, Zheng Y, Black M, Hilliges O, Geiger A. SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes . International Conference on Computer Vision (ICCV), published online on October 11th, 2021.\n\nBühler M, Meka A, Li G, Beeler T, Hilliges O. VariTex: Variational Neural Face Textures . International Conference on Computer Vision (ICCV), published online on October 11th, 2021."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "These days",
+        "label": "DATE",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "next year",
+        "label": "DATE",
+        "start": 344,
+        "end": 353
+      },
+      {
+        "text": "VR",
+        "label": "GPE",
+        "start": 462,
+        "end": 464
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 861,
+        "end": 866
+      },
+      {
+        "text": "Otmar Hilliges",
+        "label": "PERSON",
+        "start": 1124,
+        "end": 1138
+      },
+      {
+        "text": "the International Conference on Computer Vision",
+        "label": "ORG",
+        "start": 1222,
+        "end": 1269
+      },
+      {
+        "text": "October 2021",
+        "label": "DATE",
+        "start": 1273,
+        "end": 1285
+      },
+      {
+        "text": "a few years",
+        "label": "DATE",
+        "start": 107,
+        "end": 118
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 196,
+        "end": 198
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 288,
+        "end": 290
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 892,
+        "end": 897
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 1052,
+        "end": 1054
+      },
+      {
+        "text": "Xu Chen",
+        "label": "PERSON",
+        "start": 1207,
+        "end": 1214
+      },
+      {
+        "text": "Chen",
+        "label": "PERSON",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 294,
+        "end": 299
+      },
+      {
+        "text": "Chen",
+        "label": "PERSON",
+        "start": 134,
+        "end": 138
+      },
+      {
+        "text": "Marcel Bühler",
+        "label": "PERSON",
+        "start": 255,
+        "end": 268
+      },
+      {
+        "text": "Hillige’s",
+        "label": "ORG",
+        "start": 298,
+        "end": 307
+      },
+      {
+        "text": "Chen",
+        "label": "PERSON",
+        "start": 410,
+        "end": 414
+      },
+      {
+        "text": "Bühler",
+        "label": "ORG",
+        "start": 440,
+        "end": 446
+      },
+      {
+        "text": "3D",
+        "label": "CARDINAL",
+        "start": 528,
+        "end": 530
+      },
+      {
+        "text": "Bühler",
+        "label": "ORG",
+        "start": 676,
+        "end": 682
+      },
+      {
+        "text": "Bühler",
+        "label": "ORG",
+        "start": 988,
+        "end": 994
+      },
+      {
+        "text": "Bühler",
+        "label": "PERSON",
+        "start": 1234,
+        "end": 1240
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1603,
+        "end": 1606
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 1707,
+        "end": 1716
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1736,
+        "end": 1739
+      },
+      {
+        "text": "Chen X",
+        "label": "PERSON",
+        "start": 1804,
+        "end": 1810
+      },
+      {
+        "text": "Zheng Y",
+        "label": "PERSON",
+        "start": 1812,
+        "end": 1819
+      },
+      {
+        "text": "Black M",
+        "label": "ORG",
+        "start": 1821,
+        "end": 1828
+      },
+      {
+        "text": "Geiger A. SNARF",
+        "label": "PERSON",
+        "start": 1842,
+        "end": 1857
+      },
+      {
+        "text": "International Conference on Computer Vision (ICCV",
+        "label": "ORG",
+        "start": 1940,
+        "end": 1989
+      },
+      {
+        "text": "October 11th, 2021",
+        "label": "DATE",
+        "start": 2012,
+        "end": 2030
+      },
+      {
+        "text": "Bühler M",
+        "label": "ORG",
+        "start": 2032,
+        "end": 2040
+      },
+      {
+        "text": "Li G",
+        "label": "PERSON",
+        "start": 2050,
+        "end": 2054
+      },
+      {
+        "text": "Beeler T, Hilliges O. VariTex",
+        "label": "ORG",
+        "start": 2056,
+        "end": 2085
+      },
+      {
+        "text": "Variational Neural Face Textures",
+        "label": "ORG",
+        "start": 2087,
+        "end": 2119
+      },
+      {
+        "text": "International Conference on Computer Vision (ICCV",
+        "label": "ORG",
+        "start": 2122,
+        "end": 2171
+      },
+      {
+        "text": "October 11th, 2021",
+        "label": "DATE",
+        "start": 2194,
+        "end": 2212
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bühler",
+        "Chen",
+        "Chen X",
+        "Geiger A. SNARF",
+        "Li G",
+        "Marcel Bühler",
+        "Otmar Hilliges",
+        "Xu Chen",
+        "Zheng Y"
+      ],
+      "ORG": [
+        "3D",
+        "AI",
+        "Beeler T, Hilliges O. VariTex",
+        "Black M",
+        "Bühler",
+        "Bühler M",
+        "ETH",
+        "Hillige’s",
+        "International Conference on Computer Vision (ICCV",
+        "Microsoft",
+        "Variational Neural Face Textures",
+        "the International Conference on Computer Vision"
+      ],
+      "LOCATION": [
+        "AI",
+        "VR"
+      ],
+      "DATE": [
+        "October 11th, 2021",
+        "October 2021",
+        "These days",
+        "Today",
+        "a few years",
+        "next year",
+        "today"
+      ],
+      "MISC": [
+        "3D",
+        "first",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Bühler": 4,
+      "Chen": 3,
+      "3D": 2,
+      "AI": 2,
+      "International Conference on Computer Vision (ICCV": 2,
+      "October 11th, 2021": 2,
+      "one": 1,
+      "These days": 1,
+      "next year": 1,
+      "VR": 1,
+      "Today": 1,
+      "Otmar Hilliges": 1,
+      "the International Conference on Computer Vision": 1,
+      "October 2021": 1,
+      "a few years": 1,
+      "today": 1,
+      "Xu Chen": 1,
+      "first": 1,
+      "Marcel Bühler": 1,
+      "Hillige’s": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "one-step-closer-to-lifelike-avatars.md",
+      "title": "En News Events/2022/01/one Step Closer To Lifelike Avatars",
+      "language": "en",
+      "source_path": "en_news_events/2022/01/one-step-closer-to-lifelike-avatars.html"
+    },
+    "temporal": {
+      "publication_date": "2022-01",
+      "mentioned_years": [
+        "2021",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bühler",
+        "Chen",
+        "Chen X",
+        "Geiger A. SNARF",
+        "Li G",
+        "Marcel Bühler",
+        "Otmar Hilliges",
+        "Xu Chen",
+        "Zheng Y"
+      ],
+      "people_with_roles": {
+        "Bühler": [
+          "student"
+        ],
+        "Chen": [
+          "student"
+        ],
+        "Marcel Bühler": [
+          "student"
+        ],
+        "Otmar Hilliges": [
+          "researcher",
+          "professor"
+        ],
+        "Xu Chen": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "International Conference",
+        "To Lifelike",
+        "Hilliges O",
+        "Step Closer",
+        "Meka A",
+        "Implicit Shapes",
+        "Computer Vision",
+        "The AI",
+        "Animating Non",
+        "Beeler T",
+        "Li G",
+        "Otmar Hilliges",
+        "Geiger A",
+        "Like Chen",
+        "Face Textures",
+        "Computer Science",
+        "Black M",
+        "En News",
+        "Chen X",
+        "Xu Chen",
+        "Zheng Y",
+        "ETH Zurich",
+        "Avatars These",
+        "Differentiable Forward",
+        "Rigid Neural",
+        "Variational Neural"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3D",
+        "AI",
+        "Beeler T, Hilliges O. VariTex",
+        "Black M",
+        "Bühler",
+        "Bühler M",
+        "ETH",
+        "Hillige’s",
+        "International Conference on Computer Vision (ICCV",
+        "Microsoft",
+        "Variational Neural Face Textures",
+        "the International Conference on Computer Vision"
+      ],
+      "locations": [
+        "AI",
+        "VR"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Bühler",
+        "Chen",
+        "3D",
+        "AI",
+        "International Conference on Computer Vision (ICCV",
+        "October 11th, 2021",
+        "one",
+        "These days",
+        "next year",
+        "VR"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Computer model can even handle handsprings",
+          "Computer model can even handle handsprings",
+          "A close look can unmask deepfakes",
+          "Any number of new faces from just one image"
+        ],
+        "content_length": 5520
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Variational Neural Face Textures",
+        "Chen",
+        "3D",
+        "Beeler T, Hilliges O. VariTex",
+        "International Conference on Computer Vision (ICCV",
+        "AI",
+        "2022",
+        "the International Conference on Computer Vision",
+        "Li G",
+        "EU",
+        "Otmar Hilliges",
+        "Bühler",
+        "Black M",
+        "Geiger A. SNARF",
+        "Hillige’s",
+        "Bühler M",
+        "Chen X",
+        "Xu Chen",
+        "Zheng Y",
+        "Marcel Bühler",
+        "Microsoft",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Bühler_has_role_student",
+        "Chen_has_role_student",
+        "Marcel Bühler_has_role_student",
+        "Otmar Hilliges_has_role_researcher",
+        "Otmar Hilliges_has_role_professor",
+        "Xu Chen_has_role_student",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

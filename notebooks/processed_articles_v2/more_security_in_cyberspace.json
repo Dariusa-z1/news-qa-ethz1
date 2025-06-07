@@ -1,0 +1,633 @@
+{
+  "filename": "more_security_in_cyberspace.md",
+  "original_filename": "more_security_in_cyberspace.html",
+  "source_path": "en_news_events/2017/06/more_security_in_cyberspace.html",
+  "date": "2017-06",
+  "title": "Security In Cyberspace",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Technology in the fight against cyberattacks",
+      "text": "The WannaCry ransomware, Russian hackers, vote rigging – recently, cyberattacks on computer networks have made headlines, illustrating just how critical data and information security are for our society. ETH Zurich identified the importance of information security early and, around 15 years ago, it founded the Zurich Information Security & Privacy Center (ZISC), which organised the Cyber Risks Summit. The cross-industry work of the ZISC is more relevant than ever, as ETH President Lino Guzzella emphasised in his opening address: \"It's time for science, business and government to join forces in developing effective protection against the dangers of cyberspace.\" In addition to collaboration with industry, Lino Guzzella also highlighted the importance of fundamental research and appealed for greater investment in this area."
+    },
+    {
+      "heading": "Technology in the fight against cyberattacks",
+      "text": "\"Cars, phones and pacemakers: cyberattacks don't just target data, but everyday objects too,\" explained Srdjan Capkun, ETH Professor and Deputy Head of the Institute of Information Security, drawing attention to a lack of awareness about security. However, while the linking of objects presents a danger, it could also offer solutions for increased information security. By way of example, Capkun cited the Sound-Proof system, enables faster, more secure authentication through a check on the ambient sounds of two linked devices.\n\nSecurity and, above all, transparency are also at the centre of the new digital transmission technology blockchain. In his speech, Ari Juels, Professor at Cornell University in New York, compared communication via blockchain with a pinboard. Everything can be seen by everybody at all times, so it can also no longer be changed. This makes blockchain a highly versatile technology for transactions in the financial sector and for the drafting of smart contracts. However, Juels was also careful to highlight that blockchain technology is still in its infancy.\n\nÚlfar Erlingsson, Tech Lead Manager at Google Brain, discussed how Big Data can increase information security. He explained how the ability to collect large quantities of data – without infringing on privacy rights – could also open up new possibilities in the field of information security, allowing us to uncover as yet unknown dangers in cyberspace and to develop new solutions.\n\nAs a bridge to the panel discussion 'Switzerland – the world's first internet-secure country?', Adrian Perrig, Head of the Institute of Information Security at ETH, presented his new internet architecture, Scion. Among other applications, Scion prevents undesirable data redirection and is a good example of the collaboration between research and industry at ZISC . Perrig discussed the practical relevance of the research project with Andréa M. Maechler, Member of the Governing Board at the Swiss National Bank (SNB), Andreas Häberli, CTO of the dorma+kaba Group, and IT entrepreneur Franz Grüter.\n\nAt the beginning of the discussion, Maechler, who is currently running a pilot project with Scion at the SNB, emphasised: \"Information security is no luxury for the SNB – it is our top priority.\" This was echoed by Andreas Häberli: \"Our brand promise is trust. A cyberattack would be a nightmare for us.\" So it's no surprise that both the SNB and the dorma+kaba Group are following Perrig's research with interest. Currently there is no other internet architecture that focusses as strongly on security as Scion, explained Perrig. He believes that the implementation of Scion in Switzerland would require astonishingly few adjustments to the existing internet – and little cost: \"I estimate that around 1,000 routers would be required for a nationwide implementation of Scion at a cost of some 25 million francs,\" said the ETH researcher. National Councillor and IT entrepreneur Franz Grüter was similarly impressed by Scion: \"Scion is a real innovation that we need to pioneer on an international level.\"\n\nAll the panellists agreed that joint efforts from the government, business and science were necessary to combat cyber risks. Häberli also emphasised that the divide between industry and research had to be bridged, and that the economic viability of new technologies needed to be examined. This also applies to Scion. With Perrig and the ZISC, he was preaching to the converted: \"The exchange with industry and government is essential. Scion can only be successful as a new internet architecture if it is effective in practice.\""
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Cyberspace",
+        "label": "GPE",
+        "start": 12,
+        "end": 22
+      },
+      {
+        "text": "WannaCry",
+        "label": "ORG",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "text": "Russian",
+        "label": "NORP",
+        "start": 25,
+        "end": 32
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 204,
+        "end": 214
+      },
+      {
+        "text": "around 15 years ago",
+        "label": "DATE",
+        "start": 276,
+        "end": 295
+      },
+      {
+        "text": "the Zurich Information Security & Privacy Center",
+        "label": "ORG",
+        "start": 308,
+        "end": 356
+      },
+      {
+        "text": "the Cyber Risks Summit",
+        "label": "ORG",
+        "start": 381,
+        "end": 403
+      },
+      {
+        "text": "ZISC",
+        "label": "EVENT",
+        "start": 436,
+        "end": 440
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 472,
+        "end": 475
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 486,
+        "end": 499
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 713,
+        "end": 726
+      },
+      {
+        "text": "Srdjan Capkun",
+        "label": "PERSON",
+        "start": 104,
+        "end": 117
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 119,
+        "end": 132
+      },
+      {
+        "text": "the Institute of Information Security",
+        "label": "ORG",
+        "start": 152,
+        "end": 189
+      },
+      {
+        "text": "Capkun",
+        "label": "GPE",
+        "start": 390,
+        "end": 396
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 511,
+        "end": 514
+      },
+      {
+        "text": "Ari Juels",
+        "label": "PERSON",
+        "start": 662,
+        "end": 671
+      },
+      {
+        "text": "Cornell University",
+        "label": "ORG",
+        "start": 686,
+        "end": 704
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 708,
+        "end": 716
+      },
+      {
+        "text": "Juels",
+        "label": "PERSON",
+        "start": 1003,
+        "end": 1008
+      },
+      {
+        "text": "Úlfar Erlingsson",
+        "label": "ORG",
+        "start": 1091,
+        "end": 1107
+      },
+      {
+        "text": "Tech",
+        "label": "ORG",
+        "start": 1109,
+        "end": 1113
+      },
+      {
+        "text": "Google Brain",
+        "label": "ORG",
+        "start": 1130,
+        "end": 1142
+      },
+      {
+        "text": "Big Data",
+        "label": "ORG",
+        "start": 1158,
+        "end": 1166
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1510,
+        "end": 1521
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1536,
+        "end": 1541
+      },
+      {
+        "text": "Adrian Perrig",
+        "label": "ORG",
+        "start": 1569,
+        "end": 1582
+      },
+      {
+        "text": "the Institute of Information Security",
+        "label": "ORG",
+        "start": 1592,
+        "end": 1629
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1633,
+        "end": 1636
+      },
+      {
+        "text": "ZISC",
+        "label": "EVENT",
+        "start": 1832,
+        "end": 1836
+      },
+      {
+        "text": "Andréa M. Maechler",
+        "label": "ORG",
+        "start": 1909,
+        "end": 1927
+      },
+      {
+        "text": "the Governing Board",
+        "label": "ORG",
+        "start": 1939,
+        "end": 1958
+      },
+      {
+        "text": "the Swiss National Bank (SNB",
+        "label": "ORG",
+        "start": 1962,
+        "end": 1990
+      },
+      {
+        "text": "Andreas Häberli",
+        "label": "PERSON",
+        "start": 1993,
+        "end": 2008
+      },
+      {
+        "text": "CTO",
+        "label": "ORG",
+        "start": 2010,
+        "end": 2013
+      },
+      {
+        "text": "the dorma+kaba Group",
+        "label": "ORG",
+        "start": 2017,
+        "end": 2037
+      },
+      {
+        "text": "Franz Grüter",
+        "label": "PERSON",
+        "start": 2059,
+        "end": 2071
+      },
+      {
+        "text": "Maechler",
+        "label": "ORG",
+        "start": 2109,
+        "end": 2117
+      },
+      {
+        "text": "SNB",
+        "label": "ORG",
+        "start": 2178,
+        "end": 2181
+      },
+      {
+        "text": "SNB",
+        "label": "ORG",
+        "start": 2238,
+        "end": 2241
+      },
+      {
+        "text": "Andreas Häberli",
+        "label": "PERSON",
+        "start": 2288,
+        "end": 2303
+      },
+      {
+        "text": "SNB",
+        "label": "ORG",
+        "start": 2412,
+        "end": 2415
+      },
+      {
+        "text": "the dorma+kaba Group",
+        "label": "ORG",
+        "start": 2420,
+        "end": 2440
+      },
+      {
+        "text": "Perrig",
+        "label": "GPE",
+        "start": 2455,
+        "end": 2461
+      },
+      {
+        "text": "Perrig",
+        "label": "GPE",
+        "start": 2596,
+        "end": 2602
+      },
+      {
+        "text": "Scion",
+        "label": "GPE",
+        "start": 2643,
+        "end": 2648
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2652,
+        "end": 2663
+      },
+      {
+        "text": "around 1,000",
+        "label": "CARDINAL",
+        "start": 2769,
+        "end": 2781
+      },
+      {
+        "text": "some 25 million francs",
+        "label": "MONEY",
+        "start": 2862,
+        "end": 2884
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2896,
+        "end": 2899
+      },
+      {
+        "text": "Councillor",
+        "label": "PERSON",
+        "start": 2921,
+        "end": 2931
+      },
+      {
+        "text": "Franz Grüter",
+        "label": "PERSON",
+        "start": 2952,
+        "end": 2964
+      },
+      {
+        "text": "Häberli",
+        "label": "PERSON",
+        "start": 3204,
+        "end": 3211
+      },
+      {
+        "text": "Perrig",
+        "label": "GPE",
+        "start": 3401,
+        "end": 3407
+      },
+      {
+        "text": "ZISC",
+        "label": "EVENT",
+        "start": 3416,
+        "end": 3420
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Häberli",
+        "Ari Juels",
+        "Councillor",
+        "ETH Zurich",
+        "Franz Grüter",
+        "Häberli",
+        "Juels",
+        "Lino Guzzella",
+        "Srdjan Capkun"
+      ],
+      "ORG": [
+        "Adrian Perrig",
+        "Andréa M. Maechler",
+        "Big Data",
+        "CTO",
+        "Cornell University",
+        "ETH",
+        "ETH Professor",
+        "Google Brain",
+        "Maechler",
+        "SNB",
+        "Tech",
+        "WannaCry",
+        "the Cyber Risks Summit",
+        "the Governing Board",
+        "the Institute of Information Security",
+        "the Swiss National Bank (SNB",
+        "the Zurich Information Security & Privacy Center",
+        "the dorma+kaba Group",
+        "Úlfar Erlingsson"
+      ],
+      "LOCATION": [
+        "Capkun",
+        "Cyberspace",
+        "New York",
+        "Perrig",
+        "Scion",
+        "Switzerland"
+      ],
+      "DATE": [
+        "around 15 years ago"
+      ],
+      "MISC": [
+        "Russian",
+        "ZISC",
+        "around 1,000",
+        "first",
+        "some 25 million francs",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ZISC": 3,
+      "ETH": 3,
+      "SNB": 3,
+      "Perrig": 3,
+      "Lino Guzzella": 2,
+      "the Institute of Information Security": 2,
+      "Switzerland": 2,
+      "Andreas Häberli": 2,
+      "the dorma+kaba Group": 2,
+      "Franz Grüter": 2,
+      "Cyberspace": 1,
+      "WannaCry": 1,
+      "Russian": 1,
+      "ETH Zurich": 1,
+      "around 15 years ago": 1,
+      "the Zurich Information Security & Privacy Center": 1,
+      "the Cyber Risks Summit": 1,
+      "Srdjan Capkun": 1,
+      "ETH Professor": 1,
+      "Capkun": 1
+    },
+    "total_entities": 55,
+    "unique_entities": 41
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "more_security_in_cyberspace.md",
+      "title": "Security in Cyberspace",
+      "language": "en",
+      "source_path": "en_news_events/2017/06/more_security_in_cyberspace.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [],
+      "time_periods": [],
+      "temporal_context": "between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Häberli",
+        "Ari Juels",
+        "Councillor",
+        "ETH Zurich",
+        "Franz Grüter",
+        "Häberli",
+        "Juels",
+        "Lino Guzzella",
+        "Srdjan Capkun"
+      ],
+      "people_with_roles": {
+        "Ari Juels": [
+          "professor"
+        ],
+        "Juels": [
+          "professor"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ],
+        "Srdjan Capkun": [
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Russian",
+        "ZISC",
+        "around 1,000",
+        "first",
+        "some 25 million francs"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Cyber Risks",
+        "Cornell University",
+        "Deputy Head",
+        "Cyberspace The",
+        "Swiss National",
+        "ETH Professor",
+        "Google Brain",
+        "Lino Guzzella",
+        "Sound-Proof",
+        "Srdjan Capkun",
+        "Tech Lead",
+        "With Perrig",
+        "Adrian Perrig",
+        "Big Data",
+        "Privacy Center",
+        "Zurich Information",
+        "National Councillor",
+        "ETH President",
+        "Information Security",
+        "Governing Board",
+        "Ari Juels",
+        "New York",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Adrian Perrig",
+        "Andréa M. Maechler",
+        "Big Data",
+        "CTO",
+        "Cornell University",
+        "ETH",
+        "ETH Professor",
+        "Google Brain",
+        "Maechler",
+        "SNB",
+        "Tech",
+        "WannaCry",
+        "the Cyber Risks Summit",
+        "the Governing Board",
+        "the Institute of Information Security",
+        "the Swiss National Bank (SNB",
+        "the Zurich Information Security & Privacy Center",
+        "the dorma+kaba Group",
+        "Úlfar Erlingsson"
+      ],
+      "locations": [
+        "Capkun",
+        "Cyberspace",
+        "New York",
+        "Perrig",
+        "Scion",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ZISC",
+        "ETH",
+        "SNB",
+        "Perrig",
+        "Lino Guzzella",
+        "the Institute of Information Security",
+        "Switzerland",
+        "Andreas Häberli",
+        "the dorma+kaba Group",
+        "Franz Grüter"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Technology in the fight against cyberattacks",
+          "Technology in the fight against cyberattacks"
+        ],
+        "content_length": 4467
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Institute of Information Security",
+        "ETH",
+        "SNB",
+        "Cornell University",
+        "the Zurich Information Security & Privacy Center",
+        "Andréa M. Maechler",
+        "the Swiss National Bank (SNB",
+        "Häberli",
+        "Franz Grüter",
+        "Juels",
+        "CTO",
+        "Councillor",
+        "ETH Professor",
+        "Google Brain",
+        "Lino Guzzella",
+        "Srdjan Capkun",
+        "the dorma+kaba Group",
+        "Adrian Perrig",
+        "Andreas Häberli",
+        "EU",
+        "Big Data",
+        "the Governing Board",
+        "Úlfar Erlingsson",
+        "Maechler",
+        "Ari Juels",
+        "Tech",
+        "ETH Zurich",
+        "the Cyber Risks Summit",
+        "WannaCry"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "around 1,000",
+        "some 25 million francs",
+        "what",
+        "Russian",
+        "how",
+        "ZISC",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Ari Juels_has_role_professor",
+        "Juels_has_role_professor",
+        "Lino Guzzella_has_role_president",
+        "Srdjan Capkun_has_role_head",
+        "Srdjan Capkun_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "filename": "we-feel-a-bit-lonely.md",
+  "original_filename": "we-feel-a-bit-lonely.html",
+  "source_path": "en_internal/2020/04/we-feel-a-bit-lonely.html",
+  "date": "2020-04",
+  "title": "We Feel A Bit Lonely",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Rudolf Streuli. (Bild: ETH Zürich)\n\nMost ETH members are currently working from home to slow down the spread of the corona virus. Not so Ruedi Streuli, the head of the ET building area in the Facility Management Department.\n\nMr. Streuli, who still has access to the buildings in your area and for what reasons? People who are allowed to enter the buildings include employees of the institute secretariats of the Department of Information Technology and Electrical Engineering for the handling of mail, craftsmen working in the ETZ building, professors and lecturers for recording, and the cleaning company. And, of course, our team from the building administration for cleaning, maintenance and repair.\n\nTo what extent has the everyday working life of you and your employees changed? Fortunately, our work can be carried out undisturbed, e.g. the lawn still needs mowing! However, we miss the personal contact with the people who usually work and study inside our buildings.\n\nHow many people from your team are still working on site? Are there also tasks that can be done in home office? Half of the team is on site, the others are at home. Video conferences can be held and administrative tasks can be carried out at the home office.\n\nHow is the mood in the almost empty ETZ building? \"Spooky\"! We feel a bit lonely...\n\nDoes your team now have time for tasks that often fall through during normal operation? Yes, we now have time for work that we could otherwise only carry out during the semester break, such as maintenance work on technical equipment and thorough cleaning of the rooms.\n\nAre there any positive experiences or ways of working that you will probably keep after the corona crisis? I have time to question the work processes and try to derive positive changes from them, e.g. which team meetings are really necessary?"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Rudolf Streuli",
+        "label": "PERSON",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "Ruedi Streuli",
+        "label": "PERSON",
+        "start": 136,
+        "end": 149
+      },
+      {
+        "text": "the Facility Management Department",
+        "label": "ORG",
+        "start": 187,
+        "end": 221
+      },
+      {
+        "text": "Streuli",
+        "label": "PERSON",
+        "start": 227,
+        "end": 234
+      },
+      {
+        "text": "the Department of Information Technology",
+        "label": "ORG",
+        "start": 406,
+        "end": 446
+      },
+      {
+        "text": "ETZ",
+        "label": "ORG",
+        "start": 525,
+        "end": 528
+      },
+      {
+        "text": "Half",
+        "label": "CARDINAL",
+        "start": 1084,
+        "end": 1088
+      },
+      {
+        "text": "ETZ",
+        "label": "ORG",
+        "start": 1267,
+        "end": 1270
+      },
+      {
+        "text": "Spooky",
+        "label": "PERSON",
+        "start": 1282,
+        "end": 1288
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zürich",
+        "Rudolf Streuli",
+        "Ruedi Streuli",
+        "Spooky",
+        "Streuli"
+      ],
+      "ORG": [
+        "ETH",
+        "ETZ",
+        "the Department of Information Technology",
+        "the Facility Management Department"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "Half"
+      ]
+    },
+    "entity_counts": {
+      "ETZ": 2,
+      "Rudolf Streuli": 1,
+      "ETH Zürich": 1,
+      "ETH": 1,
+      "Ruedi Streuli": 1,
+      "the Facility Management Department": 1,
+      "Streuli": 1,
+      "the Department of Information Technology": 1,
+      "Half": 1,
+      "Spooky": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "we-feel-a-bit-lonely.md",
+      "title": "En Internal/2020/04/we Feel A Bit Lonely",
+      "language": "en",
+      "source_path": "en_internal/2020/04/we-feel-a-bit-lonely.html"
+    },
+    "temporal": {
+      "publication_date": "2020-04",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zürich",
+        "Rudolf Streuli",
+        "Ruedi Streuli",
+        "Spooky",
+        "Streuli"
+      ],
+      "people_with_roles": {
+        "Ruedi Streuli": [
+          "head"
+        ],
+        "Streuli": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Half"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Electrical Engineering",
+        "Ruedi Streuli",
+        "Feel A",
+        "Most ETH",
+        "Bit Lonely",
+        "En Internal",
+        "Facility Management",
+        "Information Technology",
+        "Rudolf Streuli"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Information Technology and Electrical Engineering for the handling of mail"
+      ],
+      "institutions": [
+        "ETH",
+        "ETZ",
+        "the Department of Information Technology",
+        "the Facility Management Department"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETZ",
+        "Rudolf Streuli",
+        "ETH Zürich",
+        "ETH",
+        "Ruedi Streuli",
+        "the Facility Management Department",
+        "Streuli",
+        "the Department of Information Technology",
+        "Half",
+        "Spooky"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1874
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Ruedi Streuli",
+        "ETZ",
+        "Spooky",
+        "EU",
+        "2020",
+        "the Facility Management Department",
+        "ETH Zürich",
+        "the Department of Information Technology",
+        "Streuli",
+        "Rudolf Streuli"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "when",
+        "what",
+        "how",
+        "why",
+        "Half",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Ruedi Streuli_has_role_head",
+        "Streuli_has_role_head",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

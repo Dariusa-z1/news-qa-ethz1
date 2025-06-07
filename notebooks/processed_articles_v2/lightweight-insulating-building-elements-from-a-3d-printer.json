@@ -1,0 +1,558 @@
+{
+  "filename": "lightweight-insulating-building-elements-from-a-3d-printer.md",
+  "original_filename": "lightweight-insulating-building-elements-from-a-3d-printer.html",
+  "source_path": "en_news_events/2023/11/lightweight-insulating-building-elements-from-a-3d-printer.html",
+  "date": "2023-11",
+  "title": "Lightweight Insulating Building Elements From A 3D Printer",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- ETH researchers working on the Airlements project are using 3D printing to produce sustainable insulation elements for buildings.\n\n- This high-precision printing process generates less waste and removes the need for expensive and time-consuming formwork.\n\n- The mineral foam used is based on industrial waste and is fully recyclable."
+    },
+    {
+      "heading": "Less material used",
+      "text": "In the main hall of the research and robotics Arch Tec Lab on Hönggerberg campus, several robotic arms hang from the roof, while half-finished beige-coloured curved structures reminiscent of sand sculptures are dotted around the floor. On one side of the room, mysterious parts protrude from wooden crates.\n\nStanding in front of one of these crates is Patrick Bedarf. He works in Professor Benjamin Dillenburger’s Digital Building Technologies group and completed his doctorate at the end of September. As part of his doctoral thesis he studied how lightweight insulating construction elements – especially more complex shapes – could be manufactured to reduce materials. To do so, he used sustainable insulation material produced by the ETH spin-off FenX using recycled industrial waste . “The mineral foam we use is an innovative construction material that contributes to a more climate-friendly industry,” Bedarf explains.\n\nThe foam is mostly made from fly ash, a waste product from industrial blast furnaces. “This material has therefore already gone through the first material cycle, and can simply be recycled after use,” Bedarf explains and crumbles between his fingers the random component he has just pulled out of the wooden crate. “The material can now be reused as a novel foam.”"
+    },
+    {
+      "heading": "Less material used",
+      "text": "The production of insulating wall elements is a sustainable process: the doctoral researcher uses 3D printing to reduce material wastage and CO 2 emissions. “The formwork needed for pouring material is no longer required. Formwork is very time-consuming and can only be partially reused afterwards,” Bedarf says. Excessive wastage is a particular challenge when producing more complex geometrical shapes."
+    },
+    {
+      "heading": "“Like being in a sauna”",
+      "text": "Bedarf explains that combining 3D printing with robotics also allows inexpensive production of bespoke building parts. “Without automation, traditional construction methods that save on materials are very time-consuming and expensive, especially due to labour costs.”\n\nThe researcher shows some initial samples of the hardened foam produced with a 3D printer. “Take this piece, for example, which looks like a pizza,” he says, and points to a flat disc. “We printed several different types of these small “pizzas” to begin with, and then moved on to bigger pieces to see whether foam produced by 3D printing is also suitable for large-scale applications."
+    },
+    {
+      "heading": "A 3D printer the size of the entire room",
+      "text": "Someone looking for a typical 3D printer in the robotics lab will be searching in vain: the entire room functions as a 3D printer. Flexible mixing chambers ensure the correct mixture of raw material. The ends of the robotic arms hanging from the roof are fitted with printer heads which apply the material layer by layer to the print bed. “The robots can navigate precisely to every predefined point in the room,” Bedarf explains. “We program the relevant path and specify where they travel and how quickly, as well as how much material should flow from the printer head, and at what time and place.”"
+    },
+    {
+      "heading": "References",
+      "text": "In the initial trials, Bedarf used concrete to strengthen the bespoke building parts. He then managed to produce robust components solely using foam, as shown in the prototype of the Airlement project: a monolithic corner column two metres high made of four 3D-printed segments. The four individual parts are stuck together with mortar and then sprayed with a white cement-free render.\n\nAirlements – a word play combining ‘air’ and ‘elements’ – comprise lightweight individual parts that are easy to lift manually and stack on top of one another. “The building parts can simply be printed in a factory, transported to the building site and positioned where required,” Bedarf says. “To make the component more robust, the hollow core can be cast with high-density mineral foam, eventually making it strong enough to act as a load-bearing structure.” To date, Airlements can only be used as insulating parts for internal or external walls.\n\nEach individual prototype is printed in less than an hour and hardened for one week inside the fabrication environment with a controlled temperature of 20 – 28°C and relative humidity of 20 – 70 percent. Regulating air humidity and temperature is important to ensure the material hardens correctly and is not prone to fracture.\n\nBedarf has developed a special climatic chamber for this: a large transparent tent-like structure inside which the robot moves along the predefined printing path. “There was mist and dust everywhere, and it was like being in a hot sauna,” he says, and points out that this new production method no longer requires energy-intensive processing. “This is an advance on earlier work with cement-free foams, which either had to be hardened with cement or by curing at high temperature in the oven afterwards.” The corrugated texture of Airlements provides extra stability during the hardening process and in their final state.\n\nAirlements could eventually be used in sustainable construction: on the one hand, the insulation materials reduce the building’s energy consumption. On the other hand, 3D printing produces less waste than traditional methods for manufacturing building parts and concrete formwork - which is damaging to the environment - is no longer required. Lastly, Airlements are completely cement-free, which ensures sustainable construction. “If the building part is no longer needed, it can be completely shredded and reduced back to dust, ready to be processed into new foam.”\n\nBedarf now wants to continue to develop Airlements with FenX. A dedicated production line will be built in their factory in Turgi. “We will thoroughly analyse the load-bearing capacity and insulation properties to determine how this material acts as a wall element in a closed room. Infrared measurements will help us establish where the thermal insulation could be further improved, and how to eliminate any weaknesses by adjusting the printing path.”\n\nAfter completing his doctorate, Bedarf continues to teach in the bachelor’s course “Computational Design I&II”. He is excited by the possibility of inspiring the next generation of architects to think geometrically at the same time as being able to communicate with machines as well. “My work with Airlements has taught me a lot about building materials and the use of information technology. And I’ve really enjoyed testing which geometrical shapes are possible with the new process. It would be wonderful if I could inspire others as well.”\n\nBedarf, P., Szabo, A., Zanini, M., Dillenburger, B.: “Robotic 3D Printing of Geopolymer Foam for Lightweight and Insulating Building Elements“. In: 3D Printing and Additive Manufacturing (2023), doi: 10.1089/3dp.2023.0183\n\nConference paper “Airlements: a lightweight and insulating monolithic wall system made with mineral foam 3D printing” . In: Proceedings of the 43 rd Annual Conference of the Association for Computer Aided Design in Architecture, ACADIA (2023). Presentation at the ACADIA 2023 conference on 27 October 2023."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Insulating Building Elements",
+        "label": "WORK_OF_ART",
+        "start": 35,
+        "end": 63
+      },
+      {
+        "text": "3d",
+        "label": "CARDINAL",
+        "start": 71,
+        "end": 73
+      },
+      {
+        "text": "Airlements",
+        "label": "ORG",
+        "start": 33,
+        "end": 43
+      },
+      {
+        "text": "Arch Tec Lab",
+        "label": "PERSON",
+        "start": 46,
+        "end": 58
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 129,
+        "end": 133
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 239,
+        "end": 242
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 328,
+        "end": 331
+      },
+      {
+        "text": "Patrick Bedarf",
+        "label": "PERSON",
+        "start": 351,
+        "end": 365
+      },
+      {
+        "text": "Benjamin Dillenburger’s",
+        "label": "PERSON",
+        "start": 389,
+        "end": 412
+      },
+      {
+        "text": "Digital Building Technologies",
+        "label": "ORG",
+        "start": 413,
+        "end": 442
+      },
+      {
+        "text": "the end of September",
+        "label": "DATE",
+        "start": 480,
+        "end": 500
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 737,
+        "end": 740
+      },
+      {
+        "text": "Bedarf",
+        "label": "PERSON",
+        "start": 908,
+        "end": 914
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1065,
+        "end": 1070
+      },
+      {
+        "text": "Bedarf",
+        "label": "PERSON",
+        "start": 1126,
+        "end": 1132
+      },
+      {
+        "text": "CO 2",
+        "label": "PRODUCT",
+        "start": 141,
+        "end": 145
+      },
+      {
+        "text": "Bedarf",
+        "label": "PERSON",
+        "start": 300,
+        "end": 306
+      },
+      {
+        "text": "Bedarf",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "3D",
+        "label": "CARDINAL",
+        "start": 595,
+        "end": 597
+      },
+      {
+        "text": "Bedarf",
+        "label": "PERSON",
+        "start": 414,
+        "end": 420
+      },
+      {
+        "text": "Bedarf",
+        "label": "PERSON",
+        "start": 23,
+        "end": 29
+      },
+      {
+        "text": "two metres",
+        "label": "QUANTITY",
+        "start": 229,
+        "end": 239
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 253,
+        "end": 257
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 283,
+        "end": 287
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 533,
+        "end": 536
+      },
+      {
+        "text": "Bedarf",
+        "label": "PERSON",
+        "start": 667,
+        "end": 673
+      },
+      {
+        "text": "less than an hour",
+        "label": "TIME",
+        "start": 977,
+        "end": 994
+      },
+      {
+        "text": "one week",
+        "label": "DATE",
+        "start": 1012,
+        "end": 1020
+      },
+      {
+        "text": "20 – 70 percent",
+        "label": "PERCENT",
+        "start": 1124,
+        "end": 1139
+      },
+      {
+        "text": "Bedarf",
+        "label": "ORG",
+        "start": 1265,
+        "end": 1271
+      },
+      {
+        "text": "Bedarf",
+        "label": "PERSON",
+        "start": 2455,
+        "end": 2461
+      },
+      {
+        "text": "Turgi",
+        "label": "GPE",
+        "start": 2579,
+        "end": 2584
+      },
+      {
+        "text": "Bedarf",
+        "label": "GPE",
+        "start": 2940,
+        "end": 2946
+      },
+      {
+        "text": "Computational Design I&II",
+        "label": "WORK_OF_ART",
+        "start": 2992,
+        "end": 3017
+      },
+      {
+        "text": "Airlements",
+        "label": "ORG",
+        "start": 3206,
+        "end": 3216
+      },
+      {
+        "text": "Bedarf",
+        "label": "GPE",
+        "start": 3451,
+        "end": 3457
+      },
+      {
+        "text": "Szabo",
+        "label": "GPE",
+        "start": 3463,
+        "end": 3468
+      },
+      {
+        "text": "Zanini",
+        "label": "PERSON",
+        "start": 3474,
+        "end": 3480
+      },
+      {
+        "text": "Dillenburger",
+        "label": "PERSON",
+        "start": 3486,
+        "end": 3498
+      },
+      {
+        "text": "3D Printing and Additive Manufacturing",
+        "label": "ORG",
+        "start": 3599,
+        "end": 3637
+      },
+      {
+        "text": "10.1089/3dp.2023.0183",
+        "label": "CARDINAL",
+        "start": 3651,
+        "end": 3672
+      },
+      {
+        "text": "the Association for Computer Aided Design in Architecture",
+        "label": "ORG",
+        "start": 3843,
+        "end": 3900
+      },
+      {
+        "text": "ACADIA",
+        "label": "ORG",
+        "start": 3902,
+        "end": 3908
+      },
+      {
+        "text": "27 October 2023",
+        "label": "DATE",
+        "start": 3963,
+        "end": 3978
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Arch Tec Lab",
+        "Bedarf",
+        "Benjamin Dillenburger’s",
+        "Dillenburger",
+        "Hönggerberg",
+        "Patrick Bedarf",
+        "Zanini"
+      ],
+      "ORG": [
+        "3D Printing and Additive Manufacturing",
+        "ACADIA",
+        "Airlements",
+        "Bedarf",
+        "Digital Building Technologies",
+        "ETH",
+        "the Association for Computer Aided Design in Architecture"
+      ],
+      "LOCATION": [
+        "Bedarf",
+        "Szabo",
+        "Turgi"
+      ],
+      "DATE": [
+        "27 October 2023",
+        "less than an hour",
+        "one week",
+        "the end of September"
+      ],
+      "MISC": [
+        "10.1089/3dp.2023.0183",
+        "20 – 70 percent",
+        "3D",
+        "3d",
+        "CO 2",
+        "Computational Design I&II",
+        "Insulating Building Elements",
+        "first",
+        "four",
+        "half",
+        "one",
+        "two metres"
+      ]
+    },
+    "entity_counts": {
+      "Bedarf": 11,
+      "one": 3,
+      "Airlements": 2,
+      "four": 2,
+      "Insulating Building Elements": 1,
+      "3d": 1,
+      "Arch Tec Lab": 1,
+      "Hönggerberg": 1,
+      "half": 1,
+      "Patrick Bedarf": 1,
+      "Benjamin Dillenburger’s": 1,
+      "Digital Building Technologies": 1,
+      "the end of September": 1,
+      "ETH": 1,
+      "first": 1,
+      "CO 2": 1,
+      "3D": 1,
+      "two metres": 1,
+      "less than an hour": 1,
+      "one week": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 31
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lightweight-insulating-building-elements-from-a-3d-printer.md",
+      "title": "En News Events/2023/11/lightweight Insulating Building Elements From A 3d Printer",
+      "language": "en",
+      "source_path": "en_news_events/2023/11/lightweight-insulating-building-elements-from-a-3d-printer.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Arch Tec Lab",
+        "Bedarf",
+        "Benjamin Dillenburger’s",
+        "Dillenburger",
+        "Hönggerberg",
+        "Patrick Bedarf",
+        "Zanini"
+      ],
+      "people_with_roles": {
+        "Benjamin Dillenburger’s": [
+          "Professor",
+          "professor"
+        ],
+        "Dillenburger": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1089/3dp.2023.0183",
+        "20 – 70 percent",
+        "CO 2",
+        "Computational Design I&II",
+        "Insulating Building Elements",
+        "first",
+        "four",
+        "half",
+        "two metres"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Additive Manufacturing",
+        "Arch Tec",
+        "Computer Aided",
+        "En News",
+        "Computational Design",
+        "Digital Building",
+        "Professor Benjamin",
+        "Geopolymer Foam",
+        "Patrick Bedarf",
+        "And I",
+        "Insulating Building",
+        "Elements From",
+        "Annual Conference"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3D Printing and Additive Manufacturing",
+        "ACADIA",
+        "Airlements",
+        "Bedarf",
+        "Digital Building Technologies",
+        "ETH",
+        "the Association for Computer Aided Design in Architecture"
+      ],
+      "locations": [
+        "Bedarf",
+        "Szabo",
+        "Turgi"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Bedarf",
+        "one",
+        "Airlements",
+        "four",
+        "Insulating Building Elements",
+        "3d",
+        "Arch Tec Lab",
+        "Hönggerberg",
+        "half",
+        "Patrick Bedarf"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "In brief",
+          "Less material used",
+          "Less material used",
+          "“Like being in a sauna”",
+          "A 3D printer the size of the entire room",
+          "References"
+        ],
+        "content_length": 7358
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "Zanini",
+        "3D Printing and Additive Manufacturing",
+        "Airlements",
+        "ETH",
+        "the Association for Computer Aided Design in Architecture",
+        "EU",
+        "Digital Building Technologies",
+        "2023",
+        "ACADIA",
+        "Patrick Bedarf",
+        "Arch Tec Lab",
+        "Benjamin Dillenburger’s",
+        "Dillenburger",
+        "ERC",
+        "Bedarf"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "Computational Design I&II",
+        "Insulating Building Elements",
+        "four",
+        "half",
+        "who",
+        "10.1089/3dp.2023.0183",
+        "chemistry",
+        "20 – 70 percent",
+        "where",
+        "what",
+        "how",
+        "two metres",
+        "when",
+        "engineering",
+        "CO 2"
+      ],
+      "graph_relations": [
+        "Benjamin Dillenburger’s_has_role_Professor",
+        "Benjamin Dillenburger’s_has_role_professor",
+        "Dillenburger_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

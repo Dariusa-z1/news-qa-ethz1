@@ -1,0 +1,800 @@
+{
+  "filename": "a-sustainable-fuel-and-chemical-from-the-robotic-lab.md",
+  "original_filename": "a-sustainable-fuel-and-chemical-from-the-robotic-lab.html",
+  "source_path": "en_news_events/2024/02/a-sustainable-fuel-and-chemical-from-the-robotic-lab.html",
+  "date": "2024-02",
+  "title": "A Sustainable Fuel And Chemical From The Robotic Lab",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- A new fully automated research infrastructure is accelerating the development of chemical catalysts at ETH Zurich. Artificial intelligence is part of the workflow.\n\n- As a first demonstration project, researchers looked for better catalysts for the production of methanol.\n\n- The new technology platform will also speed up the development of other catalysts."
+    },
+    {
+      "heading": "Narrowing down the possibilities through clever preselection",
+      "text": "Catalysts are chemistry’s hard-working little helpers. They accelerate reactions and reduce the energy required for a reaction to take place. The more specific and effective a catalyst is, the more effectively any undesirable side reactions are suppressed. In nature, enzymes have the job of specifically boosting the required metabolic processes from among the almost infinite reaction possibilities of the chemical soup within cells. In chemical plants, metal catalysts are usually employed to increase product yield.\n\nThe researchers working on the Swiss Cat+ technology platform at ETH Zurich, led by Paco Laveille, have now developed a fully digitalised and automated method that enables them to find new and better metal catalysts much faster than before. Their process consists of a combination of artificial intelligence (AI) for calculating promising catalyst compositions and an automated synthesis and test laboratory."
+    },
+    {
+      "heading": "Taking iterative steps with AI-supported statistics",
+      "text": "With this infrastructure, it took the team less than six weeks to successfully develop around 150 catalysts compositions for producing methanol from CO 2 . The best catalysts are cost-effective and exhibit high conversion rates with a low proportion of byproducts. “This new method saves a huge amount of time,” Laveille says. “With a conventional approach, our experiments would have taken years.”\n\nMethanol is regarded as one of the key elements for a sustainable hydrocarbon economy. A close chemical relative of ethanol (i.e. drinking alcohol), the substance can be used both as a fuel and as a raw material for the production of organic compounds such as medicines, plastics or paints. Because it is a liquid, methanol is much easier to transport and store than gaseous hydrogen and methane, two other sources of energy. What’s more, using methanol in the existing supply infrastructure and engines of today’s petrol technology requires only minor modifications."
+    },
+    {
+      "heading": "Narrowing down the possibilities through clever preselection",
+      "text": "In the search for optimum catalysts for methanol production, there’s one big problem: theoretically, atoms can be combined in an almost infinite number of ways to form a catalyst. “The chemical space in which we’re searching for catalysts comprises around 10 20 possibilities – that’s one hundred billion billion. So we’re literally looking for a needle in the chemical haystack,” explains Christophe Copéret, a professor at the Laboratory of Inorganic Chemistry at ETH Zurich and co-initiator of the Swiss Cat+ project."
+    },
+    {
+      "heading": "Generating data beyond petrochemicals",
+      "text": "To narrow down the huge range of possibilities, the researchers made a preselection based on experience and economic requirements. A catalyst that can be used on a large scale needs to be not only effective but also inexpensive. For that reason, the main active ingredients for the catalyst were limited to three comparatively cheap metals: iron, copper and cobalt.\n\nIn addition to these main metals, the researchers considered three elements that are traditionally added to catalysts in small quantities for the purposes of doping, as well as potassium, which is also contained in many catalysts. As to carrier materials, the researchers limited themselves to four typical metal oxides. Multiplied by the different mixing ratios, this still resulted in 20 million possible combinations."
+    },
+    {
+      "heading": "Taking iterative steps with AI-supported statistics",
+      "text": "At this point, the researchers brought an AI algorithm into play that uses what is known as Bayesian optimisation to find the best possible solutions. This special form of statistics is particularly suitable when only a small amount of data is available. Unlike in classical statistics, the probability doesn’t derive from the relative frequency as calculated from numerous experiments. Instead, the calculation takes into account the probability that can be expected based on the current state of knowledge.\n\nIn the initial round, the algorithm randomly selected 24 catalyst compositions that met the specifications drawn up for the purposes of limiting the complexity. These catalysts were produced directly using the Swiss Cat+ automated laboratory infrastructure and then tested."
+    },
+    {
+      "heading": "Delivering lots of highly reliable results quickly",
+      "text": "The results of this initial selection served the researchers as the starting point for an AI prediction; the catalyst compositions thus predicted were in turn automatically synthesised and tested. For this first demonstration test, the scientists had their integrated system complete a total of six such rounds.\n\nThe fact that the results improved between rounds not in a linear fashion, but rather by leaps and bounds, was entirely intentional: not only does the algorithm optimise the results of earlier rounds, it also includes an exploratory component that feeds completely new compositions into each round and learns about the chemical space. This is how the researchers prevented the calculations from getting stuck in an optimisation dead end amongst all the possibilities.\n\nIn this first project, though, the researchers’ primary concern wasn’t to come up with the best possible catalyst for methanol synthesis. “At present, knowledge about catalysts for fuel production is based predominantly on expertise from the oil industry,” Copéret says. “When it comes to reactions for use in the sustainable energy industry, reliable data is still largely lacking.” However, AI algorithms and human research intelligence need that data before they can search in a more targeted way in the vast space of chemical possibilities. “And that’s precisely the kind of high-quality, reproducible data our AI-assisted robot laboratory now delivers. It’s certain to take catalyst research a long way forward,” Laveille adds.\n\n“The Swiss Cat+ hub provides us with complex research infrastructure that we wouldn’t be able to operate ourselves with the groups in our laboratories,” explains Professor Christophe Copéret from the Department of Chemistry and Applied Biosciences at ETH Zurich. Research at universities is heavily dependent on doctoral students, but they stay only for a few years. Every time a doctoral student leaves, much of the expertise they have built up is lost. In contrast, Swiss Cat+ is a technology platform designed to work with permanently employed experts who are able to continuously develop their expertise and use the latest technologies to refine the infrastructure.\n\nInitiated in 2019 by Copéret and Nicolai Kramer, a professor at EPFL, the Swiss Cat+ hub now provides researchers from universities and industry with state-of-the-art infrastructure at two locations in Zurich and Lausanne. These make it possible to design catalysts with the help of AI data analysis tools, then produce them immediately in automated high-throughput laboratories and test their effectiveness. Dozens of ETH projects are already using the two platforms.\n\nRamirez A, Lam E, Pacheco Gutierrez D, Hou Y, Tribukait H, Roch LM, Copéret C, Laveille P: Accelerated Exploration of Heterogenous CO2 Hydrogenation Catalyts by Bayesian-optimized High-throughput and Automated Experimentation. Chem Catalysis, 18. Januar 2024, doi: 10.1016/j.checat.2023.100888\n\nLaveille P, Miéville P, Chatterjee S, Clerc E, Cousty JC, de Nanteuil F, Lam E, Mariano E, Ramirez A, Randrianarisoa U, Villat K, Copéret C, Cramer N: Swiss Cat+, a Data-driven Infrastructure for Accelerated Catalysts Discovery and Optimization. Chimia 2023, 77: 154, doi: 10.2533/chimia.2023.154"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 105,
+        "end": 115
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 173,
+        "end": 178
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 551,
+        "end": 556
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 585,
+        "end": 595
+      },
+      {
+        "text": "Paco Laveille",
+        "label": "ORG",
+        "start": 604,
+        "end": 617
+      },
+      {
+        "text": "less than six weeks",
+        "label": "DATE",
+        "start": 43,
+        "end": 62
+      },
+      {
+        "text": "CO 2",
+        "label": "ORG",
+        "start": 149,
+        "end": 153
+      },
+      {
+        "text": "Laveille",
+        "label": "PERSON",
+        "start": 312,
+        "end": 320
+      },
+      {
+        "text": "Methanol",
+        "label": "PERSON",
+        "start": 399,
+        "end": 407
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 796,
+        "end": 799
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 906,
+        "end": 911
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 69,
+        "end": 72
+      },
+      {
+        "text": "around 10 20",
+        "label": "CARDINAL",
+        "start": 249,
+        "end": 261
+      },
+      {
+        "text": "one hundred billion billion",
+        "label": "MONEY",
+        "start": 285,
+        "end": 312
+      },
+      {
+        "text": "Christophe Copéret",
+        "label": "PERSON",
+        "start": 390,
+        "end": 408
+      },
+      {
+        "text": "the Laboratory of Inorganic Chemistry",
+        "label": "ORG",
+        "start": 425,
+        "end": 462
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 466,
+        "end": 476
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 501,
+        "end": 506
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 307,
+        "end": 312
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 427,
+        "end": 432
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 660,
+        "end": 664
+      },
+      {
+        "text": "20 million",
+        "label": "CARDINAL",
+        "start": 753,
+        "end": 763
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 42,
+        "end": 44
+      },
+      {
+        "text": "Bayesian",
+        "label": "NORP",
+        "start": 92,
+        "end": 100
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 719,
+        "end": 724
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 90,
+        "end": 92
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 206,
+        "end": 211
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 295,
+        "end": 298
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 788,
+        "end": 793
+      },
+      {
+        "text": "Copéret",
+        "label": "PERSON",
+        "start": 1037,
+        "end": 1044
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 1395,
+        "end": 1397
+      },
+      {
+        "text": "Laveille",
+        "label": "PERSON",
+        "start": 1498,
+        "end": 1506
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1518,
+        "end": 1523
+      },
+      {
+        "text": "Christophe Copéret",
+        "label": "PERSON",
+        "start": 1685,
+        "end": 1703
+      },
+      {
+        "text": "the Department of Chemistry and Applied Biosciences",
+        "label": "ORG",
+        "start": 1709,
+        "end": 1760
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1764,
+        "end": 1774
+      },
+      {
+        "text": "a few years",
+        "label": "DATE",
+        "start": 1867,
+        "end": 1878
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1981,
+        "end": 1986
+      },
+      {
+        "text": "Copéret",
+        "label": "PERSON",
+        "start": 2204,
+        "end": 2211
+      },
+      {
+        "text": "Nicolai Kramer",
+        "label": "PERSON",
+        "start": 2216,
+        "end": 2230
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 2247,
+        "end": 2251
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2257,
+        "end": 2262
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2368,
+        "end": 2371
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 2385,
+        "end": 2391
+      },
+      {
+        "text": "Lausanne",
+        "label": "GPE",
+        "start": 2396,
+        "end": 2404
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 2466,
+        "end": 2468
+      },
+      {
+        "text": "Dozens",
+        "label": "CARDINAL",
+        "start": 2592,
+        "end": 2598
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2602,
+        "end": 2605
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2637,
+        "end": 2640
+      },
+      {
+        "text": "Ramirez A",
+        "label": "PERSON",
+        "start": 2652,
+        "end": 2661
+      },
+      {
+        "text": "Pacheco Gutierrez",
+        "label": "PERSON",
+        "start": 2670,
+        "end": 2687
+      },
+      {
+        "text": "Tribukait H",
+        "label": "ORG",
+        "start": 2698,
+        "end": 2709
+      },
+      {
+        "text": "Copéret C",
+        "label": "PERSON",
+        "start": 2720,
+        "end": 2729
+      },
+      {
+        "text": "Hydrogenation Catalyts",
+        "label": "PERSON",
+        "start": 2787,
+        "end": 2809
+      },
+      {
+        "text": "Bayesian",
+        "label": "GPE",
+        "start": 2813,
+        "end": 2821
+      },
+      {
+        "text": "Automated Experimentation",
+        "label": "ORG",
+        "start": 2852,
+        "end": 2877
+      },
+      {
+        "text": "Chem Catalysis",
+        "label": "ORG",
+        "start": 2879,
+        "end": 2893
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 2917,
+        "end": 2924
+      },
+      {
+        "text": "Chatterjee S",
+        "label": "ORG",
+        "start": 2970,
+        "end": 2982
+      },
+      {
+        "text": "Cousty JC",
+        "label": "PERSON",
+        "start": 2993,
+        "end": 3002
+      },
+      {
+        "text": "de Nanteuil F",
+        "label": "PERSON",
+        "start": 3004,
+        "end": 3017
+      },
+      {
+        "text": "Ramirez A",
+        "label": "PERSON",
+        "start": 3037,
+        "end": 3046
+      },
+      {
+        "text": "Randrianarisoa U",
+        "label": "PERSON",
+        "start": 3048,
+        "end": 3064
+      },
+      {
+        "text": "Villat K",
+        "label": "PERSON",
+        "start": 3066,
+        "end": 3074
+      },
+      {
+        "text": "Copéret C",
+        "label": "PERSON",
+        "start": 3076,
+        "end": 3085
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 3097,
+        "end": 3102
+      },
+      {
+        "text": "Chimia 2023",
+        "label": "DATE",
+        "start": 3192,
+        "end": 3203
+      },
+      {
+        "text": "10.2533",
+        "label": "CARDINAL",
+        "start": 3219,
+        "end": 3226
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christophe Copéret",
+        "Copéret",
+        "Copéret C",
+        "Cousty JC",
+        "Hydrogenation Catalyts",
+        "Laveille",
+        "Methanol",
+        "Nicolai Kramer",
+        "Pacheco Gutierrez",
+        "Ramirez A",
+        "Randrianarisoa U",
+        "Villat K",
+        "de Nanteuil F"
+      ],
+      "ORG": [
+        "AI",
+        "Automated Experimentation",
+        "CO 2",
+        "Chatterjee S",
+        "Chem Catalysis",
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Paco Laveille",
+        "Tribukait H",
+        "the Department of Chemistry and Applied Biosciences",
+        "the Laboratory of Inorganic Chemistry"
+      ],
+      "LOCATION": [
+        "AI",
+        "Bayesian",
+        "ETH Zurich",
+        "Lausanne",
+        "Zurich"
+      ],
+      "DATE": [
+        "Chimia 2023",
+        "a few years",
+        "less than six weeks",
+        "today"
+      ],
+      "MISC": [
+        "10.1016",
+        "10.2533",
+        "20 million",
+        "Bayesian",
+        "Dozens",
+        "Swiss",
+        "around 10 20",
+        "first",
+        "four",
+        "one",
+        "one hundred billion billion",
+        "six",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Swiss": 7,
+      "ETH Zurich": 4,
+      "AI": 4,
+      "first": 3,
+      "two": 3,
+      "Laveille": 2,
+      "Christophe Copéret": 2,
+      "three": 2,
+      "Bayesian": 2,
+      "Copéret": 2,
+      "Ramirez A": 2,
+      "Copéret C": 2,
+      "En News": 1,
+      "Paco Laveille": 1,
+      "less than six weeks": 1,
+      "CO 2": 1,
+      "Methanol": 1,
+      "today": 1,
+      "one": 1,
+      "around 10 20": 1
+    },
+    "total_entities": 69,
+    "unique_entities": 46
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-sustainable-fuel-and-chemical-from-the-robotic-lab.md",
+      "title": "En News Events/2024/02/a Sustainable Fuel And Chemical From The Robotic Lab",
+      "language": "en",
+      "source_path": "en_news_events/2024/02/a-sustainable-fuel-and-chemical-from-the-robotic-lab.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2019",
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christophe Copéret",
+        "Copéret",
+        "Copéret C",
+        "Cousty JC",
+        "Hydrogenation Catalyts",
+        "Laveille",
+        "Methanol",
+        "Nicolai Kramer",
+        "Pacheco Gutierrez",
+        "Ramirez A",
+        "Randrianarisoa U",
+        "Villat K",
+        "de Nanteuil F"
+      ],
+      "people_with_roles": {
+        "Christophe Copéret": [
+          "Professor",
+          "professor"
+        ],
+        "Copéret": [
+          "researcher",
+          "professor"
+        ],
+        "Laveille": [
+          "researcher"
+        ],
+        "Methanol": [
+          "researcher"
+        ],
+        "Nicolai Kramer": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1016",
+        "10.2533",
+        "20 million",
+        "Bayesian",
+        "Dozens",
+        "Swiss",
+        "around 10 20",
+        "first",
+        "four",
+        "one hundred billion billion",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "And Chemical",
+        "Randrianarisoa U",
+        "Tribukait H",
+        "Pacheco Gutierrez",
+        "Hou Y",
+        "The Swiss",
+        "Nanteuil F",
+        "Accelerated Catalysts",
+        "Applied Biosciences",
+        "Chem Catalysis",
+        "Paco Laveille",
+        "Villat K",
+        "Ramirez A",
+        "Sustainable Fuel",
+        "Automated Experimentation",
+        "Lam E",
+        "Professor Christophe",
+        "Cousty JC",
+        "Nicolai Kramer",
+        "Swiss Cat",
+        "Robotic Lab",
+        "Inorganic Chemistry",
+        "Mariano E",
+        "Cramer N",
+        "Chatterjee S",
+        "Laveille P",
+        "Roch LM",
+        "Hydrogenation Catalyts",
+        "En News",
+        "Clerc E",
+        "From The",
+        "Accelerated Exploration",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Chemistry and Applied Biosciences at ETH Zurich"
+      ],
+      "institutions": [
+        "AI",
+        "Automated Experimentation",
+        "CO 2",
+        "Chatterjee S",
+        "Chem Catalysis",
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Paco Laveille",
+        "Tribukait H",
+        "the Department of Chemistry and Applied Biosciences",
+        "the Laboratory of Inorganic Chemistry"
+      ],
+      "locations": [
+        "AI",
+        "Bayesian",
+        "ETH Zurich",
+        "Lausanne",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Swiss",
+        "ETH Zurich",
+        "AI",
+        "first",
+        "two",
+        "Laveille",
+        "Christophe Copéret",
+        "three",
+        "Bayesian",
+        "Copéret"
+      ],
+      "document_structure": {
+        "total_sections": 7,
+        "section_titles": [
+          "In brief",
+          "Narrowing down the possibilities through clever preselection",
+          "Taking iterative steps with AI-supported statistics",
+          "Narrowing down the possibilities through clever preselection",
+          "Generating data beyond petrochemicals",
+          "Taking iterative steps with AI-supported statistics",
+          "Delivering lots of highly reliable results quickly"
+        ],
+        "content_length": 7676
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "ETH",
+        "Randrianarisoa U",
+        "Tribukait H",
+        "Pacheco Gutierrez",
+        "ERC",
+        "Chem Catalysis",
+        "Copéret",
+        "Paco Laveille",
+        "Villat K",
+        "Ramirez A",
+        "Christophe Copéret",
+        "2019",
+        "Methanol",
+        "AI",
+        "Laveille",
+        "Copéret C",
+        "Automated Experimentation",
+        "Cousty JC",
+        "Nicolai Kramer",
+        "EU",
+        "de Nanteuil F",
+        "the Laboratory of Inorganic Chemistry",
+        "CO 2",
+        "2024",
+        "Chatterjee S",
+        "Hydrogenation Catalyts",
+        "En News",
+        "the Department of Chemistry and Applied Biosciences",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "20 million",
+        "three",
+        "chemistry",
+        "when",
+        "engineering",
+        "one hundred billion billion",
+        "four",
+        "mathematics",
+        "who",
+        "Bayesian",
+        "what",
+        "how",
+        "computer_science",
+        "first",
+        "10.2533",
+        "Swiss",
+        "Dozens",
+        "around 10 20",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Christophe Copéret_has_role_Professor",
+        "Christophe Copéret_has_role_professor",
+        "Copéret_has_role_researcher",
+        "Copéret_has_role_professor",
+        "Laveille_has_role_researcher",
+        "Methanol_has_role_researcher",
+        "Nicolai Kramer_has_role_researcher",
+        "Nicolai Kramer_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

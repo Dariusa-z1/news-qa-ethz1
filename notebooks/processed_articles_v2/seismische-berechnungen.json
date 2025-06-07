@@ -1,0 +1,250 @@
+{
+  "filename": "seismische-berechnungen.md",
+  "original_filename": "seismische-berechnungen.html",
+  "source_path": "de_news_events/2018/05/seismische-berechnungen.html",
+  "date": "2018-05",
+  "title": "Seismische Berechnungen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Am Samstag, 5. Mai, startete in Kalifornien eine Atlas-Rakete mit dem Insight-Lander der Nasa in Richtung Mars ( ETH-News berichtete ). Ein neuer Artikel auf der Webseite des CSCS, einer Service- und Forschungseinheit der ETH Zürich in Lugano, zeigt nun auf, welche Vorbereitungen getroffen worden sind, um die Datenanalyse der Bewegung von seismischen Wellen auf der Marsoberfläche zu berechnen.\n\nDer externe Seite vollständige Artikel befindet sich auf der Webseite des CSCS (in Englisch)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "seismische",
+        "label": "MISC",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "text": "Kalifornien",
+        "label": "LOC",
+        "start": 32,
+        "end": 43
+      },
+      {
+        "text": "Atlas-Rakete",
+        "label": "ORG",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "text": "Insight-Lander",
+        "label": "MISC",
+        "start": 70,
+        "end": 84
+      },
+      {
+        "text": "Nasa",
+        "label": "ORG",
+        "start": 89,
+        "end": 93
+      },
+      {
+        "text": "Mars",
+        "label": "MISC",
+        "start": 106,
+        "end": 110
+      },
+      {
+        "text": "ETH-News",
+        "label": "MISC",
+        "start": 113,
+        "end": 121
+      },
+      {
+        "text": "CSCS",
+        "label": "LOC",
+        "start": 175,
+        "end": 179
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 222,
+        "end": 232
+      },
+      {
+        "text": "Lugano",
+        "label": "LOC",
+        "start": 236,
+        "end": 242
+      },
+      {
+        "text": "Marsoberfläche",
+        "label": "LOC",
+        "start": 368,
+        "end": 382
+      },
+      {
+        "text": "CSCS",
+        "label": "LOC",
+        "start": 471,
+        "end": 475
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 480,
+        "end": 488
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "Atlas-Rakete",
+        "ETH Zürich",
+        "Nasa"
+      ],
+      "LOCATION": [
+        "CSCS",
+        "Kalifornien",
+        "Lugano",
+        "Marsoberfläche"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-News",
+        "Englisch",
+        "Insight-Lander",
+        "Mars",
+        "seismische"
+      ]
+    },
+    "entity_counts": {
+      "CSCS": 2,
+      "De News": 1,
+      "seismische": 1,
+      "Kalifornien": 1,
+      "Atlas-Rakete": 1,
+      "Insight-Lander": 1,
+      "Nasa": 1,
+      "Mars": 1,
+      "ETH-News": 1,
+      "ETH Zürich": 1,
+      "Lugano": 1,
+      "Marsoberfläche": 1,
+      "Englisch": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "seismische-berechnungen.md",
+      "title": "De News Events/2018/05/seismische Berechnungen",
+      "language": "de",
+      "source_path": "de_news_events/2018/05/seismische-berechnungen.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-News",
+        "Englisch",
+        "Insight-Lander",
+        "Mars",
+        "seismische"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-News",
+        "Berechnungen Am",
+        "Atlas-Rakete",
+        "Richtung Mars",
+        "Insight-Lander",
+        "De News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Atlas-Rakete",
+        "ETH Zürich",
+        "Nasa"
+      ],
+      "locations": [
+        "CSCS",
+        "Kalifornien",
+        "Lugano",
+        "Marsoberfläche"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "CSCS",
+        "De News",
+        "seismische",
+        "Kalifornien",
+        "Atlas-Rakete",
+        "Insight-Lander",
+        "Nasa",
+        "Mars",
+        "ETH-News",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 538
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Nasa",
+        "Atlas-Rakete",
+        "EU",
+        "ETH Zürich",
+        "De News"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-News",
+        "Insight-Lander",
+        "Englisch",
+        "Mars",
+        "when",
+        "seismische"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

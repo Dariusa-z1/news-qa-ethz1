@@ -1,0 +1,177 @@
+{
+  "filename": "fire-protection-course.md",
+  "original_filename": "fire-protection-course.html",
+  "source_path": "en_internal/2014/09/fire-protection-course.html",
+  "date": "2014-09",
+  "title": "Fire Protection Course",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Each student will have the opportunity to fight a fire with a portable fire extinguisher under expert guidance.\n\nThe course is free for all interested members of ETH. For some undergraduate students engaging in certain fields of study, participation is mandatory in the first semester. They will be informed by e-mail.\n\nThe courses will last just over one hour. They will start on 22 September and will be carried out up to 17 October 2014. The participants can travel by public transport to the station \"ETH Hönggerberg\". From there, the course area can be reached by a short walk (about 10 minutes). There are no parking lots at the course site.\n\nThe course will take place outdoor and in all weather conditions. Therefore sturdy boots and waterproof clothing are essential.\n\nIf you are interested, please register on the website .\n\nFor further information, please contact Mrs. E. Stamoulopoulos, 044 632 80 02."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 161,
+        "end": 164
+      },
+      {
+        "text": "the first semester",
+        "label": "DATE",
+        "start": 265,
+        "end": 283
+      },
+      {
+        "text": "just over one hour",
+        "label": "TIME",
+        "start": 340,
+        "end": 358
+      },
+      {
+        "text": "22 September",
+        "label": "DATE",
+        "start": 379,
+        "end": 391
+      },
+      {
+        "text": "October 2014",
+        "label": "DATE",
+        "start": 425,
+        "end": 437
+      },
+      {
+        "text": "about 10 minutes",
+        "label": "TIME",
+        "start": 581,
+        "end": 597
+      },
+      {
+        "text": "E. Stamoulopoulos",
+        "label": "PERSON",
+        "start": 875,
+        "end": 892
+      },
+      {
+        "text": "80 02",
+        "label": "DATE",
+        "start": 902,
+        "end": 907
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "E. Stamoulopoulos"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "22 September",
+        "80 02",
+        "October 2014",
+        "about 10 minutes",
+        "just over one hour",
+        "the first semester"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 1,
+      "the first semester": 1,
+      "just over one hour": 1,
+      "22 September": 1,
+      "October 2014": 1,
+      "about 10 minutes": 1,
+      "E. Stamoulopoulos": 1,
+      "80 02": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fire-protection-course.md",
+      "title": "En Internal/2014/09/fire Protection Course",
+      "language": "en",
+      "source_path": "en_internal/2014/09/fire-protection-course.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "E. Stamoulopoulos"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Protection Course",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "ETH",
+        "the first semester",
+        "just over one hour",
+        "22 September",
+        "October 2014",
+        "about 10 minutes",
+        "E. Stamoulopoulos",
+        "80 02"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 956
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "E. Stamoulopoulos",
+        "2014",
+        "ETH"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,775 @@
+{
+  "filename": "simulation-booster-for-nanoelectronics.md",
+  "original_filename": "simulation-booster-for-nanoelectronics.html",
+  "source_path": "en_news_events/2019/11/simulation-booster-for-nanoelectronics.html",
+  "date": "2019-11",
+  "title": "Simulation Booster For Nanoelectronics",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Gordon Bell Prize for simulation booster",
+      "text": "Chip manufacturers are already assembling transistors that measure just a few nanometres across. They are much smaller than a human hair, whose diameter is approximately 20,000 nanometres in the case of finer strands. Now, demand for increasingly powerful supercomputers is driving the industry to develop components that are even smaller and yet more powerful at the same time."
+    },
+    {
+      "heading": "Gordon Bell Prize for simulation booster",
+      "text": "However, in addition to physical laws that make it harder to build ultra-scaled transistors, the problem of the ever increasing heat dissipation is putting manufacturers in a tricky situation – partly due to steep rises in cooling requirements and the resulting demand for energy. Cooling the computers already accounts for up to 40 percent of power consumption in some data centres, as the research groups led by ETH professors Torsten Hoefler and Mathieu Luisier report in their latest study, which they hope will allow a better approach to be developed. With their study, the researchers have been awarded the ACM Gordon Bell Prize, the most prestigious prize in the area of supercomputers, which is awarded annually at the SC supercomputing conference in the United States.\n\nTo make today’s nanotransistors more efficient, the research group led by Luisier from the Integrated Systems Laboratory (IIS) at ETH Zurich simulates transistors using software named OMEN, which is a so-called quantum transport simulator.\n\nOMEN runs its calculations based on what is known as density functional theory, allowing a realistic simulation of transistors in atomic resolution and at the quantum mechanical level. This simulation visualises how electrical current flows through the nanotransistor and how the electrons interact with crystal vibrations, thus enabling researchers to precisely identify locations where heat is produced. In turn, OMEN also provides useful clues as to where there is room for improvement."
+    },
+    {
+      "heading": "Improving transistors using optimised simulations",
+      "text": "Until now, conventional programming methods and supercomputers only permitted researchers to simulate heat dissipation in transistors consisting of around 1,000 atoms, as data communication between the processors and memory requirements made it impossible to produce a realistic simulation of larger objects.\n\nMost computer programs do not spend most of their time performing computing operations, but rather moving data between processors, main memory and external interfaces. According to the scientists, OMEN also suffered from a pronounced bottleneck in communication, which curtailed performance. “The software is already used in the semiconductor industry, but there is considerable room for improvement in terms of its numerical algorithms and parallelisation,” says Luisier.\n\nUntil now, the parallelization of OMEN was designed according to the physics of the electro-thermal problem, as Luisier explains. Now, Ph.D. student Alexandros Ziogas and the postdoc Tal Ben-Nun – working under Hoefler, head of the Scalable Parallel Computing Laboratory at ETH Zurich – have not looked at the physics but rather at the dependencies between the data. They reorganised the computing operations according to these dependencies, effectively without considering the underlying physics. In optimising the code, they had the help of two of the most powerful supercomputers in the world – “Piz Daint” at the Swiss National Supercomputing Centre (CSCS) and “Summit” at Oak Ridge National Laboratory in the US, the latter being the fastest supercomputer in the world. According to the researchers, the resulting code – dubbed DaCe OMEN – produced simulation results that were just as precise as those from the original OMEN software.\n\nFor the first time, DaCe OMEN has reportedly made it possible for researchers to produce a realistic simulation of transistors ten times the size, made up of 10,000 atoms, on the same number of processors – and up to 14 times faster than the original method took for 1,000 atoms. Overall, DaCe OMEN is more efficient than OMEN by two orders of magnitude: on Summit, it was possible to simulate, among other things, a realistic transistor up to 140 times faster with a sustained performance of 85.45 petaflops per second – and indeed to do so in double precision on 4,560 computer nodes. This extreme boost in computing speed has earned the researchers the Gordon Bell Prize ."
+    },
+    {
+      "heading": "Data-centric programming",
+      "text": "The scientists achieved this optimisation by applying the principles of data-centric parallel programming (DAPP), which was developed by Hoefler’s research group. Here, the aim is to minimise data transport and therefore communication between the processors. “This type of programming allows us to very accurately determine not only where this communication can be improved on various levels of the program, but also how we can tune specific computing-intensive sections, known as computational kernels, within the calculation for a single state,” says Ben-Nun. This multilevel approach makes it possible to optimise an application without having to rewrite it every time.\n\nData movements are also optimised without modifying the original calculation – and for any desired computer architecture. “When we optimise the code for the target architecture, we’re now only changing it from the perspective of the performance engineer, and not that of the programmer – that is, the researcher who translates the scientific problem into code,” says Hoefler. This, he says, leads to the establishment of a very simple interface between computer scientists and interdisciplinary programmers.\n\nThe application of DaCe OMEN has shown that the most heat is generated near the end of the nanotransistor channel and revealed how it spreads from there and affects the whole system. The scientists are convinced that the new process for simulating electronic components of this kind has a variety of potential applications. One example is in the production of lithium batteries, which can lead to some unpleasant surprises when they overheat.\n\nThis text by Simone Ulmer first appeared in English on the CSCS website.\n\nZiogas AN, Ben-Nun T, Fernández GI, Schneider T, Luisier M & Hoefler T: A Data-Centric Approach to Extreme-Scale Ab initio Dissipative Quantum Transport Simulations, Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), November 2019."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "approximately 20,000 nanometres",
+        "label": "QUANTITY",
+        "start": 156,
+        "end": 187
+      },
+      {
+        "text": "up to 40 percent",
+        "label": "PERCENT",
+        "start": 324,
+        "end": 340
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 414,
+        "end": 417
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 429,
+        "end": 444
+      },
+      {
+        "text": "Mathieu Luisier",
+        "label": "PERSON",
+        "start": 449,
+        "end": 464
+      },
+      {
+        "text": "the ACM Gordon Bell Prize",
+        "label": "ORG",
+        "start": 609,
+        "end": 634
+      },
+      {
+        "text": "annually",
+        "label": "DATE",
+        "start": 711,
+        "end": 719
+      },
+      {
+        "text": "SC",
+        "label": "ORG",
+        "start": 727,
+        "end": 729
+      },
+      {
+        "text": "the United States",
+        "label": "GPE",
+        "start": 759,
+        "end": 776
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 786,
+        "end": 791
+      },
+      {
+        "text": "Luisier",
+        "label": "PERSON",
+        "start": 852,
+        "end": 859
+      },
+      {
+        "text": "the Integrated Systems Laboratory",
+        "label": "ORG",
+        "start": 865,
+        "end": 898
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 908,
+        "end": 918
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 962,
+        "end": 966
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 1433,
+        "end": 1437
+      },
+      {
+        "text": "around 1,000",
+        "label": "CARDINAL",
+        "start": 148,
+        "end": 160
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 506,
+        "end": 510
+      },
+      {
+        "text": "Luisier",
+        "label": "PERSON",
+        "start": 773,
+        "end": 780
+      },
+      {
+        "text": "OMEN",
+        "label": "ORG",
+        "start": 816,
+        "end": 820
+      },
+      {
+        "text": "Luisier",
+        "label": "PERSON",
+        "start": 894,
+        "end": 901
+      },
+      {
+        "text": "Ph.D.",
+        "label": "WORK_OF_ART",
+        "start": 917,
+        "end": 922
+      },
+      {
+        "text": "Alexandros Ziogas",
+        "label": "PERSON",
+        "start": 931,
+        "end": 948
+      },
+      {
+        "text": "Tal Ben-Nun",
+        "label": "PERSON",
+        "start": 965,
+        "end": 976
+      },
+      {
+        "text": "Hoefler",
+        "label": "ORG",
+        "start": 993,
+        "end": 1000
+      },
+      {
+        "text": "the Scalable Parallel Computing Laboratory",
+        "label": "ORG",
+        "start": 1010,
+        "end": 1052
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1056,
+        "end": 1066
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1325,
+        "end": 1328
+      },
+      {
+        "text": "the Swiss National Supercomputing Centre",
+        "label": "ORG",
+        "start": 1395,
+        "end": 1435
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1437,
+        "end": 1441
+      },
+      {
+        "text": "Summit",
+        "label": "WORK_OF_ART",
+        "start": 1448,
+        "end": 1454
+      },
+      {
+        "text": "Oak Ridge National Laboratory",
+        "label": "ORG",
+        "start": 1459,
+        "end": 1488
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 1496,
+        "end": 1498
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1731,
+        "end": 1736
+      },
+      {
+        "text": "DaCe",
+        "label": "ORG",
+        "start": 1743,
+        "end": 1747
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 1850,
+        "end": 1853
+      },
+      {
+        "text": "10,000",
+        "label": "CARDINAL",
+        "start": 1881,
+        "end": 1887
+      },
+      {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 1990,
+        "end": 1995
+      },
+      {
+        "text": "DaCe",
+        "label": "PERSON",
+        "start": 2012,
+        "end": 2016
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2053,
+        "end": 2056
+      },
+      {
+        "text": "Summit",
+        "label": "ORG",
+        "start": 2081,
+        "end": 2087
+      },
+      {
+        "text": "up to 140",
+        "label": "CARDINAL",
+        "start": 2161,
+        "end": 2170
+      },
+      {
+        "text": "85.45",
+        "label": "CARDINAL",
+        "start": 2216,
+        "end": 2221
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 2236,
+        "end": 2242
+      },
+      {
+        "text": "4,560",
+        "label": "CARDINAL",
+        "start": 2288,
+        "end": 2293
+      },
+      {
+        "text": "DAPP",
+        "label": "ORG",
+        "start": 107,
+        "end": 111
+      },
+      {
+        "text": "Hoefler",
+        "label": "ORG",
+        "start": 137,
+        "end": 144
+      },
+      {
+        "text": "Ben-Nun",
+        "label": "PERSON",
+        "start": 553,
+        "end": 560
+      },
+      {
+        "text": "Hoefler",
+        "label": "PERSON",
+        "start": 1040,
+        "end": 1047
+      },
+      {
+        "text": "DaCe",
+        "label": "ORG",
+        "start": 1200,
+        "end": 1204
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1505,
+        "end": 1508
+      },
+      {
+        "text": "Simone Ulmer",
+        "label": "PERSON",
+        "start": 1637,
+        "end": 1649
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1650,
+        "end": 1655
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 1668,
+        "end": 1675
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1683,
+        "end": 1687
+      },
+      {
+        "text": "Ben-Nun",
+        "label": "PERSON",
+        "start": 1708,
+        "end": 1715
+      },
+      {
+        "text": "Fernández GI",
+        "label": "PERSON",
+        "start": 1719,
+        "end": 1731
+      },
+      {
+        "text": "Schneider",
+        "label": "PERSON",
+        "start": 1733,
+        "end": 1742
+      },
+      {
+        "text": "Luisier M & Hoefler",
+        "label": "ORG",
+        "start": 1746,
+        "end": 1765
+      },
+      {
+        "text": "Data-Centric Approach",
+        "label": "ORG",
+        "start": 1771,
+        "end": 1792
+      },
+      {
+        "text": "Extreme-Scale Ab",
+        "label": "ORG",
+        "start": 1796,
+        "end": 1812
+      },
+      {
+        "text": "Dissipative Quantum Transport Simulations",
+        "label": "ORG",
+        "start": 1820,
+        "end": 1861
+      },
+      {
+        "text": "Performance Computing",
+        "label": "PERSON",
+        "start": 1916,
+        "end": 1937
+      },
+      {
+        "text": "November 2019",
+        "label": "DATE",
+        "start": 1980,
+        "end": 1993
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexandros Ziogas",
+        "Ben-Nun",
+        "DaCe",
+        "Fernández GI",
+        "Hoefler",
+        "Luisier",
+        "Mathieu Luisier",
+        "Performance Computing",
+        "Schneider",
+        "Simone Ulmer",
+        "Tal Ben-Nun",
+        "Torsten Hoefler"
+      ],
+      "ORG": [
+        "CSCS",
+        "DAPP",
+        "DaCe",
+        "Data-Centric Approach",
+        "Dissipative Quantum Transport Simulations",
+        "ETH",
+        "ETH Zurich",
+        "Extreme-Scale Ab",
+        "Hoefler",
+        "Luisier M & Hoefler",
+        "OMEN",
+        "Oak Ridge National Laboratory",
+        "SC",
+        "Summit",
+        "the ACM Gordon Bell Prize",
+        "the Integrated Systems Laboratory",
+        "the Scalable Parallel Computing Laboratory",
+        "the Swiss National Supercomputing Centre"
+      ],
+      "LOCATION": [
+        "US",
+        "the United States"
+      ],
+      "DATE": [
+        "November 2019",
+        "annually",
+        "today"
+      ],
+      "MISC": [
+        "1,000",
+        "10,000",
+        "4,560",
+        "85.45",
+        "English",
+        "One",
+        "Ph.D.",
+        "Summit",
+        "approximately 20,000 nanometres",
+        "around 1,000",
+        "first",
+        "second",
+        "ten",
+        "two",
+        "up to 140",
+        "up to 40 percent"
+      ]
+    },
+    "entity_counts": {
+      "OMEN": 4,
+      "Luisier": 3,
+      "Hoefler": 3,
+      "DaCe": 3,
+      "ETH Zurich": 2,
+      "two": 2,
+      "CSCS": 2,
+      "Summit": 2,
+      "first": 2,
+      "Ben-Nun": 2,
+      "approximately 20,000 nanometres": 1,
+      "up to 40 percent": 1,
+      "ETH": 1,
+      "Torsten Hoefler": 1,
+      "Mathieu Luisier": 1,
+      "the ACM Gordon Bell Prize": 1,
+      "annually": 1,
+      "SC": 1,
+      "the United States": 1,
+      "today": 1
+    },
+    "total_entities": 63,
+    "unique_entities": 48
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "simulation-booster-for-nanoelectronics.md",
+      "title": "En News Events/2019/11/simulation Booster For Nanoelectronics",
+      "language": "en",
+      "source_path": "en_news_events/2019/11/simulation-booster-for-nanoelectronics.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexandros Ziogas",
+        "Ben-Nun",
+        "DaCe",
+        "Fernández GI",
+        "Hoefler",
+        "Luisier",
+        "Mathieu Luisier",
+        "Performance Computing",
+        "Schneider",
+        "Simone Ulmer",
+        "Tal Ben-Nun",
+        "Torsten Hoefler"
+      ],
+      "people_with_roles": {
+        "Alexandros Ziogas": [
+          "student",
+          "head"
+        ],
+        "Ben-Nun": [
+          "student",
+          "head"
+        ],
+        "DaCe": [
+          "researcher"
+        ],
+        "Hoefler": [
+          "scientist",
+          "student",
+          "professor",
+          "researcher",
+          "head"
+        ],
+        "Luisier": [
+          "professor"
+        ],
+        "Mathieu Luisier": [
+          "professor"
+        ],
+        "Tal Ben-Nun": [
+          "student",
+          "head"
+        ],
+        "Torsten Hoefler": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1,000",
+        "10,000",
+        "4,560",
+        "85.45",
+        "English",
+        "Ph.D.",
+        "Summit",
+        "approximately 20,000 nanometres",
+        "around 1,000",
+        "first",
+        "second",
+        "up to 140",
+        "up to 40 percent"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Oak Ridge",
+        "International Conference",
+        "High Performance",
+        "Piz Daint",
+        "DaCe OMEN",
+        "Simone Ulmer",
+        "Alexandros Ziogas",
+        "Supercomputing Centre",
+        "Gordon Bell",
+        "Booster For",
+        "Ziogas AN",
+        "Dissipative Quantum",
+        "Scalable Parallel",
+        "Extreme-Scale",
+        "ACM Gordon",
+        "Nanoelectronics Chip",
+        "Swiss National",
+        "Luisier M",
+        "Hoefler T",
+        "Transport Simulations",
+        "Integrated Systems",
+        "Ben-Nun",
+        "A Data",
+        "National Laboratory",
+        "United States",
+        "Bell Prize",
+        "En News",
+        "Mathieu Luisier",
+        "Tal Ben",
+        "Centric Approach",
+        "Schneider T",
+        "Torsten Hoefler",
+        "ETH Zurich",
+        "Computing Laboratory"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSCS",
+        "DAPP",
+        "DaCe",
+        "Data-Centric Approach",
+        "Dissipative Quantum Transport Simulations",
+        "ETH",
+        "ETH Zurich",
+        "Extreme-Scale Ab",
+        "Hoefler",
+        "Luisier M & Hoefler",
+        "OMEN",
+        "Oak Ridge National Laboratory",
+        "SC",
+        "Summit",
+        "the ACM Gordon Bell Prize",
+        "the Integrated Systems Laboratory",
+        "the Scalable Parallel Computing Laboratory",
+        "the Swiss National Supercomputing Centre"
+      ],
+      "locations": [
+        "US",
+        "the United States"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "OMEN",
+        "Luisier",
+        "Hoefler",
+        "DaCe",
+        "ETH Zurich",
+        "two",
+        "CSCS",
+        "Summit",
+        "first",
+        "Ben-Nun"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Gordon Bell Prize for simulation booster",
+          "Gordon Bell Prize for simulation booster",
+          "Improving transistors using optimised simulations",
+          "Data-centric programming"
+        ],
+        "content_length": 6351
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DAPP",
+        "ETH",
+        "OMEN",
+        "the ACM Gordon Bell Prize",
+        "DaCe",
+        "Simone Ulmer",
+        "Schneider",
+        "Alexandros Ziogas",
+        "Tal Ben-Nun",
+        "ERC",
+        "the Swiss National Supercomputing Centre",
+        "2019",
+        "the Integrated Systems Laboratory",
+        "Extreme-Scale Ab",
+        "SC",
+        "Luisier M & Hoefler",
+        "the Scalable Parallel Computing Laboratory",
+        "Hoefler",
+        "Ben-Nun",
+        "EU",
+        "Data-Centric Approach",
+        "Oak Ridge National Laboratory",
+        "Performance Computing",
+        "CSCS",
+        "Dissipative Quantum Transport Simulations",
+        "Mathieu Luisier",
+        "Luisier",
+        "Summit",
+        "Torsten Hoefler",
+        "Fernández GI",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "4,560",
+        "when",
+        "engineering",
+        "1,000",
+        "10,000",
+        "mathematics",
+        "approximately 20,000 nanometres",
+        "85.45",
+        "who",
+        "around 1,000",
+        "English",
+        "what",
+        "how",
+        "Ph.D.",
+        "computer_science",
+        "physics",
+        "first",
+        "Summit",
+        "up to 40 percent",
+        "second",
+        "up to 140",
+        "where"
+      ],
+      "graph_relations": [
+        "Alexandros Ziogas_has_role_student",
+        "Alexandros Ziogas_has_role_head",
+        "Ben-Nun_has_role_student",
+        "Ben-Nun_has_role_head",
+        "DaCe_has_role_researcher",
+        "Hoefler_has_role_scientist",
+        "Hoefler_has_role_student",
+        "Hoefler_has_role_professor",
+        "Hoefler_has_role_researcher",
+        "Hoefler_has_role_head",
+        "Luisier_has_role_professor",
+        "Mathieu Luisier_has_role_professor",
+        "Tal Ben-Nun_has_role_student",
+        "Tal Ben-Nun_has_role_head",
+        "Torsten Hoefler_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

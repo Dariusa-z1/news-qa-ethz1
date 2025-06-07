@@ -1,0 +1,130 @@
+{
+  "filename": "studierendenportrait-lorenzo-graziotto.md",
+  "original_filename": "studierendenportrait-lorenzo-graziotto.html",
+  "source_path": "de_news_events/2023/01/studierendenportrait-lorenzo-graziotto.html",
+  "date": "2023-01",
+  "title": "Studierendenportrait Lorenzo Graziotto",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Studium an der ETH Zürich ist herausfordernd und alle Studierenden haben ihre persönlichen Hürden zu überwinden. Diese Videoserie zeigt persönliche Porträts von ETH-Studierenden."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lorenzo Graziotto",
+        "label": "PER",
+        "start": 44,
+        "end": 61
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "ETH-Studierenden",
+        "label": "ORG",
+        "start": 165,
+        "end": 181
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Lorenzo Graziotto"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Studierenden"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Lorenzo Graziotto": 1,
+      "ETH Zürich": 1,
+      "ETH-Studierenden": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "studierendenportrait-lorenzo-graziotto.md",
+      "title": "De News Events/2023/01/studierendenportrait Lorenzo Graziotto",
+      "language": "de",
+      "source_path": "de_news_events/2023/01/studierendenportrait-lorenzo-graziotto.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Lorenzo Graziotto"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Diese Videoserie",
+        "ETH-Studierenden",
+        "De News",
+        "Das Studium",
+        "Lorenzo Graziotto"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Studierenden"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Lorenzo Graziotto",
+        "ETH Zürich",
+        "ETH-Studierenden"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 244
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH-Studierenden",
+        "Lorenzo Graziotto",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

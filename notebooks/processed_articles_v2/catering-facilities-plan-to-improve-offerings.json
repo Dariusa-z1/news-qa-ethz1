@@ -1,0 +1,318 @@
+{
+  "filename": "catering-facilities-plan-to-improve-offerings.md",
+  "original_filename": "catering-facilities-plan-to-improve-offerings.html",
+  "source_path": "en_internal/2015/09/catering-facilities-plan-to-improve-offerings.html",
+  "date": "2015-09",
+  "title": "Catering Facilities Plan To Improve Offerings",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Greater variety requested",
+      "text": "The respondents rated the staff and the environment (furnishings and crockery) particularly highly. The drinks, especially the quality of the coffee and tea, were also well received. Compared to the 2012 survey, respondents saw room for improvement in the salad offerings, hot meals, snacks and sandwiches, and value for money. The Clausiusbar, bQm and Dozentenfoyer had the most satisfied customers.\n\nThe satisfaction level is also reflected in the number of visits: 95 per cent of the ETH community visit the catering establishments at ETH Zurich, with two thirds of respondents visiting more than twice a week. This represents a notable increase in customer loyalty compared with the previous survey in 2012."
+    },
+    {
+      "heading": "Greater variety requested",
+      "text": "Customers saw the greatest need for improvement in the variety of foods on offer, sustainability aspects, and waiting times. In response to this feedback, the Catering Commission, which carried out the survey, asked the caterers, SV, Compass, and Eldora, to identify and adopt specific improvements in each of their operations. Posters on display in each of the catering facilities from mid-September will show customers what is being done to improve services.\n\nThe survey was carried out in November and December 2014. Of the 27,934 people invited to participate in the survey, 6,371 people (22.8 per cent) took part. Six per cent of the respondents were vegetarian and one per cent were vegan."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Facilities Plan To",
+        "label": "WORK_OF_ART",
+        "start": 29,
+        "end": 47
+      },
+      {
+        "text": "Clausiusbar",
+        "label": "GPE",
+        "start": 332,
+        "end": 343
+      },
+      {
+        "text": "Dozentenfoyer",
+        "label": "PERSON",
+        "start": 353,
+        "end": 366
+      },
+      {
+        "text": "95 per cent",
+        "label": "MONEY",
+        "start": 467,
+        "end": 478
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 486,
+        "end": 489
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 537,
+        "end": 547
+      },
+      {
+        "text": "two thirds",
+        "label": "CARDINAL",
+        "start": 554,
+        "end": 564
+      },
+      {
+        "text": "more than twice",
+        "label": "CARDINAL",
+        "start": 589,
+        "end": 604
+      },
+      {
+        "text": "the Catering Commission",
+        "label": "ORG",
+        "start": 155,
+        "end": 178
+      },
+      {
+        "text": "SV",
+        "label": "ORG",
+        "start": 230,
+        "end": 232
+      },
+      {
+        "text": "Compass",
+        "label": "ORG",
+        "start": 234,
+        "end": 241
+      },
+      {
+        "text": "Eldora",
+        "label": "PERSON",
+        "start": 247,
+        "end": 253
+      },
+      {
+        "text": "mid-September",
+        "label": "DATE",
+        "start": 387,
+        "end": 400
+      },
+      {
+        "text": "November and December 2014",
+        "label": "DATE",
+        "start": 491,
+        "end": 517
+      },
+      {
+        "text": "27,934",
+        "label": "CARDINAL",
+        "start": 526,
+        "end": 532
+      },
+      {
+        "text": "6,371",
+        "label": "CARDINAL",
+        "start": 578,
+        "end": 583
+      },
+      {
+        "text": "22.8 per cent",
+        "label": "MONEY",
+        "start": 592,
+        "end": 605
+      },
+      {
+        "text": "Six per cent",
+        "label": "MONEY",
+        "start": 618,
+        "end": 630
+      },
+      {
+        "text": "one per cent",
+        "label": "MONEY",
+        "start": 670,
+        "end": 682
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dozentenfoyer",
+        "Eldora"
+      ],
+      "ORG": [
+        "Compass",
+        "ETH",
+        "ETH Zurich",
+        "SV",
+        "the Catering Commission"
+      ],
+      "LOCATION": [
+        "Clausiusbar"
+      ],
+      "DATE": [
+        "November and December 2014",
+        "mid-September"
+      ],
+      "MISC": [
+        "22.8 per cent",
+        "27,934",
+        "6,371",
+        "95 per cent",
+        "Facilities Plan To",
+        "Six per cent",
+        "more than twice",
+        "one per cent",
+        "two thirds"
+      ]
+    },
+    "entity_counts": {
+      "Facilities Plan To": 1,
+      "Clausiusbar": 1,
+      "Dozentenfoyer": 1,
+      "95 per cent": 1,
+      "ETH": 1,
+      "ETH Zurich": 1,
+      "two thirds": 1,
+      "more than twice": 1,
+      "the Catering Commission": 1,
+      "SV": 1,
+      "Compass": 1,
+      "Eldora": 1,
+      "mid-September": 1,
+      "November and December 2014": 1,
+      "27,934": 1,
+      "6,371": 1,
+      "22.8 per cent": 1,
+      "Six per cent": 1,
+      "one per cent": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "catering-facilities-plan-to-improve-offerings.md",
+      "title": "En Internal/2015/09/catering Facilities Plan To Improve Offerings",
+      "language": "en",
+      "source_path": "en_internal/2015/09/catering-facilities-plan-to-improve-offerings.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2012",
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dozentenfoyer",
+        "Eldora"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "22.8 per cent",
+        "27,934",
+        "6,371",
+        "95 per cent",
+        "Facilities Plan To",
+        "Six per cent",
+        "more than twice",
+        "one per cent",
+        "two thirds"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Facilities Plan",
+        "Catering Commission",
+        "Offerings The",
+        "En Internal",
+        "The Clausiusbar",
+        "To Improve",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Compass",
+        "ETH",
+        "ETH Zurich",
+        "SV",
+        "the Catering Commission"
+      ],
+      "locations": [
+        "Clausiusbar"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Facilities Plan To",
+        "Clausiusbar",
+        "Dozentenfoyer",
+        "95 per cent",
+        "ETH",
+        "ETH Zurich",
+        "two thirds",
+        "more than twice",
+        "the Catering Commission",
+        "SV"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Greater variety requested",
+          "Greater variety requested"
+        ],
+        "content_length": 1473
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Catering Commission",
+        "ETH",
+        "2015",
+        "Eldora",
+        "2012",
+        "SV",
+        "ETH Zurich",
+        "Compass",
+        "Dozentenfoyer",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "27,934",
+        "95 per cent",
+        "Six per cent",
+        "more than twice",
+        "Facilities Plan To",
+        "what",
+        "how",
+        "one per cent",
+        "two thirds",
+        "climate_change",
+        "when",
+        "22.8 per cent",
+        "6,371"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

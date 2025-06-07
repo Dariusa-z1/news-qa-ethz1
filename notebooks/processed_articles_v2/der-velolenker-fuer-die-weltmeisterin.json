@@ -1,0 +1,242 @@
+{
+  "filename": "der-velolenker-fuer-die-weltmeisterin.md",
+  "original_filename": "der-velolenker-fuer-die-weltmeisterin.html",
+  "source_path": "de_news_events/2023/11/der-velolenker-fuer-die-weltmeisterin.html",
+  "date": "2023-11",
+  "title": "Der Velolenker Fuer Die Weltmeisterin",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Flurina Rigling ist eine Überfliegerin im Paracycling: 2023 gewinnt sie in Glasgow den Weltmeistertitel auf der Bahn und der Strasse und drei weitere Medaillen. Dabei fährt die 27-jährige erst seit gut drei Jahren regelmässig Rennvelo.\n\nEinen Beitrag an den Erfolg von Rigling hat auch der ehemalige ETH-Student Luca Hasler geleistet. Im Rahmen seiner Masterarbeit für den Abschluss als Maschinenbauingenieur hat er für die Paraathletin einen neuen Lenker entwickelt, der massgeschneidert auf ihre Hände ist. Dadurch fährt Rigling sicherer, komfortabler und vor allem schneller.\n\nIm Video erzählen Hasler und Rigling von ihrer intensiven Zusammenarbeit und was seit Haslers Abschluss passiert ist."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Velolenker Fuer",
+        "label": "LOC",
+        "start": 27,
+        "end": 42
+      },
+      {
+        "text": "Flurina Rigling",
+        "label": "PER",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Paracycling",
+        "label": "MISC",
+        "start": 42,
+        "end": 53
+      },
+      {
+        "text": "Glasgow",
+        "label": "LOC",
+        "start": 75,
+        "end": 82
+      },
+      {
+        "text": "Weltmeistertitel auf der Bahn",
+        "label": "MISC",
+        "start": 87,
+        "end": 116
+      },
+      {
+        "text": "Rennvelo",
+        "label": "PER",
+        "start": 226,
+        "end": 234
+      },
+      {
+        "text": "Rigling",
+        "label": "PER",
+        "start": 268,
+        "end": 275
+      },
+      {
+        "text": "ETH-Student",
+        "label": "ORG",
+        "start": 299,
+        "end": 310
+      },
+      {
+        "text": "Luca Hasler",
+        "label": "PER",
+        "start": 311,
+        "end": 322
+      },
+      {
+        "text": "Paraathletin",
+        "label": "PER",
+        "start": 423,
+        "end": 435
+      },
+      {
+        "text": "Rigling",
+        "label": "PER",
+        "start": 522,
+        "end": 529
+      },
+      {
+        "text": "Haslers",
+        "label": "LOC",
+        "start": 664,
+        "end": 671
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Flurina Rigling",
+        "Luca Hasler",
+        "Paraathletin",
+        "Rennvelo",
+        "Rigling"
+      ],
+      "ORG": [
+        "ETH-Student"
+      ],
+      "LOCATION": [
+        "Glasgow",
+        "Haslers",
+        "Velolenker Fuer"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Paracycling",
+        "Weltmeistertitel auf der Bahn"
+      ]
+    },
+    "entity_counts": {
+      "Rigling": 2,
+      "Velolenker Fuer": 1,
+      "Flurina Rigling": 1,
+      "Paracycling": 1,
+      "Glasgow": 1,
+      "Weltmeistertitel auf der Bahn": 1,
+      "Rennvelo": 1,
+      "ETH-Student": 1,
+      "Luca Hasler": 1,
+      "Paraathletin": 1,
+      "Haslers": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-velolenker-fuer-die-weltmeisterin.md",
+      "title": "De News Events/2023/11/der Velolenker Fuer die Weltmeisterin",
+      "language": "de",
+      "source_path": "de_news_events/2023/11/der-velolenker-fuer-die-weltmeisterin.html"
+    },
+    "temporal": {
+      "publication_date": "2023-11",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Flurina Rigling",
+        "Luca Hasler",
+        "Paraathletin",
+        "Rennvelo",
+        "Rigling"
+      ],
+      "people_with_roles": {
+        "Luca Hasler": [
+          "student"
+        ],
+        "Rigling": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Paracycling",
+        "Weltmeistertitel auf der Bahn"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Velolenker Fuer",
+        "Weltmeisterin Flurina",
+        "ETH-Student",
+        "Im Video",
+        "De News",
+        "Einen Beitrag",
+        "Luca Hasler",
+        "Haslers Abschluss",
+        "Im Rahmen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Student"
+      ],
+      "locations": [
+        "Glasgow",
+        "Haslers",
+        "Velolenker Fuer"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Rigling",
+        "Velolenker Fuer",
+        "Flurina Rigling",
+        "Paracycling",
+        "Glasgow",
+        "Weltmeistertitel auf der Bahn",
+        "Rennvelo",
+        "ETH-Student",
+        "Luca Hasler",
+        "Paraathletin"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 758
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Rigling",
+        "ETH-Student",
+        "EU",
+        "Flurina Rigling",
+        "Paraathletin",
+        "Rennvelo",
+        "Luca Hasler",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Weltmeistertitel auf der Bahn",
+        "Paracycling"
+      ],
+      "graph_relations": [
+        "Luca Hasler_has_role_student",
+        "Rigling_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "filename": "eth-zuerich-baut-ihre-mitgliedschaft-beim-publikationsportal-scipost-aus.md",
+  "original_filename": "eth-zuerich-baut-ihre-mitgliedschaft-beim-publikationsportal-scipost-aus.html",
+  "source_path": "en_internal/2022/10/eth-zuerich-baut-ihre-mitgliedschaft-beim-publikationsportal-scipost-aus.html",
+  "date": "2022-10",
+  "title": "Eth Zuerich Baut Ihre Mitgliedschaft Beim Publikationsportal Scipost Aus",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Since the start of ETH Zurich membership in 2020, the volume of publications by ETH researchers at SciPost has risen steadily and ETH Zurich has meanwhile increased its financial support.\n\nSciPost is an open-​access publication portal that is funded through university and institutional memberships rather than article processing charges (APC). Authors and readers can use its services free of charge. The portal was initially founded as a physics resource consisting of three journals, SciPost Physics, SciPost Physics Proceedings and SciPost Physics Lecture Notes. Today, users of the portal can publish their research findings in several journals specialising in biology, chemistry, mathematics and physics.\n\nSubmit your publication data through the arXiv pre-​print server. Peer reviews are published within the scope of an open peer review process.\n\nDo you have any questions about the new membership? will be happy to help you.\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start.\n\n#Moving forward together – Through the power of networking"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zuerich Baut Ihre Mitgliedschaft",
+        "label": "FAC",
+        "start": 24,
+        "end": 56
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 80,
+        "end": 83
+      },
+      {
+        "text": "SciPost",
+        "label": "ORG",
+        "start": 99,
+        "end": 106
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 130,
+        "end": 140
+      },
+      {
+        "text": "APC",
+        "label": "ORG",
+        "start": 338,
+        "end": 341
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 470,
+        "end": 475
+      },
+      {
+        "text": "SciPost Physics",
+        "label": "ORG",
+        "start": 486,
+        "end": 501
+      },
+      {
+        "text": "SciPost Physics Proceedings",
+        "label": "ORG",
+        "start": 503,
+        "end": 530
+      },
+      {
+        "text": "SciPost Physics Lecture Notes",
+        "label": "ORG",
+        "start": 535,
+        "end": 564
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 566,
+        "end": 571
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 973,
+        "end": 984
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "APC",
+        "ETH",
+        "ETH Library",
+        "ETH Zurich",
+        "SciPost",
+        "SciPost Physics",
+        "SciPost Physics Lecture Notes",
+        "SciPost Physics Proceedings"
+      ],
+      "LOCATION": [
+        "Zuerich Baut Ihre Mitgliedschaft"
+      ],
+      "DATE": [
+        "Today"
+      ],
+      "MISC": [
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Zuerich Baut Ihre Mitgliedschaft": 1,
+      "ETH": 1,
+      "SciPost": 1,
+      "APC": 1,
+      "three": 1,
+      "SciPost Physics": 1,
+      "SciPost Physics Proceedings": 1,
+      "SciPost Physics Lecture Notes": 1,
+      "Today": 1,
+      "ETH Library": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zuerich-baut-ihre-mitgliedschaft-beim-publikationsportal-scipost-aus.md",
+      "title": "En Internal/2022/10/eth Zuerich Baut Ihre Mitgliedschaft Beim Publikationsportal Scipost Aus",
+      "language": "en",
+      "source_path": "en_internal/2022/10/eth-zuerich-baut-ihre-mitgliedschaft-beim-publikationsportal-scipost-aus.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2020",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Zuerich Baut",
+        "Ihre Mitgliedschaft",
+        "SciPost Physics",
+        "Beim Publikationsportal",
+        "ETH Library",
+        "Lecture Notes",
+        "En Internal",
+        "Scipost Aus",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "APC",
+        "ETH",
+        "ETH Library",
+        "ETH Zurich",
+        "SciPost",
+        "SciPost Physics",
+        "SciPost Physics Lecture Notes",
+        "SciPost Physics Proceedings"
+      ],
+      "locations": [
+        "Zuerich Baut Ihre Mitgliedschaft"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Zuerich Baut Ihre Mitgliedschaft",
+        "ETH",
+        "SciPost",
+        "APC",
+        "three",
+        "SciPost Physics",
+        "SciPost Physics Proceedings",
+        "SciPost Physics Lecture Notes",
+        "Today"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1195
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "APC",
+        "SciPost Physics",
+        "ETH Library",
+        "2020",
+        "2022",
+        "SciPost Physics Lecture Notes",
+        "ETH Zurich",
+        "SciPost",
+        "SciPost Physics Proceedings"
+      ],
+      "semantic_concepts": [
+        "three",
+        "who",
+        "what",
+        "how",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher"
+      ]
+    }
+  }
+}

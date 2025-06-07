@@ -1,0 +1,269 @@
+{
+  "filename": "orcid-autoren-identifier-in-der-research-collection-.md",
+  "original_filename": "orcid-autoren-identifier-in-der-research-collection-.html",
+  "source_path": "de_internal/2018/06/orcid-autoren-identifier-in-der-research-collection-.html",
+  "date": "2018-06",
+  "title": "Orcid Autoren Identifier In Der Research Collection",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Bereits seit Mitte 2017 können Sie als Angehörige der ETH Zürich, wenn Sie über ein ORCID-Profil verfügen, Ihre ORCID iD über www.adressen.ethz.ch mit Ihrem ETH-Profil verknüpfen. Neu haben Sie nun auch die Möglichkeit, Ihren Publikationen in der Research Collection Ihre ORCID iD zuzuweisen. Darüber hinaus können Sie Publikationen aus Ihrem ORCID-Profil in die Research Collection importieren. ORCID ist ein persistenter, eindeutiger und international anerkannter Identifikator für wissenschaftliche Autorinnen und Autoren. Durch die Nutzung von ORCID unterstützen Sie die korrekte und vollständige Zuordnung Ihrer Publikationen zu Ihrem Namen und erleichtern den Datenfluss zwischen der Research Collection und den Websites der ETH Zürich. Weitere Informationen zu ORCID an der ETH Zürich und die Zuweisung finden Sie auf der Website der ETH-Bibliothek sowie im Research Collection Manual . Die Research Collection ist die Publikationsplattform der ETH Zürich. Angehörige der Hochschule können darin wissenschaftliche Volltexte Open Access publizieren sowie Forschungsdaten archivieren oder öffentlich zugänglich machen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/06/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "orcid",
+        "label": "PER",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "Identifier",
+        "label": "PER",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Research Collection",
+        "label": "ORG",
+        "start": 52,
+        "end": 71
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 54,
+        "end": 64
+      },
+      {
+        "text": "ORCID",
+        "label": "ORG",
+        "start": 112,
+        "end": 117
+      },
+      {
+        "text": "ETH-Profil",
+        "label": "MISC",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "Research Collection",
+        "label": "ORG",
+        "start": 247,
+        "end": 266
+      },
+      {
+        "text": "ORCID",
+        "label": "ORG",
+        "start": 272,
+        "end": 277
+      },
+      {
+        "text": "Research Collection",
+        "label": "ORG",
+        "start": 363,
+        "end": 382
+      },
+      {
+        "text": "ORCID",
+        "label": "ORG",
+        "start": 396,
+        "end": 401
+      },
+      {
+        "text": "ORCID",
+        "label": "ORG",
+        "start": 548,
+        "end": 553
+      },
+      {
+        "text": "Research Collection",
+        "label": "ORG",
+        "start": 690,
+        "end": 709
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 731,
+        "end": 741
+      },
+      {
+        "text": "ORCID",
+        "label": "ORG",
+        "start": 768,
+        "end": 773
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 781,
+        "end": 791
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 841,
+        "end": 855
+      },
+      {
+        "text": "Research Collection",
+        "label": "ORG",
+        "start": 898,
+        "end": 917
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 952,
+        "end": 962
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Identifier",
+        "orcid"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ORCID",
+        "Research Collection"
+      ],
+      "LOCATION": [
+        "De Internal/2018/06/"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "ETH-Profil"
+      ]
+    },
+    "entity_counts": {
+      "Research Collection": 5,
+      "ORCID": 5,
+      "ETH Zürich": 4,
+      "De Internal/2018/06/": 1,
+      "orcid": 1,
+      "Identifier": 1,
+      "ETH-Profil": 1,
+      "ETH-Bibliothek": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "orcid-autoren-identifier-in-der-research-collection-.md",
+      "title": "De Internal/2018/06/orcid Autoren Identifier in der Research Collection",
+      "language": "de",
+      "source_path": "de_internal/2018/06/orcid-autoren-identifier-in-der-research-collection-.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Identifier",
+        "orcid"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "ETH-Profil"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ihrem ETH",
+        "ETH-Bibliothek",
+        "ORCID-Profil",
+        "Die Research",
+        "De Internal",
+        "Autoren Identifier",
+        "Volltexte Open",
+        "Sie Publikationen",
+        "Research Collection",
+        "Zuordnung Ihrer",
+        "Ihren Publikationen",
+        "Ihrem ORCID",
+        "Weitere Informationen",
+        "Ihre ORCID",
+        "Ihrem Namen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ORCID",
+        "Research Collection"
+      ],
+      "locations": [
+        "De Internal/2018/06/"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Research Collection",
+        "ORCID",
+        "ETH Zürich",
+        "De Internal/2018/06/",
+        "orcid",
+        "Identifier",
+        "ETH-Profil",
+        "ETH-Bibliothek"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1195
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "2017",
+        "EU",
+        "ETH Zürich",
+        "Research Collection",
+        "orcid",
+        "ORCID",
+        "Identifier"
+      ],
+      "semantic_concepts": [
+        "when",
+        "ETH-Bibliothek",
+        "what",
+        "ETH-Profil"
+      ],
+      "graph_relations": []
+    }
+  }
+}

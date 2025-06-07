@@ -1,0 +1,106 @@
+{
+  "filename": "revision-personalgesetzgebung-per-1-juli-2013.md",
+  "original_filename": "revision-personalgesetzgebung-per-1-juli-2013.html",
+  "source_path": "de_internal/2013/10/revision-personalgesetzgebung-per-1-juli-2013.html",
+  "date": "2013-10",
+  "title": "Revision Personalgesetzgebung Per 1 Juli 2013",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2013/10/revision",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Per 1 Juli 2013",
+        "label": "MISC",
+        "start": 50,
+        "end": 65
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2013/10/revision"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Per 1 Juli 2013"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2013/10/revision": 1,
+      "Per 1 Juli 2013": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "revision-personalgesetzgebung-per-1-juli-2013.md",
+      "title": "De Internal/2013/10/revision Personalgesetzgebung Per 1 Juli 2013",
+      "language": "unknown",
+      "source_path": "de_internal/2013/10/revision-personalgesetzgebung-per-1-juli-2013.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Per 1 Juli 2013"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "De Internal",
+        "Personalgesetzgebung Per"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2013/10/revision"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De Internal/2013/10/revision",
+        "Per 1 Juli 2013"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 66
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Per 1 Juli 2013"
+      ],
+      "graph_relations": []
+    }
+  }
+}

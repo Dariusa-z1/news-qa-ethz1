@@ -1,0 +1,1049 @@
+{
+  "filename": "finding-and-blocking-infection-routes-in-hospitals.md",
+  "original_filename": "finding-and-blocking-infection-routes-in-hospitals.html",
+  "source_path": "en_news_events/2024/02/finding-and-blocking-infection-routes-in-hospitals.html",
+  "date": "2024-02",
+  "title": "Finding And Blocking Infection Routes In Hospitals",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- In partnership with an ETH-spinoff, researchers develope an ultra-wideband wearable to track proximity contacts in infection networks in hospitals more accurately.\n\n- In Switzerland, Kenya, and Ivory Coast, the research team tested the device that tracks contact distances between hospital employees.\n\n- The results help investigate potential hot spots for risk and the effect of measures like mask types on infection routes. They also help to adapt technologies and processes to cultural differences."
+    },
+    {
+      "heading": "Measurement accuracy improves preparedness",
+      "text": "Hospital-acquired infections are an immense problem. “During the COVID-19 pandemic, many infections occurred in hospitals. Not only did this put vulnerable patients in danger, but many facilities experienced major staffing problems because lots of their employees were ill at the same time,” says Onicio Batista Leal Neto.\n\nLeal Neto was until recently Senior Researcher in the Systems Security Group at the Department of Computer Science at ETH Zurich and is now starting as Assistant Research Professor for Digital Epidemiology at the University of Arizona. He and other researchers wanted to find out how to better identify outbreaks of infection and prevent the infections from spreading. To be able to interrupt the chains of infection in a targeted manner, it is necessary to understand the interactions between people. An individual’s social network shows the possible routes along which an infection could spread."
+    },
+    {
+      "heading": "Measurement accuracy improves preparedness",
+      "text": "In the Wearable Proximity Platform project, computer scientists and epidemiologists from ETH Zurich, EPFL, ISI Foundation and the ETH spinoff 3db Access, developed a proximity tracking system that can measure distance to evaluate an exposure risk to an infection such as namely in a hospital environment. The technological heart of the system takes the form of special badges. These work by combining 3db Access’s UWB (ultra-wideband) radio technology with the integrated software and the experience of the SocioPatterns co-operation led by the ISI Foundation. ISI is an interdisciplinary European research centre near Turin. Over the last decade, this collaboration has carried out measurements of human proximity networks in a variety of contexts relevant to the spread of infectious diseases, spanning schools, hospitals, social gatherings and low-resource rural settings worldwide.\n\n“When it comes to mapping infection networks, a more precise distance measurement could make a decisive difference, if not for COVID, then at least for many other diseases,” explains Leal Neto. During the COVID-19 pandemic, for example, it was established that a coronavirus infection is very likely to be passed on if an encounter lasts at least 15 minutes and takes place at a distance of less than 150 centimetres. Similar to the SwissCovid app during the pandemic, the new system therefore has the potential to improve the detection of chains of infection based on contact duration and distance."
+    },
+    {
+      "heading": "Cultural factors are decisive",
+      "text": "The research team has tested its solution in a variety of environments such as a Swiss hospital and healthcare facilities in Africa, as well as in two rural villages in Kenya and the Ivory Coast.\n\nHowever, the technology and its possibilities are only one aspect of the system, context is another. “Understanding the cultural environment is just as important for the success of an application like this,” as Leal Neto knows from experience of numerous projects in collaboration with the SocioPatterns group, including in Brazil and Malawi.\n\nThe data the system provides, needs to be interpreted differently depending on the circumstances. One consideration is exactly how the sensors are worn. Garments made of thick fabric, for example, can affect the signal quality. With this in mind, Leal Neto and the research team have already put the system through its paces at an early stage, with initial pilot deployments in Switzerland, Kenya and Ivory Coast."
+    },
+    {
+      "heading": "Identifying risk situations",
+      "text": "In Switzerland, badges were issued to almost all of the 40 employees in the infectious diseases outpatient centre at the Kantonsspital St. Gallen – from nurses and medical teams to the administrative staff – for one working day. Four fixed sensors were also installed at the coffee machine, in the lounge and at the hand hygiene dispensers in two patient rooms. “Although the system is still in its infancy, the initial results are already extremely revealing. These kinds of applications have great potential in hospitals,” says Philipp Kohler, who supervised the study as the hospital’s senior physician.\n\nIn hospitals, what such systems enable above all is much more effective prevention. “If we know where and under what circumstances risky contacts take place, we can take targeted action, for example by making masks mandatory in certain situations,” Kohler explains. It should also be possible to investigate questions such as the effect on the infection rate of different mask types or hand disinfection routines."
+    },
+    {
+      "heading": "More challengingfor village communities",
+      "text": "In Kenya and the Ivory Coast, the research team partnered with two local organisations to set up tests in rural areas. These partners were the Centre Suisse de Recherches Scientifiques (CSRS) in Côte d’Ivoire and the Center for Public Development (CPDH) in Kenya. For Onicio this collaboration with local organisations was a key step: “If you want people to participate, your project must incorporate the local social fabric and the social norms of the communities.” A total of 340 employees in healthcare facilities and villagers took part."
+    },
+    {
+      "heading": "Scientific alliance for social good",
+      "text": "Findings showed that the system works well for hospital staff in Kenya and the Ivory Coast. However, the system proved to be less suitable to village communities. Their compliance with the devices wasn’t consistent. For Leal Neto, the tests show that the entire cultural context must always be taken into account when introducing technological systems. He is convinced that this is also an issue for higher education: “If students want to develop successful systems, they need to understand the cultural factors affecting a solution just as much as the technical interdependencies.”\n\nThat is precisely what motivates him most: “I want my work to help ensure that underserved communities can also benefit from modern technologies.”\n\nRegarding the application of this technology, the research team sees scope for two main improvements in the future. First, the sensors will use Bluetooth Low Energy for mutual identification in order to further reduce their energy consumption, as seen in other existing platforms. The more energy intensive UWB will then only have to determine the exact distance between sensors. Second, they want to use the particular energy efficient LoRa (from “long range”) technology, which was developed for the Internet of Things (IoT), to transmit the data.\n\nThis project is part of the overarching research initiative \"EPFL COVID-19 Real-Time Epidemiology.\" This initiative, spearheaded by EPFL, and including ETH Zurich's Department of Computer Science, 3db Access, TU Delft, University College London ( UCL ) and ISI Foundation, aims to deliver a secure, open-source, and privacy-enhancing toolset tailored to epidemiologists and public health practitioners. The project is funded by the Fondation Botnar.\n\nThe Department of Computer Science at ETH Zurich has played a pivotal role in the Ultra-wide band technology's architectural development. \"Our research into UWB technology has so far mainly focused on its security applications. I am excited to see our results now being also used in the context of epidemic preparedness,\" says Srdjan Čapkun, Professor of Computer Science at ETH Zurich.\n\nFor its part, the ISI Foundation developed the on-board sensor software as well as the data analysis and visualisation pipeline. With partial support by the CRT Foundation, it leveraged its experience in leading the SocioPatterns collaboration, an international effort that over the last 15 years has achieved some of the largest human contact network measurements using attenuation-based proximity sensors and released open datasets that have been used in more than two thousand scientific papers. \"We believe that this technology is a promising technical evolution beyond attenuation-based proximity sensors, and it will afford higher-quality measurements of contact patterns in several environment of interest,\" says Ciro Cattuto, Scientific Director at the ISI Foundation.\n\nIn addition to spearheading the multi-institutional consortium, EPFL has shaped the strategic roadmap for the WPP device, marking its influence in both technological and ethical arenas. EPFL has also contributed key insights into human-computer interface evaluation and plans for future integration of the open DP-3T (Decentralised Privacy-Preserving Proximity Tracing) protocol, which was developed during the COVID-19 pandemic to facilitate digital contact tracing of infected individuals. “When during the pandemic we worked on the contact tracing apps, we often had to constrain our designs to the boundaries allowed by Google and Apple. Having an independent platform such as the WPP will allow us to help in pandemics prevention without intervention from technology giants,” says Carmela Troncoso, Professor and Head of the SPRING Lab at EPFL."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 171,
+        "end": 182
+      },
+      {
+        "text": "Kenya",
+        "label": "GPE",
+        "start": 184,
+        "end": 189
+      },
+      {
+        "text": "Ivory Coast",
+        "label": "LOC",
+        "start": 195,
+        "end": 206
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 65,
+        "end": 73
+      },
+      {
+        "text": "Onicio Batista Leal Neto",
+        "label": "PERSON",
+        "start": 297,
+        "end": 321
+      },
+      {
+        "text": "Leal Neto",
+        "label": "PERSON",
+        "start": 323,
+        "end": 332
+      },
+      {
+        "text": "the Systems Security Group",
+        "label": "ORG",
+        "start": 373,
+        "end": 399
+      },
+      {
+        "text": "the Department of Computer Science",
+        "label": "ORG",
+        "start": 403,
+        "end": 437
+      },
+      {
+        "text": "Digital Epidemiology",
+        "label": "ORG",
+        "start": 508,
+        "end": 528
+      },
+      {
+        "text": "the University of Arizona",
+        "label": "ORG",
+        "start": 532,
+        "end": 557
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 89,
+        "end": 99
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 101,
+        "end": 105
+      },
+      {
+        "text": "ISI Foundation",
+        "label": "ORG",
+        "start": 107,
+        "end": 121
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 130,
+        "end": 133
+      },
+      {
+        "text": "3db Access",
+        "label": "ORG",
+        "start": 142,
+        "end": 152
+      },
+      {
+        "text": "3db",
+        "label": "ORDINAL",
+        "start": 401,
+        "end": 404
+      },
+      {
+        "text": "Access’s UWB",
+        "label": "ORG",
+        "start": 405,
+        "end": 417
+      },
+      {
+        "text": "the ISI Foundation",
+        "label": "ORG",
+        "start": 541,
+        "end": 559
+      },
+      {
+        "text": "ISI",
+        "label": "ORG",
+        "start": 561,
+        "end": 564
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 589,
+        "end": 597
+      },
+      {
+        "text": "Turin",
+        "label": "GPE",
+        "start": 619,
+        "end": 624
+      },
+      {
+        "text": "the last decade",
+        "label": "DATE",
+        "start": 631,
+        "end": 646
+      },
+      {
+        "text": "COVID",
+        "label": "PERSON",
+        "start": 1013,
+        "end": 1018
+      },
+      {
+        "text": "Leal Neto",
+        "label": "PERSON",
+        "start": 1069,
+        "end": 1078
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 1091,
+        "end": 1099
+      },
+      {
+        "text": "at least 15 minutes",
+        "label": "TIME",
+        "start": 1224,
+        "end": 1243
+      },
+      {
+        "text": "less than 150",
+        "label": "CARDINAL",
+        "start": 1277,
+        "end": 1290
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 1319,
+        "end": 1329
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 81,
+        "end": 86
+      },
+      {
+        "text": "Africa",
+        "label": "LOC",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 147,
+        "end": 150
+      },
+      {
+        "text": "Kenya",
+        "label": "GPE",
+        "start": 169,
+        "end": 174
+      },
+      {
+        "text": "the Ivory Coast",
+        "label": "GPE",
+        "start": 179,
+        "end": 194
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 246,
+        "end": 254
+      },
+      {
+        "text": "Leal Neto",
+        "label": "PERSON",
+        "start": 407,
+        "end": 416
+      },
+      {
+        "text": "SocioPatterns",
+        "label": "ORG",
+        "start": 486,
+        "end": 499
+      },
+      {
+        "text": "Brazil",
+        "label": "GPE",
+        "start": 520,
+        "end": 526
+      },
+      {
+        "text": "Malawi",
+        "label": "PERSON",
+        "start": 531,
+        "end": 537
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 637,
+        "end": 640
+      },
+      {
+        "text": "Leal Neto",
+        "label": "PERSON",
+        "start": 786,
+        "end": 795
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 917,
+        "end": 928
+      },
+      {
+        "text": "Kenya",
+        "label": "GPE",
+        "start": 930,
+        "end": 935
+      },
+      {
+        "text": "Ivory Coast",
+        "label": "LOC",
+        "start": 940,
+        "end": 951
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "the Kantonsspital St. Gallen",
+        "label": "FAC",
+        "start": 117,
+        "end": 145
+      },
+      {
+        "text": "one working day",
+        "label": "DATE",
+        "start": 212,
+        "end": 227
+      },
+      {
+        "text": "Four",
+        "label": "CARDINAL",
+        "start": 229,
+        "end": 233
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 343,
+        "end": 346
+      },
+      {
+        "text": "Philipp Kohler",
+        "label": "PERSON",
+        "start": 530,
+        "end": 544
+      },
+      {
+        "text": "Kohler",
+        "label": "PERSON",
+        "start": 856,
+        "end": 862
+      },
+      {
+        "text": "Kenya",
+        "label": "GPE",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "text": "the Ivory Coast",
+        "label": "GPE",
+        "start": 13,
+        "end": 28
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 63,
+        "end": 66
+      },
+      {
+        "text": "the Centre Suisse de Recherches Scientifiques",
+        "label": "ORG",
+        "start": 139,
+        "end": 184
+      },
+      {
+        "text": "Côte",
+        "label": "ORG",
+        "start": 195,
+        "end": 199
+      },
+      {
+        "text": "the Center for Public Development (CPDH",
+        "label": "ORG",
+        "start": 213,
+        "end": 252
+      },
+      {
+        "text": "Kenya",
+        "label": "GPE",
+        "start": 257,
+        "end": 262
+      },
+      {
+        "text": "Onicio",
+        "label": "PERSON",
+        "start": 268,
+        "end": 274
+      },
+      {
+        "text": "Kenya",
+        "label": "GPE",
+        "start": 65,
+        "end": 70
+      },
+      {
+        "text": "the Ivory Coast",
+        "label": "GPE",
+        "start": 75,
+        "end": 90
+      },
+      {
+        "text": "Leal Neto",
+        "label": "PERSON",
+        "start": 220,
+        "end": 229
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 809,
+        "end": 812
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 846,
+        "end": 851
+      },
+      {
+        "text": "Bluetooth Low Energy",
+        "label": "WORK_OF_ART",
+        "start": 874,
+        "end": 894
+      },
+      {
+        "text": "UWB",
+        "label": "ORG",
+        "start": 1037,
+        "end": 1040
+      },
+      {
+        "text": "Second",
+        "label": "ORDINAL",
+        "start": 1110,
+        "end": 1116
+      },
+      {
+        "text": "LoRa",
+        "label": "PERSON",
+        "start": 1167,
+        "end": 1171
+      },
+      {
+        "text": "IoT",
+        "label": "ORG",
+        "start": 1252,
+        "end": 1255
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 1412,
+        "end": 1416
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "ORG",
+        "start": 1432,
+        "end": 1444
+      },
+      {
+        "text": "Department of Computer Science",
+        "label": "ORG",
+        "start": 1445,
+        "end": 1475
+      },
+      {
+        "text": "3db Access",
+        "label": "ORG",
+        "start": 1477,
+        "end": 1487
+      },
+      {
+        "text": "TU Delft",
+        "label": "ORG",
+        "start": 1489,
+        "end": 1497
+      },
+      {
+        "text": "University College London",
+        "label": "ORG",
+        "start": 1499,
+        "end": 1524
+      },
+      {
+        "text": "UCL",
+        "label": "ORG",
+        "start": 1527,
+        "end": 1530
+      },
+      {
+        "text": "ISI Foundation",
+        "label": "ORG",
+        "start": 1537,
+        "end": 1551
+      },
+      {
+        "text": "The Department of Computer Science",
+        "label": "ORG",
+        "start": 1730,
+        "end": 1764
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1772,
+        "end": 1778
+      },
+      {
+        "text": "Ultra",
+        "label": "NORP",
+        "start": 1812,
+        "end": 1817
+      },
+      {
+        "text": "UWB",
+        "label": "ORG",
+        "start": 1887,
+        "end": 1890
+      },
+      {
+        "text": "Srdjan Čapkun",
+        "label": "PERSON",
+        "start": 2057,
+        "end": 2070
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 2109,
+        "end": 2115
+      },
+      {
+        "text": "ISI Foundation",
+        "label": "ORG",
+        "start": 2135,
+        "end": 2149
+      },
+      {
+        "text": "the CRT Foundation",
+        "label": "ORG",
+        "start": 2270,
+        "end": 2288
+      },
+      {
+        "text": "SocioPatterns",
+        "label": "ORG",
+        "start": 2333,
+        "end": 2346
+      },
+      {
+        "text": "the last 15 years",
+        "label": "DATE",
+        "start": 2396,
+        "end": 2413
+      },
+      {
+        "text": "more than two thousand",
+        "label": "CARDINAL",
+        "start": 2574,
+        "end": 2596
+      },
+      {
+        "text": "Ciro Cattuto",
+        "label": "PERSON",
+        "start": 2837,
+        "end": 2849
+      },
+      {
+        "text": "Scientific",
+        "label": "ORG",
+        "start": 2851,
+        "end": 2861
+      },
+      {
+        "text": "the ISI Foundation",
+        "label": "ORG",
+        "start": 2874,
+        "end": 2892
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 2958,
+        "end": 2962
+      },
+      {
+        "text": "WPP",
+        "label": "ORG",
+        "start": 3004,
+        "end": 3007
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 3080,
+        "end": 3084
+      },
+      {
+        "text": "DP-3",
+        "label": "ORG",
+        "start": 3205,
+        "end": 3209
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 3305,
+        "end": 3313
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 3518,
+        "end": 3524
+      },
+      {
+        "text": "Apple",
+        "label": "ORG",
+        "start": 3529,
+        "end": 3534
+      },
+      {
+        "text": "WPP",
+        "label": "ORG",
+        "start": 3579,
+        "end": 3582
+      },
+      {
+        "text": "Carmela Troncoso",
+        "label": "PERSON",
+        "start": 3680,
+        "end": 3696
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "COVID",
+        "Carmela Troncoso",
+        "Ciro Cattuto",
+        "Kohler",
+        "Leal Neto",
+        "LoRa",
+        "Malawi",
+        "Onicio",
+        "Onicio Batista Leal Neto",
+        "Philipp Kohler",
+        "Srdjan Čapkun"
+      ],
+      "ORG": [
+        "3db Access",
+        "Access’s UWB",
+        "Apple",
+        "COVID-19",
+        "Côte",
+        "DP-3",
+        "Department of Computer Science",
+        "Digital Epidemiology",
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich's",
+        "En News",
+        "Google",
+        "ISI",
+        "ISI Foundation",
+        "IoT",
+        "Scientific",
+        "SocioPatterns",
+        "SwissCovid",
+        "TU Delft",
+        "The Department of Computer Science",
+        "UCL",
+        "UWB",
+        "University College London",
+        "WPP",
+        "the CRT Foundation",
+        "the Center for Public Development (CPDH",
+        "the Centre Suisse de Recherches Scientifiques",
+        "the Department of Computer Science",
+        "the ISI Foundation",
+        "the Systems Security Group",
+        "the University of Arizona"
+      ],
+      "LOCATION": [
+        "Africa",
+        "Brazil",
+        "Ivory Coast",
+        "Kenya",
+        "Switzerland",
+        "Turin",
+        "Zurich",
+        "the Ivory Coast",
+        "the Kantonsspital St. Gallen"
+      ],
+      "DATE": [
+        "at least 15 minutes",
+        "one working day",
+        "the last 15 years",
+        "the last decade"
+      ],
+      "MISC": [
+        "3db",
+        "Bluetooth Low Energy",
+        "European",
+        "First",
+        "Four",
+        "One",
+        "Second",
+        "Swiss",
+        "Ultra",
+        "less than 150",
+        "more than two thousand",
+        "only one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Kenya": 6,
+      "Leal Neto": 5,
+      "EPFL": 4,
+      "two": 4,
+      "Switzerland": 3,
+      "COVID-19": 3,
+      "ISI Foundation": 3,
+      "the Ivory Coast": 3,
+      "ETH": 2,
+      "Ivory Coast": 2,
+      "3db Access": 2,
+      "the ISI Foundation": 2,
+      "SocioPatterns": 2,
+      "UWB": 2,
+      "Zurich": 2,
+      "WPP": 2,
+      "En News": 1,
+      "Onicio Batista Leal Neto": 1,
+      "the Systems Security Group": 1,
+      "the Department of Computer Science": 1
+    },
+    "total_entities": 101,
+    "unique_entities": 70
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "finding-and-blocking-infection-routes-in-hospitals.md",
+      "title": "En News Events/2024/02/finding And Blocking Infection Routes in Hospitals",
+      "language": "en",
+      "source_path": "en_news_events/2024/02/finding-and-blocking-infection-routes-in-hospitals.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "COVID",
+        "Carmela Troncoso",
+        "Ciro Cattuto",
+        "Kohler",
+        "Leal Neto",
+        "LoRa",
+        "Malawi",
+        "Onicio",
+        "Onicio Batista Leal Neto",
+        "Philipp Kohler",
+        "Srdjan Čapkun"
+      ],
+      "people_with_roles": {
+        "Carmela Troncoso": [
+          "head",
+          "professor"
+        ],
+        "Ciro Cattuto": [
+          "director",
+          "rector"
+        ],
+        "Leal Neto": [
+          "researcher",
+          "professor"
+        ],
+        "Srdjan Čapkun": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Bluetooth Low Energy",
+        "European",
+        "First",
+        "Four",
+        "Second",
+        "Swiss",
+        "Ultra",
+        "less than 150",
+        "more than two thousand",
+        "only one"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Centre Suisse",
+        "Onicio Batista",
+        "EPFL COVID",
+        "Decentralised Privacy",
+        "Recherches Scientifiques",
+        "Preserving Proximity",
+        "In Switzerland",
+        "Senior Researcher",
+        "Infection Routes",
+        "In Kenya",
+        "Bluetooth Low",
+        "University College",
+        "Philipp Kohler",
+        "CRT Foundation",
+        "For Onicio",
+        "TU Delft",
+        "Assistant Research",
+        "Digital Epidemiology",
+        "Kantonsspital St",
+        "Scientific Director",
+        "For Leal",
+        "Ciro Cattuto",
+        "Systems Security",
+        "SPRING Lab",
+        "Leal Neto",
+        "Computer Science",
+        "Fondation Botnar",
+        "Carmela Troncoso",
+        "And Blocking",
+        "Ivory Coast",
+        "The Department",
+        "En News",
+        "ISI Foundation",
+        "Wearable Proximity",
+        "Public Development",
+        "Real-Time",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science at ETH Zurich and is now starting as Assistant Research Professor for Digital Epidemiology at the University of Arizona",
+        "Computer Science",
+        "Computer Science at ETH Zurich has played a pivotal role in the Ultra"
+      ],
+      "institutions": [
+        "3db Access",
+        "Access’s UWB",
+        "Apple",
+        "COVID-19",
+        "Côte",
+        "DP-3",
+        "Department of Computer Science",
+        "Digital Epidemiology",
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich's",
+        "En News",
+        "Google",
+        "ISI",
+        "ISI Foundation",
+        "IoT",
+        "Scientific",
+        "SocioPatterns",
+        "SwissCovid",
+        "TU Delft",
+        "The Department of Computer Science",
+        "UCL",
+        "UWB",
+        "University College London",
+        "WPP",
+        "the CRT Foundation",
+        "the Center for Public Development (CPDH",
+        "the Centre Suisse de Recherches Scientifiques",
+        "the Department of Computer Science",
+        "the ISI Foundation",
+        "the Systems Security Group",
+        "the University of Arizona"
+      ],
+      "locations": [
+        "Africa",
+        "Brazil",
+        "Ivory Coast",
+        "Kenya",
+        "Switzerland",
+        "Turin",
+        "Zurich",
+        "the Ivory Coast",
+        "the Kantonsspital St. Gallen"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Kenya",
+        "Leal Neto",
+        "EPFL",
+        "two",
+        "Switzerland",
+        "COVID-19",
+        "ISI Foundation",
+        "the Ivory Coast",
+        "ETH",
+        "Ivory Coast"
+      ],
+      "document_structure": {
+        "total_sections": 7,
+        "section_titles": [
+          "In brief",
+          "Measurement accuracy improves preparedness",
+          "Measurement accuracy improves preparedness",
+          "Cultural factors are decisive",
+          "Identifying risk situations",
+          "More challengingfor village communities",
+          "Scientific alliance for social good"
+        ],
+        "content_length": 9255
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "ETH",
+        "Department of Computer Science",
+        "COVID",
+        "Access’s UWB",
+        "ISI",
+        "the ISI Foundation",
+        "the Centre Suisse de Recherches Scientifiques",
+        "Scientific",
+        "DP-3",
+        "ERC",
+        "UCL",
+        "SwissCovid",
+        "Malawi",
+        "Philipp Kohler",
+        "3db Access",
+        "the Systems Security Group",
+        "COVID-19",
+        "WPP",
+        "TU Delft",
+        "University College London",
+        "ETH Zurich's",
+        "Digital Epidemiology",
+        "the University of Arizona",
+        "Côte",
+        "LoRa",
+        "EU",
+        "Ciro Cattuto",
+        "the CRT Foundation",
+        "Onicio Batista Leal Neto",
+        "the Center for Public Development (CPDH",
+        "Leal Neto",
+        "IoT",
+        "Carmela Troncoso",
+        "Onicio",
+        "Srdjan Čapkun",
+        "Google",
+        "UWB",
+        "2024",
+        "En News",
+        "Kohler",
+        "The Department of Computer Science",
+        "ISI Foundation",
+        "SocioPatterns",
+        "Apple",
+        "ETH Zurich",
+        "the Department of Computer Science"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "Ultra",
+        "Second",
+        "Four",
+        "medical_research",
+        "more than two thousand",
+        "Bluetooth Low Energy",
+        "mathematics",
+        "less than 150",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "Swiss",
+        "only one",
+        "European",
+        "First",
+        "where"
+      ],
+      "graph_relations": [
+        "Carmela Troncoso_has_role_head",
+        "Carmela Troncoso_has_role_professor",
+        "Ciro Cattuto_has_role_director",
+        "Ciro Cattuto_has_role_rector",
+        "Leal Neto_has_role_researcher",
+        "Leal Neto_has_role_professor",
+        "Srdjan Čapkun_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

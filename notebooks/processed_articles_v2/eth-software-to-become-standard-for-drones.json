@@ -1,0 +1,715 @@
+{
+  "filename": "eth-software-to-become-standard-for-drones.md",
+  "original_filename": "eth-software-to-become-standard-for-drones.html",
+  "source_path": "en_news_events/2016/01/eth-software-to-become-standard-for-drones.html",
+  "date": "2016-01",
+  "title": "Eth Software To Become Standard For Drones",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Gold standard within a few years",
+      "text": "The Consumer Electronics Show, the world’s biggest trade fair for consumer electronics and home automation, recently drew to a close in Las Vegas. Cutting-edge model drones aroused particular interest at this year’s show. The latest control platform from Qualcomm Technologies, the market leader in drone processors, is integrated almost invisibly on-board many new devices.\n\nThe electronics group unveiled the platform, known as “Snapdragon Flight”, in October 2015. Integral to the platform is the PX4 software, the brainchild of Lorenz Meier, a doctoral student in computer science at ETH Zurich."
+    },
+    {
+      "heading": "Gold standard within a few years",
+      "text": "This program is likely to become the gold standard for drone flight controllers in the next few years. “PX4 has the potential to become the backbone of the rapidly growing drone industry. The PX4 software will be to drones what Android is to many smartphones,” says Meier, who is working on his doctorate in the Computer Vision and Geometry Group led by Professor Marc Pollefeys.\n\nMeier attributes the software's excellent prospects to the following: PX4 already provides the infrastructure for flight control on thousands of systems, “and the partnership with Qualcomm will expand this success model to the next generation of technology,” he says. In the years ahead, drones will be capable of completing far more complex tasks and evading obstacles. With this in mind, PX4's range of functions is being constantly enhanced, says Meier, who is convinced that “in the future, more and more drones will take to the skies all over the world using ETH-developed technology.”"
+    },
+    {
+      "heading": "A modular structure is the key to success",
+      "text": "The parallels with Android are no accident: PX4 is open-source, i.e. its source code is freely available to all interested parties. Any drone manufacturer can use this code free of charge and tailor it to their own needs, just as smartphone manufacturers are able to do with Android. Moreover, anyone can enhance PX4 with their own software, like apps, in order to add special functions such as camera controllers. The computer scientist is confident that “the modularity that the app concept provides is a USP and one of the main reasons why manufacturers like Qualcomm put their faith in PX4.”\n\nCompared with existing control software for drones, PX4 offers two key advantages: the program massively simplifies drone flight while also making it much safer. Among other things, the software allows drones to take off or land autonomously, as well as to follow specific objects, such as surfers riding the waves or mountain bikers on a feverish downhill descent."
+    },
+    {
+      "heading": "A product of the ETH ecosystem",
+      "text": "Although Meier is the initiator of Pixhawk and the lead developer of PX4, he is by no means the only person to have worked on the software. It came into being thanks to a worldwide team of developers working under the ETH doctoral student’s leadership. “Many people have participated in the development of PX4,” he emphasises. It took countless man-years of work to program PX4, way beyond what a single individual could possibly achieve. “Nevertheless, we can say with a clear conscience that PX4 essentially emerged from the ecosystem surrounding ETH Zurich.”\n\nWith PX4, Meier and his colleagues have made a major breakthrough: they have set a standard. In today's world this is an almost miraculous achievement, akin perhaps to UC Berkeley’s success 30 years ago with Berkeley Software Distribution – the basis of Unix systems."
+    },
+    {
+      "heading": "A side project evolved into a major undertaking",
+      "text": "“Over the past seven years, the project has undergone an astonishing evolution,” says Meier. He started the Pixhawk project, from which the PX4 software emerged, in 2008. It was a “side project”, he says, started of his own accord and in parallel with his master’s degree. This was made possible by a scholarship he received from the ETH Excellence Scholarship Opportunities Program (ESOP). Over the course of his subsequent PhD, the project grew ever larger; Meier built up a global community to help him achieve his goal of developing a professional drone platform.\n\nPX4 has been available since 2011; “I would describe the system as ‘complete’ since 2014,” explains the researcher. The third generation of PX4 is now ready for use.\n\nOver time, the project also caught the industry’s attention. The e-commerce giant Amazon Prime Air was among those to make a donation, helping to finance Meier’s doctorate. And when Qualcomm adopted the source code, PX4 had finally made its breakthrough.\n\nPX4 is also used in the world of research; for example, it is used by several ETH laboratories, such as the Autonomous Systems Lab for AtlantikSolar and the Institute for Dynamic Systems and Control in the Flying Machine Arena , as well as by the Robotics and Perception Group at the University of Zurich. In addition, scientists at other renowned universities, such as MIT or Stanford, use PX4 for their research drones.\n\nThe young researcher sets out two key factors that have contributed to the project’s success: “For one thing, Professor Marc Pollefeys, who supervised my work, and ETH Zurich as a whole are supportive of open-source endeavours; in addition, the entrepreneurial spirit among ETH’s researchers meant that PX4’s development was consistently geared towards application in industry.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Consumer Electronics Show",
+        "label": "ORG",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "Las Vegas",
+        "label": "GPE",
+        "start": 136,
+        "end": 145
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 209,
+        "end": 213
+      },
+      {
+        "text": "Qualcomm Technologies",
+        "label": "ORG",
+        "start": 255,
+        "end": 276
+      },
+      {
+        "text": "Snapdragon Flight",
+        "label": "WORK_OF_ART",
+        "start": 430,
+        "end": 447
+      },
+      {
+        "text": "October 2015",
+        "label": "DATE",
+        "start": 453,
+        "end": 465
+      },
+      {
+        "text": "Lorenz Meier",
+        "label": "PERSON",
+        "start": 531,
+        "end": 543
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 587,
+        "end": 597
+      },
+      {
+        "text": "the next few years",
+        "label": "DATE",
+        "start": 83,
+        "end": 101
+      },
+      {
+        "text": "Android",
+        "label": "ORG",
+        "start": 228,
+        "end": 235
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 266,
+        "end": 271
+      },
+      {
+        "text": "the Computer Vision and Geometry Group",
+        "label": "ORG",
+        "start": 308,
+        "end": 346
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PERSON",
+        "start": 364,
+        "end": 378
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 380,
+        "end": 385
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 512,
+        "end": 521
+      },
+      {
+        "text": "Qualcomm",
+        "label": "PERSON",
+        "start": 560,
+        "end": 568
+      },
+      {
+        "text": "the years ahead",
+        "label": "DATE",
+        "start": 651,
+        "end": 666
+      },
+      {
+        "text": "PX4",
+        "label": "PERSON",
+        "start": 770,
+        "end": 773
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 830,
+        "end": 835
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 944,
+        "end": 947
+      },
+      {
+        "text": "Android",
+        "label": "ORG",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "text": "Android",
+        "label": "ORG",
+        "start": 275,
+        "end": 282
+      },
+      {
+        "text": "USP",
+        "label": "ORG",
+        "start": 507,
+        "end": 510
+      },
+      {
+        "text": "Qualcomm",
+        "label": "PERSON",
+        "start": 562,
+        "end": 570
+      },
+      {
+        "text": "PX4",
+        "label": "LANGUAGE",
+        "start": 590,
+        "end": 593
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 659,
+        "end": 662
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "text": "PX4",
+        "label": "ORG",
+        "start": 69,
+        "end": 72
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 218,
+        "end": 221
+      },
+      {
+        "text": "PX4",
+        "label": "NORP",
+        "start": 306,
+        "end": 309
+      },
+      {
+        "text": "PX4",
+        "label": "ORG",
+        "start": 374,
+        "end": 377
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 549,
+        "end": 559
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 572,
+        "end": 577
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 658,
+        "end": 663
+      },
+      {
+        "text": "UC Berkeley’s",
+        "label": "ORG",
+        "start": 730,
+        "end": 743
+      },
+      {
+        "text": "30 years ago",
+        "label": "DATE",
+        "start": 752,
+        "end": 764
+      },
+      {
+        "text": "Berkeley Software Distribution",
+        "label": "ORG",
+        "start": 770,
+        "end": 800
+      },
+      {
+        "text": "the past seven years",
+        "label": "DATE",
+        "start": 6,
+        "end": 26
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 86,
+        "end": 91
+      },
+      {
+        "text": "PX4",
+        "label": "NORP",
+        "start": 140,
+        "end": 143
+      },
+      {
+        "text": "the ETH Excellence Scholarship Opportunities Program",
+        "label": "ORG",
+        "start": 330,
+        "end": 382
+      },
+      {
+        "text": "ESOP",
+        "label": "ORG",
+        "start": 384,
+        "end": 388
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 425,
+        "end": 428
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 460,
+        "end": 465
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 688,
+        "end": 693
+      },
+      {
+        "text": "Amazon",
+        "label": "ORG",
+        "start": 816,
+        "end": 822
+      },
+      {
+        "text": "Meier",
+        "label": "PERSON",
+        "start": 888,
+        "end": 893
+      },
+      {
+        "text": "Qualcomm",
+        "label": "PERSON",
+        "start": 916,
+        "end": 924
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1067,
+        "end": 1070
+      },
+      {
+        "text": "the Autonomous Systems Lab for AtlantikSolar",
+        "label": "ORG",
+        "start": 1093,
+        "end": 1137
+      },
+      {
+        "text": "the Institute for Dynamic Systems and Control",
+        "label": "ORG",
+        "start": 1142,
+        "end": 1187
+      },
+      {
+        "text": "the Robotics and Perception Group",
+        "label": "ORG",
+        "start": 1232,
+        "end": 1265
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 1269,
+        "end": 1293
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 1359,
+        "end": 1362
+      },
+      {
+        "text": "Stanford",
+        "label": "ORG",
+        "start": 1366,
+        "end": 1374
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1441,
+        "end": 1444
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1510,
+        "end": 1513
+      },
+      {
+        "text": "Marc Pollefeys",
+        "label": "PERSON",
+        "start": 1531,
+        "end": 1545
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1575,
+        "end": 1585
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1685,
+        "end": 1688
+      },
+      {
+        "text": "PX4",
+        "label": "ORG",
+        "start": 1714,
+        "end": 1717
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Lorenz Meier",
+        "Marc Pollefeys",
+        "Meier",
+        "PX4",
+        "Qualcomm"
+      ],
+      "ORG": [
+        "Amazon",
+        "Android",
+        "Berkeley Software Distribution",
+        "ESOP",
+        "ETH",
+        "MIT",
+        "PX4",
+        "Qualcomm Technologies",
+        "Stanford",
+        "The Consumer Electronics Show",
+        "UC Berkeley’s",
+        "USP",
+        "the Autonomous Systems Lab for AtlantikSolar",
+        "the Computer Vision and Geometry Group",
+        "the ETH Excellence Scholarship Opportunities Program",
+        "the Institute for Dynamic Systems and Control",
+        "the Robotics and Perception Group",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Las Vegas"
+      ],
+      "DATE": [
+        "30 years ago",
+        "October 2015",
+        "the next few years",
+        "the past seven years",
+        "the years ahead",
+        "today",
+        "year"
+      ],
+      "MISC": [
+        "PX4",
+        "PhD",
+        "Snapdragon Flight",
+        "one",
+        "third",
+        "thousands",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Meier": 8,
+      "PX4": 7,
+      "ETH": 4,
+      "ETH Zurich": 3,
+      "Android": 3,
+      "Qualcomm": 3,
+      "Marc Pollefeys": 2,
+      "two": 2,
+      "The Consumer Electronics Show": 1,
+      "Las Vegas": 1,
+      "year": 1,
+      "Qualcomm Technologies": 1,
+      "Snapdragon Flight": 1,
+      "October 2015": 1,
+      "Lorenz Meier": 1,
+      "the next few years": 1,
+      "the Computer Vision and Geometry Group": 1,
+      "thousands": 1,
+      "the years ahead": 1,
+      "USP": 1
+    },
+    "total_entities": 61,
+    "unique_entities": 37
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-software-to-become-standard-for-drones.md",
+      "title": "En News Events/2016/01/eth Software To Become Standard For Drones",
+      "language": "en",
+      "source_path": "en_news_events/2016/01/eth-software-to-become-standard-for-drones.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2008",
+        "2011",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Lorenz Meier",
+        "Marc Pollefeys",
+        "Meier",
+        "PX4",
+        "Qualcomm"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "student",
+          "professor"
+        ],
+        "Lorenz Meier": [
+          "student"
+        ],
+        "Marc Pollefeys": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Meier": [
+          "student",
+          "professor"
+        ],
+        "PX4": [
+          "scientist",
+          "student",
+          "professor",
+          "researcher"
+        ],
+        "Qualcomm": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Snapdragon Flight",
+        "third",
+        "thousands"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Although Meier",
+        "Dynamic Systems",
+        "The Consumer",
+        "Lorenz Meier",
+        "Berkeley Software",
+        "ETH Excellence",
+        "Amazon Prime",
+        "Geometry Group",
+        "Become Standard",
+        "Perception Group",
+        "Computer Vision",
+        "Electronics Show",
+        "Qualcomm Technologies",
+        "Professor Marc",
+        "Software To",
+        "For Drones",
+        "UC Berkeley",
+        "Autonomous Systems",
+        "Scholarship Opportunities",
+        "Snapdragon Flight",
+        "En News",
+        "Flying Machine",
+        "ETH Zurich",
+        "Las Vegas"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Dynamic Systems and Control in the Flying Machine Arena "
+      ],
+      "institutions": [
+        "Amazon",
+        "Android",
+        "Berkeley Software Distribution",
+        "ESOP",
+        "ETH",
+        "MIT",
+        "PX4",
+        "Qualcomm Technologies",
+        "Stanford",
+        "The Consumer Electronics Show",
+        "UC Berkeley’s",
+        "USP",
+        "the Autonomous Systems Lab for AtlantikSolar",
+        "the Computer Vision and Geometry Group",
+        "the ETH Excellence Scholarship Opportunities Program",
+        "the Institute for Dynamic Systems and Control",
+        "the Robotics and Perception Group",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Las Vegas"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Meier",
+        "PX4",
+        "ETH",
+        "ETH Zurich",
+        "Android",
+        "Qualcomm",
+        "Marc Pollefeys",
+        "two",
+        "The Consumer Electronics Show",
+        "Las Vegas"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Gold standard within a few years",
+          "Gold standard within a few years",
+          "A modular structure is the key to success",
+          "A product of the ETH ecosystem",
+          "A side project evolved into a major undertaking"
+        ],
+        "content_length": 5225
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Amazon",
+        "ETH",
+        "The Consumer Electronics Show",
+        "the University of Zurich",
+        "2016",
+        "Lorenz Meier",
+        "ERC",
+        "UC Berkeley’s",
+        "the ETH Excellence Scholarship Opportunities Program",
+        "2008",
+        "Berkeley Software Distribution",
+        "the Autonomous Systems Lab for AtlantikSolar",
+        "Qualcomm Technologies",
+        "the Computer Vision and Geometry Group",
+        "2014",
+        "2015",
+        "2011",
+        "ESOP",
+        "EU",
+        "Qualcomm",
+        "USP",
+        "Marc Pollefeys",
+        "the Robotics and Perception Group",
+        "Android",
+        "Stanford",
+        "Meier",
+        "PX4",
+        "MIT",
+        "ETH Zurich",
+        "the Institute for Dynamic Systems and Control"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "Snapdragon Flight",
+        "who",
+        "thousands",
+        "where",
+        "what",
+        "how",
+        "computer_science",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_professor",
+        "Lorenz Meier_has_role_student",
+        "Marc Pollefeys_has_role_Professor",
+        "Marc Pollefeys_has_role_researcher",
+        "Marc Pollefeys_has_role_professor",
+        "Meier_has_role_student",
+        "Meier_has_role_professor",
+        "PX4_has_role_scientist",
+        "PX4_has_role_student",
+        "PX4_has_role_professor",
+        "PX4_has_role_researcher",
+        "Qualcomm_has_role_scientist",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

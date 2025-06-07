@@ -1,0 +1,239 @@
+{
+  "filename": "schliifschueenle-auf-der-polyterrasse.md",
+  "original_filename": "schliifschueenle-auf-der-polyterrasse.html",
+  "source_path": "de_internal/2015/11/schliifschueenle-auf-der-polyterrasse.html",
+  "date": "2015-11",
+  "title": "Schliifschueenle Auf Der Polyterrasse",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Zürich’s schönst gelegenes Eisfeld mit Aussicht auf die Innenstadt wird ab Samstag vier Wochen lang auf Hochglanz poliert: Die ETH Zürich lädt Studierende, Mitarbeitende sowie die ganze Stadtbevölkerung vom 21. November bis 18. Dezember 2015 zum Schlittschuhlaufen, Essen und Trinken auf das Eisfeld auf der Polyterrasse ein. Schlittschuhe können für sechs Franken gemietet werden.\n\nAm Samstag- und Sonntagnachmittag gibt es Märchenstunden für Kinder, der ASVZ bietet Pondhockey-Training-Sessions an. Des Weiteren gibt es eine Headphone-Party, ein Hüttenquiz und verschiedene Eisshows. In der gemütlichen Festhütte wird leckere Hausmannskost serviert. Am Wochenende kann man neben dem Eisfeld brunchen.\n\nDas Eisfeld Polyterrasse ist ein Projekt des Stabs Veranstaltungen. Studierende aus den verschiedenen Fachvereinen sowie Mitglieder des VSETH sind für den Betrieb zuständig.\n\nNähere Informationen zum Programm auf www.ethz.ch/eisfeld ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/11/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Polyterrasse",
+        "label": "LOC",
+        "start": 45,
+        "end": 57
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Innenstadt",
+        "label": "LOC",
+        "start": 56,
+        "end": 66
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 127,
+        "end": 137
+      },
+      {
+        "text": "Schlittschuhlaufen",
+        "label": "LOC",
+        "start": 246,
+        "end": 264
+      },
+      {
+        "text": "Eisfeld",
+        "label": "LOC",
+        "start": 292,
+        "end": 299
+      },
+      {
+        "text": "Polyterrasse",
+        "label": "LOC",
+        "start": 308,
+        "end": 320
+      },
+      {
+        "text": "Franken",
+        "label": "LOC",
+        "start": 357,
+        "end": 364
+      },
+      {
+        "text": "ASVZ",
+        "label": "ORG",
+        "start": 455,
+        "end": 459
+      },
+      {
+        "text": "Pondhockey-Training-Sessions",
+        "label": "ORG",
+        "start": 467,
+        "end": 495
+      },
+      {
+        "text": "Eisfeld",
+        "label": "LOC",
+        "start": 684,
+        "end": 691
+      },
+      {
+        "text": "Eisfeld",
+        "label": "LOC",
+        "start": 706,
+        "end": 713
+      },
+      {
+        "text": "VSETH",
+        "label": "ORG",
+        "start": 838,
+        "end": 843
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ASVZ",
+        "ETH Zürich",
+        "Pondhockey-Training-Sessions",
+        "VSETH"
+      ],
+      "LOCATION": [
+        "De Internal/2015/11/",
+        "Eisfeld",
+        "Franken",
+        "Innenstadt",
+        "Polyterrasse",
+        "Schlittschuhlaufen",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Eisfeld": 3,
+      "Polyterrasse": 2,
+      "De Internal/2015/11/": 1,
+      "Zürich": 1,
+      "Innenstadt": 1,
+      "ETH Zürich": 1,
+      "Schlittschuhlaufen": 1,
+      "Franken": 1,
+      "ASVZ": 1,
+      "Pondhockey-Training-Sessions": 1,
+      "VSETH": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "schliifschueenle-auf-der-polyterrasse.md",
+      "title": "De Internal/2015/11/schliifschueenle auf der Polyterrasse",
+      "language": "de",
+      "source_path": "de_internal/2015/11/schliifschueenle-auf-der-polyterrasse.html"
+    },
+    "temporal": {
+      "publication_date": "2015-11",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Das Eisfeld",
+        "De Internal",
+        "Am Samstag",
+        "Am Wochenende",
+        "Die ETH",
+        "Stabs Veranstaltungen",
+        "Headphone-Party",
+        "Des Weiteren",
+        "Pondhockey-Training"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ASVZ",
+        "ETH Zürich",
+        "Pondhockey-Training-Sessions",
+        "VSETH"
+      ],
+      "locations": [
+        "De Internal/2015/11/",
+        "Eisfeld",
+        "Franken",
+        "Innenstadt",
+        "Polyterrasse",
+        "Schlittschuhlaufen",
+        "Zürich"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "how"
+      ],
+      "key_concepts": [
+        "Eisfeld",
+        "Polyterrasse",
+        "De Internal/2015/11/",
+        "Zürich",
+        "Innenstadt",
+        "ETH Zürich",
+        "Schlittschuhlaufen",
+        "Franken",
+        "ASVZ",
+        "Pondhockey-Training-Sessions"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 996
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "ETH Zürich",
+        "ASVZ",
+        "Pondhockey-Training-Sessions",
+        "VSETH"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

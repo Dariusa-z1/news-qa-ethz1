@@ -1,0 +1,221 @@
+{
+  "filename": "a-moment-of-silence-for-garissa.md",
+  "original_filename": "a-moment-of-silence-for-garissa.html",
+  "source_path": "en_internal/2015/04/a-moment-of-silence-for-garissa.html",
+  "date": "2015-04",
+  "title": "A Moment Of Silence For Garissa",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH President Lino Guzzella and Rector Sarah Springman will show their solidarity with the victims of the terror attack on Garissa University College in Kenya by taking a stand against attacks on freedom in education and research. They will join the European University Association in one minute of silence at noon on 27 April and invite you to do the same."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 14,
+        "end": 27
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 39,
+        "end": 54
+      },
+      {
+        "text": "Garissa University College",
+        "label": "ORG",
+        "start": 123,
+        "end": 149
+      },
+      {
+        "text": "Kenya",
+        "label": "GPE",
+        "start": 153,
+        "end": 158
+      },
+      {
+        "text": "the European University Association",
+        "label": "ORG",
+        "start": 246,
+        "end": 281
+      },
+      {
+        "text": "one minute",
+        "label": "TIME",
+        "start": 285,
+        "end": 295
+      },
+      {
+        "text": "noon",
+        "label": "TIME",
+        "start": 310,
+        "end": 314
+      },
+      {
+        "text": "27 April",
+        "label": "DATE",
+        "start": 318,
+        "end": 326
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Lino Guzzella",
+        "Sarah Springman"
+      ],
+      "ORG": [
+        "ETH",
+        "Garissa University College",
+        "the European University Association"
+      ],
+      "LOCATION": [
+        "Kenya"
+      ],
+      "DATE": [
+        "27 April",
+        "noon",
+        "one minute"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 1,
+      "Lino Guzzella": 1,
+      "Sarah Springman": 1,
+      "Garissa University College": 1,
+      "Kenya": 1,
+      "the European University Association": 1,
+      "one minute": 1,
+      "noon": 1,
+      "27 April": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-moment-of-silence-for-garissa.md",
+      "title": "En Internal/2015/04/a Moment Of Silence For Garissa",
+      "language": "en",
+      "source_path": "en_internal/2015/04/a-moment-of-silence-for-garissa.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Lino Guzzella",
+        "Sarah Springman"
+      ],
+      "people_with_roles": {
+        "Lino Guzzella": [
+          "president",
+          "rector"
+        ],
+        "Sarah Springman": [
+          "president",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Rector Sarah",
+        "Silence For",
+        "Garissa University",
+        "Moment Of",
+        "Garissa ETH",
+        "En Internal",
+        "European University",
+        "President Lino"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Garissa University College",
+        "the European University Association"
+      ],
+      "locations": [
+        "Kenya"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Lino Guzzella",
+        "Sarah Springman",
+        "Garissa University College",
+        "Kenya",
+        "the European University Association",
+        "one minute",
+        "noon",
+        "27 April"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 409
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the European University Association",
+        "2015",
+        "EU",
+        "Sarah Springman",
+        "Lino Guzzella",
+        "Garissa University College"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "where",
+        "how"
+      ],
+      "graph_relations": [
+        "Lino Guzzella_has_role_president",
+        "Lino Guzzella_has_role_rector",
+        "Sarah Springman_has_role_president",
+        "Sarah Springman_has_role_rector",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

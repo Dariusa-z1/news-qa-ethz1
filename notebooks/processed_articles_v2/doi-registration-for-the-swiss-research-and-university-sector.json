@@ -1,0 +1,176 @@
+{
+  "filename": "doi-registration-for-the-swiss-research-and-university-sector.md",
+  "original_filename": "doi-registration-for-the-swiss-research-and-university-sector.html",
+  "source_path": "en_internal/2014/09/doi-registration-for-the-swiss-research-and-university-sector.html",
+  "date": "2014-09",
+  "title": "Doi Registration For The Swiss Research And University Sector",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Zurich's DOI Desk registers DOI names for scientific literature and research data in Switzerland. Over 800,000 DOIs have already been issued since 2009.\n\nDo you run a document server, digital collection, research data archive or open-access journal?\n\nDigital Object Identifiers:\n\nDOI names remain stable and guarantee citability, while URL addresses frequently change or disappear.\n\nWe gladly offer you advice on introducing DOIs for your publication service. Further information on the procedure and contact details is available on the DOI Desk website."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Swiss Research And University",
+        "label": "ORG",
+        "start": 41,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "Over 800,000",
+        "label": "CARDINAL",
+        "start": 102,
+        "end": 114
+      },
+      {
+        "text": "Digital Object Identifiers",
+        "label": "ORG",
+        "start": 253,
+        "end": 279
+      },
+      {
+        "text": "Desk",
+        "label": "PRODUCT",
+        "start": 541,
+        "end": 545
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich's"
+      ],
+      "ORG": [
+        "Digital Object Identifiers",
+        "The Swiss Research And University"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Desk",
+        "Over 800,000"
+      ]
+    },
+    "entity_counts": {
+      "The Swiss Research And University": 1,
+      "ETH Zurich's": 1,
+      "Switzerland": 1,
+      "Over 800,000": 1,
+      "Digital Object Identifiers": 1,
+      "Desk": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "doi-registration-for-the-swiss-research-and-university-sector.md",
+      "title": "En Internal/2014/09/doi Registration For The Swiss Research And University Sector",
+      "language": "en",
+      "source_path": "en_internal/2014/09/doi-registration-for-the-swiss-research-and-university-sector.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2009",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich's"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Desk",
+        "Over 800,000"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Research And",
+        "En Internal",
+        "DOI Desk",
+        "Digital Object",
+        "The Swiss",
+        "ETH Zurich",
+        "University Sector",
+        "Registration For"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Digital Object Identifiers",
+        "The Swiss Research And University"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "The Swiss Research And University",
+        "ETH Zurich's",
+        "Switzerland",
+        "Over 800,000",
+        "Digital Object Identifiers",
+        "Desk"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 640
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2009",
+        "Digital Object Identifiers",
+        "The Swiss Research And University",
+        "2014",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Desk",
+        "what",
+        "Over 800,000",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

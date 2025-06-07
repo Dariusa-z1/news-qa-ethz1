@@ -1,0 +1,379 @@
+{
+  "filename": "tapping-into-a-new-reservoir-of-antibiotics.md",
+  "original_filename": "tapping-into-a-new-reservoir-of-antibiotics.html",
+  "source_path": "en_news_events/2018/07/tapping-into-a-new-reservoir-of-antibiotics.html",
+  "date": "2018-07",
+  "title": "Tapping Into A New Reservoir Of Antibiotics",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Antibiotic interactions revealed",
+      "text": "A wide variety of different microorganisms, such as bacteria and fungi, live on the leaves of plants. Although they offer few nutrients, leaf surfaces are densely populated. In an effort to keep the competition at bay, many of the leaf dwellers turn to chemical warfare: they develop antibiotic substances that prevent the growth and reproduction of their fellow occupants.\n\nDuring a systematic search of the leaves of thale cress ( Arabidopsis thaliana ), a group of researchers led by the ETH professors Julia Vorholt and Jörn Piel from the Institute of Microbiology have now discovered a remarkably chemically productive bacterium: Brevibacillus sp. Leaf 182. In experiments, it inhibited half of the 200 strains that the researchers had isolated from the leaf surfaces.\n\nThe bacterium produces and secretes at least four antibiotic chemical compounds. Two of these compounds were already known, while a substance called macrobrevin presented a previously unknown chemical structure."
+    },
+    {
+      "heading": "Antibiotic interactions revealed",
+      "text": "\"Using bioinformatic methods, we looked for groups of genes that generally control the production of substances and could thus have effects on other bacteria,\" explains Vorholt. At the same time, the researchers performed laboratory tests to determine which of these strains have an antibiotic effect on other strains, ensuring that certain bacteria can no longer reproduce. In total, they discovered over 700 such antibiotic interactions between different microbial strains.\n\nThe aim of the project, which is funded through SNSF and ERC grants, was to find new antibiotics in a previously unexplored habitat. \"Until now, research has focused particularly on soil as a habitat; however, we keep finding the same substances,\" says Vorholt."
+    },
+    {
+      "heading": "Defusing the antibiotics crisis",
+      "text": "Zones of inhibition in a bacterial lawn caused by antibiotics (Photograph: Eric J.N. Helfrich, ETH Zurich)\n\nThe search for new antibiotics is becoming more and more difficult, with Piel speaking of the antibiotics crisis: \"We hardly have any antibiotics now that at least one pathogen is not resistant to.\" He says that companies have more or less suspended the search for new substances because they are not considered profitable enough. With their project, the ETH researchers are tapping into a new reservoir with great potential. \"We will now determine whether macrobrevin and other newly discovered substances are also effective against bacteria that cause diseases in humans,\" says Piel. But in his opinion, the even greater achievement is having shown that there are still many natural antibiotic substances waiting to be discovered in the microcosms of leaf surfaces, which until now have not been thoroughly investigated. \"This incredibly diverse ecosystem can most definitely still offer medicine many new leads. Our results confirm that it is worth expanding the search for antibiotics in nature.\"\n\nHelfrich EJN et al. Bipartite interactions, antibiotic production and biosynthetic potential of the Arabidopsis leaf microbiome. Nature Microbiology, 2018. doi: 10.1038/s41564-018-0200-0"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Into A New Reservoir Of Antibiotics",
+        "label": "ORG",
+        "start": 31,
+        "end": 66
+      },
+      {
+        "text": "thaliana",
+        "label": "PERSON",
+        "start": 444,
+        "end": 452
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 490,
+        "end": 493
+      },
+      {
+        "text": "Julia Vorholt",
+        "label": "GPE",
+        "start": 505,
+        "end": 518
+      },
+      {
+        "text": "Jörn Piel",
+        "label": "PERSON",
+        "start": 523,
+        "end": 532
+      },
+      {
+        "text": "the Institute of Microbiology",
+        "label": "ORG",
+        "start": 538,
+        "end": 567
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 691,
+        "end": 695
+      },
+      {
+        "text": "at least four",
+        "label": "CARDINAL",
+        "start": 809,
+        "end": 822
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 854,
+        "end": 857
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 169,
+        "end": 176
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 533,
+        "end": 536
+      },
+      {
+        "text": "Vorholt",
+        "label": "GPE",
+        "start": 729,
+        "end": 736
+      },
+      {
+        "text": "Eric J.N. Helfrich",
+        "label": "PERSON",
+        "start": 75,
+        "end": 93
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 95,
+        "end": 105
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 262,
+        "end": 274
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 462,
+        "end": 465
+      },
+      {
+        "text": "Piel",
+        "label": "PERSON",
+        "start": 687,
+        "end": 691
+      },
+      {
+        "text": "EJN",
+        "label": "ORG",
+        "start": 1117,
+        "end": 1120
+      },
+      {
+        "text": "al",
+        "label": "ORG",
+        "start": 1124,
+        "end": 1126
+      },
+      {
+        "text": "Arabidopsis",
+        "label": "ORG",
+        "start": 1208,
+        "end": 1219
+      },
+      {
+        "text": "Nature Microbiology",
+        "label": "PERSON",
+        "start": 1237,
+        "end": 1256
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1269,
+        "end": 1276
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Eric J.N. Helfrich",
+        "Jörn Piel",
+        "Nature Microbiology",
+        "Piel",
+        "thaliana"
+      ],
+      "ORG": [
+        "Arabidopsis",
+        "EJN",
+        "ERC",
+        "ETH",
+        "Into A New Reservoir Of Antibiotics",
+        "al",
+        "the Institute of Microbiology"
+      ],
+      "LOCATION": [
+        "Julia Vorholt",
+        "Vorholt"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1038",
+        "Two",
+        "at least four",
+        "at least one",
+        "half"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Vorholt": 2,
+      "Into A New Reservoir Of Antibiotics": 1,
+      "thaliana": 1,
+      "Julia Vorholt": 1,
+      "Jörn Piel": 1,
+      "the Institute of Microbiology": 1,
+      "half": 1,
+      "at least four": 1,
+      "Two": 1,
+      "ERC": 1,
+      "Eric J.N. Helfrich": 1,
+      "ETH Zurich": 1,
+      "at least one": 1,
+      "Piel": 1,
+      "EJN": 1,
+      "al": 1,
+      "Arabidopsis": 1,
+      "Nature Microbiology": 1,
+      "10.1038": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tapping-into-a-new-reservoir-of-antibiotics.md",
+      "title": "En News Events/2018/07/tapping Into A New Reservoir Of Antibiotics",
+      "language": "en",
+      "source_path": "en_news_events/2018/07/tapping-into-a-new-reservoir-of-antibiotics.html"
+    },
+    "temporal": {
+      "publication_date": "2018-07",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Eric J.N. Helfrich",
+        "Jörn Piel",
+        "Nature Microbiology",
+        "Piel",
+        "thaliana"
+      ],
+      "people_with_roles": {
+        "Jörn Piel": [
+          "researcher",
+          "professor"
+        ],
+        "Piel": [
+          "researcher",
+          "professor"
+        ],
+        "thaliana": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "at least four",
+        "at least one",
+        "half"
+      ],
+      "grants_funding": [
+        "ERC",
+        "grant"
+      ],
+      "projects": [
+        "Eric J",
+        "En News",
+        "Nature Microbiology",
+        "Into A",
+        "Julia Vorholt",
+        "Of Antibiotics",
+        "ETH Zurich",
+        "Helfrich EJN",
+        "New Reservoir"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Arabidopsis",
+        "EJN",
+        "ERC",
+        "ETH",
+        "Into A New Reservoir Of Antibiotics",
+        "al",
+        "the Institute of Microbiology"
+      ],
+      "locations": [
+        "Julia Vorholt",
+        "Vorholt"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Vorholt",
+        "Into A New Reservoir Of Antibiotics",
+        "thaliana",
+        "Julia Vorholt",
+        "Jörn Piel",
+        "the Institute of Microbiology",
+        "half",
+        "at least four",
+        "Two"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Antibiotic interactions revealed",
+          "Antibiotic interactions revealed",
+          "Defusing the antibiotics crisis"
+        ],
+        "content_length": 3089
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "grant",
+        "Arabidopsis",
+        "Into A New Reservoir Of Antibiotics",
+        "EJN",
+        "Nature Microbiology",
+        "thaliana",
+        "al",
+        "Jörn Piel",
+        "the Institute of Microbiology",
+        "ETH Zurich",
+        "ERC",
+        "Piel",
+        "Eric J.N. Helfrich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "at least one",
+        "half",
+        "who",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "at least four",
+        "what",
+        "how",
+        "medical_research",
+        "when"
+      ],
+      "graph_relations": [
+        "Jörn Piel_has_role_researcher",
+        "Jörn Piel_has_role_professor",
+        "Piel_has_role_researcher",
+        "Piel_has_role_professor",
+        "thaliana_has_role_researcher",
+        "thaliana_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

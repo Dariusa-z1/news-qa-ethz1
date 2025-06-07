@@ -1,0 +1,138 @@
+{
+  "filename": "forschungsdatenmanagement-die-eth-bibliothek-unterstuetzt-sie.md",
+  "original_filename": "forschungsdatenmanagement-die-eth-bibliothek-unterstuetzt-sie.html",
+  "source_path": "en_internal/2020/01/forschungsdatenmanagement-die-eth-bibliothek-unterstuetzt-sie.html",
+  "date": "2020-01",
+  "title": "Forschungsdatenmanagement Die Eth Bibliothek Unterstuetzt Sie",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Library’s research data management team is on hand to help you implement systematic data management and optimise your data throughout the entire life cycle. We offer consultation and regular tailored workshops, and provide effective feedback on your data management plan (DMP).\n\nRegister now for the next .\n\nWatch our video for a brief overview of our research data management services.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "DMP",
+        "label": "ORG",
+        "start": 276,
+        "end": 279
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 399,
+        "end": 412
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s"
+      ],
+      "ORG": [
+        "DMP"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Library’s": 2,
+      "DMP": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "forschungsdatenmanagement-die-eth-bibliothek-unterstuetzt-sie.md",
+      "title": "En Internal/2020/01/forschungsdatenmanagement die Eth Bibliothek Unterstuetzt Sie",
+      "language": "en",
+      "source_path": "en_internal/2020/01/forschungsdatenmanagement-die-eth-bibliothek-unterstuetzt-sie.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Library",
+        "Unterstuetzt Sie",
+        "Eth Bibliothek",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DMP"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Library’s",
+        "DMP"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 546
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DMP",
+        "2020",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

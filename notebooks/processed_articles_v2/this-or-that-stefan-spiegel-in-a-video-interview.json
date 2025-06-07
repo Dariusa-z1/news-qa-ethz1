@@ -1,0 +1,230 @@
+{
+  "filename": "this-or-that-stefan-spiegel-in-a-video-interview.md",
+  "original_filename": "this-or-that-stefan-spiegel-in-a-video-interview.html",
+  "source_path": "en_internal/2023/04/this-or-that-stefan-spiegel-in-a-video-interview.html",
+  "date": "2023-04",
+  "title": "This Or That Stefan Spiegel In A Video Interview",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Contact",
+      "text": "Stefan Spiegel took over from Robert Perich. He studied theoretical physics at the University of Zurich and obtained an Executive MBA of Vienna University of Economics and Business and the Carlson School of Management, University of Minnesota. Spiegel has many years of management experience as a chief financial officer, head of controlling, and project manager for organisational development in the finance departments of national and international companies. Most recently, Stefan Spiegel was CFO and a member of the Management Board of SBB Cargo AG."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Stefan Spiegel",
+        "label": "PERSON",
+        "start": 33,
+        "end": 47
+      },
+      {
+        "text": "Stefan Spiegel",
+        "label": "PERSON",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PERSON",
+        "start": 30,
+        "end": 43
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 79,
+        "end": 103
+      },
+      {
+        "text": "Vienna University of Economics and Business",
+        "label": "ORG",
+        "start": 137,
+        "end": 180
+      },
+      {
+        "text": "the Carlson School of Management, University of Minnesota",
+        "label": "ORG",
+        "start": 185,
+        "end": 242
+      },
+      {
+        "text": "Spiegel",
+        "label": "PERSON",
+        "start": 244,
+        "end": 251
+      },
+      {
+        "text": "many years",
+        "label": "DATE",
+        "start": 256,
+        "end": 266
+      },
+      {
+        "text": "Stefan Spiegel",
+        "label": "PERSON",
+        "start": 477,
+        "end": 491
+      },
+      {
+        "text": "CFO",
+        "label": "ORG",
+        "start": 496,
+        "end": 499
+      },
+      {
+        "text": "the Management Board of SBB Cargo AG",
+        "label": "ORG",
+        "start": 516,
+        "end": 552
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Robert Perich",
+        "Spiegel",
+        "Stefan Spiegel"
+      ],
+      "ORG": [
+        "CFO",
+        "Vienna University of Economics and Business",
+        "the Carlson School of Management, University of Minnesota",
+        "the Management Board of SBB Cargo AG",
+        "the University of Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "many years"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Stefan Spiegel": 3,
+      "Robert Perich": 1,
+      "the University of Zurich": 1,
+      "Vienna University of Economics and Business": 1,
+      "the Carlson School of Management, University of Minnesota": 1,
+      "Spiegel": 1,
+      "many years": 1,
+      "CFO": 1,
+      "the Management Board of SBB Cargo AG": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "this-or-that-stefan-spiegel-in-a-video-interview.md",
+      "title": "En Internal/2023/04/this Or That Stefan Spiegel in A Video Interview",
+      "language": "en",
+      "source_path": "en_internal/2023/04/this-or-that-stefan-spiegel-in-a-video-interview.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Robert Perich",
+        "Spiegel",
+        "Stefan Spiegel"
+      ],
+      "people_with_roles": {
+        "Spiegel": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Interview Stefan",
+        "Robert Perich",
+        "Carlson School",
+        "Stefan Spiegel",
+        "Executive MBA",
+        "A Video",
+        "Or That",
+        "En Internal",
+        "Vienna University",
+        "Management Board",
+        "SBB Cargo"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CFO",
+        "Vienna University of Economics and Business",
+        "the Carlson School of Management, University of Minnesota",
+        "the Management Board of SBB Cargo AG",
+        "the University of Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Stefan Spiegel",
+        "Robert Perich",
+        "the University of Zurich",
+        "Vienna University of Economics and Business",
+        "the Carlson School of Management, University of Minnesota",
+        "Spiegel",
+        "many years",
+        "CFO",
+        "the Management Board of SBB Cargo AG"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Contact"
+        ],
+        "content_length": 622
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Spiegel",
+        "Robert Perich",
+        "Stefan Spiegel",
+        "Vienna University of Economics and Business",
+        "the Management Board of SBB Cargo AG",
+        "the University of Zurich",
+        "CFO",
+        "the Carlson School of Management, University of Minnesota",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "what",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Spiegel_has_role_head",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

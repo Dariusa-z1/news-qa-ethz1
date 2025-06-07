@@ -1,0 +1,462 @@
+{
+  "filename": "uniting-universities.md",
+  "original_filename": "uniting-universities.html",
+  "source_path": "en_internal/2013/10/uniting-universities.html",
+  "date": "2013-10",
+  "title": "Uniting Universities",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Arnaud Monnard\n\nAs an AVETH representative of external affairs I have much to do with Actionuni , which is why I am interested in the current changes about to take place. This organisation represents young researchers as well as the associations of non-professorial academic staff of the Swiss universities and Federal Institutes of Technology on a national and international level.\n\nIn a nutshell, Actionuni’s objectives are to improve the career tracks of academics and to coordinate activities for Swiss associations representing non-professorial academic staff. It looks to establish and promote cooperation between the national associations of young researchers. It also represents Swiss universities at a European level within the European association, Eurodoc .\n\nIn 2015 a new law will be introduced at a Swiss national level to coordinate communications among universities and it will also include the universities of applied sciences, which was not the case until now. Currently, the Universities of Bern, Fribourg, Luzern, Neuchâtel, ETH Zurich and EPF Lausanne are officially represented in Actionuni. With the new law, Actionuni will extend its reach to represent the technical institutes on all levels of academic research.\n\nThis will pose a serious challenge in terms of coordination and implementation in a country where almost each canton has its own set of academic institutions. Adding universities of applied sciences to an already well-established association will take some time, which is why the integration of the first institutes will begin at the end of this year.\n\nThere is a lot of work to do. For one thing, staff associations will have to be created for each university of applied sciences in parallel to integrating them into Actionuni. While the concept of staff associations is a tradition at universities, it is uncommon at universities of applied sciences as research staff and the amount of research conducted is minimal compared with universities.\n\nWith a clear focus on staff, Actionuni intends to implement something similar to what already exists at a Swiss national level for students: VSS-UNES , the umbrella organisation of the representative student bodies of most of Switzerland's higher education institutions. It represents the interests of students on a federal level, coordinating the requests of its members and cooperating with national and international organisations with the overall aim to promote democratisation and equalisation.\n\nArnaud Monnard studied Life Science at EPFL where he obtained a degree in Engineering with special focus in Neuroscience. In September 2012, he started his Ph.D. studies in Human Nutrition at ETH Zurich, working on micronutrient deficiencies under Professor Michael Zimmermann. Since February 2013, Arnaud Monnard has been an active representative for External Affairs within the organisation AVETH."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Arnaud Monnard",
+        "label": "ORG",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Actionuni",
+        "label": "LOC",
+        "start": 85,
+        "end": 94
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 287,
+        "end": 292
+      },
+      {
+        "text": "Federal Institutes of Technology",
+        "label": "ORG",
+        "start": 310,
+        "end": 342
+      },
+      {
+        "text": "Actionuni",
+        "label": "LOC",
+        "start": 397,
+        "end": 406
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 499,
+        "end": 504
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 685,
+        "end": 690
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 709,
+        "end": 717
+      },
+      {
+        "text": "the European association",
+        "label": "ORG",
+        "start": 731,
+        "end": 755
+      },
+      {
+        "text": "Eurodoc",
+        "label": "PERSON",
+        "start": 757,
+        "end": 764
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 809,
+        "end": 814
+      },
+      {
+        "text": "the Universities of Bern",
+        "label": "LAW",
+        "start": 986,
+        "end": 1010
+      },
+      {
+        "text": "Fribourg",
+        "label": "GPE",
+        "start": 1012,
+        "end": 1020
+      },
+      {
+        "text": "Neuchâtel",
+        "label": "ORG",
+        "start": 1030,
+        "end": 1039
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1041,
+        "end": 1051
+      },
+      {
+        "text": "Actionuni",
+        "label": "LOC",
+        "start": 1099,
+        "end": 1108
+      },
+      {
+        "text": "Actionuni",
+        "label": "LOC",
+        "start": 1128,
+        "end": 1137
+      },
+      {
+        "text": "canton",
+        "label": "GPE",
+        "start": 1344,
+        "end": 1350
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1533,
+        "end": 1538
+      },
+      {
+        "text": "the end of this year",
+        "label": "DATE",
+        "start": 1564,
+        "end": 1584
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1620,
+        "end": 1623
+      },
+      {
+        "text": "Actionuni",
+        "label": "LOC",
+        "start": 1751,
+        "end": 1760
+      },
+      {
+        "text": "Actionuni",
+        "label": "LOC",
+        "start": 2008,
+        "end": 2017
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2085,
+        "end": 2090
+      },
+      {
+        "text": "VSS-UNES",
+        "label": "PERSON",
+        "start": 2120,
+        "end": 2128
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2205,
+        "end": 2216
+      },
+      {
+        "text": "Arnaud Monnard",
+        "label": "ORG",
+        "start": 2479,
+        "end": 2493
+      },
+      {
+        "text": "Life Science",
+        "label": "PERSON",
+        "start": 2502,
+        "end": 2514
+      },
+      {
+        "text": "Engineering",
+        "label": "GPE",
+        "start": 2553,
+        "end": 2564
+      },
+      {
+        "text": "Neuroscience",
+        "label": "GPE",
+        "start": 2587,
+        "end": 2599
+      },
+      {
+        "text": "September 2012",
+        "label": "DATE",
+        "start": 2604,
+        "end": 2618
+      },
+      {
+        "text": "Ph.D.",
+        "label": "WORK_OF_ART",
+        "start": 2635,
+        "end": 2640
+      },
+      {
+        "text": "Human Nutrition",
+        "label": "FAC",
+        "start": 2652,
+        "end": 2667
+      },
+      {
+        "text": "Michael Zimmermann",
+        "label": "PERSON",
+        "start": 2737,
+        "end": 2755
+      },
+      {
+        "text": "February 2013",
+        "label": "DATE",
+        "start": 2763,
+        "end": 2776
+      },
+      {
+        "text": "Arnaud Monnard",
+        "label": "ORG",
+        "start": 2778,
+        "end": 2792
+      },
+      {
+        "text": "External Affairs",
+        "label": "ORG",
+        "start": 2831,
+        "end": 2847
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Eurodoc",
+        "Life Science",
+        "Michael Zimmermann",
+        "VSS-UNES"
+      ],
+      "ORG": [
+        "Arnaud Monnard",
+        "External Affairs",
+        "Federal Institutes of Technology",
+        "Neuchâtel",
+        "the European association"
+      ],
+      "LOCATION": [
+        "Actionuni",
+        "Engineering",
+        "Fribourg",
+        "Human Nutrition",
+        "Neuroscience",
+        "Switzerland",
+        "canton"
+      ],
+      "DATE": [
+        "February 2013",
+        "September 2012",
+        "the end of this year"
+      ],
+      "MISC": [
+        "European",
+        "Ph.D.",
+        "Swiss",
+        "first",
+        "one",
+        "the Universities of Bern"
+      ]
+    },
+    "entity_counts": {
+      "Actionuni": 6,
+      "Swiss": 5,
+      "Arnaud Monnard": 3,
+      "Federal Institutes of Technology": 1,
+      "European": 1,
+      "the European association": 1,
+      "Eurodoc": 1,
+      "the Universities of Bern": 1,
+      "Fribourg": 1,
+      "Neuchâtel": 1,
+      "ETH Zurich": 1,
+      "canton": 1,
+      "first": 1,
+      "the end of this year": 1,
+      "one": 1,
+      "VSS-UNES": 1,
+      "Switzerland": 1,
+      "Life Science": 1,
+      "Engineering": 1,
+      "Neuroscience": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "uniting-universities.md",
+      "title": "En Internal/2013/10/uniting Universities",
+      "language": "en",
+      "source_path": "en_internal/2013/10/uniting-universities.html"
+    },
+    "temporal": {
+      "publication_date": "2013-10",
+      "mentioned_years": [
+        "2012",
+        "2013",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Eurodoc",
+        "Life Science",
+        "Michael Zimmermann",
+        "VSS-UNES"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Michael Zimmermann": [
+          "Professor",
+          "professor"
+        ],
+        "VSS-UNES": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "European",
+        "Ph.D.",
+        "Swiss",
+        "first",
+        "the Universities of Bern"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "External Affairs",
+        "In September",
+        "En Internal",
+        "Human Nutrition",
+        "Federal Institutes",
+        "Since February",
+        "VSS-UNES",
+        "Arnaud Monnard",
+        "Professor Michael",
+        "ETH Zurich",
+        "EPF Lausanne",
+        "Universities Arnaud",
+        "Life Science"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Arnaud Monnard",
+        "External Affairs",
+        "Federal Institutes of Technology",
+        "Neuchâtel",
+        "the European association"
+      ],
+      "locations": [
+        "Actionuni",
+        "Engineering",
+        "Fribourg",
+        "Human Nutrition",
+        "Neuroscience",
+        "Switzerland",
+        "canton"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "Actionuni",
+        "Swiss",
+        "Arnaud Monnard",
+        "Federal Institutes of Technology",
+        "European",
+        "the European association",
+        "Eurodoc",
+        "the Universities of Bern",
+        "Fribourg",
+        "Neuchâtel"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2926
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Michael Zimmermann",
+        "2015",
+        "2013",
+        "EU",
+        "External Affairs",
+        "2012",
+        "the European association",
+        "Neuchâtel",
+        "VSS-UNES",
+        "Arnaud Monnard",
+        "Federal Institutes of Technology",
+        "ETH Zurich",
+        "Eurodoc",
+        "Life Science"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "Swiss",
+        "the Universities of Bern",
+        "what",
+        "Ph.D.",
+        "European",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "Michael Zimmermann_has_role_Professor",
+        "Michael Zimmermann_has_role_professor",
+        "VSS-UNES_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "filename": "eth-app-mit-neuen-funktionen.md",
+  "original_filename": "eth-app-mit-neuen-funktionen.html",
+  "source_path": "de_internal/2015/06/eth-app-mit-neuen-funktionen.html",
+  "date": "2015-06",
+  "title": "Eth App Mit Neuen Funktionen",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Auf dem Handy die ETH-News lesen, Gebäude finden oder die Mensa-Menus vergleichen: Das geht mit der offiziellen ETH-App. Das aktuellste Update erweitert die bisher bekannten Funktionen um wichtige Punkte.\n\nMit der Version 3.0 können Nutzer neu:\n\nDiese Aktualisierungen ergänzen die bisherigen Funktionen:\n\nProgrammiert hat die ETH-App die Agentur Ubique, die von ETH-Absolventen gegründet und geführt wird, gemeinsam mit der Hochschulkommunikation und unterstützt von den Informatikdiensten."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/06/eth App",
+        "label": "LOC",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "ETH-News",
+        "label": "MISC",
+        "start": 18,
+        "end": 26
+      },
+      {
+        "text": "Mensa-Menus",
+        "label": "ORG",
+        "start": 58,
+        "end": 69
+      },
+      {
+        "text": "ETH-App",
+        "label": "MISC",
+        "start": 112,
+        "end": 119
+      },
+      {
+        "text": "Programmiert",
+        "label": "PER",
+        "start": 303,
+        "end": 315
+      },
+      {
+        "text": "ETH-App",
+        "label": "MISC",
+        "start": 324,
+        "end": 331
+      },
+      {
+        "text": "Agentur Ubique",
+        "label": "ORG",
+        "start": 336,
+        "end": 350
+      },
+      {
+        "text": "ETH-Absolventen",
+        "label": "MISC",
+        "start": 360,
+        "end": 375
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Programmiert"
+      ],
+      "ORG": [
+        "Agentur Ubique",
+        "Mensa-Menus"
+      ],
+      "LOCATION": [
+        "De Internal/2015/06/eth App"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Absolventen",
+        "ETH-App",
+        "ETH-News"
+      ]
+    },
+    "entity_counts": {
+      "ETH-App": 2,
+      "De Internal/2015/06/eth App": 1,
+      "ETH-News": 1,
+      "Mensa-Menus": 1,
+      "Programmiert": 1,
+      "Agentur Ubique": 1,
+      "ETH-Absolventen": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-app-mit-neuen-funktionen.md",
+      "title": "De Internal/2015/06/eth App mit Neuen Funktionen",
+      "language": "de",
+      "source_path": "de_internal/2015/06/eth-app-mit-neuen-funktionen.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Programmiert"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Absolventen",
+        "ETH-App",
+        "ETH-News"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-News",
+        "ETH-App",
+        "De Internal",
+        "Diese Aktualisierungen",
+        "Agentur Ubique",
+        "ETH-Absolventen",
+        "Neuen Funktionen",
+        "Mensa-Menus"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Agentur Ubique",
+        "Mensa-Menus"
+      ],
+      "locations": [
+        "De Internal/2015/06/eth App"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH-App",
+        "De Internal/2015/06/eth App",
+        "ETH-News",
+        "Mensa-Menus",
+        "Programmiert",
+        "Agentur Ubique",
+        "ETH-Absolventen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 540
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Programmiert",
+        "2015",
+        "EU",
+        "Agentur Ubique",
+        "Mensa-Menus"
+      ],
+      "semantic_concepts": [
+        "ETH-News",
+        "ETH-Absolventen",
+        "ETH-App",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

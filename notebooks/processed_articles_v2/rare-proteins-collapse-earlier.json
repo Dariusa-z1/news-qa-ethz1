@@ -1,0 +1,382 @@
+{
+  "filename": "rare-proteins-collapse-earlier.md",
+  "original_filename": "rare-proteins-collapse-earlier.html",
+  "source_path": "en_news_events/2017/02/rare-proteins-collapse-earlier.html",
+  "date": "2017-02",
+  "title": "Rare Proteins Collapse Earlier",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Denaturation in one fell swoop?",
+      "text": "Crack open an egg, let it slide into a hot frying pan and almost immediately the transparent and slippery egg white becomes white and firm. What you casually observe when frying an egg is an important biochemical phenomenon called protein denaturation.\n\nProteins are produced in cells as thread-like molecules, which then mass together into a protein-specific structure: some are spherical, others tubular. These structures disintegrate during denaturation; the proteins become thread-like again and as a result lose their function."
+    },
+    {
+      "heading": "Denaturation in one fell swoop?",
+      "text": "Previous research based on computational analysis has assumed that a large part of the proteins of a cell denature when the narrow temperature range in which the proteins function optimally is exceeded. For the intestinal bacterium E. coli , the optimal temperature is about 37°C; anything above 46°C and the bacteria die because the protein structures collapse.\n\nThis basic assumption is now being overturned by a team of researchers led by Paola Picotti, Assistant Professor of Biochemistry at ETH Zurich. In a study that has just been published in the journal Science , the researchers show that only a small fraction of key proteins denature at the same time when a critical temperature threshold is reached."
+    },
+    {
+      "heading": "Flexibility can make instability",
+      "text": "In their study – the most comprehensive ever done on this subject – they examined and compared the entirety of all proteins, the proteome, from four organisms at different temperatures. The researchers exposed the intestinal bacterium E. coli , human cells, yeast cells and the heat-resistant bacterium T. thermophilus to gradually increasing temperatures up to 76°C. After each temperature increment, the scientists measured the proteins present in the cells and determined their structural features. In total, the researchers analysed 8,000 proteins."
+    },
+    {
+      "heading": "Key components collapse first",
+      "text": "“Thanks to this research, we can now show that only a few proteins collapse at the temperature at which the bacterium dies,” says Picotti. “We could not confirm the prediction that the majority of proteins of an organism denature at the same time.”\n\nAbout 80 of the proteins examined collapsed as soon as the temperature exceeded the species-specific optimum by a few degrees. Although they constitute only a small fraction of the proteins of a cell, this proves fatal for the cell since some of these types of proteins have vital functions or are key components in a large protein network. “As soon as these key components fail, the cell cannot continue to function,” says Picotti."
+    },
+    {
+      "heading": "Flexibility can make instability",
+      "text": "That the key components of a biological system are sensitive to heat would at first glance appear to be an evolutionary glitch. However, these proteins are often unstable as a result of their flexibility, which enables them to carry out varying tasks in the cell, says the biochemist. “Flexibility and stability can be mutually exclusive. The cell has to make a compromise.”\n\nThe researchers also show that the most stable proteins and the least prone to aberrant or pathological folds are also the most common in cells. From the perspective of the cell, this makes the most sense. Were it reversed and the most common proteins were to misfold the fastest, the cell would have to invest a lot of energy in their reconstruction or disposal. For this reason, cells ensure that common proteins are more stable than the rare ones.\n\nBut why are T. thermophilus bacteria unaffected even by temperatures of over 70°C? According to the researchers, these cells would preferentially stabilise the more heat-sensitive, functionally crucial proteins, such as through adapted protein sequences."
+    },
+    {
+      "heading": "Heat-tolerant bacteria for industrial processes",
+      "text": "Picotti’s findings could be used to help genetically modify organisms to withstand higher temperatures. Today, certain chemicals, such as ethanol, are biotechnologically produced with the help of bacteria. But these bacteria often work only in a narrow temperature window, which constrains the yield. If production could proceed at higher temperatures, the yield could be optimised without damage to the bacteria.\n\nThe researchers also found evidence that certain denatured proteins tend to clump again at even higher temperatures and form aggregates. In human cells, Picotti and her colleagues found that the protein DNMT1 first denatures with increasing heat and later aggregates with others of its kind. These and other proteins with similar properties are associated with neurological disorders, such as Alzheimer’s or Parkinson’s.\n\nThis study is the first to investigate the thermal stability of proteins from several organisms on a large scale directly in the complex cellular matrix. Proteins were neither isolated from the cellular fluid nor purified to conduct the measurements. For their study, the researchers broke the cells open and then measured the stability of all proteins directly in the cellular fluid at different temperatures.\n\nLeuenberger P, Ganscha S, Kahraman A, Cappelletti V, Boersema PJ, von Mering C, Claassen M, Picotti P. Cell-wide analysis of protein thermal unfolding reveals determinants of thermostability. Science 2017. 355: eaal7825, doi: 10.1126/science.aal7825"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "about 37",
+        "label": "CARDINAL",
+        "start": 269,
+        "end": 277
+      },
+      {
+        "text": "Paola Picotti",
+        "label": "PERSON",
+        "start": 441,
+        "end": 454
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 499,
+        "end": 505
+      },
+      {
+        "text": "Science",
+        "label": "WORK_OF_ART",
+        "start": 562,
+        "end": 569
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 144,
+        "end": 148
+      },
+      {
+        "text": "8,000",
+        "label": "CARDINAL",
+        "start": 537,
+        "end": 542
+      },
+      {
+        "text": "Picotti",
+        "label": "PERSON",
+        "start": 130,
+        "end": 137
+      },
+      {
+        "text": "About 80",
+        "label": "CARDINAL",
+        "start": 249,
+        "end": 257
+      },
+      {
+        "text": "Picotti",
+        "label": "PERSON",
+        "start": 673,
+        "end": 680
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 78,
+        "end": 83
+      },
+      {
+        "text": "Picotti",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 104,
+        "end": 109
+      },
+      {
+        "text": "Picotti",
+        "label": "PERSON",
+        "start": 567,
+        "end": 574
+      },
+      {
+        "text": "DNMT1",
+        "label": "PRODUCT",
+        "start": 617,
+        "end": 622
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 853,
+        "end": 858
+      },
+      {
+        "text": "Leuenberger P",
+        "label": "PERSON",
+        "start": 1246,
+        "end": 1259
+      },
+      {
+        "text": "Ganscha S",
+        "label": "PERSON",
+        "start": 1261,
+        "end": 1270
+      },
+      {
+        "text": "Kahraman A",
+        "label": "ORG",
+        "start": 1272,
+        "end": 1282
+      },
+      {
+        "text": "Boersema PJ",
+        "label": "PERSON",
+        "start": 1299,
+        "end": 1310
+      },
+      {
+        "text": "von Mering C",
+        "label": "PERSON",
+        "start": 1312,
+        "end": 1324
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 1472,
+        "end": 1479
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Boersema PJ",
+        "Ganscha S",
+        "Leuenberger P",
+        "Paola Picotti",
+        "Picotti",
+        "von Mering C"
+      ],
+      "ORG": [
+        "Kahraman A",
+        "Picotti"
+      ],
+      "LOCATION": [
+        "Zurich"
+      ],
+      "DATE": [
+        "Today"
+      ],
+      "MISC": [
+        "10.1126",
+        "8,000",
+        "About 80",
+        "DNMT1",
+        "Science",
+        "about 37",
+        "first",
+        "four"
+      ]
+    },
+    "entity_counts": {
+      "Picotti": 4,
+      "first": 2,
+      "about 37": 1,
+      "Paola Picotti": 1,
+      "Zurich": 1,
+      "Science": 1,
+      "four": 1,
+      "8,000": 1,
+      "About 80": 1,
+      "Today": 1,
+      "DNMT1": 1,
+      "Leuenberger P": 1,
+      "Ganscha S": 1,
+      "Kahraman A": 1,
+      "Boersema PJ": 1,
+      "von Mering C": 1,
+      "10.1126": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rare-proteins-collapse-earlier.md",
+      "title": "En News Events/2017/02/rare Proteins Collapse Earlier",
+      "language": "en",
+      "source_path": "en_news_events/2017/02/rare-proteins-collapse-earlier.html"
+    },
+    "temporal": {
+      "publication_date": "2017-02",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Boersema PJ",
+        "Ganscha S",
+        "Leuenberger P",
+        "Paola Picotti",
+        "Picotti",
+        "von Mering C"
+      ],
+      "people_with_roles": {
+        "Paola Picotti": [
+          "researcher",
+          "professor"
+        ],
+        "Picotti": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1126",
+        "8,000",
+        "About 80",
+        "DNMT1",
+        "Science",
+        "about 37",
+        "first",
+        "four"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Leuenberger P",
+        "Boersema PJ",
+        "Picotti P",
+        "Kahraman A",
+        "En News",
+        "Proteins Collapse",
+        "Earlier Crack",
+        "Cappelletti V",
+        "Paola Picotti",
+        "Ganscha S",
+        "ETH Zurich",
+        "Claassen M",
+        "Assistant Professor",
+        "Mering C"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Kahraman A",
+        "Picotti"
+      ],
+      "locations": [
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Picotti",
+        "first",
+        "about 37",
+        "Paola Picotti",
+        "Zurich",
+        "Science",
+        "four",
+        "8,000",
+        "About 80",
+        "Today"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Denaturation in one fell swoop?",
+          "Denaturation in one fell swoop?",
+          "Flexibility can make instability",
+          "Key components collapse first",
+          "Flexibility can make instability",
+          "Heat-tolerant bacteria for industrial processes"
+        ],
+        "content_length": 5117
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Leuenberger P",
+        "Boersema PJ",
+        "von Mering C",
+        "2017",
+        "EU",
+        "Ganscha S",
+        "Paola Picotti",
+        "Kahraman A",
+        "Picotti"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "four",
+        "who",
+        "DNMT1",
+        "8,000",
+        "About 80",
+        "Science",
+        "chemistry",
+        "10.1126",
+        "biology",
+        "what",
+        "how",
+        "about 37",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Paola Picotti_has_role_researcher",
+        "Paola Picotti_has_role_professor",
+        "Picotti_has_role_researcher",
+        "Picotti_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "filename": "sicherheitsluecke-heartbleed.md",
+  "original_filename": "sicherheitsluecke-heartbleed.html",
+  "source_path": "de_internal/2014/04/sicherheitsluecke-heartbleed.html",
+  "date": "2014-04",
+  "title": "Sicherheitsluecke Heartbleed",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ein grosses Thema der letzten Tage war die Sicherheitslücke namens «Heartbleed». Diese könnte beispielsweise Web Stores, Internetbanking oder generell sämtliche Internetseiten, welche mit «https:» beginnen, betreffen.\n\nDie Informatikdienste empfehlen jedem Benutzenden, alle Passwörter die mit dem ETH Account (nethz) in Verbindung stehen, umgehend hier zu ändern. Sie garantieren ab diesem Zeitpunkt, dass die Systeme sicher sind.\n\nMehr Informationen zur Passwortänderung gibt es im ID-Blog ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Heartbleed",
+        "label": "MISC",
+        "start": 68,
+        "end": 78
+      },
+      {
+        "text": "Web Stores",
+        "label": "MISC",
+        "start": 109,
+        "end": 119
+      },
+      {
+        "text": "https",
+        "label": "MISC",
+        "start": 189,
+        "end": 194
+      },
+      {
+        "text": "Passwörter",
+        "label": "PER",
+        "start": 274,
+        "end": 284
+      },
+      {
+        "text": "ETH Account",
+        "label": "ORG",
+        "start": 297,
+        "end": 308
+      },
+      {
+        "text": "ID-Blog",
+        "label": "MISC",
+        "start": 482,
+        "end": 489
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Passwörter"
+      ],
+      "ORG": [
+        "ETH Account"
+      ],
+      "LOCATION": [
+        "De Internal/2014/04"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Heartbleed",
+        "ID-Blog",
+        "Web Stores",
+        "https"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/04": 1,
+      "Heartbleed": 1,
+      "Web Stores": 1,
+      "https": 1,
+      "Passwörter": 1,
+      "ETH Account": 1,
+      "ID-Blog": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sicherheitsluecke-heartbleed.md",
+      "title": "De Internal/2014/04/sicherheitsluecke Heartbleed",
+      "language": "de",
+      "source_path": "de_internal/2014/04/sicherheitsluecke-heartbleed.html"
+    },
+    "temporal": {
+      "publication_date": "2014-04",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Passwörter"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Heartbleed",
+        "ID-Blog",
+        "Web Stores",
+        "https"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Die Informatikdienste",
+        "ETH Account",
+        "Web Stores",
+        "De Internal",
+        "Heartbleed Ein",
+        "ID-Blog",
+        "Mehr Informationen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Account"
+      ],
+      "locations": [
+        "De Internal/2014/04"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/04",
+        "Heartbleed",
+        "Web Stores",
+        "https",
+        "Passwörter",
+        "ETH Account",
+        "ID-Blog"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 542
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Passwörter",
+        "2014",
+        "ETH Account"
+      ],
+      "semantic_concepts": [
+        "Web Stores",
+        "https",
+        "Heartbleed",
+        "ID-Blog"
+      ],
+      "graph_relations": []
+    }
+  }
+}

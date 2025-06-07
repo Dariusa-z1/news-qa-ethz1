@@ -1,0 +1,225 @@
+{
+  "filename": "interrupted-service-in-eth-citations-and-eth-collection.md",
+  "original_filename": "interrupted-service-in-eth-citations-and-eth-collection.html",
+  "source_path": "en_internal/2017/05/interrupted-service-in-eth-citations-and-eth-collection.html",
+  "date": "2017-05",
+  "title": "Interrupted Service In Eth Citations And Eth Collection",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Library will launch the Research Collection in the middle of June 2017, a new platform for academic publications and research data from ETH Zurich.\n\nThe two applications ETH E-Citations and ETH E-Collection will be merged into the new publication platform.\n\nTo ensure that the migration goes smoothly, it will not be possible to enter new publications in ETH E-Citations or publish via ETH E-Collection from 15 May to 12 June. Nonetheless, both platforms will remain fully functional for searches and access to documents already published.\n\nIf you need to submit a Doctoral or Habilitation Thesis during this period, please contact us when your file is ready to be uploaded. We will provide you access to an alternative submission process.\n\nFurther information about the new Research Collection will be sent out by mid-June.\n\nPlease do not hesitate to contact us at if you have any questions."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "the Research Collection",
+        "label": "ORG",
+        "start": 24,
+        "end": 47
+      },
+      {
+        "text": "the middle of June 2017",
+        "label": "DATE",
+        "start": 51,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 140,
+        "end": 150
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 156,
+        "end": 159
+      },
+      {
+        "text": "ETH E-Collection",
+        "label": "ORG",
+        "start": 193,
+        "end": 209
+      },
+      {
+        "text": "ETH E-Citations",
+        "label": "ORG",
+        "start": 357,
+        "end": 372
+      },
+      {
+        "text": "ETH E-Collection",
+        "label": "ORG",
+        "start": 388,
+        "end": 404
+      },
+      {
+        "text": "15 May to 12 June",
+        "label": "DATE",
+        "start": 410,
+        "end": 427
+      },
+      {
+        "text": "Doctoral or Habilitation Thesis",
+        "label": "ORG",
+        "start": 566,
+        "end": 597
+      },
+      {
+        "text": "Research Collection",
+        "label": "ORG",
+        "start": 775,
+        "end": 794
+      },
+      {
+        "text": "mid-June",
+        "label": "DATE",
+        "start": 815,
+        "end": 823
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Doctoral or Habilitation Thesis",
+        "ETH E-Citations",
+        "ETH E-Collection",
+        "ETH Library",
+        "ETH Zurich",
+        "Research Collection",
+        "the Research Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "15 May to 12 June",
+        "mid-June",
+        "the middle of June 2017"
+      ],
+      "MISC": [
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH E-Collection": 2,
+      "ETH Library": 1,
+      "the Research Collection": 1,
+      "the middle of June 2017": 1,
+      "ETH Zurich": 1,
+      "two": 1,
+      "ETH E-Citations": 1,
+      "15 May to 12 June": 1,
+      "Doctoral or Habilitation Thesis": 1,
+      "Research Collection": 1,
+      "mid-June": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "interrupted-service-in-eth-citations-and-eth-collection.md",
+      "title": "En Internal/2017/05/interrupted Service in Eth Citations And Eth Collection",
+      "language": "en",
+      "source_path": "en_internal/2017/05/interrupted-service-in-eth-citations-and-eth-collection.html"
+    },
+    "temporal": {
+      "publication_date": "2017-05",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH E",
+        "Collection ETH",
+        "En Internal",
+        "Research Collection",
+        "Habilitation Thesis",
+        "ETH Zurich",
+        "And Eth",
+        "Eth Citations"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Doctoral or Habilitation Thesis",
+        "ETH E-Citations",
+        "ETH E-Collection",
+        "ETH Library",
+        "ETH Zurich",
+        "Research Collection",
+        "the Research Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH E-Collection",
+        "ETH Library",
+        "the Research Collection",
+        "the middle of June 2017",
+        "ETH Zurich",
+        "two",
+        "ETH E-Citations",
+        "15 May to 12 June",
+        "Doctoral or Habilitation Thesis",
+        "Research Collection"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 972
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "the Research Collection",
+        "ETH Library",
+        "ETH E-Citations",
+        "Research Collection",
+        "ETH Zurich",
+        "ETH E-Collection",
+        "Doctoral or Habilitation Thesis"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "what",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

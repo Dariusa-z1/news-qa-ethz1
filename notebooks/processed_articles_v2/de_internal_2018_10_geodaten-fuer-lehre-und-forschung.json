@@ -1,0 +1,229 @@
+{
+  "filename": "de_internal_2018_10_geodaten-fuer-lehre-und-forschung.md",
+  "original_filename": "de_internal_2018_10_geodaten-fuer-lehre-und-forschung.html",
+  "source_path": "de_internal/2018/10/geodaten-fuer-lehre-und-forschung.html",
+  "date": "2018-10",
+  "title": "Geodaten Fuer Lehre Und Forschung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der Service externe Seite geodata4edu.ch bietet Angehörigen Schweizer Hochschulen einen zentralen Zugang zu Geodaten von Bund und Kantonen. Somit können auch Angehörige der ETH Zürich die zur Verfügung gestellten Daten voll umfänglich für Lehre und Forschung nutzen. Der Metadatenkatalog gibt eine Übersicht über die vorhandenen Datensätze und ermöglicht gezielt, nach Daten zu suchen. Auch Handbücher, Video Tutorials und weitere Informationen sind auf geodata4edu.ch zu finden.\n\nSie haben noch nie mit Geodaten gearbeitet? Kein Problem: Für eher unerfahrene Nutzende stehen Informationen zu verschiedenen Datentypen zur Verfügung und über den Browser basierten Zugang können Datenausschnitte in verschiedenen Formaten schnell und einfach heruntergeladen werden.\n\nFür die direkte Integration in das eigene GIS Programm (ArcGIS, bald auch QGIS) können die Webservices genutzt werden. Der Datenzugriff über die Webservices bietet sich insbesondere an, um mehrere Datensätze zusammen zu verwenden und mit den Datensätzen-Analysen in einem GIS-Programm durchzuführen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/10/geodaten",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Fuer",
+        "label": "LOC",
+        "start": 29,
+        "end": 33
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 60,
+        "end": 69
+      },
+      {
+        "text": "Bund",
+        "label": "LOC",
+        "start": 121,
+        "end": 125
+      },
+      {
+        "text": "Kantonen",
+        "label": "LOC",
+        "start": 130,
+        "end": 138
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 173,
+        "end": 183
+      },
+      {
+        "text": "Browser",
+        "label": "MISC",
+        "start": 644,
+        "end": 651
+      },
+      {
+        "text": "GIS Programm",
+        "label": "MISC",
+        "start": 805,
+        "end": 817
+      },
+      {
+        "text": "ArcGIS",
+        "label": "MISC",
+        "start": 819,
+        "end": 825
+      },
+      {
+        "text": "QGIS",
+        "label": "MISC",
+        "start": 837,
+        "end": 841
+      },
+      {
+        "text": "Datensätzen-Analysen",
+        "label": "LOC",
+        "start": 1005,
+        "end": 1025
+      },
+      {
+        "text": "GIS-Programm",
+        "label": "MISC",
+        "start": 1035,
+        "end": 1047
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "Bund",
+        "Datensätzen-Analysen",
+        "De Internal/2018/10/geodaten",
+        "Fuer",
+        "Kantonen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ArcGIS",
+        "Browser",
+        "GIS Programm",
+        "GIS-Programm",
+        "QGIS",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2018/10/geodaten": 1,
+      "Fuer": 1,
+      "Schweizer": 1,
+      "Bund": 1,
+      "Kantonen": 1,
+      "ETH Zürich": 1,
+      "Browser": 1,
+      "GIS Programm": 1,
+      "ArcGIS": 1,
+      "QGIS": 1,
+      "Datensätzen-Analysen": 1,
+      "GIS-Programm": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2018_10_geodaten-fuer-lehre-und-forschung.md",
+      "title": "De Internal/2018/10/geodaten Fuer Lehre und Forschung",
+      "language": "de",
+      "source_path": "de_internal/2018/10/geodaten-fuer-lehre-und-forschung.html"
+    },
+    "temporal": {
+      "publication_date": "2018-10",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ArcGIS",
+        "Browser",
+        "GIS Programm",
+        "GIS-Programm",
+        "QGIS",
+        "Schweizer"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "GIS Programm",
+        "GIS-Programm",
+        "Schweizer Hochschulen",
+        "De Internal",
+        "Forschung Der",
+        "Kein Problem",
+        "Fuer Lehre",
+        "Video Tutorials",
+        "Der Datenzugriff",
+        "Der Metadatenkatalog"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "Bund",
+        "Datensätzen-Analysen",
+        "De Internal/2018/10/geodaten",
+        "Fuer",
+        "Kantonen"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2018/10/geodaten",
+        "Fuer",
+        "Schweizer",
+        "Bund",
+        "Kantonen",
+        "ETH Zürich",
+        "Browser",
+        "GIS Programm",
+        "ArcGIS",
+        "QGIS"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1118
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2018"
+      ],
+      "semantic_concepts": [
+        "GIS Programm",
+        "GIS-Programm",
+        "ArcGIS",
+        "Schweizer",
+        "Browser",
+        "QGIS",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "filename": "der-eth-eLink-wird-vorgestellt.md",
+  "original_filename": "der-eth-eLink-wird-vorgestellt.html",
+  "source_path": "de_internal/2022/08/der-eth-eLink-wird-vorgestellt.html",
+  "date": "2022-08",
+  "title": "Der Eth Elink Wird Vorgestellt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Mit Public Tours die ETH Zürich entdecken",
+      "text": "Seit zwei Jahren sind ETH-Angehörige noch nachhaltiger unterwegs: Die Pendelbusse zwischen dem Zentrum und dem Hönggerberg fahren seit Herbstsemester 2020 vollelektrisch anstatt mit Diesel und bringen drei- bis viermal pro Stunde Studierende, Mitarbeitende und Gäste von einem Campus zum anderen. Dank der Elektrifizierung der Busse können pro Jahr 190 Tonnen CO2 eingespart werden. Am 30. August 2022 ist der eLink das Thema der Public Tour «Elektrisch mobil» der ETH Zürich Tours. Teilnehmende erfahren mehr über die Einführung der ersten E-Gelenkbusse im Schweizer Linienverkehr. Sie erhalten Informationen zur Technik und erleben eine Demo des Ladevorgangs. Anschliessend heisst es: «Hereinspaziert zu einer nachhaltigen Probefahrt!» Melden Sie sich jetzt hier zu dieser Public Tour an. Die Platzzahl ist beschränkt. Für schlaue Füchse gibt es sogar etwas zu gewinnen."
+    },
+    {
+      "heading": "Mit Public Tours die ETH Zürich entdecken",
+      "text": "Jeden Dienstag um 18.15 Uhr öffnen die ETH Zürich Tours der interessierten Öffentlichkeit die Türen zur ETH. Die kostenlosen Public Tours nehmen Interessierte mit in die Labors, Ausstellungen, Archive sowie Grünanlagen der ETH Zürich und zeigen so deren ganze Bandbreite auf. Das aktuelle Public Tours-Programm befasst sich schwerpunktmässig mit Themen aus dem strategischen Handlungsfeld «Verantwortung und Nachhaltigkeit»."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2022/08/der",
+        "label": "LOC",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 22,
+        "end": 36
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 95,
+        "end": 102
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 111,
+        "end": 122
+      },
+      {
+        "text": "Diesel",
+        "label": "LOC",
+        "start": 182,
+        "end": 188
+      },
+      {
+        "text": "CO2",
+        "label": "MISC",
+        "start": 360,
+        "end": 363
+      },
+      {
+        "text": "eLink",
+        "label": "MISC",
+        "start": 410,
+        "end": 415
+      },
+      {
+        "text": "Public Tour «Elektrisch",
+        "label": "ORG",
+        "start": 430,
+        "end": 453
+      },
+      {
+        "text": "ETH Zürich Tours",
+        "label": "ORG",
+        "start": 465,
+        "end": 481
+      },
+      {
+        "text": "Teilnehmende",
+        "label": "PER",
+        "start": 483,
+        "end": 495
+      },
+      {
+        "text": "E-Gelenkbusse",
+        "label": "MISC",
+        "start": 541,
+        "end": 554
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 558,
+        "end": 567
+      },
+      {
+        "text": "Ladevorgangs",
+        "label": "ORG",
+        "start": 648,
+        "end": 660
+      },
+      {
+        "text": "Hereinspaziert",
+        "label": "PER",
+        "start": 688,
+        "end": 702
+      },
+      {
+        "text": "ETH Zürich Tours",
+        "label": "ORG",
+        "start": 39,
+        "end": 55
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 104,
+        "end": 107
+      },
+      {
+        "text": "Public Tours",
+        "label": "ORG",
+        "start": 125,
+        "end": 137
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 223,
+        "end": 233
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hereinspaziert",
+        "Teilnehmende"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "ETH Zürich Tours",
+        "Ladevorgangs",
+        "Public Tour «Elektrisch",
+        "Public Tours",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "De Internal/2022/08/der",
+        "Diesel",
+        "Hönggerberg"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CO2",
+        "E-Gelenkbusse",
+        "ETH-Angehörige",
+        "Schweizer",
+        "eLink"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich Tours": 2,
+      "De Internal/2022/08/der": 1,
+      "ETH-Angehörige": 1,
+      "Zentrum": 1,
+      "Hönggerberg": 1,
+      "Diesel": 1,
+      "CO2": 1,
+      "eLink": 1,
+      "Public Tour «Elektrisch": 1,
+      "Teilnehmende": 1,
+      "E-Gelenkbusse": 1,
+      "Schweizer": 1,
+      "Ladevorgangs": 1,
+      "Hereinspaziert": 1,
+      "ETH": 1,
+      "Public Tours": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-eth-eLink-wird-vorgestellt.md",
+      "title": "De Internal/2022/08/der Eth Elink Wird Vorgestellt",
+      "language": "de",
+      "source_path": "de_internal/2022/08/der-eth-eLink-wird-vorgestellt.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2020",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Hereinspaziert",
+        "Teilnehmende"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "E-Gelenkbusse",
+        "ETH-Angehörige",
+        "Schweizer",
+        "eLink"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Die Pendelbusse",
+        "E-Gelenkbusse",
+        "Wird Vorgestellt",
+        "Public Tour",
+        "De Internal",
+        "Stunde Studierende",
+        "Jeden Dienstag",
+        "Eth Elink",
+        "Melden Sie",
+        "Die Platzzahl",
+        "Public Tours",
+        "Schweizer Linienverkehr"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "ETH Zürich Tours",
+        "Ladevorgangs",
+        "Public Tour «Elektrisch",
+        "Public Tours",
+        "Zentrum"
+      ],
+      "locations": [
+        "De Internal/2022/08/der",
+        "Diesel",
+        "Hönggerberg"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich Tours",
+        "De Internal/2022/08/der",
+        "ETH-Angehörige",
+        "Zentrum",
+        "Hönggerberg",
+        "Diesel",
+        "CO2",
+        "eLink",
+        "Public Tour «Elektrisch",
+        "Teilnehmende"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Mit Public Tours die ETH Zürich entdecken",
+          "Mit Public Tours die ETH Zürich entdecken"
+        ],
+        "content_length": 1348
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hereinspaziert",
+        "ETH",
+        "2020",
+        "ETH Zürich",
+        "Zentrum",
+        "Ladevorgangs",
+        "2022",
+        "ETH Zürich Tours",
+        "Public Tours",
+        "Public Tour «Elektrisch",
+        "Teilnehmende"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige",
+        "E-Gelenkbusse",
+        "eLink",
+        "Schweizer"
+      ],
+      "graph_relations": []
+    }
+  }
+}

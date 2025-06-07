@@ -1,0 +1,165 @@
+{
+  "filename": "de_internal_2014_11_leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.md",
+  "original_filename": "de_internal_2014_11_leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.html",
+  "source_path": "de_internal/2014/11/leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.html",
+  "date": "2014-11",
+  "title": "Leitfaden Fuer Dozierende Neu Im Web Statt Auf Papier",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Leitfaden für Dozierende",
+      "text": "Wer an der ETH doziert, kennt ihn: den orangefarbenen «Leitfaden für Dozierende». Das Rektorat hat den Leitfaden bisher jeweils neuen Dozierenden per Post geschickt.\n\nNun hat das Rektorat den Leitfaden im Web umgesetzt. Die Vorteile liegen auf der Hand: Die Informationen sind von überall zugänglich und Anpassungen sind rasch möglich.\n\nDer Leitfaden orientiert sich am Prozess, den Dozierende bei der Planung und Durchführung ihrer Lehrveranstaltung durchlaufen und ordnet die Themen den Prozessschritten entlang."
+    },
+    {
+      "heading": "Leitfaden für Dozierende",
+      "text": "Den «Leitfaden für Dozierende» finden Sie hier:\n\nwww.ethz.ch/leitfaden-dozierende\n\nRückmeldungen nimmt gerne entgegen:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/11",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Fuer",
+        "label": "LOC",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "Leitfaden für Dozierende",
+        "label": "ORG",
+        "start": 55,
+        "end": 79
+      },
+      {
+        "text": "Leitfaden im Web",
+        "label": "MISC",
+        "start": 191,
+        "end": 207
+      },
+      {
+        "text": "Leitfaden für Dozierende",
+        "label": "ORG",
+        "start": 5,
+        "end": 29
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "Leitfaden für Dozierende"
+      ],
+      "LOCATION": [
+        "De Internal/2014/11",
+        "Fuer"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Leitfaden im Web"
+      ]
+    },
+    "entity_counts": {
+      "Leitfaden für Dozierende": 2,
+      "De Internal/2014/11": 1,
+      "Fuer": 1,
+      "ETH": 1,
+      "Leitfaden im Web": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2014_11_leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.md",
+      "title": "De Internal/2014/11/leitfaden Fuer Dozierende Neu Im Web Statt auf Papier",
+      "language": "de",
+      "source_path": "de_internal/2014/11/leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Leitfaden im Web"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Papier Wer",
+        "Neu Im",
+        "Der Leitfaden",
+        "Fuer Dozierende",
+        "De Internal",
+        "Die Informationen",
+        "Web Statt",
+        "Die Vorteile",
+        "Das Rektorat"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Leitfaden für Dozierende"
+      ],
+      "locations": [
+        "De Internal/2014/11",
+        "Fuer"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Leitfaden für Dozierende",
+        "De Internal/2014/11",
+        "Fuer",
+        "ETH",
+        "Leitfaden im Web"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Leitfaden für Dozierende",
+          "Leitfaden für Dozierende"
+        ],
+        "content_length": 707
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "EU",
+        "2014",
+        "Leitfaden für Dozierende"
+      ],
+      "semantic_concepts": [
+        "Leitfaden im Web"
+      ],
+      "graph_relations": []
+    }
+  }
+}

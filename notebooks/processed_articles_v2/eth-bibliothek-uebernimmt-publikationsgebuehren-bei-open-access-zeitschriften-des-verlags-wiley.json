@@ -1,0 +1,184 @@
+{
+  "filename": "eth-bibliothek-uebernimmt-publikationsgebuehren-bei-open-access-zeitschriften-des-verlags-wiley.md",
+  "original_filename": "eth-bibliothek-uebernimmt-publikationsgebuehren-bei-open-access-zeitschriften-des-verlags-wiley.html",
+  "source_path": "de_internal/2016/09/eth-bibliothek-uebernimmt-publikationsgebuehren-bei-open-access-zeitschriften-des-verlags-wiley.html",
+  "date": "2016-09",
+  "title": "Eth Bibliothek Uebernimmt Publikationsgebuehren Bei Open Access Zeitschriften Des Verlags Wiley",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Voraussetzung ist, dass der Erstautor des eingereichten Artikels an der ETH Zürich beschäftigt ist. Die Übernahme gilt ausschliesslich für die externe Seite reinen Open-Access-Zeitschriften von Wiley .\n\nDamit die Kosten übernommen werden, muss bei der Übermittlung des Manuskripts über das Online-Formular der jeweiligen externe Seite Wiley-Open-Access-Zeitschrift bei der Angabe der Institution im Drop-Down-Menü die ETH Zürich ausgewählt werden.\n\nMit Fragen zur neuen Regelung wenden Sie sich bitte an die ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/09/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Verlags Wiley",
+        "label": "MISC",
+        "start": 102,
+        "end": 115
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 72,
+        "end": 82
+      },
+      {
+        "text": "Wiley",
+        "label": "LOC",
+        "start": 194,
+        "end": 199
+      },
+      {
+        "text": "Manuskripts",
+        "label": "MISC",
+        "start": 268,
+        "end": 279
+      },
+      {
+        "text": "Wiley-Open-Access-Zeitschrift",
+        "label": "PER",
+        "start": 334,
+        "end": 363
+      },
+      {
+        "text": "Drop-Down-Menü",
+        "label": "MISC",
+        "start": 398,
+        "end": 412
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 417,
+        "end": 427
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Wiley-Open-Access-Zeitschrift"
+      ],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2016/09/",
+        "Wiley"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Drop-Down-Menü",
+        "Manuskripts",
+        "Verlags Wiley"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2016/09/": 1,
+      "Verlags Wiley": 1,
+      "Wiley": 1,
+      "Manuskripts": 1,
+      "Wiley-Open-Access-Zeitschrift": 1,
+      "Drop-Down-Menü": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-bibliothek-uebernimmt-publikationsgebuehren-bei-open-access-zeitschriften-des-verlags-wiley.md",
+      "title": "De Internal/2016/09/eth Bibliothek Uebernimmt Publikationsgebuehren bei Open Access Zeitschriften des Verlags Wiley",
+      "language": "de",
+      "source_path": "de_internal/2016/09/eth-bibliothek-uebernimmt-publikationsgebuehren-bei-open-access-zeitschriften-des-verlags-wiley.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Wiley-Open-Access-Zeitschrift"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Drop-Down-Menü",
+        "Manuskripts",
+        "Verlags Wiley"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Bibliothek Uebernimmt",
+        "Drop-Down",
+        "De Internal",
+        "Seite Wiley",
+        "Online-Formular",
+        "Mit Fragen",
+        "Verlags Wiley",
+        "Open-Access",
+        "Open Access"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2016/09/",
+        "Wiley"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2016/09/",
+        "Verlags Wiley",
+        "Wiley",
+        "Manuskripts",
+        "Wiley-Open-Access-Zeitschrift",
+        "Drop-Down-Menü"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 625
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "Wiley-Open-Access-Zeitschrift",
+        "EU",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "Manuskripts",
+        "Drop-Down-Menü",
+        "Verlags Wiley"
+      ],
+      "graph_relations": []
+    }
+  }
+}

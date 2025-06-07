@@ -1,0 +1,305 @@
+{
+  "filename": "ueber-fluesse-und-schluchten-die-schweiz-und-ihre-brueckenbauer0.md",
+  "original_filename": "ueber-fluesse-und-schluchten-die-schweiz-und-ihre-brueckenbauer0.html",
+  "source_path": "en_internal/2021/06/ueber-fluesse-und-schluchten-die-schweiz-und-ihre-brueckenbauer0.html",
+  "date": "2021-06",
+  "title": "Ueber Fluesse Und Schluchten Die Schweiz Und Ihre Brueckenbauer0",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "From a craft to the art of engineering",
+      "text": "Modern bridge-building began more than 150 years ago. Since then it has undergone great changes, which continue up to the present day. Engineers from ETH Zurich played an important role in this regard. Not only did they develop technical fundamentals, but they also created true works of art both in Switzerland and abroad. After all, ETH was founded in 1855 expressly with the aim of also training “technicians for roadway, railway, hydraulic and bridge engineering”."
+    },
+    {
+      "heading": "From a craft to the art of engineering",
+      "text": "At the end of the 19th century, students were able to gain new knowledge at engineering schools both in Switzerland and abroad. Scientific publications, like those by Karl Culman, a professor at the Polytechnic Institute, provided civil engineers with a scientific basis, which for the first time enabled them to build bridges that matched the forces they encountered. That was especially significant for the new bridges made of iron or steel, which were now being built in many locations.\n\nBridges were and still are symbols – standing for progress but also for construction sins, as well as exemplifying the backlash they caused. Today, bridges are built in a more sustainable, more aesthetic and more considerate way.\n\nRead the new story on Explora."
+    },
+    {
+      "heading": "Don’t miss ...",
+      "text": "More news in July! The last episode of the miniseries “ Protecting coral reefs ” is online. Marie Griesmar, who initiated the project to save submarine ecosystems using artworks made of clay, gives her conclusions."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Fluesse",
+        "label": "GPE",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "text": "Schluchten",
+        "label": "CARDINAL",
+        "start": 38,
+        "end": 48
+      },
+      {
+        "text": "Schweiz",
+        "label": "PERSON",
+        "start": 53,
+        "end": 60
+      },
+      {
+        "text": "Ihre",
+        "label": "PERSON",
+        "start": 65,
+        "end": 69
+      },
+      {
+        "text": "more than 150 years ago",
+        "label": "DATE",
+        "start": 29,
+        "end": 52
+      },
+      {
+        "text": "the present day",
+        "label": "DATE",
+        "start": 118,
+        "end": 133
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 300,
+        "end": 311
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 335,
+        "end": 338
+      },
+      {
+        "text": "the end of the 19th century",
+        "label": "DATE",
+        "start": 3,
+        "end": 30
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 104,
+        "end": 115
+      },
+      {
+        "text": "Karl Culman",
+        "label": "PERSON",
+        "start": 167,
+        "end": 178
+      },
+      {
+        "text": "the Polytechnic Institute",
+        "label": "ORG",
+        "start": 195,
+        "end": 220
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 286,
+        "end": 291
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 631,
+        "end": 636
+      },
+      {
+        "text": "Explora",
+        "label": "GPE",
+        "start": 742,
+        "end": 749
+      },
+      {
+        "text": "July",
+        "label": "DATE",
+        "start": 13,
+        "end": 17
+      },
+      {
+        "text": "Marie Griesmar",
+        "label": "PERSON",
+        "start": 92,
+        "end": 106
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ihre",
+        "Karl Culman",
+        "Marie Griesmar",
+        "Schweiz"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "the Polytechnic Institute"
+      ],
+      "LOCATION": [
+        "Explora",
+        "Fluesse",
+        "Switzerland"
+      ],
+      "DATE": [
+        "July",
+        "Today",
+        "more than 150 years ago",
+        "the end of the 19th century",
+        "the present day"
+      ],
+      "MISC": [
+        "Schluchten",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 2,
+      "Fluesse": 1,
+      "Schluchten": 1,
+      "Schweiz": 1,
+      "Ihre": 1,
+      "more than 150 years ago": 1,
+      "the present day": 1,
+      "ETH Zurich": 1,
+      "ETH": 1,
+      "the end of the 19th century": 1,
+      "Karl Culman": 1,
+      "the Polytechnic Institute": 1,
+      "first": 1,
+      "Today": 1,
+      "Explora": 1,
+      "July": 1,
+      "Marie Griesmar": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ueber-fluesse-und-schluchten-die-schweiz-und-ihre-brueckenbauer0.md",
+      "title": "En Internal/2021/06/ueber Fluesse und Schluchten die Schweiz und Ihre Brueckenbauer0",
+      "language": "en",
+      "source_path": "en_internal/2021/06/ueber-fluesse-und-schluchten-die-schweiz-und-ihre-brueckenbauer0.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ihre",
+        "Karl Culman",
+        "Marie Griesmar",
+        "Schweiz"
+      ],
+      "people_with_roles": {
+        "Karl Culman": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Schluchten",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Marie Griesmar",
+        "En Internal",
+        "Karl Culman",
+        "Polytechnic Institute",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "the Polytechnic Institute"
+      ],
+      "locations": [
+        "Explora",
+        "Fluesse",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "Fluesse",
+        "Schluchten",
+        "Schweiz",
+        "Ihre",
+        "more than 150 years ago",
+        "the present day",
+        "ETH Zurich",
+        "ETH",
+        "the end of the 19th century"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "From a craft to the art of engineering",
+          "From a craft to the art of engineering",
+          "Don’t miss ..."
+        ],
+        "content_length": 1521
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Marie Griesmar",
+        "ETH",
+        "Schweiz",
+        "Ihre",
+        "the Polytechnic Institute",
+        "Karl Culman",
+        "ETH Zurich",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "where",
+        "what",
+        "Schluchten",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Karl Culman_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

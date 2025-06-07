@@ -1,0 +1,625 @@
+{
+  "filename": "better-cancer-diagnosis-thanks-to-digital-3d-images.md",
+  "original_filename": "better-cancer-diagnosis-thanks-to-digital-3d-images.html",
+  "source_path": "en_news_events/2023/10/better-cancer-diagnosis-thanks-to-digital-3d-images.html",
+  "date": "2023-10",
+  "title": "Better Cancer Diagnosis Thanks To Digital 3D Images",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Innovation through a groundbreaking interdisciplinary solution",
+      "text": "It all started with an innocuous question at the start of Francesca Catto’s doctoral thesis: wouldn’t it be nice if tissue samples could be coloured and digitally displayed as a 3D image? For over 100 years, histology, a branch of pathology that deals with tissue changes, has been using an analogue method that involves cutting tissue samples into micrometre-thin slices (about seven times thinner than a human hair) and examining them for pathological mutations under the microscope. This technique results in one in six people being misdiagnosed and cancer cells going undetected.\n\nCatto, who did her thesis in neuroscience at the University of Zurich under the supervision of Professor Adriano Aguzzi, describes the early days as difficult: “We started out trying different approaches, but nothing worked. It was a nightmare. Fortunately, we entered into a collaboration with the groups of Professor Mirko Meboldt and Professor Alexander Mathys that resulted in the emergence of a successful approach. That’s how Robert Axelrod, who has a doctorate in the field of processing technologies from ETH Zurich, joined the project.”"
+    },
+    {
+      "heading": "Innovation through a groundbreaking interdisciplinary solution",
+      "text": "Using an approach that combines technologies from biomedicine and mechanical engineering, the two researchers developed a robotic platform that diagnoses cancer more accurately and provides three-dimensional information about the cells’ spatial arrangement. This process comprises four steps. First, the researchers make the tissue sample transparent in an automated way. Next, they rapidly mark or colour any conspicuous cells. The third step is to create an image of the 3D tissue where cancer cells are mapped; the technology for this already exists. The final step is an analysis with 3D imaging software and training algorithms."
+    },
+    {
+      "heading": "Always keep the goal in mind",
+      "text": "This innovative solution no longer calls for tissue samples to be prepared and cut in a time-consuming manner; instead, the tissue – a lymph node, say – is preserved whole and examined in its entirety. The digital 3D visualisation with the marked cells can be accessed online at any time."
+    },
+    {
+      "heading": "New experiences and successes",
+      "text": "In the lab, the robot prototype works and moves the samples around. However, the platform is not yet fully ready for the market. Axelrod says that while they can offer initial services by making sent-in tissue transparent in an automated way and quickly producing a labelled 3D image, they still need to optimise the software.\n\nThe two researchers also face challenges of a different kind as part of their Pioneer Fellowship, which is intended to lead to the founding of a start-up: “As a scientist, you have a different mindset when it comes to things like time management. Researchers are often perfectionists, because they don’t publish anything until it’s absolutely perfect and tested.” But this project is allowing Catto and Axelrod to take their first steps in the world of start-ups, where they have to try out more, get feedback and go through fast, iterative cycles. “This has a major impact on time management,” Catto says.\n\nCatto and Axelrod cite their fantastic team as one of their biggest successes so far. Finding people with the right technical and social skills to get the team dynamic the two researchers wanted was a new experience for them both. Carrying out the full procedure for the first time was also an important technical milestone.\n\nWhen asked if there’s time for hobbies besides the countless hours spent in the office and the lab, both of them laugh. The question seems obvious. For the time being, it’s still possible to maintain a healthy work-life balance, they say, and that’s important to them. “Although I fear that might change once the next phase of the project begins,” Catto says. In difficult moments, they are motivated by the idea of their start-up doing well and the market launch of their product: “Thinking about the positive impact our robotic platform will have on histology is very motivating when times are tough. That’s what drives us, especially whenever things don’t go as planned,” Axelrod adds.\n\nThe goal of bringing a good product to market is important to both of them – and not just because they personally want to see their start-up succeed. They also want to give research labs and clinics a useful, functional and reliable product that will catapult cancer diagnosis into the digital world.\n\nPersonal development is close to the duo’s heart as well. The world of start-ups is, after all, the perfect place to become a good leader and still retain your own personality, to grow as a person and have new experiences.\n\nAxelrod, Robert, Julia Baumgartner, Michael Beyrer, Alexander Mathys. (2023). Experimental and simulation-based investigation of the interplay between factor gradients following pulsed electric field treatments triggering whey protein aggregations. Journal of Food Engineering , 340, 111308. doi: 10.1016/j.jfoodeng.2022.111308 Kirschenbaum Daniel, Dadgar-Kiani Ehsan, Catto Francesca, et al. (2023). Whole-brain microscopy reveals distinct temporal and spatial efficacy of anti-Aβ therapies. EMBO Mol Med. , 15(1):e16789. doi: 10.15252/emmm.202216789"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Digital",
+        "label": "ORG",
+        "start": 57,
+        "end": 64
+      },
+      {
+        "text": "Francesca Catto’s",
+        "label": "PERSON",
+        "start": 58,
+        "end": 75
+      },
+      {
+        "text": "3D",
+        "label": "CARDINAL",
+        "start": 178,
+        "end": 180
+      },
+      {
+        "text": "over 100 years",
+        "label": "DATE",
+        "start": 192,
+        "end": 206
+      },
+      {
+        "text": "about seven",
+        "label": "CARDINAL",
+        "start": 373,
+        "end": 384
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 512,
+        "end": 515
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 519,
+        "end": 522
+      },
+      {
+        "text": "Catto",
+        "label": "GPE",
+        "start": 584,
+        "end": 589
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 629,
+        "end": 653
+      },
+      {
+        "text": "Adriano Aguzzi",
+        "label": "PERSON",
+        "start": 689,
+        "end": 703
+      },
+      {
+        "text": "the early days",
+        "label": "DATE",
+        "start": 715,
+        "end": 729
+      },
+      {
+        "text": "Mirko Meboldt",
+        "label": "PERSON",
+        "start": 903,
+        "end": 916
+      },
+      {
+        "text": "Alexander Mathys",
+        "label": "PERSON",
+        "start": 931,
+        "end": 947
+      },
+      {
+        "text": "Robert Axelrod",
+        "label": "PERSON",
+        "start": 1016,
+        "end": 1030
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1097,
+        "end": 1107
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 94,
+        "end": 97
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 190,
+        "end": 195
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 281,
+        "end": 285
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 293,
+        "end": 298
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 433,
+        "end": 438
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 589,
+        "end": 591
+      },
+      {
+        "text": "Axelrod",
+        "label": "PERSON",
+        "start": 129,
+        "end": 136
+      },
+      {
+        "text": "3D",
+        "label": "ORG",
+        "start": 275,
+        "end": 277
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 331,
+        "end": 334
+      },
+      {
+        "text": "Pioneer Fellowship",
+        "label": "FAC",
+        "start": 405,
+        "end": 423
+      },
+      {
+        "text": "Catto",
+        "label": "GPE",
+        "start": 720,
+        "end": 725
+      },
+      {
+        "text": "Axelrod",
+        "label": "GPE",
+        "start": 730,
+        "end": 737
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 752,
+        "end": 757
+      },
+      {
+        "text": "Catto",
+        "label": "PERSON",
+        "start": 922,
+        "end": 927
+      },
+      {
+        "text": "Catto",
+        "label": "GPE",
+        "start": 934,
+        "end": 939
+      },
+      {
+        "text": "Axelrod",
+        "label": "PERSON",
+        "start": 944,
+        "end": 951
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1106,
+        "end": 1109
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1205,
+        "end": 1210
+      },
+      {
+        "text": "Catto",
+        "label": "PERSON",
+        "start": 1607,
+        "end": 1612
+      },
+      {
+        "text": "Axelrod",
+        "label": "PERSON",
+        "start": 1934,
+        "end": 1941
+      },
+      {
+        "text": "Axelrod",
+        "label": "PERSON",
+        "start": 2472,
+        "end": 2479
+      },
+      {
+        "text": "Robert",
+        "label": "PERSON",
+        "start": 2481,
+        "end": 2487
+      },
+      {
+        "text": "Julia Baumgartner",
+        "label": "PERSON",
+        "start": 2489,
+        "end": 2506
+      },
+      {
+        "text": "Michael Beyrer",
+        "label": "PERSON",
+        "start": 2508,
+        "end": 2522
+      },
+      {
+        "text": "Alexander Mathys",
+        "label": "PERSON",
+        "start": 2524,
+        "end": 2540
+      },
+      {
+        "text": "Journal of Food Engineering",
+        "label": "ORG",
+        "start": 2721,
+        "end": 2748
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 2769,
+        "end": 2776
+      },
+      {
+        "text": "Kirschenbaum Daniel",
+        "label": "ORG",
+        "start": 2800,
+        "end": 2819
+      },
+      {
+        "text": "Catto Francesca",
+        "label": "PERSON",
+        "start": 2841,
+        "end": 2856
+      },
+      {
+        "text": "al",
+        "label": "PERSON",
+        "start": 2861,
+        "end": 2863
+      },
+      {
+        "text": "anti-Aβ",
+        "label": "NORP",
+        "start": 2946,
+        "end": 2953
+      },
+      {
+        "text": "EMBO Mol Med.",
+        "label": "PERSON",
+        "start": 2965,
+        "end": 2978
+      },
+      {
+        "text": "15(1):e16789",
+        "label": "DATE",
+        "start": 2981,
+        "end": 2993
+      },
+      {
+        "text": "10.15252",
+        "label": "CARDINAL",
+        "start": 3000,
+        "end": 3008
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adriano Aguzzi",
+        "Alexander Mathys",
+        "Axelrod",
+        "Catto",
+        "Catto Francesca",
+        "EMBO Mol Med.",
+        "Francesca Catto’s",
+        "Julia Baumgartner",
+        "Michael Beyrer",
+        "Mirko Meboldt",
+        "Robert",
+        "Robert Axelrod",
+        "al"
+      ],
+      "ORG": [
+        "3D",
+        "Digital",
+        "ETH Zurich",
+        "Journal of Food Engineering",
+        "Kirschenbaum Daniel",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Axelrod",
+        "Catto",
+        "Pioneer Fellowship"
+      ],
+      "DATE": [
+        "15(1):e16789",
+        "over 100 years",
+        "the early days"
+      ],
+      "MISC": [
+        "10.1016",
+        "10.15252",
+        "3D",
+        "First",
+        "about seven",
+        "anti-Aβ",
+        "first",
+        "four",
+        "one",
+        "six",
+        "third",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Catto": 5,
+      "Axelrod": 5,
+      "3D": 3,
+      "two": 3,
+      "Alexander Mathys": 2,
+      "first": 2,
+      "Digital": 1,
+      "Francesca Catto’s": 1,
+      "over 100 years": 1,
+      "about seven": 1,
+      "one": 1,
+      "six": 1,
+      "the University of Zurich": 1,
+      "Adriano Aguzzi": 1,
+      "the early days": 1,
+      "Mirko Meboldt": 1,
+      "Robert Axelrod": 1,
+      "ETH Zurich": 1,
+      "three": 1,
+      "four": 1
+    },
+    "total_entities": 49,
+    "unique_entities": 35
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "better-cancer-diagnosis-thanks-to-digital-3d-images.md",
+      "title": "En News Events/2023/10/better Cancer Diagnosis Thanks To Digital 3d Images",
+      "language": "en",
+      "source_path": "en_news_events/2023/10/better-cancer-diagnosis-thanks-to-digital-3d-images.html"
+    },
+    "temporal": {
+      "publication_date": "2023-10",
+      "mentioned_years": [
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Adriano Aguzzi",
+        "Alexander Mathys",
+        "Axelrod",
+        "Catto",
+        "Catto Francesca",
+        "EMBO Mol Med.",
+        "Francesca Catto’s",
+        "Julia Baumgartner",
+        "Michael Beyrer",
+        "Mirko Meboldt",
+        "Robert",
+        "Robert Axelrod",
+        "al"
+      ],
+      "people_with_roles": {
+        "Adriano Aguzzi": [
+          "Professor",
+          "professor"
+        ],
+        "Alexander Mathys": [
+          "Professor",
+          "professor"
+        ],
+        "Catto": [
+          "professor"
+        ],
+        "Mirko Meboldt": [
+          "Professor",
+          "professor"
+        ],
+        "al": [
+          "scientist",
+          "Professor",
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "physics",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1016",
+        "10.15252",
+        "First",
+        "about seven",
+        "anti-Aβ",
+        "first",
+        "four",
+        "third",
+        "three"
+      ],
+      "grants_funding": [
+        "EU",
+        "fellowship"
+      ],
+      "projects": [
+        "Michael Beyrer",
+        "Catto Francesca",
+        "EMBO Mol",
+        "Cancer Diagnosis",
+        "Professor Mirko",
+        "Kirschenbaum Daniel",
+        "Professor Alexander",
+        "Professor Adriano",
+        "Julia Baumgartner",
+        "Images It",
+        "Although I",
+        "Thanks To",
+        "Alexander Mathys",
+        "Francesca Catto",
+        "Robert Axelrod",
+        "Dadgar-Kiani",
+        "Food Engineering",
+        "En News",
+        "ETH Zurich",
+        "Pioneer Fellowship"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3D",
+        "Digital",
+        "ETH Zurich",
+        "Journal of Food Engineering",
+        "Kirschenbaum Daniel",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Axelrod",
+        "Catto",
+        "Pioneer Fellowship"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Catto",
+        "Axelrod",
+        "3D",
+        "two",
+        "Alexander Mathys",
+        "first",
+        "Digital",
+        "Francesca Catto’s",
+        "over 100 years",
+        "about seven"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Innovation through a groundbreaking interdisciplinary solution",
+          "Innovation through a groundbreaking interdisciplinary solution",
+          "Always keep the goal in mind",
+          "New experiences and successes"
+        ],
+        "content_length": 5158
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Robert",
+        "Michael Beyrer",
+        "Catto Francesca",
+        "the University of Zurich",
+        "3D",
+        "Francesca Catto’s",
+        "Mirko Meboldt",
+        "Adriano Aguzzi",
+        "Kirschenbaum Daniel",
+        "2022",
+        "Axelrod",
+        "Julia Baumgartner",
+        "fellowship",
+        "Digital",
+        "EU",
+        "Alexander Mathys",
+        "al",
+        "Robert Axelrod",
+        "Catto",
+        "EMBO Mol Med.",
+        "Journal of Food Engineering",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1016",
+        "three",
+        "anti-Aβ",
+        "when",
+        "engineering",
+        "third",
+        "four",
+        "10.15252",
+        "medical_research",
+        "mathematics",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "about seven",
+        "physics",
+        "first",
+        "First",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Adriano Aguzzi_has_role_Professor",
+        "Adriano Aguzzi_has_role_professor",
+        "Alexander Mathys_has_role_Professor",
+        "Alexander Mathys_has_role_professor",
+        "Catto_has_role_professor",
+        "Mirko Meboldt_has_role_Professor",
+        "Mirko Meboldt_has_role_professor",
+        "al_has_role_scientist",
+        "al_has_role_Professor",
+        "al_has_role_researcher",
+        "al_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "filename": "turn-of-the-year.md",
+  "original_filename": "turn-of-the-year.html",
+  "source_path": "de_internal/2018/12/turn-of-the-year.html",
+  "date": "2018-12",
+  "title": "Turn Of The Year",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "None",
+      "text": "Auch wenn ab dem 22. Dezember die diversen Gebäude der ETH geschlossen bleiben, ist der Zutritt mit Schlüssel oder mit der ETH-Karte (Personalausweis/Legi) möglich. Wie Sie eine Zutrittsberechtigung für ein Gebäude bestellen, erfahren Sie unter der Webseite « 24-Stunden-Zugang Studierendenarbeitsplätze » im ETH-Web.\n\nFür Vorkommnisse im Personen-, Gebäude- und Anlagenschutz steht Ihnen die Alarmzentrale der ETH Zürich zur Verfügung. Dasselbe gilt bei schwerwiegenden technischen Problemen mit (Forschungs-)Anlagen oder der IT-Infrastruktur. Sie erreichen die Alarmzentrale unter 888 (von internen Telefonanschlüssen) oder 044 342 11 88 (von externen Telefonanschlüssen oder vom Mobiltelefon)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/12/turn Of The Year",
+        "label": "LOC",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "ETH-Karte",
+        "label": "MISC",
+        "start": 123,
+        "end": 132
+      },
+      {
+        "text": "Personalausweis/Legi",
+        "label": "LOC",
+        "start": 134,
+        "end": 154
+      },
+      {
+        "text": "24-Stunden-Zugang Studierendenarbeitsplätze",
+        "label": "LOC",
+        "start": 260,
+        "end": 303
+      },
+      {
+        "text": "ETH-Web",
+        "label": "MISC",
+        "start": 309,
+        "end": 316
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 410,
+        "end": 420
+      },
+      {
+        "text": "IT-Infrastruktur",
+        "label": "ORG",
+        "start": 526,
+        "end": 542
+      },
+      {
+        "text": "Alarmzentrale",
+        "label": "LOC",
+        "start": 562,
+        "end": 575
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "IT-Infrastruktur"
+      ],
+      "LOCATION": [
+        "24-Stunden-Zugang Studierendenarbeitsplätze",
+        "Alarmzentrale",
+        "De Internal/2018/12/turn Of The Year",
+        "Personalausweis/Legi"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Karte",
+        "ETH-Web"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2018/12/turn Of The Year": 1,
+      "ETH": 1,
+      "ETH-Karte": 1,
+      "Personalausweis/Legi": 1,
+      "24-Stunden-Zugang Studierendenarbeitsplätze": 1,
+      "ETH-Web": 1,
+      "ETH Zürich": 1,
+      "IT-Infrastruktur": 1,
+      "Alarmzentrale": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "turn-of-the-year.md",
+      "title": "De Internal/2018/12/turn Of The Year",
+      "language": "de",
+      "source_path": "de_internal/2018/12/turn-of-the-year.html"
+    },
+    "temporal": {
+      "publication_date": "2018-12",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Karte",
+        "ETH-Web"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Wie Sie",
+        "IT-Infrastruktur",
+        "De Internal",
+        "Stunden-Zugang",
+        "Year Auch",
+        "ETH-Karte",
+        "Of The",
+        "ETH-Web"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "IT-Infrastruktur"
+      ],
+      "locations": [
+        "24-Stunden-Zugang Studierendenarbeitsplätze",
+        "Alarmzentrale",
+        "De Internal/2018/12/turn Of The Year",
+        "Personalausweis/Legi"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2018/12/turn Of The Year",
+        "ETH",
+        "ETH-Karte",
+        "Personalausweis/Legi",
+        "24-Stunden-Zugang Studierendenarbeitsplätze",
+        "ETH-Web",
+        "ETH Zürich",
+        "IT-Infrastruktur",
+        "Alarmzentrale"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "None"
+        ],
+        "content_length": 733
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH",
+        "2018",
+        "IT-Infrastruktur"
+      ],
+      "semantic_concepts": [
+        "who",
+        "when",
+        "ETH-Karte",
+        "ETH-Web"
+      ],
+      "graph_relations": []
+    }
+  }
+}

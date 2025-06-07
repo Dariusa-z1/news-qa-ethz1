@@ -1,0 +1,441 @@
+{
+  "filename": "congratulations-with-hoodie.md",
+  "original_filename": "congratulations-with-hoodie.html",
+  "source_path": "en_news_events/2015/10/congratulations-with-hoodie.html",
+  "date": "2015-10",
+  "title": "Congratulations With Hoodie",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Run on hoodies",
+      "text": "Tuesday afternoon in the main building at ETH Zurich, a crowd of students gathers, almost like a rugby match. They cluster around a row of tables, present the assistants with a voucher and receive a hoodie wrapped in plastic with the embroidered logo 'ETH Zürich – best. 2015.' Most of them pulled on the hoodie straight away, posing like models and taking photos with their phones. Everyone was clearly excited about the unexpected addition to their wardrobes.\n\nThis hoodie is also a special gift. It is the first time that bachelor students who passed their first-year examinations have received a hoodie. They were designed by ETH Zurich especially for this campaign in order to congratulate the students on their exam performance.\n\n\"We know how tough the first-year examinations are for students,\" says ETH Rector Sarah Springman, \"which is why we wanted to honour all those who overcame this hurdle with this hoodie.\" The students should be proud of their performance, and demonstrate this by wearing the hoodie both inside and outside the ETH community. \"I hope that this honour strengthens the students' bond with ETH,\" emphasises the Rector, who was on hand to give out the hoodies."
+    },
+    {
+      "heading": "Run on hoodies",
+      "text": "1,690 bachelor students who passed their first-year examinations received a congratulatory letter and voucher, which they could use to pre-order the hoodie in one of the two ETH stores. The response rate exceeded all expectations: 92 percent of students order one – in absolute numbers this equated to 1,565 hoodies.\n\nThe first-year examinations are the first challenge in the bachelor's programme. This year around 2,600 students from all subject areas took the exams, of which 1,690 (around 65%) passed. Those who did not pass the exams on the first attempt can take them again next year and look forward to a hoodie with 'best. 2016' embroidered on the logo.\n\nThe hoodie is a gift in both senses of the word: a gift to the ETH students and a gift to ETH itself since the costs of the sweatshirts were covered by the Huber-Kudlich Foundation.\n\nSpeaking of which: students who want to redeem their voucher later on can do so in one of the two ETH stores in the centre or at the Hönggerberg campus. Anyone who missed out can only hope that one or two hoodies are leftover – and only then while stocks last."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Hoodie",
+        "label": "PERSON",
+        "start": 44,
+        "end": 50
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "afternoon",
+        "label": "TIME",
+        "start": 8,
+        "end": 17
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 42,
+        "end": 52
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 252,
+        "end": 262
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 508,
+        "end": 513
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 559,
+        "end": 569
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 629,
+        "end": 639
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 757,
+        "end": 767
+      },
+      {
+        "text": "ETH Rector",
+        "label": "ORG",
+        "start": 805,
+        "end": 815
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 816,
+        "end": 831
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1043,
+        "end": 1046
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1119,
+        "end": 1122
+      },
+      {
+        "text": "1,690",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 41,
+        "end": 51
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 159,
+        "end": 162
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 170,
+        "end": 173
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 174,
+        "end": 177
+      },
+      {
+        "text": "92 percent",
+        "label": "PERCENT",
+        "start": 231,
+        "end": 241
+      },
+      {
+        "text": "1,565",
+        "label": "CARDINAL",
+        "start": 302,
+        "end": 307
+      },
+      {
+        "text": "first-year",
+        "label": "DATE",
+        "start": 321,
+        "end": 331
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 353,
+        "end": 358
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 398,
+        "end": 407
+      },
+      {
+        "text": "2,600",
+        "label": "CARDINAL",
+        "start": 415,
+        "end": 420
+      },
+      {
+        "text": "1,690",
+        "label": "CARDINAL",
+        "start": 478,
+        "end": 483
+      },
+      {
+        "text": "around 65%",
+        "label": "PERCENT",
+        "start": 485,
+        "end": 495
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 545,
+        "end": 550
+      },
+      {
+        "text": "next year",
+        "label": "DATE",
+        "start": 579,
+        "end": 588
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 724,
+        "end": 727
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 751,
+        "end": 754
+      },
+      {
+        "text": "the Huber-Kudlich Foundation",
+        "label": "ORG",
+        "start": 813,
+        "end": 841
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 926,
+        "end": 929
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 937,
+        "end": 940
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 941,
+        "end": 944
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 976,
+        "end": 987
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1037,
+        "end": 1040
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1044,
+        "end": 1047
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zürich",
+        "Hoodie",
+        "Sarah Springman"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Rector",
+        "ETH Zurich",
+        "the Huber-Kudlich Foundation"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "This year",
+        "Tuesday",
+        "afternoon",
+        "first-year",
+        "next year"
+      ],
+      "MISC": [
+        "1,565",
+        "1,690",
+        "2,600",
+        "92 percent",
+        "around 65%",
+        "first",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 6,
+      "first-year": 4,
+      "first": 3,
+      "one": 3,
+      "two": 3,
+      "ETH Zurich": 2,
+      "1,690": 2,
+      "Hoodie": 1,
+      "Tuesday": 1,
+      "afternoon": 1,
+      "ETH Zürich": 1,
+      "ETH Rector": 1,
+      "Sarah Springman": 1,
+      "92 percent": 1,
+      "1,565": 1,
+      "This year": 1,
+      "2,600": 1,
+      "around 65%": 1,
+      "next year": 1,
+      "the Huber-Kudlich Foundation": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "congratulations-with-hoodie.md",
+      "title": "En News Events/2015/10/congratulations With Hoodie",
+      "language": "en",
+      "source_path": "en_news_events/2015/10/congratulations-with-hoodie.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zürich",
+        "Hoodie",
+        "Sarah Springman"
+      ],
+      "people_with_roles": {
+        "Hoodie": [
+          "student",
+          "rector"
+        ],
+        "Sarah Springman": [
+          "student",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1,565",
+        "1,690",
+        "2,600",
+        "92 percent",
+        "around 65%",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "En News",
+        "ETH Rector",
+        "Sarah Springman",
+        "Huber-Kudlich",
+        "With Hoodie",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Rector",
+        "ETH Zurich",
+        "the Huber-Kudlich Foundation"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "first-year",
+        "first",
+        "one",
+        "two",
+        "ETH Zurich",
+        "1,690",
+        "Hoodie",
+        "Tuesday",
+        "afternoon"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Run on hoodies",
+          "Run on hoodies"
+        ],
+        "content_length": 2348
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Huber-Kudlich Foundation",
+        "ETH",
+        "2015",
+        "ETH Rector",
+        "Sarah Springman",
+        "2016",
+        "ETH Zürich",
+        "ETH Zurich",
+        "ERC",
+        "Hoodie"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "1,565",
+        "first",
+        "who",
+        "92 percent",
+        "how",
+        "around 65%",
+        "1,690",
+        "why",
+        "when",
+        "2,600"
+      ],
+      "graph_relations": [
+        "Hoodie_has_role_student",
+        "Hoodie_has_role_rector",
+        "Sarah Springman_has_role_student",
+        "Sarah Springman_has_role_rector",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

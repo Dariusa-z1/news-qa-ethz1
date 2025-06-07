@@ -1,0 +1,133 @@
+{
+  "filename": "more-flexibility-on-the-knowledge-portal.md",
+  "original_filename": "more-flexibility-on-the-knowledge-portal.html",
+  "source_path": "en_internal/2014/11/more-flexibility-on-the-knowledge-portal.html",
+  "date": "2014-11",
+  "title": "More Flexibility On The Knowledge Portal",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "None",
+      "text": "Whether you're using a desktop PC or tablet – the subpages of the Knowledge Portal adjust flexibly to the size of your device. This also means that website contents, forms, links and buttons can be used on the go. For the time being, we still recommend our mobile website for Smartphone users.\n\nThe right-hand page navigation is clearer. The navigation of the other subpages can be displayed or faded out again with a click as and when needed.\n\nOnly if you would actually like to search for information resources do the four search tabs for a specific search appear – upon clicking on the search field.\n\nThe entire website navigation can be used comfortably via the keyboard. All page contents, including form fields, links and buttons, are optimised and accessible for screen reader applications. Therefore, these meet mostly the national (foundation Access for All ) and international accessibility standards (WCAG) .\n\nAnd that's not all: in a further step, the website is being optimised for use on Smartphones. Afterwards we will turn our attention to improving the displaying of search results within the Knowledge Portal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Smartphone",
+        "label": "ORG",
+        "start": 276,
+        "end": 286
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 518,
+        "end": 522
+      },
+      {
+        "text": "WCAG",
+        "label": "ORG",
+        "start": 909,
+        "end": 913
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Smartphone",
+        "WCAG"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "four"
+      ]
+    },
+    "entity_counts": {
+      "Smartphone": 1,
+      "four": 1,
+      "WCAG": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "more-flexibility-on-the-knowledge-portal.md",
+      "title": "En Internal/2014/11/more Flexibility On The Knowledge Portal",
+      "language": "en",
+      "source_path": "en_internal/2014/11/more-flexibility-on-the-knowledge-portal.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Knowledge",
+        "Portal Whether",
+        "En Internal",
+        "Knowledge Portal",
+        "Flexibility On"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Smartphone",
+        "WCAG"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Smartphone",
+        "four",
+        "WCAG"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "None"
+        ],
+        "content_length": 1188
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Smartphone",
+        "2014",
+        "WCAG"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "four"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "filename": "stellungnahme.md",
+  "original_filename": "stellungnahme.html",
+  "source_path": "de_news_events/2019/03/stellungnahme.html",
+  "date": "2019-03",
+  "title": "Stellungnahme",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Online-Magazin Republik hat diese Woche ausgedehnt über die ETH Zürich berichtet (vgl. Teil externe Seite 1 / externe Seite 2 / externe Seite 3 / externe Seite Interview ). Diese Berichterstattung ist voller einseitiger Anschuldigungen und Unterstellungen. Die massiven Angriffe auf die ETH Zürich und auf einzelne ETH-Angehörige befremden uns. Das Interview der Professorin beinhaltet schwerwiegende, jedoch unbelegte Vorwürfe in Bezug auf Führungsmängel, Sexismus und Korruption.\n\nDie ETH Zürich hat am 14. März im Rahmen einer Medienkonferenz bereits mitgeteilt , dass sie die Lehren aus der Vergangenheit zieht und zusammen mit allen ETH-Angehörigen die eigenen Prozesse optimiert und die Führungskultur weiter verbessert. Ein Interview, wie es am Freitagmorgen erschienen ist, hilft der ETH auf diesem Weg in keiner Art und Weise.\n\nDie ETH kann zu den in den Artikeln geäusserten Vorwürfen wegen des laufenden Verfahrens nicht detailliert Auskunft geben. Es ist aber wichtig, grundlegende Falschaussagen richtigzustellen:\n\nDa das Verfahren juristisch noch nicht abgeschlossen ist, konnte und kann die ETH Zürich gegenüber Medien zu Details der Untersuchung keine Stellung nehmen. Die ETH Zürich wird aber den gesamten Untersuchungsbericht nach Abschluss des Entlassungsverfahrens publizieren.\n\nETH Zürich Medienstelle Telefon: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Online-Magazin Republik",
+        "label": "LOC",
+        "start": 4,
+        "end": 27
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 64,
+        "end": 74
+      },
+      {
+        "text": "Unterstellungen",
+        "label": "MISC",
+        "start": 244,
+        "end": 259
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 291,
+        "end": 301
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 319,
+        "end": 333
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 490,
+        "end": 500
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 641,
+        "end": 656
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 795,
+        "end": 798
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 843,
+        "end": 846
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1107,
+        "end": 1117
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1190,
+        "end": 1200
+      },
+      {
+        "text": "Entlassungsverfahrens",
+        "label": "LOC",
+        "start": 1264,
+        "end": 1285
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1299,
+        "end": 1309
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "ETH-Angehörigen"
+      ],
+      "LOCATION": [
+        "Entlassungsverfahrens",
+        "Online-Magazin Republik"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "Unterstellungen"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 6,
+      "ETH": 2,
+      "De News": 1,
+      "Online-Magazin Republik": 1,
+      "Unterstellungen": 1,
+      "ETH-Angehörige": 1,
+      "ETH-Angehörigen": 1,
+      "Entlassungsverfahrens": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "stellungnahme.md",
+      "title": "De News Events/2019/03/stellungnahme",
+      "language": "de",
+      "source_path": "de_news_events/2019/03/stellungnahme.html"
+    },
+    "temporal": {
+      "publication_date": "2019-03",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Angehörige",
+        "Unterstellungen"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Das Interview",
+        "Magazin Republik",
+        "Seite Interview",
+        "Medienstelle Telefon",
+        "Ein Interview",
+        "De News",
+        "Das Online",
+        "Die ETH",
+        "Diese Berichterstattung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "ETH-Angehörigen"
+      ],
+      "locations": [
+        "Entlassungsverfahrens",
+        "Online-Magazin Republik"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "ETH",
+        "De News",
+        "Online-Magazin Republik",
+        "Unterstellungen",
+        "ETH-Angehörige",
+        "ETH-Angehörigen",
+        "Entlassungsverfahrens"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1389
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2019",
+        "ETH Zürich",
+        "De News",
+        "ETH-Angehörigen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "who",
+        "Unterstellungen"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

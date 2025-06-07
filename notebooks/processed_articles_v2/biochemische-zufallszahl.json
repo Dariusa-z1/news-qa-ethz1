@@ -1,0 +1,380 @@
+{
+  "filename": "biochemische-zufallszahl.md",
+  "original_filename": "biochemische-zufallszahl.html",
+  "source_path": "de_news_events/2020/11/biochemische-zufallszahl.html",
+  "date": "2020-11",
+  "title": "Biochemische Zufallszahl",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "DNA-Synthese mit zufälligen Bausteinen",
+      "text": "Bei der Verschlüsselung von Information sowie für Spielautomaten werden echte Zufallszahlen benötigt. Das sind Zahlen, die tatsächlich zufällig sind und von niemandem erraten werden können, auch nicht von Personen, welche detaillierte Kenntnisse haben von der Methode, mit der sie generiert wurden.\n\nIn der Regel werden dazu physikalische Methoden verwendet. Wegen feinsten hochfrequenten Elektronenbewegungen ist zum Beispiel der elektrische Widerstand eines Drahtes nicht konstant, sondern er fluktuiert geringfügig auf nichtvorhersagbare Weise. Messungen dieses Hintergrundrauschens können daher zur Erstellung von echten Zufallszahlen verwendet werden.\n\nForschende unter der Leitung von Robert Grass, Professor am Institut für Chemie- und Bioingenieurwissenschaften, haben nun erstmals eine nicht-physikalische, sondern eine chemisch-biologische Methode zur Erstellung solcher Zahlen beschrieben, die in der Praxis auch funktioniert. Frühere Ideen anderer Wissenschaftler, Zufallszahlen mit chemischen Mitteln zu erstellen, waren eher theoretischer Natur."
+    },
+    {
+      "heading": "DNA-Synthese mit zufälligen Bausteinen",
+      "text": "Die ETH-Forschenden verwenden dazu die Synthese von DNA-Molekülen, eine in der biologischen Forschung etablierte und seit Jahren oft verwendete Methode. Traditionell wird diese verwendet, um eine genau definierte DNA-Sequenz herzustellen. Hier produzierten die Forschenden jedoch DNA-Moleküle aus 64 Bausteinen, bei dem an jeder der 64 Positionen zufällig einer der vier DNA-Bausteine A, C, G oder T zu liegen kam. Sie erreichten dies, indem bei jedem Syntheseschritt statt nur ein Baustein eine Mischung der vier Bausteine verwendet wurde.\n\nMit einer verhältnismässig einfachen Synthese liess sich damit eine Mischung von geschätzt drei Billiarden solcher Moleküle herstellen. Anschliessend bestimmten die Wissenschaftler mit einer leistungsfähigen DNA-Sequenziermethode die A-C-G-T-Bausteinabfolge von 5 Millionen dieser Moleküle. Das waren 12 Megabytes an Daten, welche die Forschenden in einer Abfolge von Nullen und Einsen auf einem Computer abspeicherten."
+    },
+    {
+      "heading": "Grosse Menge an Zufälligkeit auf kleinem Raum",
+      "text": "Komplett gleich verteilt waren die vier Bausteine A, C, G und T zwar nicht, wie sich in einer Analyse herausstellte: Feinheiten der Natur oder der Synthesemethode sorgten dafür, dass die Bausteine G und T etwas häufiger in die Moleküle eingebaut wurden als A und C. Die Wissenschaftler konnten dieses Ungleichgewicht jedoch mit einem Algorithmus korrigieren und somit perfekte zufällige Zahlen generieren.\n\nLetztlich ist es ETH-Professor Grass mit der Arbeit vor allem darum gegangen aufzuzeigen, dass sich mit der in der Chemie existierenden Zufälligkeiten perfekte Zufallszahlen generieren lassen. Eine direkte Anwendung stand zunächst nicht im Vordergrund. «Gegenüber anderen Methoden hat unsere jedoch den Vorteil, dass man mittels DNA-Synthese eine grosse Menge an Zufälligkeit generieren und auf einem extrem kleinen Raum, in einem kleinen Reagenzglas, aufbewahren kann», sagt Grass. «Die Information auslesen und in digitale Form uminterpretieren kann man auch später. Mit den bisherigen Methoden ist das nicht möglich.»\n\nMeiser LC, Koch J, Antkowiak PL, Stark WJ, Heckel R, Grass RN: DNA synthesis for true random number generation, Nature Communications, 18. November 2020, doi: externe Seite 10.1038/s41467-020-19757-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Hintergrundrauschens",
+        "label": "LOC",
+        "start": 564,
+        "end": 584
+      },
+      {
+        "text": "Robert Grass",
+        "label": "PER",
+        "start": 689,
+        "end": 701
+      },
+      {
+        "text": "Institut für Chemie- und Bioingenieurwissenschaften",
+        "label": "ORG",
+        "start": 716,
+        "end": 767
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 4,
+        "end": 19
+      },
+      {
+        "text": "DNA-Molekülen",
+        "label": "MISC",
+        "start": 52,
+        "end": 65
+      },
+      {
+        "text": "DNA-Sequenz",
+        "label": "MISC",
+        "start": 213,
+        "end": 224
+      },
+      {
+        "text": "DNA-Moleküle",
+        "label": "MISC",
+        "start": 280,
+        "end": 292
+      },
+      {
+        "text": "DNA-Bausteine A",
+        "label": "ORG",
+        "start": 371,
+        "end": 386
+      },
+      {
+        "text": "DNA-Sequenziermethode",
+        "label": "ORG",
+        "start": 749,
+        "end": 770
+      },
+      {
+        "text": "Bausteine A",
+        "label": "MISC",
+        "start": 40,
+        "end": 51
+      },
+      {
+        "text": "Bausteine G",
+        "label": "MISC",
+        "start": 187,
+        "end": 198
+      },
+      {
+        "text": "ETH-Professor Grass",
+        "label": "PER",
+        "start": 423,
+        "end": 442
+      },
+      {
+        "text": "DNA-Synthese",
+        "label": "LOC",
+        "start": 735,
+        "end": 747
+      },
+      {
+        "text": "Grass",
+        "label": "ORG",
+        "start": 882,
+        "end": 887
+      },
+      {
+        "text": "Meiser LC",
+        "label": "ORG",
+        "start": 1027,
+        "end": 1036
+      },
+      {
+        "text": "Koch J",
+        "label": "PER",
+        "start": 1038,
+        "end": 1044
+      },
+      {
+        "text": "Antkowiak PL",
+        "label": "ORG",
+        "start": 1046,
+        "end": 1058
+      },
+      {
+        "text": "Stark WJ",
+        "label": "ORG",
+        "start": 1060,
+        "end": 1068
+      },
+      {
+        "text": "Heckel R",
+        "label": "ORG",
+        "start": 1070,
+        "end": 1078
+      },
+      {
+        "text": "Grass RN",
+        "label": "ORG",
+        "start": 1080,
+        "end": 1088
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1139,
+        "end": 1160
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "ETH-Professor Grass",
+        "Koch J",
+        "Robert Grass"
+      ],
+      "ORG": [
+        "Antkowiak PL",
+        "DNA-Bausteine A",
+        "DNA-Sequenziermethode",
+        "ETH-Forschenden",
+        "Grass",
+        "Grass RN",
+        "Heckel R",
+        "Institut für Chemie- und Bioingenieurwissenschaften",
+        "Meiser LC",
+        "Nature Communications",
+        "Stark WJ"
+      ],
+      "LOCATION": [
+        "DNA-Synthese",
+        "Hintergrundrauschens"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Bausteine A",
+        "Bausteine G",
+        "DNA-Moleküle",
+        "DNA-Molekülen",
+        "DNA-Sequenz"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Hintergrundrauschens": 1,
+      "Robert Grass": 1,
+      "Institut für Chemie- und Bioingenieurwissenschaften": 1,
+      "ETH-Forschenden": 1,
+      "DNA-Molekülen": 1,
+      "DNA-Sequenz": 1,
+      "DNA-Moleküle": 1,
+      "DNA-Bausteine A": 1,
+      "DNA-Sequenziermethode": 1,
+      "Bausteine A": 1,
+      "Bausteine G": 1,
+      "ETH-Professor Grass": 1,
+      "DNA-Synthese": 1,
+      "Grass": 1,
+      "Meiser LC": 1,
+      "Koch J": 1,
+      "Antkowiak PL": 1,
+      "Stark WJ": 1,
+      "Heckel R": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "biochemische-zufallszahl.md",
+      "title": "De News Events/2020/11/biochemische Zufallszahl",
+      "language": "de",
+      "source_path": "de_news_events/2020/11/biochemische-zufallszahl.html"
+    },
+    "temporal": {
+      "publication_date": "2020-11",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "ETH-Professor Grass",
+        "Koch J",
+        "Robert Grass"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Grass": [
+          "professor"
+        ],
+        "Robert Grass": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Bausteine A",
+        "Bausteine G",
+        "DNA-Moleküle",
+        "DNA-Molekülen",
+        "DNA-Sequenz"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Zufallszahl Bei",
+        "DNA-Sequenziermethode",
+        "Meiser LC",
+        "ETH-Professor",
+        "Grass RN",
+        "A-C",
+        "DNA-Bausteine",
+        "G-T",
+        "DNA-Synthese",
+        "Die Information",
+        "Die ETH",
+        "Die Wissenschaftler",
+        "Robert Grass",
+        "DNA-Sequenz",
+        "Bausteine G",
+        "Nature Communications",
+        "Heckel R",
+        "Stark WJ",
+        "Bausteine A",
+        "De News",
+        "Antkowiak PL",
+        "Koch J"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Antkowiak PL",
+        "DNA-Bausteine A",
+        "DNA-Sequenziermethode",
+        "ETH-Forschenden",
+        "Grass",
+        "Grass RN",
+        "Heckel R",
+        "Institut für Chemie- und Bioingenieurwissenschaften",
+        "Meiser LC",
+        "Nature Communications",
+        "Stark WJ"
+      ],
+      "locations": [
+        "DNA-Synthese",
+        "Hintergrundrauschens"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "De News",
+        "Hintergrundrauschens",
+        "Robert Grass",
+        "Institut für Chemie- und Bioingenieurwissenschaften",
+        "ETH-Forschenden",
+        "DNA-Molekülen",
+        "DNA-Sequenz",
+        "DNA-Moleküle",
+        "DNA-Bausteine A",
+        "DNA-Sequenziermethode"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "DNA-Synthese mit zufälligen Bausteinen",
+          "DNA-Synthese mit zufälligen Bausteinen",
+          "Grosse Menge an Zufälligkeit auf kleinem Raum"
+        ],
+        "content_length": 3298
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DNA-Bausteine A",
+        "DNA-Sequenziermethode",
+        "Meiser LC",
+        "Robert Grass",
+        "EU",
+        "Institut für Chemie- und Bioingenieurwissenschaften",
+        "2020",
+        "ETH-Professor Grass",
+        "ETH-Forschenden",
+        "De News",
+        "Antkowiak PL",
+        "Grass",
+        "Nature Communications",
+        "Grass RN",
+        "Heckel R",
+        "Koch J",
+        "Stark WJ"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "DNA-Moleküle",
+        "who",
+        "Bausteine G",
+        "DNA-Sequenz",
+        "Bausteine A",
+        "chemistry",
+        "when",
+        "what",
+        "how",
+        "DNA-Molekülen"
+      ],
+      "graph_relations": [
+        "ETH-Professor Grass_has_role_professor",
+        "Robert Grass_has_role_professor",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

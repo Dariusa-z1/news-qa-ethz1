@@ -1,0 +1,248 @@
+{
+  "filename": "de_news_events_2016_02_treffpunkt-science-city.md",
+  "original_filename": "de_news_events_2016_02_treffpunkt-science-city.html",
+  "source_path": "de_news_events/2016/02/treffpunkt-science-city.html",
+  "date": "2016-02",
+  "title": "Treffpunkt Science City",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Robotische Helfer und Kraft der Gedanken",
+      "text": "Gesundheit ist ein unschätzbares Gut, das es zu erhalten gilt. Wie aber kann man das eigene Wohlergehen positiv beeinflussen? Wenn jemand erkrankt oder verunfallt; Wie kann die moderne Medizin heilen oder den Alltag zumindest erträglicher machen?\n\nAntworten auf diese und weitere Fragen liefert die kommende Ausgabe der beliebten Veranstaltungsreihe «Treffpunkt Science City» mit dem Titel «der unperfekte Mensch». Vom 6. bis zum 22. März präsentieren ETH-Wissenschaftler und Mediziner, welche Erkenntnisse und Entwicklungen für unsere Gesundheit entscheidend sein könnten. Kinder, Jugendliche und Erwachsenen Besucher können bei verschiedenen Demonstrationen und Werkstätten selber aktiv werden."
+    },
+    {
+      "heading": "Robotische Helfer und Kraft der Gedanken",
+      "text": "Los geht es am Sonntag, 6. März mit dem Thema «geniale Helfer». Robert Riener stellt den Cybathlon vor, ein neuartiger Wettkampf, bei dem sich Menschen mit körperlichen Behinderungen mithilfe neuster Unterstützungsgeräten wie Prothesen und Exoskeletten messen. Die Besucher können selbst ausprobieren, wie gut sie sich beim Rollstuhlfahren über unebenen Boden oder beim gedankengesteuerten Computerspiel schlagen. Urs Kolly, siebenfacher Medaillengewinner bei den Paralympics, erzählt, wie ein Unfall sein Leben veränderte und welchen Herausforderungen er im Alltag begegnet."
+    },
+    {
+      "heading": "Neue Therapieformen",
+      "text": "Ob künstlich gezüchtete Herzteile, Mikroroboter, die gezielt Medikamente im Körper abliefern, oder massgeschneiderte Krebstherapien – die Zukunft gehört der minimal invasiven und personalisierten Medizin. Experten stellen am zweiten Familiensonntag, den 13. März, neuste medizinische Entwicklungen in diesen Bereichen vor. Kinder können unter Anleitung von Pharmazeuten eine Crème im Chemielabor herstellen und Erwachsene einen «Gesundheits-Check» im Selbsttest absolvieren.\n\nWie bleibt man möglichst lange gesund und fit – sowohl körperlich als auch geistig? Am dritten und letzten Erlebnissonntag beantworten Forschende genau diese Frage. Sie erklären zudem, ob Vitaminpillen und Sportgetränke tatsächlich etwas bringen und warum immer mehr Menschen übergewichtig sind."
+    },
+    {
+      "heading": "Treffpunkt Science City",
+      "text": "«Treffpunkt Science City» ist ein kostenloses, allgemein verständliches Wissenschaftsprogramm für Gross und Klein. Die grossen Familiensonntage mit Vorlesungen, Jugend- und Kinderprogramm auf dem ETH Campus Hönggerberg finden am 6.3, 13.3. und 20.3.16 jeweils von 11 bis 16 Uhr statt. Das Podium am 10.3. behandelt das Thema «Burnout». Und beim Visit am 22.3. kann der neu eröffnete Balgrist Campus besichtigt werden. Das detaillierte Programm finden sie hier: Der unperfekte Mensch\n\nDer Cybathlon findet am 8. Oktober 2016 in der Swiss Arena in Kloten statt. Bei der Veranstaltung messen sich Menschen mit körperlichen Behinderungen dank neuester technischer Assistenzsysteme in einem einzigartigen Wettkampf. Ziel des Cybathlon ist es, eine Plattform zu bieten, um die Entwicklung von Hilfsmitteln zu fördern, die Menschen mit Behinderung im Alltag optimal unterstützen. Gleichzeitig sollen Barrieren zwischen Menschen mit Behinderungen, Technologieentwicklern und der Öffentlichkeit abgebaut werden – Cybathlon bewegt Mensch und Technik."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Science City",
+        "label": "LOC",
+        "start": 34,
+        "end": 46
+      },
+      {
+        "text": "Gesundheit",
+        "label": "LOC",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "ETH-Wissenschaftler",
+        "label": "MISC",
+        "start": 451,
+        "end": 470
+      },
+      {
+        "text": "Robert Riener",
+        "label": "PER",
+        "start": 64,
+        "end": 77
+      },
+      {
+        "text": "Urs Kolly",
+        "label": "PER",
+        "start": 414,
+        "end": 423
+      },
+      {
+        "text": "Paralympics",
+        "label": "MISC",
+        "start": 464,
+        "end": 475
+      },
+      {
+        "text": "Pharmazeuten",
+        "label": "ORG",
+        "start": 357,
+        "end": 369
+      },
+      {
+        "text": "ETH Campus Hönggerberg",
+        "label": "ORG",
+        "start": 196,
+        "end": 218
+      },
+      {
+        "text": "Balgrist",
+        "label": "LOC",
+        "start": 383,
+        "end": 391
+      },
+      {
+        "text": "Swiss Arena",
+        "label": "LOC",
+        "start": 530,
+        "end": 541
+      },
+      {
+        "text": "Kloten",
+        "label": "LOC",
+        "start": 545,
+        "end": 551
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Robert Riener",
+        "Urs Kolly"
+      ],
+      "ORG": [
+        "ETH Campus Hönggerberg",
+        "Pharmazeuten"
+      ],
+      "LOCATION": [
+        "Balgrist",
+        "Gesundheit",
+        "Kloten",
+        "Science City",
+        "Swiss Arena"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Wissenschaftler",
+        "Paralympics"
+      ]
+    },
+    "entity_counts": {
+      "Science City": 1,
+      "Gesundheit": 1,
+      "ETH-Wissenschaftler": 1,
+      "Robert Riener": 1,
+      "Urs Kolly": 1,
+      "Paralympics": 1,
+      "Pharmazeuten": 1,
+      "ETH Campus Hönggerberg": 1,
+      "Balgrist": 1,
+      "Swiss Arena": 1,
+      "Kloten": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2016_02_treffpunkt-science-city.md",
+      "title": "De News Events/2016/02/treffpunkt Science City",
+      "language": "de",
+      "source_path": "de_news_events/2016/02/treffpunkt-science-city.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Robert Riener",
+        "Urs Kolly"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Wissenschaftler",
+        "Paralympics"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Besucher",
+        "Der Cybathlon",
+        "Balgrist Campus",
+        "Science City",
+        "Treffpunkt Science",
+        "ETH-Wissenschaftler",
+        "De News",
+        "Erwachsenen Besucher",
+        "Gesundheits-Check",
+        "ETH Campus",
+        "Das Podium",
+        "Swiss Arena",
+        "Robert Riener",
+        "Urs Kolly"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Campus Hönggerberg",
+        "Pharmazeuten"
+      ],
+      "locations": [
+        "Balgrist",
+        "Gesundheit",
+        "Kloten",
+        "Science City",
+        "Swiss Arena"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Science City",
+        "Gesundheit",
+        "ETH-Wissenschaftler",
+        "Robert Riener",
+        "Urs Kolly",
+        "Paralympics",
+        "Pharmazeuten",
+        "ETH Campus Hönggerberg",
+        "Balgrist",
+        "Swiss Arena"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Robotische Helfer und Kraft der Gedanken",
+          "Robotische Helfer und Kraft der Gedanken",
+          "Neue Therapieformen",
+          "Treffpunkt Science City"
+        ],
+        "content_length": 3132
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Pharmazeuten",
+        "EU",
+        "2016",
+        "ETH Campus Hönggerberg",
+        "Robert Riener",
+        "Urs Kolly"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Wissenschaftler",
+        "Paralympics",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

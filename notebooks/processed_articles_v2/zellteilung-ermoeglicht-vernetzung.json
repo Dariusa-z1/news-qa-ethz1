@@ -1,0 +1,451 @@
+{
+  "filename": "zellteilung-ermoeglicht-vernetzung.md",
+  "original_filename": "zellteilung-ermoeglicht-vernetzung.html",
+  "source_path": "de_news_events/2022/08/zellteilung-ermoeglicht-vernetzung.html",
+  "date": "2022-08",
+  "title": "Zellteilung Ermoeglicht Vernetzung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Es gibt keinen fixen Bauplan",
+      "text": "Das menschliche Gehirn ist das weitaus komplexeste Organ, das die Natur je hervorgebracht hat: 100 Milliarden Nervenzellen, jede über mehrere Kontaktstellen mit anderen Zellen vernetzt, sorgen dafür, dass wir unter anderem zu bemerkenswerten Denkleistungen fähig sind. Doch wie dieses aussergewöhnliche Organ aus einer anfänglich unstrukturierten Ansammlung von embryonalen Zellen entsteht, ist nach wie vor unklar."
+    },
+    {
+      "heading": "Es gibt keinen fixen Bauplan",
+      "text": "In den letzten Jahren wurden grosse Summen an Forschungsgeldern aufgewendet, um die Struktur von ausgereiften Gehirnen zu vermessen. Die Wissenschaft hofft, dass man aus der genauen Kartierung der Neuronen und ihrer Vernetzung – also dem sogenannten Konnektom – ein besseres Verständnis der Funktionsweise des Gehirns bekommt.\n\nDoch die grundlegende Frage, wie das Gehirn aus der begrenzten genetischen Information der Ausgangszellen entsteht, bleibt nach wie vor unbeantwortet. Denn um das Konnektom zu beschreiben, müsste in den Genen ein Milliardenfaches der tatsächlichen Informationsmenge abgespeichert sein. Wie also kommt es, dass Tiere und Menschen mit einem weitgehend vorstrukturierten Organ auf die Welt kommen, das schon kurz nach der Geburt schnelle Lernfortschritte ermöglicht?"
+    },
+    {
+      "heading": "Anleitung zur Vernetzung",
+      "text": "Die Antwort auf diese Frage ist bemerkenswert einfach, haben Stan Kerstjens, Doktorand am Institut für Neuroinformatik der ETH und Universität Zürich, und seine beiden Betreuer Richard Hahnloser, Professor für Systemneurowissenschaften, und Rodney Douglas, emeritierter Professor für Neuroinformatik, herausgefunden."
+    },
+    {
+      "heading": "Systematische Abfolge von Zellen",
+      "text": "«Es liegt auf der Hand, dass die Anleitung zur Vernetzung in den Genen angelegt sein muss, sonst würde nicht bei allen Menschen ein ähnlich strukturiertes Gehirn entstehen», betont Kerstjens. «Allerdings ist nicht das detaillierte Konnektom in den Genen codiert, sondern eine kompakte Suchmethode. Diese wird dann von den Axonen verwendet, die als lange Fäden den Kontakt zu anderen Zellen herstellen. Das Netzwerk entsteht, indem die Axonen nach Zellen suchen, die genetisch mit ihren eigenen Neuron verwandt sind.»"
+    },
+    {
+      "heading": "Räumliche und genetische Struktur",
+      "text": "Dieser neuartige Mechanismus haben die Forscher in einem in der Zeitschrift PLOS Computational Biology veröffentlichten Artikel beschrieben. Die Wissenschaftler haben ein Modell entwickelt, mit dem sie die Entwicklung eines Mäusegehirns vom embryonalen bis umgerechnet zum Reifestadium eines sechsjährigen Kindes simulieren können.\n\n«Im Kern handelt es sich um ein Wachstumsmodell für Gewebe», erklärt Kerstjens. Ausgehend von einer einzelnen Anfangszelle entstehen im Modell nach und nach neue Neuronen, wobei bei es bei jeder Zellteilung zu gewissen Veränderungen in der Genaktivität kommt. Dieser Mechanismus führt dazu, dass Tochterzellen jeweils eine ähnliche, aber eben nicht identische Genexpression wie ihre Vorläuferinnen haben und dass Zellen mit ähnlicher Genexpression räumlich nahe beieinander liegen. Diese entwicklungsbedingte Organisation der Zellen bewirkt eine kartenähnliche Markierung der Zellen, welche die Biologie dann für die Navigation der Axonen nutzen kann."
+    },
+    {
+      "heading": "Systematische Abfolge von Zellen",
+      "text": "Im Laufe der embryonalen Entwicklung entsteht auf diese Weise eine hierarchische Organisation von genetischen Markierungen in den unterschiedlichen Hirnregionen, die sich jeweils durch das genetische Muster ihrer gemeinsamen Vorfahren auszeichnen. Durchquert man räumlich diese kartenähnliche Hierarchie, folgt man einer systematischen Abfolge von genetischen Profilen, die sich von Generation zu Generation von Zellen entwickelt haben."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Die Forschenden haben dazu Daten der Genaktivität von Mäusegehirnen analysiert, die vom Allen Institute for Brain Science in Seattle veröffentlicht wurden. «Wir haben die Labordaten mit unseren Simulationen verglichen und stellten eine weitgehende Übereinstimmung fest. Die Aktivität der Gene unterteilt das Gehirn also tatsächlich in verschachtelte, zusammenhängende Regionen», erklärt Kerstjens.\n\nIm Modell verbinden sich dann in einem zweiten Schritt die Zellen mit anderen Zellen. «Wir geben ihnen dabei nur grobe Anweisungen, von welchen molekularen Signalen sich die Axone auf ihrem Weg leiten lassen sollen», erläutert der Forscher. «Im Wesentlichen sagten wir jeder von ihnen, dass sie die genetischen Muster zurückverfolgen sollen, die zu ihrer eigenen individuellen Entwicklung geführt haben. Die Axone folgten dann von alleine den molekularen Adressen, die sie zu ihren Verwandten führen.»\n\nDie Forscher konnten zeigen, dass dieser ziemlich einfache Mechanismus Axone über grosse Distanzen zu bestimmten Zielen führen kann und dass auf diese Weise ein Konnektom entsteht, das demjenigen eines realen Mäusegehirns sehr nahe kommt. «Die meisten Zellen verbinden sich innerhalb der näheren Umgebung und einige wenige schaffen es bis in weit entfernte Regionen. Dadurch entstehen Areale, die in sich stark vernetzt sind, die dann mit anderen Arealen in Verbindung stehen.»\n\nZwar lässt sich mit diesem einfachen Modell kein reales menschliches Gehirn abbilden. «Aber das war auch nicht unser Ziel der Arbeit», meint Kerstjens. «Wir wollen das Prinzip verstehen, wie ein lernfähiges Organ entsteht. Und diese Arbeit zeigt uns nun, auf welchem Weg wir weiterforschen können.»\n\nKerstjens S et.al. Constructive Connectomics: how neuronal axons get from here to there using gene-expression maps derived from their family trees. PLoS Computational Biology, 25. August 2022. DOI: externe Seite 10.1371/journal.pcbi.1010382"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Forschungsgeldern",
+        "label": "LOC",
+        "start": 46,
+        "end": 63
+      },
+      {
+        "text": "Stan Kerstjens",
+        "label": "PER",
+        "start": 61,
+        "end": 75
+      },
+      {
+        "text": "Institut für Neuroinformatik",
+        "label": "ORG",
+        "start": 90,
+        "end": 118
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 123,
+        "end": 126
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 131,
+        "end": 149
+      },
+      {
+        "text": "Richard Hahnloser",
+        "label": "PER",
+        "start": 177,
+        "end": 194
+      },
+      {
+        "text": "Rodney Douglas",
+        "label": "PER",
+        "start": 241,
+        "end": 255
+      },
+      {
+        "text": "Neuroinformatik",
+        "label": "PER",
+        "start": 284,
+        "end": 299
+      },
+      {
+        "text": "Kerstjens",
+        "label": "PER",
+        "start": 181,
+        "end": 190
+      },
+      {
+        "text": "Axonen",
+        "label": "LOC",
+        "start": 322,
+        "end": 328
+      },
+      {
+        "text": "Axonen",
+        "label": "LOC",
+        "start": 435,
+        "end": 441
+      },
+      {
+        "text": "Neuron",
+        "label": "MISC",
+        "start": 494,
+        "end": 500
+      },
+      {
+        "text": "PLOS Computational Biology",
+        "label": "MISC",
+        "start": 76,
+        "end": 102
+      },
+      {
+        "text": "Kerstjens",
+        "label": "MISC",
+        "start": 401,
+        "end": 410
+      },
+      {
+        "text": "Axonen",
+        "label": "LOC",
+        "start": 964,
+        "end": 970
+      },
+      {
+        "text": "Allen Institute for Brain Science",
+        "label": "ORG",
+        "start": 88,
+        "end": 121
+      },
+      {
+        "text": "Seattle",
+        "label": "LOC",
+        "start": 125,
+        "end": 132
+      },
+      {
+        "text": "Kerstjens",
+        "label": "MISC",
+        "start": 387,
+        "end": 396
+      },
+      {
+        "text": "Axone",
+        "label": "MISC",
+        "start": 806,
+        "end": 811
+      },
+      {
+        "text": "Mäusegehirns",
+        "label": "LOC",
+        "start": 1109,
+        "end": 1121
+      },
+      {
+        "text": "Kerstjens",
+        "label": "LOC",
+        "start": 1519,
+        "end": 1528
+      },
+      {
+        "text": "Kerstjens S et.al",
+        "label": "MISC",
+        "start": 1677,
+        "end": 1694
+      },
+      {
+        "text": "Constructive Connectomics",
+        "label": "ORG",
+        "start": 1696,
+        "end": 1721
+      },
+      {
+        "text": "from their family trees",
+        "label": "MISC",
+        "start": 1800,
+        "end": 1823
+      },
+      {
+        "text": "PLoS Computational Biology",
+        "label": "MISC",
+        "start": 1825,
+        "end": 1851
+      },
+      {
+        "text": "journal.pcbi.1010382",
+        "label": "PER",
+        "start": 1897,
+        "end": 1917
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Kerstjens",
+        "Neuroinformatik",
+        "Richard Hahnloser",
+        "Rodney Douglas",
+        "Stan Kerstjens",
+        "journal.pcbi.1010382"
+      ],
+      "ORG": [
+        "Allen Institute for Brain Science",
+        "Constructive Connectomics",
+        "ETH",
+        "Institut für Neuroinformatik",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Axonen",
+        "Forschungsgeldern",
+        "Kerstjens",
+        "Mäusegehirns",
+        "Seattle"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Axone",
+        "Kerstjens",
+        "Kerstjens S et.al",
+        "Neuron",
+        "PLOS Computational Biology",
+        "PLoS Computational Biology",
+        "from their family trees"
+      ]
+    },
+    "entity_counts": {
+      "Kerstjens": 4,
+      "Axonen": 3,
+      "De News": 1,
+      "Forschungsgeldern": 1,
+      "Stan Kerstjens": 1,
+      "Institut für Neuroinformatik": 1,
+      "ETH": 1,
+      "Universität Zürich": 1,
+      "Richard Hahnloser": 1,
+      "Rodney Douglas": 1,
+      "Neuroinformatik": 1,
+      "Neuron": 1,
+      "PLOS Computational Biology": 1,
+      "Allen Institute for Brain Science": 1,
+      "Seattle": 1,
+      "Axone": 1,
+      "Mäusegehirns": 1,
+      "Kerstjens S et.al": 1,
+      "Constructive Connectomics": 1,
+      "from their family trees": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zellteilung-ermoeglicht-vernetzung.md",
+      "title": "De News Events/2022/08/zellteilung Ermoeglicht Vernetzung",
+      "language": "de",
+      "source_path": "de_news_events/2022/08/zellteilung-ermoeglicht-vernetzung.html"
+    },
+    "temporal": {
+      "publication_date": "2022-08",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Kerstjens",
+        "Neuroinformatik",
+        "Richard Hahnloser",
+        "Rodney Douglas",
+        "Stan Kerstjens",
+        "journal.pcbi.1010382"
+      ],
+      "people_with_roles": {
+        "Kerstjens": [
+          "professor"
+        ],
+        "Neuroinformatik": [
+          "professor"
+        ],
+        "Richard Hahnloser": [
+          "professor"
+        ],
+        "Rodney Douglas": [
+          "professor"
+        ],
+        "Stan Kerstjens": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Axone",
+        "Kerstjens",
+        "Kerstjens S et.al",
+        "Neuron",
+        "PLOS Computational Biology",
+        "PLoS Computational Biology",
+        "from their family trees"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Computational Biology",
+        "Die Forschenden",
+        "Rodney Douglas",
+        "Constructive Connectomics",
+        "Die Antwort",
+        "Im Wesentlichen",
+        "Kerstjens S",
+        "Betreuer Richard",
+        "Das Netzwerk",
+        "Brain Science",
+        "Zeitschrift PLOS",
+        "Die Wissenschaftler",
+        "Im Kern",
+        "Die Wissenschaft",
+        "Milliarden Nervenzellen",
+        "Allen Institute",
+        "Im Modell",
+        "Die Axone",
+        "Im Laufe",
+        "Die Forscher",
+        "Ermoeglicht Vernetzung",
+        "Stan Kerstjens",
+        "PLoS Computational",
+        "De News",
+        "Mechanismus Axone",
+        "Dieser Mechanismus"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Brain Science in Seattle ver"
+      ],
+      "institutions": [
+        "Allen Institute for Brain Science",
+        "Constructive Connectomics",
+        "ETH",
+        "Institut für Neuroinformatik",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Axonen",
+        "Forschungsgeldern",
+        "Kerstjens",
+        "Mäusegehirns",
+        "Seattle"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Kerstjens",
+        "Axonen",
+        "De News",
+        "Forschungsgeldern",
+        "Stan Kerstjens",
+        "Institut für Neuroinformatik",
+        "ETH",
+        "Universität Zürich",
+        "Richard Hahnloser",
+        "Rodney Douglas"
+      ],
+      "document_structure": {
+        "total_sections": 7,
+        "section_titles": [
+          "Es gibt keinen fixen Bauplan",
+          "Es gibt keinen fixen Bauplan",
+          "Anleitung zur Vernetzung",
+          "Systematische Abfolge von Zellen",
+          "Räumliche und genetische Struktur",
+          "Systematische Abfolge von Zellen",
+          "Literaturhinweis"
+        ],
+        "content_length": 5443
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Institut für Neuroinformatik",
+        "ETH",
+        "Richard Hahnloser",
+        "Rodney Douglas",
+        "EU",
+        "Allen Institute for Brain Science",
+        "Neuroinformatik",
+        "Stan Kerstjens",
+        "2022",
+        "De News",
+        "Constructive Connectomics",
+        "journal.pcbi.1010382",
+        "Kerstjens",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Axone",
+        "mathematics",
+        "Neuron",
+        "PLOS Computational Biology",
+        "who",
+        "from their family trees",
+        "Kerstjens S et.al",
+        "what",
+        "PLoS Computational Biology",
+        "how",
+        "Kerstjens",
+        "when"
+      ],
+      "graph_relations": [
+        "Kerstjens_has_role_professor",
+        "Neuroinformatik_has_role_professor",
+        "Richard Hahnloser_has_role_professor",
+        "Rodney Douglas_has_role_professor",
+        "Stan Kerstjens_has_role_professor",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "filename": "rollende-partikelaggregate.md",
+  "original_filename": "rollende-partikelaggregate.html",
+  "source_path": "de_news_events/2017/11/rollende-partikelaggregate.html",
+  "date": "2017-11",
+  "title": "Rollende Partikelaggregate",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Magnetfeld lässt Partikel klumpen",
+      "text": "Werden bestimmte weisse Blutkörperchen (sogenannte Neutrophile) zu einem Einsatz gegen eingedrungene Keime gerufen, bewegen sie sich in den Blutgefässen auf spezifische Weise: Sie rollen wie ein vom Wind getriebener Ball entlang der Blutgefässwand zu ihrem Einsatzort. Weil sie sich in der Gefässwand verankern können, schaffen sie es sogar, sich gegen den Blutstrom fortzubewegen.\n\nDieses Verhalten der weissen Blutkörperchen hat Postdoktorand Daniel Ahmed aus der Gruppe von ETH-Professor Bradley Nelson inspiriert. Im Labor hat er ein neuartiges System entwickelt, mit dem sich Aggregate aus magnetisierten Partikeln in Gefässen mithilfe eines kombinierten akustischen und magnetischen Felds rollend fortbewegen lassen. Die entsprechende Studie ist vor kurzem in der Fachzeitschrift externe Seite Nature Communications erschienen."
+    },
+    {
+      "heading": "Magnetfeld lässt Partikel klumpen",
+      "text": "Der Transportmechanismus, der dem Gerät zugrunde liegt, ist so einfach wie genial: Die Forscher geben kommerziell erhältliche, biokompatible Magnetpartikel in künstliche Blutgefässe. Legen sie ein kreisendes Magnetfeld an, ballen sich die Partikel zu Aggregaten und beginnen, sich um die eigene Achse zu drehen.\n\nLegen die Forscher ein Ultraschallfeld von einer bestimmten Frequenz an, bewegen sich die Aggregate zur Gefässwand, entlang derer sie sich schliesslich rollend weiterbewegen. Das Rollen setzt dann ein, wenn die Klümpchen eine Mindestgrösse von sechs Mikrometern haben – ein Zehntel des Durchmessers eines menschlichen Haars.\n\nStellen die Forscher das Magnetfeld ab, zerfallen die Aggregate in ihre Einzelteile und verteilen sich im Flüssigkeitsstrom."
+    },
+    {
+      "heading": "Literaturhinweis",
+      "text": "Bislang hat Ahmed dieses System erst in künstlichen Kanälen getestet. Er ist jedoch überzeugt, dass die Methode auch in lebenden Organismen verwenden lässt. «Das Ziel ist, diesen Transportmechanismus zu nutzen, um unter Einbezug von bildgebenden Methoden beispielsweise Medikamente zu Stellen des Körpers zu bringen, die nur sehr schwer erreichbar sind », betont der Forscher. Dabei denkt er an Tumore, die nur über feine Kapillaren zugänglich sind und mittels rollender Mikrotherapeutika und den Wirkstoffen, die sie abgeben, abgetötet werden könnten.\n\nFür die Mikro- und Nanorobotik ist die Bildgebung im lebenden Organismus eine grosse Herausforderung. Ultraschallverfahren und Magnetresonanztomografie (MRI) sowie Bildgebung mithilfe von Magnetpartikeln (MPI) sind in der klinischen Praxis bereits Alltag. Die Verfahren könnten nun auch dazu verwendet werden, um die rollenden Aggregate nachzuverfolgen. Die Bildgebung mit Magnetteilchen kann mit klinisch zugelassenen, eisenoxidbasierten MRI-Kontrastmitteln hochauflösende 3D-Bilder in Echtzeit aufnehmen. Ahmed und seine Kollegen sind daher zuversichtlich, dass sie Nanomedikamente mit den Eisenoxidpartikeln kombinieren können, um Blutgefässe in Echtzeit abzubilden und gleichzeitig Nanomedikamente zu transportieren.\n\nAuch der Ultraschall-Transportmechanismus ist eine mögliche Anwendung. So könnten die Magnetpartikel und Nanomedikamente in winzige Bläschen eingebettet werden. Diese werden mit Polymeren beschichtet und können dann als Kontrastmittel verwendet werden, das in schwierig zu erreichende Körperregionen verteilt werden kann. Dies könnte die Auflösung in der Ultraschallbildgebung verbessern.\n\nIn dieser Studie präsentieren die Forscher den Fortbewegungsmechanismus von sich selbst organisierenden Mikrokügelchen. Als nächstes wollen sie untersuchen, wie sich die magnetischen Roller unter Strömungsverhältnissen mit Zusatzpartikeln wie roten und weissen Blutkörperchen verhalten und ob sie es schaffen, die Magnetklümpchen auch gegen den Strom zu bewegen. Und auch im lebenden Organismus wollen Ahmed und seine Mitarbeiter das System erstmals testen.\n\nAhmed D, Baasch T, Blondel N, Läubli N, Dual J, Nelson BJ. Neutrophil-inspired propulsion in a combined acoustic and magnetic field. Nature Communications 8, Article number: 770 (2017) doi: externe Seite 10.1038/s41467-017-00845-5"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Blutgefässwand",
+        "label": "LOC",
+        "start": 233,
+        "end": 247
+      },
+      {
+        "text": "Gefässwand",
+        "label": "LOC",
+        "start": 290,
+        "end": 300
+      },
+      {
+        "text": "Daniel Ahmed",
+        "label": "PER",
+        "start": 444,
+        "end": 456
+      },
+      {
+        "text": "ETH-Professor Bradley Nelson",
+        "label": "PER",
+        "start": 476,
+        "end": 504
+      },
+      {
+        "text": "Aggregate",
+        "label": "PER",
+        "start": 580,
+        "end": 589
+      },
+      {
+        "text": "Gefässen",
+        "label": "LOC",
+        "start": 622,
+        "end": 630
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 799,
+        "end": 820
+      },
+      {
+        "text": "Magnetfeld",
+        "label": "LOC",
+        "start": 662,
+        "end": 672
+      },
+      {
+        "text": "Ahmed",
+        "label": "PER",
+        "start": 12,
+        "end": 17
+      },
+      {
+        "text": "MRI",
+        "label": "LOC",
+        "start": 706,
+        "end": 709
+      },
+      {
+        "text": "Magnetpartikeln",
+        "label": "LOC",
+        "start": 741,
+        "end": 756
+      },
+      {
+        "text": "MPI",
+        "label": "ORG",
+        "start": 758,
+        "end": 761
+      },
+      {
+        "text": "MRI-Kontrastmitteln",
+        "label": "MISC",
+        "start": 992,
+        "end": 1011
+      },
+      {
+        "text": "Ahmed",
+        "label": "PER",
+        "start": 1060,
+        "end": 1065
+      },
+      {
+        "text": "Blutgefässe",
+        "label": "LOC",
+        "start": 1187,
+        "end": 1198
+      },
+      {
+        "text": "Strömungsverhältnissen",
+        "label": "PER",
+        "start": 1859,
+        "end": 1881
+      },
+      {
+        "text": "Magnetklümpchen",
+        "label": "MISC",
+        "start": 1977,
+        "end": 1992
+      },
+      {
+        "text": "Ahmed",
+        "label": "PER",
+        "start": 2065,
+        "end": 2070
+      },
+      {
+        "text": "Ahmed D",
+        "label": "PER",
+        "start": 2121,
+        "end": 2128
+      },
+      {
+        "text": "Baasch T",
+        "label": "PER",
+        "start": 2130,
+        "end": 2138
+      },
+      {
+        "text": "Blondel N",
+        "label": "PER",
+        "start": 2140,
+        "end": 2149
+      },
+      {
+        "text": "Läubli N",
+        "label": "ORG",
+        "start": 2151,
+        "end": 2159
+      },
+      {
+        "text": "Dual J",
+        "label": "MISC",
+        "start": 2161,
+        "end": 2167
+      },
+      {
+        "text": "Nelson BJ",
+        "label": "ORG",
+        "start": 2169,
+        "end": 2178
+      },
+      {
+        "text": "Nature Communications",
+        "label": "MISC",
+        "start": 2254,
+        "end": 2275
+      },
+      {
+        "text": "Article",
+        "label": "LOC",
+        "start": 2279,
+        "end": 2286
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aggregate",
+        "Ahmed",
+        "Ahmed D",
+        "Baasch T",
+        "Blondel N",
+        "Daniel Ahmed",
+        "De News",
+        "ETH-Professor Bradley Nelson",
+        "Strömungsverhältnissen"
+      ],
+      "ORG": [
+        "Läubli N",
+        "MPI",
+        "Nature Communications",
+        "Nelson BJ"
+      ],
+      "LOCATION": [
+        "Article",
+        "Blutgefässe",
+        "Blutgefässwand",
+        "Gefässen",
+        "Gefässwand",
+        "MRI",
+        "Magnetfeld",
+        "Magnetpartikeln"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Dual J",
+        "MRI-Kontrastmitteln",
+        "Magnetklümpchen",
+        "Nature Communications"
+      ]
+    },
+    "entity_counts": {
+      "Ahmed": 3,
+      "Nature Communications": 2,
+      "De News": 1,
+      "Blutgefässwand": 1,
+      "Gefässwand": 1,
+      "Daniel Ahmed": 1,
+      "ETH-Professor Bradley Nelson": 1,
+      "Aggregate": 1,
+      "Gefässen": 1,
+      "Magnetfeld": 1,
+      "MRI": 1,
+      "Magnetpartikeln": 1,
+      "MPI": 1,
+      "MRI-Kontrastmitteln": 1,
+      "Blutgefässe": 1,
+      "Strömungsverhältnissen": 1,
+      "Magnetklümpchen": 1,
+      "Ahmed D": 1,
+      "Baasch T": 1,
+      "Blondel N": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rollende-partikelaggregate.md",
+      "title": "De News Events/2017/11/rollende Partikelaggregate",
+      "language": "de",
+      "source_path": "de_news_events/2017/11/rollende-partikelaggregate.html"
+    },
+    "temporal": {
+      "publication_date": "2017-11",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Aggregate",
+        "Ahmed",
+        "Ahmed D",
+        "Baasch T",
+        "Blondel N",
+        "Daniel Ahmed",
+        "De News",
+        "ETH-Professor Bradley Nelson",
+        "Strömungsverhältnissen"
+      ],
+      "people_with_roles": {
+        "Ahmed": [
+          "professor"
+        ],
+        "Daniel Ahmed": [
+          "professor"
+        ],
+        "ETH-Professor Bradley Nelson": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "chemistry"
+      ],
+      "research_topics": [
+        "Dual J",
+        "MRI-Kontrastmitteln",
+        "Magnetklümpchen",
+        "Nature Communications"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Dieses Verhalten",
+        "Im Labor",
+        "Das Ziel",
+        "ETH-Professor",
+        "Der Transportmechanismus",
+        "Blondel N",
+        "Die Verfahren",
+        "Nelson BJ",
+        "Dual J",
+        "MRI-Kontrastmitteln",
+        "Postdoktorand Daniel",
+        "Die Bildgebung",
+        "Bradley Nelson",
+        "Baasch T",
+        "Nature Communications",
+        "Ahmed D",
+        "Ultraschall-Transportmechanismus",
+        "Die Forscher",
+        "Partikelaggregate Werden",
+        "Seite Nature",
+        "De News",
+        "Das Rollen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Läubli N",
+        "MPI",
+        "Nature Communications",
+        "Nelson BJ"
+      ],
+      "locations": [
+        "Article",
+        "Blutgefässe",
+        "Blutgefässwand",
+        "Gefässen",
+        "Gefässwand",
+        "MRI",
+        "Magnetfeld",
+        "Magnetpartikeln"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Ahmed",
+        "Nature Communications",
+        "De News",
+        "Blutgefässwand",
+        "Gefässwand",
+        "Daniel Ahmed",
+        "ETH-Professor Bradley Nelson",
+        "Aggregate",
+        "Gefässen",
+        "Magnetfeld"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Magnetfeld lässt Partikel klumpen",
+          "Magnetfeld lässt Partikel klumpen",
+          "Literaturhinweis"
+        ],
+        "content_length": 4003
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Professor Bradley Nelson",
+        "Ahmed D",
+        "2017",
+        "EU",
+        "Läubli N",
+        "Daniel Ahmed",
+        "Nelson BJ",
+        "De News",
+        "Strömungsverhältnissen",
+        "MPI",
+        "Baasch T",
+        "Nature Communications",
+        "Ahmed",
+        "ERC",
+        "Aggregate",
+        "Blondel N"
+      ],
+      "semantic_concepts": [
+        "who",
+        "chemistry",
+        "Dual J",
+        "what",
+        "how",
+        "Nature Communications",
+        "Magnetklümpchen",
+        "MRI-Kontrastmitteln"
+      ],
+      "graph_relations": [
+        "Ahmed_has_role_professor",
+        "Daniel Ahmed_has_role_professor",
+        "ETH-Professor Bradley Nelson_has_role_professor",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

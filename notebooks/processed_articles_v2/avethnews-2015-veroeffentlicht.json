@@ -1,0 +1,189 @@
+{
+  "filename": "avethnews-2015-veroeffentlicht.md",
+  "original_filename": "avethnews-2015-veroeffentlicht.html",
+  "source_path": "de_internal/2015/02/avethnews-2015-veroeffentlicht.html",
+  "date": "2015-02",
+  "title": "Avethnews 2015 Veroeffentlicht",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Zu Beginn jedes Jahres gibt die AVETH (Akademische Vereinigung des Mittelbaus der ETH Zürich) die AVETHnews heraus, den Jahresbericht der AVETH. Hierin informiert die AVETH über die Aktivitäten und Veranstaltungen des vergangenen Jahres und gibt einen Ausblick auf das kommende Jahr.\n\nNeben der Vorstellung der einzelnen Arbeitsgruppen der AVETH präsentieren sich auch die verschiedenen Fachvereine. Die Fachvereine sind die Organisationen des Mittelbaus auf Departements-Ebene und leisten dort wertvolle Beiträge zur Netzwerkbildung im wissenschaftlichen Mittelbau sowie der hochschulpolitischen Repräsentation.\n\nNeben der gedruckten Version, die an alle wissenschaftlichen Mitarbeiter der ETH versandt wurde, sind die AVETHnews auch elektronisch über die Webseite der AVETH erhältlich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/02/avethnews",
+        "label": "LOC",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "AVETH",
+        "label": "ORG",
+        "start": 32,
+        "end": 37
+      },
+      {
+        "text": "Akademische Vereinigung des Mittelbaus",
+        "label": "ORG",
+        "start": 39,
+        "end": 77
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "AVETHnews",
+        "label": "MISC",
+        "start": 98,
+        "end": 107
+      },
+      {
+        "text": "AVETH",
+        "label": "ORG",
+        "start": 138,
+        "end": 143
+      },
+      {
+        "text": "AVETH",
+        "label": "ORG",
+        "start": 167,
+        "end": 172
+      },
+      {
+        "text": "AVETH",
+        "label": "ORG",
+        "start": 339,
+        "end": 344
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 689,
+        "end": 692
+      },
+      {
+        "text": "AVETHnews",
+        "label": "MISC",
+        "start": 718,
+        "end": 727
+      },
+      {
+        "text": "AVETH",
+        "label": "ORG",
+        "start": 768,
+        "end": 773
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "AVETH",
+        "Akademische Vereinigung des Mittelbaus",
+        "ETH",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2015/02/avethnews"
+      ],
+      "DATE": [],
+      "MISC": [
+        "AVETHnews"
+      ]
+    },
+    "entity_counts": {
+      "AVETH": 5,
+      "AVETHnews": 2,
+      "De Internal/2015/02/avethnews": 1,
+      "Akademische Vereinigung des Mittelbaus": 1,
+      "ETH Zürich": 1,
+      "ETH": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "avethnews-2015-veroeffentlicht.md",
+      "title": "De Internal/2015/02/avethnews 2015 Veroeffentlicht",
+      "language": "de",
+      "source_path": "de_internal/2015/02/avethnews-2015-veroeffentlicht.html"
+    },
+    "temporal": {
+      "publication_date": "2015-02",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "AVETHnews"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Die Fachvereine",
+        "Akademische Vereinigung",
+        "De Internal",
+        "Departements-Ebene",
+        "Veroeffentlicht Zu"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AVETH",
+        "Akademische Vereinigung des Mittelbaus",
+        "ETH",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2015/02/avethnews"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "AVETH",
+        "AVETHnews",
+        "De Internal/2015/02/avethnews",
+        "Akademische Vereinigung des Mittelbaus",
+        "ETH Zürich",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 838
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "ETH Zürich",
+        "Akademische Vereinigung des Mittelbaus",
+        "AVETH"
+      ],
+      "semantic_concepts": [
+        "AVETHnews"
+      ],
+      "graph_relations": []
+    }
+  }
+}

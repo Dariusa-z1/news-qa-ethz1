@@ -1,0 +1,422 @@
+{
+  "filename": "jakob-zscheischler-blog-correlated-climate-extremes.md",
+  "original_filename": "jakob-zscheischler-blog-correlated-climate-extremes.html",
+  "source_path": "en_news_events/2018/09/jakob-zscheischler-blog-correlated-climate-extremes.html",
+  "date": "2018-09",
+  "title": "Jakob Zscheischler Blog Correlated Climate Extremes",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Co-occurrence not uncommon",
+      "text": "The end of the baking hot summer is a forceful reminder of what the climate could hold in store for us in the future. Between April and August of this year, rainfall in Eastern Switzerland was lower than has ever been recorded 1 . And during the same period, temperatures were very high.\n\nA combination of severe drought and intense heat can be devastating, often causing forest fires such as those that tore through Greece and Sweden this year. High temperatures combined with a lack of water severely stress cereals, so they often have to be harvested before the grains are ripe. Low water levels and high water temperatures kill fish and make it difficult to cool power stations. Other compound climate extremes can cause major damage too – for example, if storm surges and heavy precipitation coincide in coastal regions, the risk of floods increases drastically."
+    },
+    {
+      "heading": "Co-occurrence not uncommon",
+      "text": "Commonplace as these examples may seem, the risks of such compound weather events have long been underestimated and even ignored by scientists. For this I see a number of reasons: Firstly, individual events are often more closely related than generally assumed. In the past, if you wanted to estimate the risk of co-occurring drought and heatwave, you’d look at the individual events separately and multiply their respective probabilities together. However, if events are correlated, this approach underestimates the risk of co-occurrence. Secondly, the research on climate extremes is divided into distinct branches – with experts on drought, heat waves, floods and storms who often only exchange information to a limited extent."
+    },
+    {
+      "heading": "A question of location",
+      "text": "To make matters more difficult, the correlation of climate events is influenced by their location. For example, extreme precipitation and strong winds occur together with increased frequency in coastal regions particularly 2 . And since such events are also quite rare, it’s extremely difficult even for experts to discover the correlations, let alone quantify them. New methods from extreme value statistics help here, and have already led to a number of new findings on the interdependencies of extreme weather events."
+    },
+    {
+      "heading": "References",
+      "text": "But not all correlated climate phenomena are harmful, so it’s important to find out which combinations have a particularly negative effect. Often pure climate researchers cannot fully answer this question; it calls for the expertise of experts who, for example, deal with the impact of climate on nature and society.\n\nClimate change acts as an additional complicating factor, affecting not only individual events, but also the relationship between them. Last year, for example, we showed that in future drought and heat will occur simultaneously even more frequently in many regions of the world than they have to date 3 (see ETH News )."
+    },
+    {
+      "heading": "A new approach to risk assessment",
+      "text": "So what does this mean for climate science? In a recently published Perspective 4 , we call for a cross-disciplinary, bottom-up approach to studying compound events in a changing climate. What’s needed first and foremost are scientists who exchange views across disciplines 5 . For in order to identify and analyse relevant compound events globally, there must be close collaboration between climate researchers, impact assessment experts, engineers and statisticians, and a close dialogue with industry and local decision-makers.\n\n1 MeteoSchweiz-Blog from 20 August 2018: « Jahrhundert-Regenmangel » (in German) 2 Martius O, Pfah Sl, and Chevalier C (2016), A global quantification of compound precipitation and wind extremes, Geophysical Research Letters 43, 7709–7717, doi: 10.1002/2016GL070017 . 3 Zscheischler J and Seneviratne S (2017). Dependence of drivers affects risk associated with compound events. Science Advances 3(6), e1700263. 4 Zscheischler J, et al (2018). Future climate risk from compound events. Nature Climate Change 8, 469-477, doi: 10.1038/s41558-018-0156-3 . 5 European Coooperation in Science and Technology: COST Action DAMOCLES «Understanding and modeling compound climate and weather events»\n\nJakob Zscheischler Postdoc at the Institute for Atmospheric and Climate Science, ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zscheischler Blog Correlated Climate Extremes",
+        "label": "ORG",
+        "start": 29,
+        "end": 74
+      },
+      {
+        "text": "summer",
+        "label": "DATE",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Between April and August of this year",
+        "label": "DATE",
+        "start": 118,
+        "end": 155
+      },
+      {
+        "text": "Eastern Switzerland",
+        "label": "LOC",
+        "start": 169,
+        "end": 188
+      },
+      {
+        "text": "Greece",
+        "label": "GPE",
+        "start": 416,
+        "end": 422
+      },
+      {
+        "text": "Sweden",
+        "label": "GPE",
+        "start": 427,
+        "end": 433
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 434,
+        "end": 443
+      },
+      {
+        "text": "Firstly",
+        "label": "ORDINAL",
+        "start": 180,
+        "end": 187
+      },
+      {
+        "text": "Secondly",
+        "label": "ORDINAL",
+        "start": 540,
+        "end": 548
+      },
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "start": 453,
+        "end": 462
+      },
+      {
+        "text": "ETH News",
+        "label": "ORG",
+        "start": 625,
+        "end": 633
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 202,
+        "end": 207
+      },
+      {
+        "text": "20 August 2018",
+        "label": "DATE",
+        "start": 556,
+        "end": 570
+      },
+      {
+        "text": "Jahrhundert-Regenmangel",
+        "label": "WORK_OF_ART",
+        "start": 574,
+        "end": 597
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 604,
+        "end": 610
+      },
+      {
+        "text": "Pfah Sl",
+        "label": "PERSON",
+        "start": 625,
+        "end": 632
+      },
+      {
+        "text": "Chevalier C",
+        "label": "PERSON",
+        "start": 638,
+        "end": 649
+      },
+      {
+        "text": "Geophysical Research Letters",
+        "label": "ORG",
+        "start": 727,
+        "end": 755
+      },
+      {
+        "text": "43, 7709–7717",
+        "label": "DATE",
+        "start": 756,
+        "end": 769
+      },
+      {
+        "text": "Seneviratne S",
+        "label": "PERSON",
+        "start": 820,
+        "end": 833
+      },
+      {
+        "text": "3(6",
+        "label": "CARDINAL",
+        "start": 927,
+        "end": 930
+      },
+      {
+        "text": "al",
+        "label": "PERSON",
+        "start": 964,
+        "end": 966
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1056,
+        "end": 1063
+      },
+      {
+        "text": "Jakob Zscheischler Postdoc",
+        "label": "PERSON",
+        "start": 1221,
+        "end": 1247
+      },
+      {
+        "text": "the Institute for Atmospheric and Climate Science",
+        "label": "ORG",
+        "start": 1251,
+        "end": 1300
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1302,
+        "end": 1312
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chevalier C",
+        "ETH Zurich",
+        "Jakob Zscheischler Postdoc",
+        "Pfah Sl",
+        "Seneviratne S",
+        "al"
+      ],
+      "ORG": [
+        "ETH News",
+        "Geophysical Research Letters",
+        "Zscheischler Blog Correlated Climate Extremes",
+        "the Institute for Atmospheric and Climate Science"
+      ],
+      "LOCATION": [
+        "Eastern Switzerland",
+        "Greece",
+        "Sweden"
+      ],
+      "DATE": [
+        "20 August 2018",
+        "43, 7709–7717",
+        "Between April and August of this year",
+        "Last year",
+        "summer",
+        "this year"
+      ],
+      "MISC": [
+        "10.1038",
+        "3(6",
+        "Firstly",
+        "German",
+        "Jahrhundert-Regenmangel",
+        "Secondly",
+        "first"
+      ]
+    },
+    "entity_counts": {
+      "Zscheischler Blog Correlated Climate Extremes": 1,
+      "summer": 1,
+      "Between April and August of this year": 1,
+      "Eastern Switzerland": 1,
+      "Greece": 1,
+      "Sweden": 1,
+      "this year": 1,
+      "Firstly": 1,
+      "Secondly": 1,
+      "Last year": 1,
+      "ETH News": 1,
+      "first": 1,
+      "20 August 2018": 1,
+      "Jahrhundert-Regenmangel": 1,
+      "German": 1,
+      "Pfah Sl": 1,
+      "Chevalier C": 1,
+      "Geophysical Research Letters": 1,
+      "43, 7709–7717": 1,
+      "Seneviratne S": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "jakob-zscheischler-blog-correlated-climate-extremes.md",
+      "title": "En News Events/2018/09/jakob Zscheischler Blog Correlated Climate Extremes",
+      "language": "en",
+      "source_path": "en_news_events/2018/09/jakob-zscheischler-blog-correlated-climate-extremes.html"
+    },
+    "temporal": {
+      "publication_date": "2018-09",
+      "mentioned_years": [
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chevalier C",
+        "ETH Zurich",
+        "Jakob Zscheischler Postdoc",
+        "Pfah Sl",
+        "Seneviratne S",
+        "al"
+      ],
+      "people_with_roles": {
+        "al": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Firstly",
+        "German",
+        "Jahrhundert-Regenmangel",
+        "Secondly",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Geophysical Research",
+        "Jahrhundert-Regenmangel",
+        "MeteoSchweiz-Blog",
+        "Chevalier C",
+        "Zscheischler Blog",
+        "Correlated Climate",
+        "COST Action",
+        "Between April",
+        "Nature Climate",
+        "Pfah Sl",
+        "European Coooperation",
+        "Extremes The",
+        "ETH News",
+        "Climate Science",
+        "Martius O",
+        "En News",
+        "Eastern Switzerland",
+        "Seneviratne S",
+        "Zscheischler J",
+        "ETH Zurich",
+        "Science Advances",
+        "Jakob Zscheischler"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Atmospheric and Climate Science"
+      ],
+      "institutions": [
+        "ETH News",
+        "Geophysical Research Letters",
+        "Zscheischler Blog Correlated Climate Extremes",
+        "the Institute for Atmospheric and Climate Science"
+      ],
+      "locations": [
+        "Eastern Switzerland",
+        "Greece",
+        "Sweden"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Zscheischler Blog Correlated Climate Extremes",
+        "summer",
+        "Between April and August of this year",
+        "Eastern Switzerland",
+        "Greece",
+        "Sweden",
+        "this year",
+        "Firstly",
+        "Secondly",
+        "Last year"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Co-occurrence not uncommon",
+          "Co-occurrence not uncommon",
+          "A question of location",
+          "References",
+          "A new approach to risk assessment"
+        ],
+        "content_length": 4147
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "the Institute for Atmospheric and Climate Science",
+        "Geophysical Research Letters",
+        "2017",
+        "EU",
+        "Zscheischler Blog Correlated Climate Extremes",
+        "Seneviratne S",
+        "2016",
+        "Chevalier C",
+        "al",
+        "ETH News",
+        "ETH Zurich",
+        "Jakob Zscheischler Postdoc",
+        "Pfah Sl"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "Jahrhundert-Regenmangel",
+        "Secondly",
+        "who",
+        "10.1038",
+        "Firstly",
+        "what",
+        "how",
+        "German",
+        "climate_change",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "al_has_role_researcher",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

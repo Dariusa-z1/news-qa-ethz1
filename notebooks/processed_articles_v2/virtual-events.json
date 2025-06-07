@@ -1,0 +1,127 @@
+{
+  "filename": "virtual-events.md",
+  "original_filename": "virtual-events.html",
+  "source_path": "en_internal/2020/06/virtual-events.html",
+  "date": "2020-06",
+  "title": "Virtual Events",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Cancelling the drinks party this April was straightforward; cancelling an exhibition planned for some time ahead, a trickier decision. So how do we celebrate successes these days? How can we meet our guests’ expectations in a virtual environment? Where does a webinar or live streaming fit in, and when is technical support called for in addition to a presenter?\n\nTaking into account such questions and needs, our event management and IT specialists have come up with some fresh approaches. We would be delighted to guide you through these innovative event concepts and assist with event planning under “new normal” conditions. The last few months have opened doors to virtual rooms; please step inside – we’re here to help you!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "this April",
+        "label": "DATE",
+        "start": 28,
+        "end": 38
+      },
+      {
+        "text": "these days",
+        "label": "DATE",
+        "start": 168,
+        "end": 178
+      },
+      {
+        "text": "The last few months",
+        "label": "DATE",
+        "start": 627,
+        "end": 646
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [
+        "The last few months",
+        "these days",
+        "this April"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "this April": 1,
+      "these days": 1,
+      "The last few months": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "virtual-events.md",
+      "title": "En Internal/2020/06/virtual Events",
+      "language": "en",
+      "source_path": "en_internal/2020/06/virtual-events.html"
+    },
+    "temporal": {
+      "publication_date": "2020-06",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Events Cancelling",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "this April",
+        "these days",
+        "The last few months"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 763
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when",
+        "where",
+        "how"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

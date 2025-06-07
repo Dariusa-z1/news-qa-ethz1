@@ -1,0 +1,208 @@
+{
+  "filename": "car-rentals-six-per-cent-cheaper.md",
+  "original_filename": "car-rentals-six-per-cent-cheaper.html",
+  "source_path": "en_internal/2014/05/car-rentals-six-per-cent-cheaper.html",
+  "date": "2014-05",
+  "title": "Car Rentals Six Per Cent Cheaper",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Another change is that car rental customers no longer have to pay the additional implant fee of CHF 23 per rental day. For business rentals, this fee is now covered by the ETH through a new internal regulation.\n\nEuropcar has had a rental location on the Hönggerberg campus of ETH Zurich for three years. The vehicles can be picked up on the Hönggerberg as well as at the ETH Zentrum.\n\nThe rental cars can be booked online or directly at the rental location. If you use a rental car for business purposes, you can pay with the Europcar card. Budget owners from the various ETH units can order this card via the ETHIS information and support system. The Europcar card is attributed to a fund through which the rental costs are covered automatically."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Rentals Six",
+        "label": "EVENT",
+        "start": 24,
+        "end": 35
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 96,
+        "end": 99
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 172,
+        "end": 175
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 253,
+        "end": 264
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 275,
+        "end": 285
+      },
+      {
+        "text": "three years",
+        "label": "DATE",
+        "start": 290,
+        "end": 301
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 340,
+        "end": 351
+      },
+      {
+        "text": "the ETH Zentrum",
+        "label": "FAC",
+        "start": 366,
+        "end": 381
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 570,
+        "end": 573
+      },
+      {
+        "text": "ETHIS",
+        "label": "ORG",
+        "start": 608,
+        "end": 613
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hönggerberg"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH",
+        "ETHIS"
+      ],
+      "LOCATION": [
+        "Hönggerberg",
+        "the ETH Zentrum"
+      ],
+      "DATE": [
+        "three years"
+      ],
+      "MISC": [
+        "Rentals Six"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Hönggerberg": 2,
+      "Rentals Six": 1,
+      "CHF": 1,
+      "ETH Zurich": 1,
+      "three years": 1,
+      "the ETH Zentrum": 1,
+      "ETHIS": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "car-rentals-six-per-cent-cheaper.md",
+      "title": "En Internal/2014/05/car Rentals Six Per Cent Cheaper",
+      "language": "en",
+      "source_path": "en_internal/2014/05/car-rentals-six-per-cent-cheaper.html"
+    },
+    "temporal": {
+      "publication_date": "2014-05",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hönggerberg"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Rentals Six"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH Zentrum",
+        "Per Cent",
+        "Rentals Six",
+        "Cheaper Another",
+        "En Internal",
+        "The Europcar",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "ETH",
+        "ETHIS"
+      ],
+      "locations": [
+        "Hönggerberg",
+        "the ETH Zentrum"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Hönggerberg",
+        "Rentals Six",
+        "CHF",
+        "ETH Zurich",
+        "three years",
+        "the ETH Zentrum",
+        "ETHIS"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 800
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "CHF",
+        "EU",
+        "ETH Zurich",
+        "2014",
+        "ETHIS"
+      ],
+      "semantic_concepts": [
+        "when",
+        "why",
+        "Rentals Six",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

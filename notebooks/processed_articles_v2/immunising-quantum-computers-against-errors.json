@@ -1,0 +1,433 @@
+{
+  "filename": "immunising-quantum-computers-against-errors.md",
+  "original_filename": "immunising-quantum-computers-against-errors.html",
+  "source_path": "en_news_events/2019/02/immunising-quantum-computers-against-errors.html",
+  "date": "2019-02",
+  "title": "Immunising Quantum Computers Against Errors",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Periodic oscillatory states",
+      "text": "When building a quantum computer, one needs to reckon with errors – in both senses of the word. Quantum bits or “qubits”, which can take on the logical values 0 and 1 at the same time and thus carry out calculations faster, are extremely susceptible to perturbations. A possible remedy for this is quantum error correction, which means that each qubit is represented “redundantly” in several copies, such that errors can be detected and eventually corrected without disturbing the fragile quantum state of the qubit itself. Technically this is very demanding. However, several years ago an alternative suggestion came up in which information isn’t stored in several redundant qubits, but rather in the many oscillatory states of a single quantum harmonic oscillator. The research group of Jonathan Home, professor at the Institute for Quantum Electronics at ETH Zurich, has now realised such a qubit encoded in an oscillator. Their results have been published in the scientific journal Nature ."
+    },
+    {
+      "heading": "Periodic oscillatory states",
+      "text": "In Home’s laboratory, PhD student Christa Flühmann and her colleagues work with electrically charged calcium atoms that are trapped by electric fields. Using appropriately chosen laser beams, these ions are cooled down to very low temperatures at which their oscillations in the electric fields (inside which the ions slosh back and forth like marbles in a bowl) are described by quantum mechanics as so-called wave functions. “At that point things get exciting”, says Flühmann, who is first author of the Nature paper. “We can now manipulate the oscillatory states of the ions in such a way that their position and momentum uncertainties are distributed among many periodically arranged states.”\n\nHere, “uncertainty” refers to Werner Heisenberg’s famous formula, which states that in quantum physics the product of the measurement uncertainties of the position and velocity (more precisely: the momentum) of a particle can never go below a well-defined minimum. For instance, if one wants to manipulate the particle in order to know its position very well – physicists call this “squeezing” – one automatically makes its momentum less certain."
+    },
+    {
+      "heading": "Reduced uncertainty",
+      "text": "Squeezing a quantum state in this way is, on its own, only of limited value if the aim is to make precise measurements. However, there is a clever way out: if, on top of the squeezing, one prepares an oscillatory state in which the particle’s wave function is distributed over many periodically spaced positions, the measurement uncertainty of each position and of the respective momentum can be smaller than Heisenberg would allow. Such a spatial distribution of the wave function – the particle can be in several places at once, and only a measurement decides where one actually finds it – is reminiscent of Erwin Schrödinger’s famous cat, which is simultaneously dead and alive.\n\nThis strongly reduced measurement uncertainty also means that the tiniest change in the wave function, for instance by some external disturbance, can be determined very precisely and – at least in principle – corrected. “Our realisation of those periodic or comb-like oscillatory states of the ion are an important step towards such an error detection”, Flühmann explains. “Moreover, we can prepare arbitrary states of the ion and perform all possible logical operations on it. All this is necessary for building a quantum computer. In a next step we want to combine that with error detection and error correction.”"
+    },
+    {
+      "heading": "Applications in quantum sensors",
+      "text": "A few experimental obstacles have to be overcome on the way, Flühmann admits. The calcium ion first needs to be coupled to another ion by electric forces, so that the oscillatory state can be read out without destroying it. Still, even in its present form the method of the ETH researchers is of great interest for applications, Flühmann explains: “Owing to their extreme sensitivity to disturbances, those oscillatory states are a great tool for measuring tiny electric fields or other physical quantities very precisely.”\n\nFlühmann C, Nyuyen TL, Marinelli M, Negnevitsky V, Mehta K, Home J: Encoding a qubit in a trapped-ion mechanical oscillator. Nature, 27. Februar 2019, doi: 10.1038/s41586-019-0960-6"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Quantum Computers Against Errors",
+        "label": "ORG",
+        "start": 34,
+        "end": 66
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 96,
+        "end": 103
+      },
+      {
+        "text": "several years ago",
+        "label": "DATE",
+        "start": 569,
+        "end": 586
+      },
+      {
+        "text": "Jonathan Home",
+        "label": "PERSON",
+        "start": 789,
+        "end": 802
+      },
+      {
+        "text": "the Institute for Quantum Electronics",
+        "label": "ORG",
+        "start": 817,
+        "end": 854
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 858,
+        "end": 868
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 986,
+        "end": 992
+      },
+      {
+        "text": "Home",
+        "label": "ORG",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "Christa Flühmann",
+        "label": "PERSON",
+        "start": 34,
+        "end": 50
+      },
+      {
+        "text": "quantum",
+        "label": "ORG",
+        "start": 380,
+        "end": 387
+      },
+      {
+        "text": "Flühmann",
+        "label": "PERSON",
+        "start": 469,
+        "end": 477
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 486,
+        "end": 491
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 506,
+        "end": 512
+      },
+      {
+        "text": "Werner Heisenberg’s",
+        "label": "PERSON",
+        "start": 727,
+        "end": 746
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1093,
+        "end": 1096
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 185,
+        "end": 188
+      },
+      {
+        "text": "Heisenberg",
+        "label": "PERSON",
+        "start": 409,
+        "end": 419
+      },
+      {
+        "text": "Erwin Schrödinger’s",
+        "label": "PERSON",
+        "start": 610,
+        "end": 629
+      },
+      {
+        "text": "Flühmann",
+        "label": "ORG",
+        "start": 1036,
+        "end": 1044
+      },
+      {
+        "text": "Flühmann",
+        "label": "ORG",
+        "start": 61,
+        "end": 69
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 94,
+        "end": 99
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 274,
+        "end": 277
+      },
+      {
+        "text": "Flühmann",
+        "label": "ORG",
+        "start": 329,
+        "end": 337
+      },
+      {
+        "text": "Flühmann C",
+        "label": "PERSON",
+        "start": 524,
+        "end": 534
+      },
+      {
+        "text": "Nyuyen TL",
+        "label": "ORG",
+        "start": 536,
+        "end": 545
+      },
+      {
+        "text": "Marinelli M",
+        "label": "PERSON",
+        "start": 547,
+        "end": 558
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 680,
+        "end": 687
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christa Flühmann",
+        "Erwin Schrödinger’s",
+        "Flühmann",
+        "Flühmann C",
+        "Heisenberg",
+        "Jonathan Home",
+        "Marinelli M",
+        "Werner Heisenberg’s"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Flühmann",
+        "Home",
+        "Nyuyen TL",
+        "Quantum",
+        "Quantum Computers Against Errors",
+        "quantum",
+        "the Institute for Quantum Electronics"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "several years ago"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature",
+        "PhD",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Flühmann": 4,
+      "Nature": 2,
+      "first": 2,
+      "one": 2,
+      "En News": 1,
+      "Quantum Computers Against Errors": 1,
+      "Quantum": 1,
+      "several years ago": 1,
+      "Jonathan Home": 1,
+      "the Institute for Quantum Electronics": 1,
+      "ETH Zurich": 1,
+      "Home": 1,
+      "PhD": 1,
+      "Christa Flühmann": 1,
+      "quantum": 1,
+      "Werner Heisenberg’s": 1,
+      "Heisenberg": 1,
+      "Erwin Schrödinger’s": 1,
+      "ETH": 1,
+      "Flühmann C": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "immunising-quantum-computers-against-errors.md",
+      "title": "En News Events/2019/02/immunising Quantum Computers Against Errors",
+      "language": "en",
+      "source_path": "en_news_events/2019/02/immunising-quantum-computers-against-errors.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Christa Flühmann",
+        "Erwin Schrödinger’s",
+        "Flühmann",
+        "Flühmann C",
+        "Heisenberg",
+        "Jonathan Home",
+        "Marinelli M",
+        "Werner Heisenberg’s"
+      ],
+      "people_with_roles": {
+        "Christa Flühmann": [
+          "student"
+        ],
+        "Flühmann": [
+          "researcher",
+          "student"
+        ],
+        "Jonathan Home": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "first"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Against Errors",
+        "Marinelli M",
+        "Mehta K",
+        "In Home",
+        "En News",
+        "Nyuyen TL",
+        "Negnevitsky V",
+        "Quantum Electronics",
+        "Home J",
+        "Quantum Computers",
+        "ETH Zurich",
+        "Werner Heisenberg",
+        "Jonathan Home"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Quantum Electronics at ETH Zurich"
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Flühmann",
+        "Home",
+        "Nyuyen TL",
+        "Quantum",
+        "Quantum Computers Against Errors",
+        "quantum",
+        "the Institute for Quantum Electronics"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Flühmann",
+        "Nature",
+        "first",
+        "one",
+        "En News",
+        "Quantum Computers Against Errors",
+        "Quantum",
+        "several years ago",
+        "Jonathan Home",
+        "the Institute for Quantum Electronics"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Periodic oscillatory states",
+          "Periodic oscillatory states",
+          "Reduced uncertainty",
+          "Applications in quantum sensors"
+        ],
+        "content_length": 4212
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Erwin Schrödinger’s",
+        "Marinelli M",
+        "Flühmann C",
+        "Quantum Computers Against Errors",
+        "Heisenberg",
+        "ERC",
+        "Werner Heisenberg’s",
+        "Nyuyen TL",
+        "2019",
+        "the Institute for Quantum Electronics",
+        "Flühmann",
+        "Home",
+        "quantum",
+        "Quantum",
+        "En News",
+        "ETH Zurich",
+        "Christa Flühmann",
+        "Jonathan Home"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "Nature",
+        "who",
+        "10.1038",
+        "where",
+        "what",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Christa Flühmann_has_role_student",
+        "Flühmann_has_role_researcher",
+        "Flühmann_has_role_student",
+        "Jonathan Home_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

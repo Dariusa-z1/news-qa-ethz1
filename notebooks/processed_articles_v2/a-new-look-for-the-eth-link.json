@@ -1,0 +1,202 @@
+{
+  "filename": "a-new-look-for-the-eth-link.md",
+  "original_filename": "a-new-look-for-the-eth-link.html",
+  "source_path": "en_internal/2015/05/a-new-look-for-the-eth-link.html",
+  "date": "2015-05",
+  "title": "A New Look For The Eth Link",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Two buses run back and forth between ETH Zurich’s Zentrum and Hönggerberg campuses on every weekday, making a total of 69 trips per day. These vehicles have now been given a makeover.\n\nOne of the buses has been sporting the new design since 26 May, with the second due to follow in mid-June. The ETH Link is run by Eurobus and transports almost 2,000 people on an average day."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 37,
+        "end": 49
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 50,
+        "end": 57
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 184,
+        "end": 187
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 257,
+        "end": 263
+      },
+      {
+        "text": "mid-June",
+        "label": "DATE",
+        "start": 281,
+        "end": 289
+      },
+      {
+        "text": "Eurobus",
+        "label": "ORG",
+        "start": 314,
+        "end": 321
+      },
+      {
+        "text": "almost 2,000",
+        "label": "CARDINAL",
+        "start": 337,
+        "end": 349
+      },
+      {
+        "text": "an average day",
+        "label": "DATE",
+        "start": 360,
+        "end": 374
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s",
+        "Zentrum"
+      ],
+      "ORG": [
+        "Eurobus"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "an average day",
+        "mid-June"
+      ],
+      "MISC": [
+        "One",
+        "Two",
+        "almost 2,000",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "Two": 1,
+      "ETH Zurich’s": 1,
+      "Zentrum": 1,
+      "Hönggerberg": 1,
+      "One": 1,
+      "second": 1,
+      "mid-June": 1,
+      "Eurobus": 1,
+      "almost 2,000": 1,
+      "an average day": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "a-new-look-for-the-eth-link.md",
+      "title": "En Internal/2015/05/a New Look For The Eth Link",
+      "language": "en",
+      "source_path": "en_internal/2015/05/a-new-look-for-the-eth-link.html"
+    },
+    "temporal": {
+      "publication_date": "2015-05",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s",
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "almost 2,000",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "En Internal",
+        "New Look",
+        "ETH Zurich",
+        "Eth Link",
+        "The ETH",
+        "For The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Eurobus"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Two",
+        "ETH Zurich’s",
+        "Zentrum",
+        "Hönggerberg",
+        "One",
+        "second",
+        "mid-June",
+        "Eurobus",
+        "almost 2,000",
+        "an average day"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 424
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "EU",
+        "Eurobus",
+        "Zentrum",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "almost 2,000",
+        "second"
+      ],
+      "graph_relations": []
+    }
+  }
+}

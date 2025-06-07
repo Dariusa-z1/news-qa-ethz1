@@ -1,0 +1,552 @@
+{
+  "filename": "the-device-with-the-fine-nose.md",
+  "original_filename": "the-device-with-the-fine-nose.html",
+  "source_path": "en_news_events/2016/01/the-device-with-the-fine-nose.html",
+  "date": "2016-01",
+  "title": "The Device With The Fine Nose",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New metabolic molecules detected",
+      "text": "When it comes to measuring the smallest traces of volatile chemical compounds in the air, the analysis devices in Pablo Sinues' laboratory are among the most sensitive in the world. They can find the proverbial needle in a haystack: the detection limit for airborne volatile compounds is around a concentration of one trillionth, yet in real time. For example, with an air analysis it is possible to detect hidden explosives in a freight container, just as quickly and sensitively as a sniffer dog can. But unlike dogs, Sinues' gas analysis devices are able to analyse a wide range of compounds at the same time – plus they never get tired. Sinues, a lecturer at the Laboratory of Organic Chemistry, has now further increased the sensitivity of the already highly sensitive measuring devices.\n\nHis measuring device is a specially adapted mass spectrometer in which gas samples are electrically charged (ionised) in real time before being measured. This technology is called secondary electrospray ionisation (SESI). It involves interfacing a device that ionises airborne molecules to a commercially available mass spectrometer. For the past ten years, Sinues has been leading the development of this technology, to which he was first introduced as a doctoral student during his time at Yale University. Together with researchers from a spin-off company in Spain, who today market the technology and with whom he collaborates as part of an EU research project, he has now succeeded in optimising the geometry of the SESI ionisation chamber. The result is that the latest SESI generation is five times more sensitive than the previous one.\n\nTo achieve this, the researchers created a computer model of the ionisation chamber in which they could simulate the ionisation process in detail. \"This model helped us find the ideal chamber design,\" says Sinues."
+    },
+    {
+      "heading": "New metabolic molecules detected",
+      "text": "In experiments with the improved SESI device, the scientists were able to detect extremely low concentrations of drugs and endogenous hormones, which they had seeded in air. Depending on the compounds, a handful to a few dozen molecules out of a trillion molecules in the surrounding air were enough to be detected. \"This sensitivity is sufficient for our SESI devices to be used for breath analysis in medicine,\" says Sinues. \"In the first tests with the new and improved SESI measuring device, we were able to measure certain metabolic molecules in exhaled breath which scientists had not been able to detect in breath before.\"\n\nIn previous studies, Sinues and his colleagues demonstrated that the uptake and transformation of injected drugs in laboratory mice can be monitored by using this breath analysis technique. \"Therefore our method could one day help clinic staff decide when to administer another dose of medication to patients,\" says the ETH lecturer.\" The use of the technology in clinics is being promoted in the coming years as part of a new flagship project under the aegis of Hochschulmedizin Zürich (see box below)."
+    },
+    {
+      "heading": "Plant fragrances and wine growing",
+      "text": "The possible applications of the highly sensitive and fast gas analysers, or sniffer instruments, are not limited to medicine or explosives detection. Together with colleagues, Sinues is currently using this method in a biological research project. When infested by pests, plants produce fragrances that attract beneficial insects and warn neighbouring plants against the pest infestation. But it is difficult to detect such fragrances since their concentrations are often low and the fast response of plants calls for real time analyses. Sinues is convinced that the SESI mass spectrometer could play a key role in this line of research and even be used in wine industry, for example. \"The composition of odour-active molecules in grapes change as the grapes ripen,\" he explains. His method could help determine the optimal harvest time for the grapes based on their bouquet of odours."
+    },
+    {
+      "heading": "New flagship project from Hochschulmedizin Zürich",
+      "text": "Hochschulmedizin Zürich is a network consisting of ETH Zurich, the University of Zurich and the local university hospitals. Last November, the organisation announced the launch of two new large-scale and long-term research projects. In one of the new flagship projects, the possibilities of SESI mass spectrometry in breath analysis are being explored. This project is being led by Renato Zenobi, Professor of Analytical Chemistry at ETH Zurich, and Malcolm Kohler, Director of the Department of Pulmonology at University Hospital Zurich. The project focuses on using exhaled breath to diagnose diabetes or sleep apnoea. This would be quicker, cheaper and more comfortable for the patients than blood tests or spending the night in the sleep laboratory, for instance.\n\nAs part of this flagship project, ETH lecturer Pablo Sinues aims at diagnosing bacterial pneumonia using breath analysis. Today the laboratory analyses often take two days to detect a specific type of bacteria. Sinues believes that this could be detected in a quarter of an hour with the SESI device. As different bacteria secrete different metabolites, they can be detected in exhaled breath. Physicians would know from the very beginning if a patient has bacterial pneumonia and could immediately commence treatment with an efficacious antibiotic.\n\nEven lung cancer could potentially be diagnosed using breath analysis. There are also other possible applications in medicine: physicians could check if a patient has taken their medication – or whether they have been smoking. For patients admitted to the hospital after taking designer drugs, doctors could quickly find out which substance they consumed.\n\nBarrios-Collado C, Vidal-de-Miguel G, Sinues PML: Numerical modeling and experimental validation of a universal secondary electrospray ionization source for mass spectrometric gas analysis in real-time. Sensors and Actuators B: Chemical 2016, 223: 217-225, doi: 10.1016/j.snb.2015.09.073"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "one trillionth",
+        "label": "DATE",
+        "start": 314,
+        "end": 328
+      },
+      {
+        "text": "Sinues",
+        "label": "ORG",
+        "start": 520,
+        "end": 526
+      },
+      {
+        "text": "the Laboratory of Organic Chemistry",
+        "label": "ORG",
+        "start": 663,
+        "end": 698
+      },
+      {
+        "text": "the past ten years",
+        "label": "DATE",
+        "start": 1131,
+        "end": 1149
+      },
+      {
+        "text": "Sinues",
+        "label": "ORG",
+        "start": 1151,
+        "end": 1157
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1227,
+        "end": 1232
+      },
+      {
+        "text": "Yale University",
+        "label": "ORG",
+        "start": 1285,
+        "end": 1300
+      },
+      {
+        "text": "Spain",
+        "label": "GPE",
+        "start": 1355,
+        "end": 1360
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1366,
+        "end": 1371
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 1438,
+        "end": 1440
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 1588,
+        "end": 1592
+      },
+      {
+        "text": "Sinues",
+        "label": "PERSON",
+        "start": 1843,
+        "end": 1849
+      },
+      {
+        "text": "a few dozen",
+        "label": "CARDINAL",
+        "start": 215,
+        "end": 226
+      },
+      {
+        "text": "Sinues",
+        "label": "PERSON",
+        "start": 419,
+        "end": 425
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 435,
+        "end": 440
+      },
+      {
+        "text": "Sinues",
+        "label": "PERSON",
+        "start": 651,
+        "end": 657
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 950,
+        "end": 953
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 1023,
+        "end": 1039
+      },
+      {
+        "text": "Hochschulmedizin Zürich",
+        "label": "PERSON",
+        "start": 1093,
+        "end": 1116
+      },
+      {
+        "text": "Sinues",
+        "label": "PERSON",
+        "start": 177,
+        "end": 183
+      },
+      {
+        "text": "SESI",
+        "label": "ORG",
+        "start": 568,
+        "end": 572
+      },
+      {
+        "text": "Hochschulmedizin Zürich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 51,
+        "end": 61
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 63,
+        "end": 87
+      },
+      {
+        "text": "Last November",
+        "label": "DATE",
+        "start": 124,
+        "end": 137
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 180,
+        "end": 183
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 236,
+        "end": 239
+      },
+      {
+        "text": "Renato Zenobi",
+        "label": "PERSON",
+        "start": 382,
+        "end": 395
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 434,
+        "end": 444
+      },
+      {
+        "text": "Malcolm Kohler",
+        "label": "PERSON",
+        "start": 450,
+        "end": 464
+      },
+      {
+        "text": "the Department of Pulmonology at",
+        "label": "ORG",
+        "start": 478,
+        "end": 510
+      },
+      {
+        "text": "University Hospital Zurich",
+        "label": "ORG",
+        "start": 511,
+        "end": 537
+      },
+      {
+        "text": "the night",
+        "label": "TIME",
+        "start": 719,
+        "end": 728
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 802,
+        "end": 805
+      },
+      {
+        "text": "Pablo Sinues",
+        "label": "PERSON",
+        "start": 815,
+        "end": 827
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 890,
+        "end": 895
+      },
+      {
+        "text": "two days",
+        "label": "DATE",
+        "start": 931,
+        "end": 939
+      },
+      {
+        "text": "a quarter of an hour",
+        "label": "DATE",
+        "start": 1026,
+        "end": 1046
+      },
+      {
+        "text": "Barrios-Collado C",
+        "label": "PRODUCT",
+        "start": 1674,
+        "end": 1691
+      },
+      {
+        "text": "217-225",
+        "label": "CARDINAL",
+        "start": 1922,
+        "end": 1929
+      },
+      {
+        "text": "10.1016",
+        "label": "CARDINAL",
+        "start": 1936,
+        "end": 1943
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hochschulmedizin Zürich",
+        "Malcolm Kohler",
+        "Pablo Sinues",
+        "Renato Zenobi",
+        "Sinues"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "SESI",
+        "Sinues",
+        "University Hospital Zurich",
+        "Yale University",
+        "the Department of Pulmonology at",
+        "the Laboratory of Organic Chemistry",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Spain"
+      ],
+      "DATE": [
+        "Last November",
+        "Today",
+        "a quarter of an hour",
+        "one trillionth",
+        "the coming years",
+        "the night",
+        "the past ten years",
+        "today",
+        "two days"
+      ],
+      "MISC": [
+        "10.1016",
+        "217-225",
+        "Barrios-Collado C",
+        "a few dozen",
+        "first",
+        "five",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Sinues": 6,
+      "first": 2,
+      "ETH": 2,
+      "Hochschulmedizin Zürich": 2,
+      "ETH Zurich": 2,
+      "one trillionth": 1,
+      "the Laboratory of Organic Chemistry": 1,
+      "the past ten years": 1,
+      "Yale University": 1,
+      "Spain": 1,
+      "today": 1,
+      "EU": 1,
+      "five": 1,
+      "a few dozen": 1,
+      "the coming years": 1,
+      "SESI": 1,
+      "the University of Zurich": 1,
+      "Last November": 1,
+      "two": 1,
+      "one": 1
+    },
+    "total_entities": 41,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-device-with-the-fine-nose.md",
+      "title": "En News Events/2016/01/the Device With The Fine Nose",
+      "language": "en",
+      "source_path": "en_news_events/2016/01/the-device-with-the-fine-nose.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hochschulmedizin Zürich",
+        "Malcolm Kohler",
+        "Pablo Sinues",
+        "Renato Zenobi",
+        "Sinues"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor",
+          "director",
+          "rector"
+        ],
+        "Malcolm Kohler": [
+          "professor",
+          "director",
+          "rector"
+        ],
+        "Renato Zenobi": [
+          "professor",
+          "director",
+          "rector"
+        ],
+        "Sinues": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1016",
+        "217-225",
+        "Barrios-Collado C",
+        "a few dozen",
+        "first",
+        "five"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Renato Zenobi",
+        "Last November",
+        "Device With",
+        "En News",
+        "Organic Chemistry",
+        "The Fine",
+        "Analytical Chemistry",
+        "Barrios-Collado",
+        "ETH Zurich",
+        "University Hospital",
+        "Actuators B",
+        "Malcolm Kohler",
+        "Miguel G",
+        "Yale University",
+        "Nose When",
+        "Sinues PML",
+        "Pablo Sinues"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Pulmonology at University Hospital Zurich"
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "SESI",
+        "Sinues",
+        "University Hospital Zurich",
+        "Yale University",
+        "the Department of Pulmonology at",
+        "the Laboratory of Organic Chemistry",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Spain"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Sinues",
+        "first",
+        "ETH",
+        "Hochschulmedizin Zürich",
+        "ETH Zurich",
+        "one trillionth",
+        "the Laboratory of Organic Chemistry",
+        "the past ten years",
+        "Yale University",
+        "Spain"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "New metabolic molecules detected",
+          "New metabolic molecules detected",
+          "Plant fragrances and wine growing",
+          "New flagship project from Hochschulmedizin Zürich"
+        ],
+        "content_length": 5892
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Renato Zenobi",
+        "ETH",
+        "Hochschulmedizin Zürich",
+        "2015",
+        "Sinues",
+        "the Department of Pulmonology at",
+        "EU",
+        "the University of Zurich",
+        "2016",
+        "University Hospital Zurich",
+        "Malcolm Kohler",
+        "SESI",
+        "Yale University",
+        "the Laboratory of Organic Chemistry",
+        "ETH Zurich",
+        "ERC",
+        "Pablo Sinues"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "10.1016",
+        "first",
+        "who",
+        "Barrios-Collado C",
+        "a few dozen",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "five",
+        "217-225",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_director",
+        "ETH Zurich_has_role_rector",
+        "Malcolm Kohler_has_role_professor",
+        "Malcolm Kohler_has_role_director",
+        "Malcolm Kohler_has_role_rector",
+        "Renato Zenobi_has_role_professor",
+        "Renato Zenobi_has_role_director",
+        "Renato Zenobi_has_role_rector",
+        "Sinues_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

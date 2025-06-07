@@ -1,0 +1,475 @@
+{
+  "filename": "an-ultrafast-light-source-in-a-laboratory-format.md",
+  "original_filename": "an-ultrafast-light-source-in-a-laboratory-format.html",
+  "source_path": "en_news_events/2017/01/an-ultrafast-light-source-in-a-laboratory-format.html",
+  "date": "2017-01",
+  "title": "An Ultrafast Light Source In A Laboratory Format",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The mystery of ultrafast reactions",
+      "text": "In nature, some processes occur so quickly that even the blink of an eye is very slow in comparison. Many basic physical, chemical and biological reactions take place on the ultrafast time scale of a few femtoseconds (10 −15 s) or even attoseconds (10 −18 s). In molecules, elementary particles, such as electrons or photons, move in a mere 100 attoseconds (10 −16 s).\n\nWhen electrons in a molecule jump from one atom to another, chemical bonds dissolve and new ones arise within a fraction of a femtosecond. The ability to track processes of this kind on the atomic scale in real time is one of the key reasons for development of major new research facilities such as the SwissFEL free electron laser. Now, researchers from the ETH Zurich and the University of Geneva have found a way to study ultrafast processes of this kind in the laboratory, using a soft X-ray source."
+    },
+    {
+      "heading": "The mystery of ultrafast reactions",
+      "text": "As reported by researchers from the biophotonics group led by Professor Jean-Pierre Wolf in Geneva and the ultrafast spectroscopy group led by Professor Hans Jakob Wörner in Zurich in the latest edition of the journal Science , they have refined an X-ray-based measuring technology, known as X-ray absorption spectroscopy, to achieve a time resolution of 20 femtoseconds (2 x 10 -14 s).\n\nThis has allowed the scientists to observe how structural changes take place in the space occupied by the electrons – the molecular orbitals – of two highly fluorinated compounds. The molecules themselves – carbon tetrafluoride (which contains four fluorine atoms) and sulphur hexafluoride (which contains six fluorine atoms) – also adopted a different shape as the chemical bonds broke due to the movement of the electrons. For example, carbon tetrafluoride spontaneously lost a fluorine atom after being ionized and transformed from a tetrahedron into a flat, triangular carbon molecule with three fluorine atoms. This method allows element-specific measurement of carbon-containing molecules and their reactions, which are relevant to ozone depletion in the atmosphere."
+    },
+    {
+      "heading": "A first in the laboratory",
+      "text": "“Until now, it was impossible to study this chemical reaction,” Wörner explains. “This is the first time that a laboratory source of soft X-rays has been used for time-resolved measurements in the femtosecond range.” Previous attempts to develop ultrafast X-ray sources for laboratory applications were based on hard, high-energy X-rays and achieved a time resolution on the picosecond scale (10 -12 s) at best. However, the researchers in Zurich and Geneva combined a light source developed at ETH Zurich for soft, low-energy X-rays with a compact, high-intensity laser system in the Geneva laboratory. Soft X-rays can be used to obtain precise structural information, such as distribution of the electrons within the molecules and the distances between the atomic nuclei.\n\nThe decisive part of the technological breakthrough was the ability of the researchers to create the X-rays through generation of “high harmonics”. Using this method, working in a gas inside a vacuum chamber, they multiplied the frequency of the original femtosecond laser beam by a factor of about 500 and generated a coherent X-ray beam with a continuous spectrum."
+    },
+    {
+      "heading": "Aiming for attosecond time resolution",
+      "text": "This also allowed them to determine the chemically and biologically interesting energy spectrum between 100 and 350 electron volts. “Measurements with high time resolution in this spectral region have not been possible until now,” says Wörner. A considerable advantage of the new source is that it also allows X-ray experiments with attosecond time resolution. “That is what we’re working on now in Zurich.” The laboratory X-ray source with high time resolution supplements research on synchrotron light sources and free electron lasers, but does not replace it. Instead, it paves the way for additional measurements and experiments.\n\nThe researchers would also like to measure molecules in a thin, X-ray-permeable jet of water, since they focused on the gas phase in the current experiment. In this state, the molecules are isolated and can be studied independently of potential interactions with their environment. However, most chemical reactions and biological processes take place in the liquid phase.\n\nThis research was financed with two ERC grants, funding from the National Centre of Competence in Research (NCCR) “ MUST – Molecular Ultrafast Science and Technology”, and a grant under the ETH Fellows Programme for excellent postdocs.\n\nPertot Y, Schmidt C, Matthews M, Chauvet A, Huppert M, Svoboda V, von Conta A, Tehlar A, Baykusheva D, Wolf J-P, Wörner H J: Time-resolved x-ray absorption spectroscopy with a water window high-harmonic source. Science 2017, doi: 10.1126/.aah6114"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "a mere 100",
+        "label": "CARDINAL",
+        "start": 334,
+        "end": 344
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 408,
+        "end": 411
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 724,
+        "end": 738
+      },
+      {
+        "text": "the University of Geneva",
+        "label": "ORG",
+        "start": 743,
+        "end": 767
+      },
+      {
+        "text": "Jean-Pierre Wolf",
+        "label": "PERSON",
+        "start": 72,
+        "end": 88
+      },
+      {
+        "text": "Geneva",
+        "label": "GPE",
+        "start": 92,
+        "end": 98
+      },
+      {
+        "text": "Hans Jakob Wörner",
+        "label": "PERSON",
+        "start": 153,
+        "end": 170
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 174,
+        "end": 180
+      },
+      {
+        "text": "Science",
+        "label": "WORK_OF_ART",
+        "start": 218,
+        "end": 225
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 533,
+        "end": 536
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 631,
+        "end": 635
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 693,
+        "end": 696
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 981,
+        "end": 986
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 94,
+        "end": 99
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 440,
+        "end": 446
+      },
+      {
+        "text": "Geneva",
+        "label": "GPE",
+        "start": 451,
+        "end": 457
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 495,
+        "end": 505
+      },
+      {
+        "text": "Geneva",
+        "label": "GPE",
+        "start": 585,
+        "end": 591
+      },
+      {
+        "text": "about 500",
+        "label": "CARDINAL",
+        "start": 1067,
+        "end": 1076
+      },
+      {
+        "text": "between 100 and 350 electron",
+        "label": "QUANTITY",
+        "start": 96,
+        "end": 124
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 236,
+        "end": 242
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 399,
+        "end": 405
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1038,
+        "end": 1041
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 1042,
+        "end": 1045
+      },
+      {
+        "text": "the National Centre of Competence in Research (NCCR",
+        "label": "ORG",
+        "start": 1067,
+        "end": 1118
+      },
+      {
+        "text": "MUST – Molecular Ultrafast Science and Technology",
+        "label": "WORK_OF_ART",
+        "start": 1122,
+        "end": 1171
+      },
+      {
+        "text": "Schmidt C",
+        "label": "PERSON",
+        "start": 1252,
+        "end": 1261
+      },
+      {
+        "text": "Huppert M",
+        "label": "PERSON",
+        "start": 1286,
+        "end": 1295
+      },
+      {
+        "text": "Tehlar A",
+        "label": "ORG",
+        "start": 1321,
+        "end": 1329
+      },
+      {
+        "text": "Wolf J-P",
+        "label": "PERSON",
+        "start": 1345,
+        "end": 1353
+      },
+      {
+        "text": "10.1126/.aah6114",
+        "label": "CARDINAL",
+        "start": 1472,
+        "end": 1488
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Hans Jakob Wörner",
+        "Huppert M",
+        "Jean-Pierre Wolf",
+        "Schmidt C",
+        "Wolf J-P",
+        "Wörner"
+      ],
+      "ORG": [
+        "ERC",
+        "ETH Zurich",
+        "Tehlar A",
+        "the ETH Zurich",
+        "the National Centre of Competence in Research (NCCR",
+        "the University of Geneva"
+      ],
+      "LOCATION": [
+        "Geneva",
+        "Zurich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "10.1126/.aah6114",
+        "MUST – Molecular Ultrafast Science and Technology",
+        "Science",
+        "a mere 100",
+        "about 500",
+        "between 100 and 350 electron",
+        "first",
+        "four",
+        "one",
+        "six",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Geneva": 3,
+      "Zurich": 3,
+      "two": 2,
+      "a mere 100": 1,
+      "one": 1,
+      "the ETH Zurich": 1,
+      "the University of Geneva": 1,
+      "Jean-Pierre Wolf": 1,
+      "Hans Jakob Wörner": 1,
+      "Science": 1,
+      "four": 1,
+      "six": 1,
+      "three": 1,
+      "first": 1,
+      "ETH Zurich": 1,
+      "about 500": 1,
+      "between 100 and 350 electron": 1,
+      "Wörner": 1,
+      "ERC": 1,
+      "the National Centre of Competence in Research (NCCR": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "an-ultrafast-light-source-in-a-laboratory-format.md",
+      "title": "En News Events/2017/01/an Ultrafast Light Source in A Laboratory Format",
+      "language": "en",
+      "source_path": "en_news_events/2017/01/an-ultrafast-light-source-in-a-laboratory-format.html"
+    },
+    "temporal": {
+      "publication_date": "2017-01",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Hans Jakob Wörner",
+        "Huppert M",
+        "Jean-Pierre Wolf",
+        "Schmidt C",
+        "Wolf J-P",
+        "Wörner"
+      ],
+      "people_with_roles": {
+        "Hans Jakob Wörner": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Jean-Pierre Wolf": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Wörner": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1126/.aah6114",
+        "MUST – Molecular Ultrafast Science and Technology",
+        "Science",
+        "a mere 100",
+        "about 500",
+        "between 100 and 350 electron",
+        "first",
+        "four",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "Tehlar A",
+        "Baykusheva D",
+        "Pierre Wolf",
+        "Chauvet A",
+        "Professor Hans",
+        "A Laboratory",
+        "Molecular Ultrafast",
+        "Format In",
+        "ETH Fellows",
+        "Conta A",
+        "Svoboda V",
+        "Matthews M",
+        "Soft X",
+        "National Centre",
+        "H J",
+        "Wolf J",
+        "Pertot Y",
+        "En News",
+        "Huppert M",
+        "Ultrafast Light",
+        "ETH Zurich",
+        "Professor Jean",
+        "Schmidt C"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ERC",
+        "ETH Zurich",
+        "Tehlar A",
+        "the ETH Zurich",
+        "the National Centre of Competence in Research (NCCR",
+        "the University of Geneva"
+      ],
+      "locations": [
+        "Geneva",
+        "Zurich"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Geneva",
+        "Zurich",
+        "two",
+        "a mere 100",
+        "one",
+        "the ETH Zurich",
+        "the University of Geneva",
+        "Jean-Pierre Wolf",
+        "Hans Jakob Wörner",
+        "Science"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "The mystery of ultrafast reactions",
+          "The mystery of ultrafast reactions",
+          "A first in the laboratory",
+          "Aiming for attosecond time resolution"
+        ],
+        "content_length": 4740
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Wörner",
+        "Tehlar A",
+        "the ETH Zurich",
+        "grant",
+        "Huppert M",
+        "the National Centre of Competence in Research (NCCR",
+        "Jean-Pierre Wolf",
+        "the University of Geneva",
+        "2017",
+        "Hans Jakob Wörner",
+        "ERC",
+        "funding",
+        "ETH Zurich",
+        "Schmidt C",
+        "Wolf J-P"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "between 100 and 350 electron",
+        "10.1126/.aah6114",
+        "four",
+        "three",
+        "who",
+        "Science",
+        "chemistry",
+        "about 500",
+        "when",
+        "biology",
+        "MUST – Molecular Ultrafast Science and Technology",
+        "what",
+        "how",
+        "why",
+        "a mere 100",
+        "where"
+      ],
+      "graph_relations": [
+        "Hans Jakob Wörner_has_role_Professor",
+        "Hans Jakob Wörner_has_role_researcher",
+        "Hans Jakob Wörner_has_role_professor",
+        "Jean-Pierre Wolf_has_role_Professor",
+        "Jean-Pierre Wolf_has_role_researcher",
+        "Jean-Pierre Wolf_has_role_professor",
+        "Wörner_has_role_researcher",
+        "Wörner_has_role_professor",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

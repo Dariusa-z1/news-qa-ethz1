@@ -1,0 +1,697 @@
+{
+  "filename": "hope-for-patients-with-a-severe-rare-disease.md",
+  "original_filename": "hope-for-patients-with-a-severe-rare-disease.html",
+  "source_path": "en_news_events/2023/01/hope-for-patients-with-a-severe-rare-disease.html",
+  "date": "2023-01",
+  "title": "Hope For Patients With A Severe Rare Disease",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Network brings success",
+      "text": "Methylmalonic aciduria (MMA) is a metabolic disorder that affects approximately one in 90,000 newborns; both parents must carry a genetic predisposition to the disease. This means the disease is rare. The consequences are also severe: an enzyme these young patients need for energy metabolism is left defective. As a result, a specific metabolite, which is usually broken down to create energy, instead accumulates in the body doing damage. MMA is considered incurable. While doctors can offer a certain degree of help, patients may experience delayed growth, kidney failure, and severe neurological impairment. Affected children and adolescents often use wheelchairs and do not always survive to reach adulthood."
+    },
+    {
+      "heading": "Network brings success",
+      "text": "The University Children’s Hospital Zurich is one of the leading global centers for diagnosing and treating this disease. Patient samples from all over the world are sent to Zurich for diagnosis. In a large interdisciplinary project, scientist from various Swiss research institutions studied 210 biopsies in detail. They examined not only all of the genes (DNA) in the patient’s cells but also the RNA transcripts of these genes and many of the proteins.\n\nThis is the first time that MMA has been studied using a multi-omics approach (genomics, transcriptomics, proteomics, metabolomics). The work was initiated and funded by the ETH domain strategic focus area Personalized Health and Related Technologies ( PHRT ) and involved researchers from the University Children’s Hospital Zurich, ETH Zurich, EPFL, the University of Zurich, and the Health 2030 Genome Center in Geneva. The molecular analysis was carried out at PHRT’s Swiss Multi-Omics Center ( SMOC ) in Zurich."
+    },
+    {
+      "heading": "Increased diagnosis accuracy",
+      "text": "Until now, physicians have relied mainly on DNA sequencing for genetic diagnosis of MMA. However, this approach has led to repeated instances of the correct diagnosis being overlooked, reports Sean Froese, research group leader at the University Children’s Hospital Zurich and co-senior author of the study. Previous efforts have reported that only one-third to one-half of all cases can be correctly diagnosed in this way. “The reason is that everyone, even healthy individuals, has many naturally occurring genetic mutations that have no apparent impact on human health, so it’s tough to find the one or two that actually cause disease,” says Bernd Wollscheid, professor at the Department of Health Sciences and Technology at ETH Zurich, head of the Executive Committee of PHRT and co-author of the study.\n\nBy opting to expand significantly their molecular investigation, the researchers considered not only the disease’s genetic cause but also its consequences in terms of RNA, proteins, and protein function. This enabled the consortium, as part of this study, to develop a diagnostic strategy that correctly diagnosed 84 percent of the patients examined. “Moving forward, our new method will drastically increase the chances for patients to receive a correct diagnosis,” says Patrick Forny, senior physician at the University Children’s Hospital Zurich and co-lead author of the study. “This will allow the provision of the correct treatment at a much earlier stage.”"
+    },
+    {
+      "heading": "New approach to therapy",
+      "text": "The multi-omics data also showed that MMA patients use an alternative energy source to help deal with the fact that a vital enzyme is defective. However, in patients, this alternative energy source usually is not able to sufficiently compensate for energy production lost. In in vitro experiments with patient cells, the researchers succeeded in boosting energy production to near-normal levels by supplying such an alternative energy source.\n\nFuture investigations will show if such an approach will have the same effect in animal models and can result in a feasible therapy for patients. In addition, the researchers launched a new national interdisciplinary and interinstitutional project called SwissPedHealth , co-funded by PHRT and the Swiss Personalized Health Network ( SPHN ), to increase the diagnostic effectiveness further and to extend the multi-omics approach to other genetic diseases.\n\nForny P, Bonilla X, Lamparter D, Shao W, Plessl T, Frei C, Bingisser A, Goetze S, van Drogen A, Harshman K, Pedrioli PGA, Howald C, Poms M, Traversi F, Buerer C, Cherkaoui S, Morscher RJ, Simmons L, Forny M, Ioannis Xenarios, Aebersold R, Zamboni N, Rätsch G, Dermitzakis E, Wollscheid B, Matthias R. Baumgartner MR, Froese DS: Integrated multi-omics reveals anaplerotic rewiring in methylmalonyl-CoA mutase deficiency. Nature Metabolism, 26 January 2023, doi: 10.1038/s42255-022-00720-8"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Patients With A Severe Rare Disease",
+        "label": "WORK_OF_ART",
+        "start": 32,
+        "end": 67
+      },
+      {
+        "text": "MMA",
+        "label": "ORG",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "approximately one",
+        "label": "CARDINAL",
+        "start": 66,
+        "end": 83
+      },
+      {
+        "text": "90,000",
+        "label": "CARDINAL",
+        "start": 87,
+        "end": 93
+      },
+      {
+        "text": "MMA",
+        "label": "ORG",
+        "start": 441,
+        "end": 444
+      },
+      {
+        "text": "The University Children’s Hospital Zurich",
+        "label": "ORG",
+        "start": 0,
+        "end": 41
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 173,
+        "end": 179
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 256,
+        "end": 261
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 398,
+        "end": 401
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 467,
+        "end": 472
+      },
+      {
+        "text": "MMA",
+        "label": "ORG",
+        "start": 483,
+        "end": 486
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 629,
+        "end": 632
+      },
+      {
+        "text": "Personalized Health",
+        "label": "ORG",
+        "start": 661,
+        "end": 680
+      },
+      {
+        "text": "the University Children’s Hospital Zurich",
+        "label": "ORG",
+        "start": 745,
+        "end": 786
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 788,
+        "end": 798
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 800,
+        "end": 804
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 806,
+        "end": 830
+      },
+      {
+        "text": "the Health 2030 Genome Center",
+        "label": "ORG",
+        "start": 836,
+        "end": 865
+      },
+      {
+        "text": "Geneva",
+        "label": "GPE",
+        "start": 869,
+        "end": 875
+      },
+      {
+        "text": "PHRT’s Swiss Multi-Omics Center ( SMOC",
+        "label": "ORG",
+        "start": 919,
+        "end": 957
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 963,
+        "end": 969
+      },
+      {
+        "text": "MMA",
+        "label": "ORG",
+        "start": 84,
+        "end": 87
+      },
+      {
+        "text": "Sean Froese",
+        "label": "PERSON",
+        "start": 193,
+        "end": 204
+      },
+      {
+        "text": "the University Children’s Hospital Zurich",
+        "label": "ORG",
+        "start": 231,
+        "end": 272
+      },
+      {
+        "text": "only one-third",
+        "label": "CARDINAL",
+        "start": 344,
+        "end": 358
+      },
+      {
+        "text": "one-half",
+        "label": "CARDINAL",
+        "start": 362,
+        "end": 370
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 599,
+        "end": 602
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 606,
+        "end": 609
+      },
+      {
+        "text": "Bernd Wollscheid",
+        "label": "PERSON",
+        "start": 645,
+        "end": 661
+      },
+      {
+        "text": "the Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 676,
+        "end": 724
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 728,
+        "end": 738
+      },
+      {
+        "text": "the Executive Committee of PHRT",
+        "label": "ORG",
+        "start": 748,
+        "end": 779
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 975,
+        "end": 978
+      },
+      {
+        "text": "84 percent",
+        "label": "PERCENT",
+        "start": 1122,
+        "end": 1132
+      },
+      {
+        "text": "Patrick Forny",
+        "label": "PERSON",
+        "start": 1280,
+        "end": 1293
+      },
+      {
+        "text": "the University Children’s Hospital Zurich",
+        "label": "ORG",
+        "start": 1315,
+        "end": 1356
+      },
+      {
+        "text": "MMA",
+        "label": "ORG",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "the Swiss Personalized Health Network",
+        "label": "ORG",
+        "start": 737,
+        "end": 774
+      },
+      {
+        "text": "Shao W",
+        "label": "PERSON",
+        "start": 933,
+        "end": 939
+      },
+      {
+        "text": "Goetze S",
+        "label": "PERSON",
+        "start": 972,
+        "end": 980
+      },
+      {
+        "text": "van Drogen",
+        "label": "PERSON",
+        "start": 982,
+        "end": 992
+      },
+      {
+        "text": "Harshman K",
+        "label": "ORG",
+        "start": 996,
+        "end": 1006
+      },
+      {
+        "text": "Pedrioli PGA",
+        "label": "ORG",
+        "start": 1008,
+        "end": 1020
+      },
+      {
+        "text": "Howald C",
+        "label": "PERSON",
+        "start": 1022,
+        "end": 1030
+      },
+      {
+        "text": "Cherkaoui S",
+        "label": "PERSON",
+        "start": 1062,
+        "end": 1073
+      },
+      {
+        "text": "Simmons L",
+        "label": "PERSON",
+        "start": 1088,
+        "end": 1097
+      },
+      {
+        "text": "Aebersold",
+        "label": "PERSON",
+        "start": 1126,
+        "end": 1135
+      },
+      {
+        "text": "Rätsch",
+        "label": "GPE",
+        "start": 1150,
+        "end": 1156
+      },
+      {
+        "text": "Wollscheid B",
+        "label": "PERSON",
+        "start": 1175,
+        "end": 1187
+      },
+      {
+        "text": "Matthias R. Baumgartner MR",
+        "label": "PERSON",
+        "start": 1189,
+        "end": 1215
+      },
+      {
+        "text": "Froese",
+        "label": "NORP",
+        "start": 1217,
+        "end": 1223
+      },
+      {
+        "text": "methylmalonyl",
+        "label": "GPE",
+        "start": 1283,
+        "end": 1296
+      },
+      {
+        "text": "26 January 2023",
+        "label": "DATE",
+        "start": 1339,
+        "end": 1354
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1361,
+        "end": 1368
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aebersold",
+        "Bernd Wollscheid",
+        "Cherkaoui S",
+        "ETH Zurich",
+        "Goetze S",
+        "Howald C",
+        "Matthias R. Baumgartner MR",
+        "Patrick Forny",
+        "Sean Froese",
+        "Shao W",
+        "Simmons L",
+        "Wollscheid B",
+        "van Drogen"
+      ],
+      "ORG": [
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "Harshman K",
+        "MMA",
+        "PHRT’s Swiss Multi-Omics Center ( SMOC",
+        "Pedrioli PGA",
+        "Personalized Health",
+        "RNA",
+        "The University Children’s Hospital Zurich",
+        "the Department of Health Sciences and Technology",
+        "the Executive Committee of PHRT",
+        "the Health 2030 Genome Center",
+        "the Swiss Personalized Health Network",
+        "the University Children’s Hospital Zurich",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Geneva",
+        "Rätsch",
+        "Zurich",
+        "methylmalonyl"
+      ],
+      "DATE": [
+        "26 January 2023"
+      ],
+      "MISC": [
+        "10.1038",
+        "84 percent",
+        "90,000",
+        "Froese",
+        "Patients With A Severe Rare Disease",
+        "Swiss",
+        "approximately one",
+        "first",
+        "one",
+        "one-half",
+        "only one-third",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "MMA": 5,
+      "the University Children’s Hospital Zurich": 3,
+      "Zurich": 2,
+      "RNA": 2,
+      "ETH Zurich": 2,
+      "Patients With A Severe Rare Disease": 1,
+      "approximately one": 1,
+      "90,000": 1,
+      "The University Children’s Hospital Zurich": 1,
+      "Swiss": 1,
+      "first": 1,
+      "ETH": 1,
+      "Personalized Health": 1,
+      "EPFL": 1,
+      "the University of Zurich": 1,
+      "the Health 2030 Genome Center": 1,
+      "Geneva": 1,
+      "PHRT’s Swiss Multi-Omics Center ( SMOC": 1,
+      "Sean Froese": 1,
+      "only one-third": 1
+    },
+    "total_entities": 54,
+    "unique_entities": 45
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "hope-for-patients-with-a-severe-rare-disease.md",
+      "title": "En News Events/2023/01/hope For Patients With A Severe Rare Disease",
+      "language": "en",
+      "source_path": "en_news_events/2023/01/hope-for-patients-with-a-severe-rare-disease.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023",
+        "2030"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aebersold",
+        "Bernd Wollscheid",
+        "Cherkaoui S",
+        "ETH Zurich",
+        "Goetze S",
+        "Howald C",
+        "Matthias R. Baumgartner MR",
+        "Patrick Forny",
+        "Sean Froese",
+        "Shao W",
+        "Simmons L",
+        "Wollscheid B",
+        "van Drogen"
+      ],
+      "people_with_roles": {
+        "Bernd Wollscheid": [
+          "head",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "researcher",
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "84 percent",
+        "90,000",
+        "Froese",
+        "Patients With A Severe Rare Disease",
+        "Swiss",
+        "approximately one",
+        "first",
+        "one-half",
+        "only one-third"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Bonilla X",
+        "Froese DS",
+        "Sean Froese",
+        "Hospital Zurich",
+        "Bernd Wollscheid",
+        "Genome Center",
+        "Plessl T",
+        "Traversi F",
+        "Executive Committee",
+        "Zamboni N",
+        "With A",
+        "Harshman K",
+        "Baumgartner MR",
+        "Simmons L",
+        "Swiss Personalized",
+        "Matthias R",
+        "The University",
+        "Health Sciences",
+        "Personalized Health",
+        "Forny P",
+        "Frei C",
+        "For Patients",
+        "Severe Rare",
+        "Poms M",
+        "Morscher RJ",
+        "Cherkaoui S",
+        "Ioannis Xenarios",
+        "Wollscheid B",
+        "Drogen A",
+        "Patrick Forny",
+        "Lamparter D",
+        "Pedrioli PGA",
+        "Disease Methylmalonic",
+        "Bingisser A",
+        "Forny M",
+        "Aebersold R",
+        "Swiss Multi",
+        "En News",
+        "Goetze S",
+        "Shao W",
+        "Related Technologies",
+        "Howald C",
+        "Health Network",
+        "Buerer C",
+        "University Children",
+        "Omics Center",
+        "Nature Metabolism",
+        "ETH Zurich",
+        "Dermitzakis E"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Health Sciences and Technology at ETH Zurich"
+      ],
+      "institutions": [
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "Harshman K",
+        "MMA",
+        "PHRT’s Swiss Multi-Omics Center ( SMOC",
+        "Pedrioli PGA",
+        "Personalized Health",
+        "RNA",
+        "The University Children’s Hospital Zurich",
+        "the Department of Health Sciences and Technology",
+        "the Executive Committee of PHRT",
+        "the Health 2030 Genome Center",
+        "the Swiss Personalized Health Network",
+        "the University Children’s Hospital Zurich",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Geneva",
+        "Rätsch",
+        "Zurich",
+        "methylmalonyl"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "MMA",
+        "the University Children’s Hospital Zurich",
+        "Zurich",
+        "RNA",
+        "ETH Zurich",
+        "Patients With A Severe Rare Disease",
+        "approximately one",
+        "90,000",
+        "The University Children’s Hospital Zurich",
+        "Swiss"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Network brings success",
+          "Network brings success",
+          "Increased diagnosis accuracy",
+          "New approach to therapy"
+        ],
+        "content_length": 4616
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "ETH",
+        "Sean Froese",
+        "the University of Zurich",
+        "Bernd Wollscheid",
+        "Matthias R. Baumgartner MR",
+        "PHRT’s Swiss Multi-Omics Center ( SMOC",
+        "ERC",
+        "Harshman K",
+        "Simmons L",
+        "Personalized Health",
+        "MMA",
+        "RNA",
+        "The University Children’s Hospital Zurich",
+        "EU",
+        "the Executive Committee of PHRT",
+        "the Health 2030 Genome Center",
+        "Cherkaoui S",
+        "Wollscheid B",
+        "the Swiss Personalized Health Network",
+        "the Department of Health Sciences and Technology",
+        "Patrick Forny",
+        "Pedrioli PGA",
+        "Aebersold",
+        "2030",
+        "Goetze S",
+        "Howald C",
+        "Shao W",
+        "the University Children’s Hospital Zurich",
+        "van Drogen",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "chemistry",
+        "Patients With A Severe Rare Disease",
+        "when",
+        "90,000",
+        "10.1038",
+        "approximately one",
+        "biology",
+        "Froese",
+        "medical_research",
+        "84 percent",
+        "mathematics",
+        "who",
+        "what",
+        "how",
+        "first",
+        "one-half",
+        "Swiss",
+        "only one-third",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Bernd Wollscheid_has_role_head",
+        "Bernd Wollscheid_has_role_professor",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_head",
+        "ETH Zurich_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

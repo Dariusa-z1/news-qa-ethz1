@@ -1,0 +1,517 @@
+{
+  "filename": "award-for-cancer-researcher.md",
+  "original_filename": "award-for-cancer-researcher.html",
+  "source_path": "en_news_events/2014/11/award-for-cancer-researcher.html",
+  "date": "2014-11",
+  "title": "Award For Cancer Researcher",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Appreciation for researcher and field of expertise",
+      "text": "The 2014 Ruzicka Prize has been awarded to Cristina Müller, Research Group Leader at the Center for Radiopharmaceutical Sciences at ETH Zurich, the Paul Scherrer Institute (PSI) and University Hospital Zurich. Müller has been conducting research in this field since first encountering radiopharmaceutical diagnosis and treatment of cancer while writing her diploma thesis as an ETH pharmacy student almost 15 years ago.\n\nHer work focuses on the development and use of radioactively- labelled molecules that bind specifically to cancer cells. These substances are developed for medical imaging, which enables doctors to determine the location of a tumour within the body by means of positron emission tomography (PET) and allows them to check whether the cancer has already spread (metastases). The aim is also to use these molecules for treatment purposes; i.e. to irradiate tumours inside the body with pinpoint precision."
+    },
+    {
+      "heading": "Appreciation for researcher and field of expertise",
+      "text": "The 39-year-old pharmacist conducts research primarily at the PSI in Villigen, but she is also a lecturer at ETH. She is delighted with her latest award: “The Ruzicka Prize shows appreciation for my work over the years. I am also pleased that the award has raised awareness in our field of research,” she says. Although it is commonly known that cancer can be treated from outside the body using radiation, people are, perhaps, less aware that some very promising methods exist for irradiating cancer from within the body.\n\nThe scientist has received the award in recognition of her work for the development of a molecule complex designed according to the ‘matched-pair’ principle, which will be used to diagnose and treat certain types of cancer in future. The complex, developed by Müller and her colleagues, consists of several connected parts, one of which is folic acid and another a radioactive metal atom (i.e. a radionuclide). The molecule complex binds to cancer cells that produce large amounts of the folate receptor, which relates primarily to gynaecological types of cancer and lung cancer."
+    },
+    {
+      "heading": "Similar molecule for diagnosis and treatment",
+      "text": "The special feature of the matched-pair principle is that the two molecule complexes used for diagnosis and therapy are chemically identical. Müller and her colleagues used the element scandium as the radiometal for both molecule complexes, which differ only in the mass of the scandium nuclide used.\n\nThe Scandium-44 nuclide is used for PET diagnosis: during radioactive decay, it emits positron radiation, which penetrates tissue without damaging it and can, therefore, be used for imaging. For the treatment, however, Müller used Scandium-47, which emits beta radiation. Although it has a short tissue range,it emits a large amount of energy and, therefore, damages the tissue in its immediate vicinity. “An important advantage of the matched-pair principle is that doctors can use a chemically identical compound before treatment to test how the molecules will be distributed within the body and whether it will accumulate in the tumour as desired,” says Müller. The researcher and her colleagues are currently testing both diagnosis and treatment on tumour-bearing mice. The substances still need to be further optimised before they can be used in humans, however."
+    },
+    {
+      "heading": "Future use in medicine",
+      "text": "Tests conducted on mice with derivatives of the folic acid molecule have shown that it not only accumulates in tumours, but also in the kidneys. Müller, therefore, optimised the complex and added a third component that binds reversibly to the blood protein albumin. As a result, the complex remains in the bloodstream for longer after injection and passes through the tumour more often. It, thus, accumulates more in the tumour tissue of the mice than in the kidneys.\n\nMüller particularly likes the interdisciplinary aspect of her field of research. Chemists, radiochemists, pharmacists, biologists and biochemists all work together very closely at the Center for Radiopharmaceutical Sciences, and in this particular project physicists also participated. Müller and her colleagues are currently working on further optimisation of radiopharmaceutical folic acid molecules for future use in medicine. They are also developing a substance for diagnosis and treatment of prostate cancer, based on the same principle.\n\nSince 1957, the Ruzicka Prize, named after the Nobel Prize winner Leopold Ruzicka, has been awarded annually to young researchers who publish outstanding work in the field of chemistry. The award is funded by the Swiss chemical industry. Along with the Werner Prize, it is Switzerland’s most important award for the promotion of young talent in the field of chemistry. The boards of trustees have discovered a wealth of talent since the prize was first awarded in 1957: the list of winners includes names such as Richard Ernst (magnetic resonance, Nobel Prize 1991) and Charles Weissmann (prion research, Robert Koch Medal 1995)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The 2014 Ruzicka Prize",
+        "label": "ORG",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "Cristina Müller",
+        "label": "PERSON",
+        "start": 43,
+        "end": 58
+      },
+      {
+        "text": "Research Group",
+        "label": "ORG",
+        "start": 60,
+        "end": 74
+      },
+      {
+        "text": "the Center for Radiopharmaceutical Sciences",
+        "label": "ORG",
+        "start": 85,
+        "end": 128
+      },
+      {
+        "text": "the Paul Scherrer Institute",
+        "label": "ORG",
+        "start": 144,
+        "end": 171
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 173,
+        "end": 176
+      },
+      {
+        "text": "University Hospital Zurich",
+        "label": "ORG",
+        "start": 182,
+        "end": 208
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 210,
+        "end": 216
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 266,
+        "end": 271
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 378,
+        "end": 381
+      },
+      {
+        "text": "almost 15 years ago",
+        "label": "DATE",
+        "start": 399,
+        "end": 418
+      },
+      {
+        "text": "PET",
+        "label": "ORG",
+        "start": 711,
+        "end": 714
+      },
+      {
+        "text": "39-year-old",
+        "label": "DATE",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "Villigen",
+        "label": "ORG",
+        "start": 69,
+        "end": 77
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 109,
+        "end": 112
+      },
+      {
+        "text": "The Ruzicka Prize",
+        "label": "WORK_OF_ART",
+        "start": 155,
+        "end": 172
+      },
+      {
+        "text": "the years",
+        "label": "DATE",
+        "start": 209,
+        "end": 218
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 783,
+        "end": 789
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 847,
+        "end": 850
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "Scandium-44",
+        "label": "NORP",
+        "start": 305,
+        "end": 316
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 520,
+        "end": 526
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 958,
+        "end": 964
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 145,
+        "end": 151
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 198,
+        "end": 203
+      },
+      {
+        "text": "the Center for Radiopharmaceutical Sciences",
+        "label": "ORG",
+        "start": 648,
+        "end": 691
+      },
+      {
+        "text": "Müller",
+        "label": "PERSON",
+        "start": 754,
+        "end": 760
+      },
+      {
+        "text": "the Ruzicka Prize",
+        "label": "WORK_OF_ART",
+        "start": 1024,
+        "end": 1041
+      },
+      {
+        "text": "the Nobel Prize",
+        "label": "WORK_OF_ART",
+        "start": 1055,
+        "end": 1070
+      },
+      {
+        "text": "Leopold Ruzicka",
+        "label": "PERSON",
+        "start": 1078,
+        "end": 1093
+      },
+      {
+        "text": "annually",
+        "label": "DATE",
+        "start": 1112,
+        "end": 1120
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1225,
+        "end": 1230
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1285,
+        "end": 1296
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1459,
+        "end": 1464
+      },
+      {
+        "text": "Richard Ernst",
+        "label": "PERSON",
+        "start": 1525,
+        "end": 1538
+      },
+      {
+        "text": "Nobel Prize",
+        "label": "WORK_OF_ART",
+        "start": 1560,
+        "end": 1571
+      },
+      {
+        "text": "Charles Weissmann",
+        "label": "PERSON",
+        "start": 1582,
+        "end": 1599
+      },
+      {
+        "text": "Robert Koch Medal",
+        "label": "PERSON",
+        "start": 1617,
+        "end": 1634
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Charles Weissmann",
+        "Cristina Müller",
+        "Leopold Ruzicka",
+        "Müller",
+        "Richard Ernst",
+        "Robert Koch Medal"
+      ],
+      "ORG": [
+        "ETH",
+        "PET",
+        "PSI",
+        "Research Group",
+        "The 2014 Ruzicka Prize",
+        "University Hospital Zurich",
+        "Villigen",
+        "the Center for Radiopharmaceutical Sciences",
+        "the Paul Scherrer Institute"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "39-year-old",
+        "almost 15 years ago",
+        "annually",
+        "the years"
+      ],
+      "MISC": [
+        "Nobel Prize",
+        "Scandium-44",
+        "Swiss",
+        "The Ruzicka Prize",
+        "first",
+        "one",
+        "the Nobel Prize",
+        "the Ruzicka Prize",
+        "third",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Müller": 6,
+      "the Center for Radiopharmaceutical Sciences": 2,
+      "PSI": 2,
+      "first": 2,
+      "ETH": 2,
+      "The 2014 Ruzicka Prize": 1,
+      "Cristina Müller": 1,
+      "Research Group": 1,
+      "the Paul Scherrer Institute": 1,
+      "University Hospital Zurich": 1,
+      "almost 15 years ago": 1,
+      "PET": 1,
+      "39-year-old": 1,
+      "Villigen": 1,
+      "The Ruzicka Prize": 1,
+      "the years": 1,
+      "one": 1,
+      "two": 1,
+      "Scandium-44": 1,
+      "third": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "award-for-cancer-researcher.md",
+      "title": "En News Events/2014/11/award For Cancer Researcher",
+      "language": "en",
+      "source_path": "en_news_events/2014/11/award-for-cancer-researcher.html"
+    },
+    "temporal": {
+      "publication_date": "2014-11",
+      "mentioned_years": [
+        "1957",
+        "1991",
+        "1995",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from, over the years, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Charles Weissmann",
+        "Cristina Müller",
+        "Leopold Ruzicka",
+        "Müller",
+        "Richard Ernst",
+        "Robert Koch Medal"
+      ],
+      "people_with_roles": {
+        "Cristina Müller": [
+          "researcher"
+        ],
+        "Leopold Ruzicka": [
+          "researcher"
+        ],
+        "Müller": [
+          "researcher",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Nobel Prize",
+        "Scandium-44",
+        "Swiss",
+        "The Ruzicka Prize",
+        "first",
+        "the Nobel Prize",
+        "the Ruzicka Prize",
+        "third"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "The Ruzicka",
+        "Nobel Prize",
+        "En News",
+        "The Scandium",
+        "Charles Weissmann",
+        "Radiopharmaceutical Sciences",
+        "Paul Scherrer",
+        "University Hospital",
+        "Research Group",
+        "Robert Koch",
+        "Werner Prize",
+        "ETH Zurich",
+        "Researcher The",
+        "Ruzicka Prize",
+        "For Cancer",
+        "Leopold Ruzicka",
+        "Richard Ernst"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "PET",
+        "PSI",
+        "Research Group",
+        "The 2014 Ruzicka Prize",
+        "University Hospital Zurich",
+        "Villigen",
+        "the Center for Radiopharmaceutical Sciences",
+        "the Paul Scherrer Institute"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Müller",
+        "the Center for Radiopharmaceutical Sciences",
+        "PSI",
+        "first",
+        "ETH",
+        "The 2014 Ruzicka Prize",
+        "Cristina Müller",
+        "Research Group",
+        "the Paul Scherrer Institute",
+        "University Hospital Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Appreciation for researcher and field of expertise",
+          "Appreciation for researcher and field of expertise",
+          "Similar molecule for diagnosis and treatment",
+          "Future use in medicine"
+        ],
+        "content_length": 4892
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "1995",
+        "1957",
+        "Research Group",
+        "Cristina Müller",
+        "Müller",
+        "Villigen",
+        "The 2014 Ruzicka Prize",
+        "Leopold Ruzicka",
+        "2014",
+        "PET",
+        "the Paul Scherrer Institute",
+        "Charles Weissmann",
+        "EU",
+        "the Center for Radiopharmaceutical Sciences",
+        "Richard Ernst",
+        "1991",
+        "Robert Koch Medal",
+        "University Hospital Zurich",
+        "PSI"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "third",
+        "Nobel Prize",
+        "who",
+        "The Ruzicka Prize",
+        "the Ruzicka Prize",
+        "Swiss",
+        "chemistry",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where",
+        "the Nobel Prize",
+        "Scandium-44"
+      ],
+      "graph_relations": [
+        "Cristina Müller_has_role_researcher",
+        "Leopold Ruzicka_has_role_researcher",
+        "Müller_has_role_researcher",
+        "Müller_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

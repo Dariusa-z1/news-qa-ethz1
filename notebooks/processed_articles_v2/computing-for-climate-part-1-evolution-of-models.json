@@ -1,0 +1,676 @@
+{
+  "filename": "computing-for-climate-part-1-evolution-of-models.md",
+  "original_filename": "computing-for-climate-part-1-evolution-of-models.html",
+  "source_path": "en_news_events/2015/10/computing-for-climate-part-1-evolution-of-models.html",
+  "date": "2015-10",
+  "title": "Computing For Climate Part 1 Evolution Of Models",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A Question of Resolution",
+      "text": "Predicting the weather and – on a larger scale – the climate is a complex process involving current local and global observations that are fed into specialized computer programs, which in turn model the future meteorological conditions. Results from such simulations are not only important for daily weather bulletins, but also provide guidance on climate change in terms of adaptation (how to cope with future climate) and mitigation (how to limit climate change by reducing greenhouse gas emissions).\n\nAs early as 1917, the British mathematician and meteorologist Lewis F. Richardson tried to “compute the weather”. Richardson’s compute power consisted of an imagined workforce of 64,000 humans, each of them forming a piece of the first massively parallel “computer”. He designed a complex set of computing forms that served as a simple distributed memory (the “computers” were supposed to enter the numbers in handwriting), and he addressed parallelization, communication and synchronization – key issues of modern climate simulation."
+    },
+    {
+      "heading": "Developing better Models of Computation",
+      "text": "Richardson already used a three-dimensional computational grid mapping the atmosphere to solve a simplified form of the fluid-dynamical equations on a rotating planet; in short, he calculated the weather – and not too differently from how we do today. The first realistic simulations were later conducted in the 1950s using a grid spacing of about 800 km. A major breakthrough was achieved in the late 1970s, when the resolution in global models could be refined to roughly 100 km. This enabled weather forecasts to be extended from one-day to five-day, as for the first time the low and high-pressure systems could be dealt with adequately.\n\nThe next challenge now lies ahead of us: at resolutions of around 1 km, it becomes feasible to explicitly represent convective clouds (thunderstorms and rain showers). The dynamics of these fine-scale atmospheric systems is represented using physical laws, rather than semi-empirical approximate methodologies. Nowadays, km-scale simulations are used in operational weather forecasting, and increasingly in climate research. Many studies show that this enables a more appropriate representation of the water cycle including its extreme events, and it is hoped that km-scale resolution will reduce the uncertainties of climate models. Recent results from a European-scale simulation [1] show the value of high resolution and demonstrate these prospects (see figure).\n\nThese simulations were conducted using the COSMO model [2]. This model is a complex computer program developed in an international effort spanning many decades, with hundreds of contributing researchers. The code runs on high-performance computers and has more than 300 thousand lines of code. It is used by many European weather centres including MeteoSwiss, and by about 200 researchers at numerous universities and climate centres, such as the ETH-based Center for Climate Systems Modelling C2SM ."
+    },
+    {
+      "heading": "Developing better Models of Computation",
+      "text": "High-performance computers, also known as supercomputers, push the limits of what we can compute by utilizing specialized processors such as many-core processors and graphics processing units (GPUs). Achieving highest performance on such massively-parallel systems is a major challenge in computer science. Specialization leads to immense savings in cost and energy: for example, by switching to a GPU-based architecture in the Piz Kesch system [3] the Swiss national weather service MeteoSwiss was able to increase the energy efficiency of its operational forecast by a factor of more than three. This machine is now used for day-to-day weather prediction.\n\nYet, efficient programming of heterogeneous machines remains a challenging problem and requires new insights and tools. GPU architectures follow completely different design principles than traditional processors and require the program to expose massive parallelism in a specialized language such as CUDA. This specification is fundamentally different from how we used to write code in the last 30 years. My group, the Scalable Parallel Computing Laboratory SPCL , is developing new techniques to improve the performance further and to program large scale heterogeneous supercomputers in the context of the Platform for Advanced Scientific Computing (PASC) program [4]. PASC is a program to modernize High-Performance Computing (HPC) applications in Switzerland; its results are discussed in the yearly conference of the same name [5].\n\nTorsten Hoefler wrote this blog together with Christoph Schär (ETH Zurich) and Oliver Fuhrer (MeteoSchweiz). In their next post, “ Computing for Climate (part 2) ”, the authors explain how modern climate models work."
+    },
+    {
+      "heading": "Further information",
+      "text": "[1] Leutwyler, D., O. Fuhrer, X. Lapillonne, D. Lüthi, C. Schär, 2015: Continental-Scale Climate Simulation at Kilometer-Resolution. ETH Zurich online resource. Short description and animation , Climate Science Visuals: Online video .\n\nAssistant Professor for Computer Science, Scalable Parallel Computing Laboratory (SPCL), ETH Zürich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "1 Evolution",
+        "label": "CARDINAL",
+        "start": 50,
+        "end": 61
+      },
+      {
+        "text": "fed",
+        "label": "ORG",
+        "start": 139,
+        "end": 142
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 294,
+        "end": 299
+      },
+      {
+        "text": "As early as 1917",
+        "label": "DATE",
+        "start": 503,
+        "end": 519
+      },
+      {
+        "text": "British",
+        "label": "NORP",
+        "start": 525,
+        "end": 532
+      },
+      {
+        "text": "Lewis F. Richardson",
+        "label": "PERSON",
+        "start": 565,
+        "end": 584
+      },
+      {
+        "text": "Richardson",
+        "label": "PERSON",
+        "start": 617,
+        "end": 627
+      },
+      {
+        "text": "64,000",
+        "label": "CARDINAL",
+        "start": 682,
+        "end": 688
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 733,
+        "end": 738
+      },
+      {
+        "text": "Richardson",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 26,
+        "end": 31
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 245,
+        "end": 250
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 256,
+        "end": 261
+      },
+      {
+        "text": "the 1950s",
+        "label": "DATE",
+        "start": 308,
+        "end": 317
+      },
+      {
+        "text": "about 800 km",
+        "label": "QUANTITY",
+        "start": 342,
+        "end": 354
+      },
+      {
+        "text": "the late 1970s",
+        "label": "DATE",
+        "start": 393,
+        "end": 407
+      },
+      {
+        "text": "roughly 100 km",
+        "label": "QUANTITY",
+        "start": 466,
+        "end": 480
+      },
+      {
+        "text": "one-day",
+        "label": "DATE",
+        "start": 533,
+        "end": 540
+      },
+      {
+        "text": "five-day",
+        "label": "DATE",
+        "start": 544,
+        "end": 552
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 565,
+        "end": 570
+      },
+      {
+        "text": "around 1 km",
+        "label": "QUANTITY",
+        "start": 701,
+        "end": 712
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 1298,
+        "end": 1306
+      },
+      {
+        "text": "COSMO",
+        "label": "ORG",
+        "start": 1451,
+        "end": 1456
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 1574,
+        "end": 1582
+      },
+      {
+        "text": "more than 300 thousand",
+        "label": "CARDINAL",
+        "start": 1664,
+        "end": 1686
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 1721,
+        "end": 1729
+      },
+      {
+        "text": "MeteoSwiss",
+        "label": "ORG",
+        "start": 1756,
+        "end": 1766
+      },
+      {
+        "text": "about 200",
+        "label": "CARDINAL",
+        "start": 1775,
+        "end": 1784
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1855,
+        "end": 1858
+      },
+      {
+        "text": "Center for Climate Systems",
+        "label": "ORG",
+        "start": 1865,
+        "end": 1891
+      },
+      {
+        "text": "GPU",
+        "label": "ORG",
+        "start": 398,
+        "end": 401
+      },
+      {
+        "text": "Piz Kesch",
+        "label": "GPE",
+        "start": 428,
+        "end": 437
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 453,
+        "end": 458
+      },
+      {
+        "text": "MeteoSwiss",
+        "label": "PERSON",
+        "start": 484,
+        "end": 494
+      },
+      {
+        "text": "more than three",
+        "label": "CARDINAL",
+        "start": 581,
+        "end": 596
+      },
+      {
+        "text": "GPU",
+        "label": "ORG",
+        "start": 778,
+        "end": 781
+      },
+      {
+        "text": "CUDA",
+        "label": "ORG",
+        "start": 958,
+        "end": 962
+      },
+      {
+        "text": "the last 30 years",
+        "label": "DATE",
+        "start": 1044,
+        "end": 1061
+      },
+      {
+        "text": "the Scalable Parallel Computing Laboratory SPCL",
+        "label": "ORG",
+        "start": 1073,
+        "end": 1120
+      },
+      {
+        "text": "the Platform for Advanced Scientific Computing",
+        "label": "WORK_OF_ART",
+        "start": 1261,
+        "end": 1307
+      },
+      {
+        "text": "HPC",
+        "label": "ORG",
+        "start": 1387,
+        "end": 1390
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1408,
+        "end": 1419
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PERSON",
+        "start": 1494,
+        "end": 1509
+      },
+      {
+        "text": "Christoph Schär",
+        "label": "PERSON",
+        "start": 1540,
+        "end": 1555
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1557,
+        "end": 1567
+      },
+      {
+        "text": "Oliver Fuhrer",
+        "label": "PERSON",
+        "start": 1573,
+        "end": 1586
+      },
+      {
+        "text": "MeteoSchweiz",
+        "label": "PERSON",
+        "start": 1588,
+        "end": 1600
+      },
+      {
+        "text": "Computing for Climate",
+        "label": "WORK_OF_ART",
+        "start": 1625,
+        "end": 1646
+      },
+      {
+        "text": "D.",
+        "label": "NORP",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "O. Fuhrer",
+        "label": "PERSON",
+        "start": 19,
+        "end": 28
+      },
+      {
+        "text": "X. Lapillonne",
+        "label": "PERSON",
+        "start": 30,
+        "end": 43
+      },
+      {
+        "text": "D. Lüthi",
+        "label": "PERSON",
+        "start": 45,
+        "end": 53
+      },
+      {
+        "text": "C. Schär",
+        "label": "PERSON",
+        "start": 55,
+        "end": 63
+      },
+      {
+        "text": "Continental-Scale Climate Simulation",
+        "label": "ORG",
+        "start": 71,
+        "end": 107
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 133,
+        "end": 143
+      },
+      {
+        "text": "Computer Science,",
+        "label": "ORG",
+        "start": 259,
+        "end": 276
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 324,
+        "end": 334
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "C. Schär",
+        "Christoph Schär",
+        "D. Lüthi",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Lewis F. Richardson",
+        "MeteoSchweiz",
+        "MeteoSwiss",
+        "O. Fuhrer",
+        "Oliver Fuhrer",
+        "Richardson",
+        "Torsten Hoefler",
+        "X. Lapillonne"
+      ],
+      "ORG": [
+        "COSMO",
+        "CUDA",
+        "Center for Climate Systems",
+        "Computer Science,",
+        "Continental-Scale Climate Simulation",
+        "ETH",
+        "GPU",
+        "HPC",
+        "MeteoSwiss",
+        "fed",
+        "the Scalable Parallel Computing Laboratory SPCL"
+      ],
+      "LOCATION": [
+        "Piz Kesch",
+        "Switzerland"
+      ],
+      "DATE": [
+        "As early as 1917",
+        "daily",
+        "five-day",
+        "one-day",
+        "the 1950s",
+        "the last 30 years",
+        "the late 1970s",
+        "today"
+      ],
+      "MISC": [
+        "1 Evolution",
+        "64,000",
+        "British",
+        "Computing for Climate",
+        "D.",
+        "European",
+        "Swiss",
+        "about 200",
+        "about 800 km",
+        "around 1 km",
+        "first",
+        "hundreds",
+        "more than 300 thousand",
+        "more than three",
+        "roughly 100 km",
+        "the Platform for Advanced Scientific Computing",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "first": 3,
+      "Richardson": 2,
+      "European": 2,
+      "MeteoSwiss": 2,
+      "GPU": 2,
+      "ETH Zurich": 2,
+      "1 Evolution": 1,
+      "fed": 1,
+      "daily": 1,
+      "As early as 1917": 1,
+      "British": 1,
+      "Lewis F. Richardson": 1,
+      "64,000": 1,
+      "three": 1,
+      "today": 1,
+      "the 1950s": 1,
+      "about 800 km": 1,
+      "the late 1970s": 1,
+      "roughly 100 km": 1,
+      "one-day": 1
+    },
+    "total_entities": 57,
+    "unique_entities": 50
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "computing-for-climate-part-1-evolution-of-models.md",
+      "title": "En News Events/2015/10/computing For Climate Part 1 Evolution Of Models",
+      "language": "en",
+      "source_path": "en_news_events/2015/10/computing-for-climate-part-1-evolution-of-models.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "1917",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "C. Schär",
+        "Christoph Schär",
+        "D. Lüthi",
+        "ETH Zurich",
+        "ETH Zürich",
+        "Lewis F. Richardson",
+        "MeteoSchweiz",
+        "MeteoSwiss",
+        "O. Fuhrer",
+        "Oliver Fuhrer",
+        "Richardson",
+        "Torsten Hoefler",
+        "X. Lapillonne"
+      ],
+      "people_with_roles": {
+        "ETH Zürich": [
+          "professor"
+        ],
+        "MeteoSwiss": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1 Evolution",
+        "64,000",
+        "British",
+        "Computing for Climate",
+        "European",
+        "Swiss",
+        "about 200",
+        "about 800 km",
+        "around 1 km",
+        "first",
+        "hundreds",
+        "more than 300 thousand",
+        "more than three",
+        "roughly 100 km",
+        "the Platform for Advanced Scientific Computing",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Assistant Professor",
+        "Scalable Parallel",
+        "Piz Kesch",
+        "Evolution Of",
+        "Advanced Scientific",
+        "Oliver Fuhrer",
+        "Climate Simulation",
+        "Kilometer-Resolution",
+        "Climate Science",
+        "Climate Systems",
+        "Computer Science",
+        "Continental-Scale",
+        "Lewis F",
+        "High-Performance",
+        "En News",
+        "Models Predicting",
+        "Torsten Hoefler",
+        "For Climate",
+        "ETH Zurich",
+        "Computing Laboratory"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COSMO",
+        "CUDA",
+        "Center for Climate Systems",
+        "Computer Science,",
+        "Continental-Scale Climate Simulation",
+        "ETH",
+        "GPU",
+        "HPC",
+        "MeteoSwiss",
+        "fed",
+        "the Scalable Parallel Computing Laboratory SPCL"
+      ],
+      "locations": [
+        "Piz Kesch",
+        "Switzerland"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "first",
+        "Richardson",
+        "European",
+        "MeteoSwiss",
+        "GPU",
+        "ETH Zurich",
+        "1 Evolution",
+        "fed",
+        "daily",
+        "As early as 1917"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "A Question of Resolution",
+          "Developing better Models of Computation",
+          "Developing better Models of Computation",
+          "Further information"
+        ],
+        "content_length": 5070
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "D. Lüthi",
+        "Continental-Scale Climate Simulation",
+        "C. Schär",
+        "1917",
+        "Richardson",
+        "O. Fuhrer",
+        "Christoph Schär",
+        "ERC",
+        "Lewis F. Richardson",
+        "Computer Science,",
+        "X. Lapillonne",
+        "HPC",
+        "ETH Zürich",
+        "Oliver Fuhrer",
+        "2015",
+        "Center for Climate Systems",
+        "EU",
+        "fed",
+        "GPU",
+        "the Scalable Parallel Computing Laboratory SPCL",
+        "MeteoSchweiz",
+        "MeteoSwiss",
+        "COSMO",
+        "Torsten Hoefler",
+        "ETH Zurich",
+        "CUDA"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "when",
+        "about 800 km",
+        "hundreds",
+        "around 1 km",
+        "64,000",
+        "1 Evolution",
+        "mathematics",
+        "who",
+        "more than 300 thousand",
+        "Computing for Climate",
+        "British",
+        "what",
+        "how",
+        "computer_science",
+        "climate_change",
+        "first",
+        "about 200",
+        "Swiss",
+        "roughly 100 km",
+        "the Platform for Advanced Scientific Computing",
+        "more than three",
+        "European"
+      ],
+      "graph_relations": [
+        "ETH Zürich_has_role_professor",
+        "MeteoSwiss_has_role_researcher",
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

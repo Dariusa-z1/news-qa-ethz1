@@ -1,0 +1,573 @@
+{
+  "filename": "was-bewegt-das-auge-wenn-man-auf-ein-telefon-schaut.md",
+  "original_filename": "was-bewegt-das-auge-wenn-man-auf-ein-telefon-schaut.html",
+  "source_path": "de_news_events/2020/09/was-bewegt-das-auge-wenn-man-auf-ein-telefon-schaut.html",
+  "date": "2020-09",
+  "title": "Was Bewegt Das Auge Wenn Man Auf Ein Telefon Schaut",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Verständnis der Anwenderaufmerksamkeit",
+      "text": "Wie viele Male schalten Sie Ihr Smartphone am Tag ein? Wie lange ist der Bildschirm eingeschaltet und wie viel Zeit ist welche App in Betrieb? Diese Daten sammelt jedes moderne Smartphone automatisch und stellt sie dem Nutzer unter Bezeichnungen wie «Digitales Wohlbefinden» zur Verfügung. Aber Bildschirmzeit ist nicht gleich Bildschirmzeit und App-Nutzung ist nicht gleich App-Nutzung.\n\nManchmal sind wir über längere Zeit konzentriert bei der Sache, ein anderes Mal schauen wir nur flüchtig auf den Bildschirm oder werden mehrfach durch Ereignisse in der Umgebung abgelenkt. Und gelegentlich wandert unser Blick erst gar nicht zum Smartphone, weil wir es nur unbewusst aktiviert haben."
+    },
+    {
+      "heading": "Verständnis der Anwenderaufmerksamkeit",
+      "text": "«Die Aufmerksamkeit, die wir unserem Smartphone widmen, kann sehr unterschiedlich sein,» erklärt Mihai Bâce: «Sie wurde aber noch nie in echten Alltagssituationen untersucht.» Der Doktorand am Institut für intelligente interaktive Systeme der ETH Zürich hat jetzt zusammen mit einem Masterstudenten und einem Professor der Universität Stuttgart ein System entwickelt, mit dem sich die visuelle Aufmerksamkeit auf das Smartphone im ganz normalen Nutzer-Alltag und über Wochen messen lässt.\n\nEs benötigt dafür nur die Frontkamera und Sensordaten des Telefons. Bisher waren umständliche Messapparaturen mit Eye-Trackern oder das Ausfüllen von Fragebögen notwendig, die das normale Leben höchstens annähernd erfassen konnten.\n\nDabei gehört das Verständnis der Anwenderaufmerksamkeit zu den wichtigsten Herausforderungen auf dem Weg zu zukünftigen mobilen Benutzerschnittstellen, wie Bâce betont. Diese sollen nämlich ihrerseits aufmerksam werden und automatisch auf unsere aktuellen Bedürfnisse sowie auf die Situation Rücksicht nehmen, in der wir uns gerade befinden.\n\nEs wird dann beispielsweise keine manuelle Nicht-Stören-Einstellung mehr notwendig sein, um nicht durch eine unwichtige Meldung aus einer konzentrierten Beschäftigung herausgerissen zu werden."
+    },
+    {
+      "heading": "Infrastruktur als grosse Herausforderung",
+      "text": "Am Beispiel von Sander Staal, Co-Autor der Studie, ist zu sehen, wie die Blickkontakterkennung funktioniert. Ein grünes Rechteck bedeutet Augenkontakt, rot kein Augenkontakt. (Distributed Systems Group)\n\nUnd derartige Technologien scheinen je länger je notwendiger zu werden. Bâces Untersuchungen zeigen nämlich, dass die visuelle Aufmerksamkeit, die wir dem Smartphone zukommen lassen, heute ausgesprochen zerstückelt ist. Gerade einmal rund 7 Sekunden dauert ein Augenkontakt mit dem Bildschirm im Durchschnitt, bevor der Blick abschweift.\n\nUnd das passiert nach jeder Entsperrung vier Mal für rund 2 Sekunden. Wie ablenkbar die Nutzer sind, hängt dabei von der einzelnen Persönlichkeit, aber auch der Umgebung des Nutzers sowie der Art der App ab, die gerade im Einsatz ist. Medizinische Anwendungen oder auch solche, die der Ausbildung dienen, fesseln beispielsweise wesentlich länger als Unterhaltungs-Apps."
+    },
+    {
+      "heading": "Basis für unterschiedlichste Forschung",
+      "text": "Den grossen Wert seiner Arbeit sieht Bâce aber nicht nur in diesen konkreten Untersuchungsresultaten, die mit dem System gewonnen werden konnten: «Unser System soll vor allem auch eine Basis für andere Wissenschaftler darstellen. Wir werden darum neben den gesamten Videodaten auch alle unsere Algorithmen veröffentlichen.»\n\nProfitieren könnten zukünftig nicht nur App-Entwickler, sondern beispielsweise auch Soziologen oder Psychologen, die mit dem System ohne grossen technischen Aufwand Studien zum Einfluss von verschiedenen Faktoren auf die Aufmerksamkeit durchführen könnten. Aber auch die Medizin wäre ein möglicher Abnehmer der Technologie. Änderungen im Aufmerksamkeitsverhalten könnten beispielsweise beim Monitoring von Patienten eingesetzt werden und auf problematische Entwicklungen hinweisen.\n\nBei der Entwicklung des Systems kam eine App zum Einsatz, die zusätzlich zum Aufnehmen von Frontkamera-Videos bei jeder Handy-Entsperrung und dem parallelen Sammeln verschiedener Sensor- und Metadaten auch noch Datenschutz- und Verifizierungsfunktionalitäten enthielt.\n\nSo konnten die Studienteilnehmenden über eine Review-Komponente selbst entscheiden, welche Videos sie zur Auswertung freigeben, und über ein Annotations-Game liessen sich Videosequenzen von anderen Teilnehmenden beurteilen. Mit Hilfe dieser dritten Komponente wurden in der Entwicklungsphase die Resultate der automatischen Blickkontakterkennung überprüft.\n\nInsgesamt haben die Forscher in einem ersten Experiment mit 32 Teilnehmern und über einen Zeitraum von über zwei Wochen Videosequenzen von insgesamt 472 Stunden aufgenommen und anschliessend mit einem innovativen lernfähigen Blickkontakt-Erkennungssystem ausgewertet. Die einzelnen Videos konnten dabei mehrere hundert Megabyte gross werden. Es wurde also zwischenzeitlich viel Speicherplatz auf den Smartphones benötigt und auch die Upload-Zeiten zogen sich entsprechend in die Länge. Und genau darin lag eine der grössten Herausforderungen.\n\nDa die User eine App, die sie im Alltag behindert, schnell abschalten oder zumindest ihre Nutzung minimieren, mussten Mechanismen gefunden werden, die den Handyspeicher nicht übermässig belasten und auch nicht die Übertragungskapazitäten der Smartphones blockieren.\n\nZudem muss der Datenschutz jederzeit sichergestellt sein – es darf nur das auf den Auswertungsserver geladen werden, was von den Nutzern ausdrücklich über die Review-Komponente freigegeben wurde. «Die App wurde von der Ethikkommission der ETH Zürich überprüft, und wir führen auch bewusst keine Gesichtserkennung durch. Es wird einzig festgestellt, ob Blickkontakt mit dem Bildschirm besteht,» ergänzt Bâce.\n\nWenn unser Smartphone in Zukunft uns und unsere Bedürfnisse besser versteht, muss dies also nicht zwangsläufig auf der Auswertung von sensitiven persönlichen Daten beruhen. Mit dem System der Informatiker kann dies künftig vielleicht auch durch ein automatisches Erkennen des menschlichen Aufmerksamkeitsniveaus erreicht werden.\n\nBâce M, Staal S, Bulling A. (2020). Quantification of Users’ Visual Attention During Everyday Mobile Device Interactions. In: Proceedings of the Conference on Human Factors in Computing Systems (CHI ’20). ACM, New York, NY, USA, 2020, 1–14. doi: externe Seite 10.1145/3313831.3376449\n\nBâce M, Staal S, Bulling A. (2019). Accurate and Robust Eye Contact Detection During Everyday Mobile Device Interactions externe Seite arxiv.org/abs/1907.11115\n\nVideo-Präsentation des Papers: externe Seite www.youtube.com/watch?v=SzLn3LujIqw\n\nVideo-Dataset der Untersuchung: externe Seite www.emva-dataset.org"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Wenn Man auf ein Telefon Schaut",
+        "label": "MISC",
+        "start": 43,
+        "end": 74
+      },
+      {
+        "text": "Tag",
+        "label": "MISC",
+        "start": 46,
+        "end": 49
+      },
+      {
+        "text": "Digitales Wohlbefinden",
+        "label": "MISC",
+        "start": 251,
+        "end": 273
+      },
+      {
+        "text": "Smartphone",
+        "label": "MISC",
+        "start": 37,
+        "end": 47
+      },
+      {
+        "text": "Mihai Bâce",
+        "label": "PER",
+        "start": 97,
+        "end": 107
+      },
+      {
+        "text": "Institut für intelligente interaktive Systeme",
+        "label": "ORG",
+        "start": 193,
+        "end": 238
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 243,
+        "end": 253
+      },
+      {
+        "text": "Universität Stuttgart",
+        "label": "ORG",
+        "start": 323,
+        "end": 344
+      },
+      {
+        "text": "Nutzer-Alltag",
+        "label": "LOC",
+        "start": 445,
+        "end": 458
+      },
+      {
+        "text": "Bâce",
+        "label": "PER",
+        "start": 877,
+        "end": 881
+      },
+      {
+        "text": "Sander Staal",
+        "label": "PER",
+        "start": 16,
+        "end": 28
+      },
+      {
+        "text": "Distributed Systems Group",
+        "label": "ORG",
+        "start": 176,
+        "end": 201
+      },
+      {
+        "text": "Bâces",
+        "label": "MISC",
+        "start": 275,
+        "end": 280
+      },
+      {
+        "text": "Smartphone",
+        "label": "MISC",
+        "start": 358,
+        "end": 368
+      },
+      {
+        "text": "Bâce",
+        "label": "PER",
+        "start": 37,
+        "end": 41
+      },
+      {
+        "text": "Unser System",
+        "label": "ORG",
+        "start": 147,
+        "end": 159
+      },
+      {
+        "text": "Systems",
+        "label": "MISC",
+        "start": 830,
+        "end": 837
+      },
+      {
+        "text": "Frontkamera-Videos",
+        "label": "MISC",
+        "start": 897,
+        "end": 915
+      },
+      {
+        "text": "Review-Komponente",
+        "label": "LOC",
+        "start": 1121,
+        "end": 1138
+      },
+      {
+        "text": "Videos",
+        "label": "MISC",
+        "start": 1166,
+        "end": 1172
+      },
+      {
+        "text": "Blickkontakt-Erkennungssystem",
+        "label": "MISC",
+        "start": 1657,
+        "end": 1686
+      },
+      {
+        "text": "Videos",
+        "label": "MISC",
+        "start": 1714,
+        "end": 1720
+      },
+      {
+        "text": "Megabyte",
+        "label": "PER",
+        "start": 1751,
+        "end": 1759
+      },
+      {
+        "text": "Auswertungsserver",
+        "label": "LOC",
+        "start": 2324,
+        "end": 2341
+      },
+      {
+        "text": "Nutzern",
+        "label": "LOC",
+        "start": 2370,
+        "end": 2377
+      },
+      {
+        "text": "Review-Komponente",
+        "label": "LOC",
+        "start": 2400,
+        "end": 2417
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 2480,
+        "end": 2490
+      },
+      {
+        "text": "Blickkontakt",
+        "label": "LOC",
+        "start": 2593,
+        "end": 2605
+      },
+      {
+        "text": "Bâce",
+        "label": "PER",
+        "start": 2643,
+        "end": 2647
+      },
+      {
+        "text": "Bâce M",
+        "label": "PER",
+        "start": 2978,
+        "end": 2984
+      },
+      {
+        "text": "Staal S",
+        "label": "PER",
+        "start": 2986,
+        "end": 2993
+      },
+      {
+        "text": "Bulling A.",
+        "label": "PER",
+        "start": 2995,
+        "end": 3005
+      },
+      {
+        "text": "Proceedings of the Conference on Human Factors",
+        "label": "ORG",
+        "start": 3104,
+        "end": 3150
+      },
+      {
+        "text": "Computing Systems",
+        "label": "LOC",
+        "start": 3154,
+        "end": 3171
+      },
+      {
+        "text": "CHI ’20",
+        "label": "MISC",
+        "start": 3173,
+        "end": 3180
+      },
+      {
+        "text": "ACM",
+        "label": "LOC",
+        "start": 3183,
+        "end": 3186
+      },
+      {
+        "text": "New York",
+        "label": "LOC",
+        "start": 3188,
+        "end": 3196
+      },
+      {
+        "text": "NY",
+        "label": "LOC",
+        "start": 3198,
+        "end": 3200
+      },
+      {
+        "text": "USA",
+        "label": "LOC",
+        "start": 3202,
+        "end": 3205
+      },
+      {
+        "text": "Staal S",
+        "label": "PER",
+        "start": 3270,
+        "end": 3277
+      },
+      {
+        "text": "Bulling A.",
+        "label": "PER",
+        "start": 3279,
+        "end": 3289
+      },
+      {
+        "text": "During Everyday Mobile Device Interactions",
+        "label": "PER",
+        "start": 3340,
+        "end": 3382
+      },
+      {
+        "text": "Papers",
+        "label": "LOC",
+        "start": 3445,
+        "end": 3451
+      },
+      {
+        "text": "www.youtube.com/watch?v=SzLn3LujIqw Video-Dataset",
+        "label": "PER",
+        "start": 3467,
+        "end": 3516
+      },
+      {
+        "text": "www.emva-dataset.org",
+        "label": "LOC",
+        "start": 3549,
+        "end": 3569
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bulling A.",
+        "Bâce",
+        "Bâce M",
+        "De News",
+        "During Everyday Mobile Device Interactions",
+        "Megabyte",
+        "Mihai Bâce",
+        "Sander Staal",
+        "Staal S",
+        "www.youtube.com/watch?v=SzLn3LujIqw Video-Dataset"
+      ],
+      "ORG": [
+        "Distributed Systems Group",
+        "ETH Zürich",
+        "Institut für intelligente interaktive Systeme",
+        "Proceedings of the Conference on Human Factors",
+        "Universität Stuttgart",
+        "Unser System"
+      ],
+      "LOCATION": [
+        "ACM",
+        "Auswertungsserver",
+        "Blickkontakt",
+        "Computing Systems",
+        "NY",
+        "New York",
+        "Nutzer-Alltag",
+        "Nutzern",
+        "Papers",
+        "Review-Komponente",
+        "USA",
+        "www.emva-dataset.org"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Blickkontakt-Erkennungssystem",
+        "Bâces",
+        "CHI ’20",
+        "Digitales Wohlbefinden",
+        "Frontkamera-Videos",
+        "Smartphone",
+        "Systems",
+        "Tag",
+        "Videos",
+        "Wenn Man auf ein Telefon Schaut"
+      ]
+    },
+    "entity_counts": {
+      "Bâce": 3,
+      "Smartphone": 2,
+      "ETH Zürich": 2,
+      "Review-Komponente": 2,
+      "Videos": 2,
+      "Staal S": 2,
+      "Bulling A.": 2,
+      "De News": 1,
+      "Wenn Man auf ein Telefon Schaut": 1,
+      "Tag": 1,
+      "Digitales Wohlbefinden": 1,
+      "Mihai Bâce": 1,
+      "Institut für intelligente interaktive Systeme": 1,
+      "Universität Stuttgart": 1,
+      "Nutzer-Alltag": 1,
+      "Sander Staal": 1,
+      "Distributed Systems Group": 1,
+      "Bâces": 1,
+      "Unser System": 1,
+      "Systems": 1
+    },
+    "total_entities": 46,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "was-bewegt-das-auge-wenn-man-auf-ein-telefon-schaut.md",
+      "title": "De News Events/2020/09/was Bewegt das Auge Wenn Man auf ein Telefon Schaut",
+      "language": "de",
+      "source_path": "de_news_events/2020/09/was-bewegt-das-auge-wenn-man-auf-ein-telefon-schaut.html"
+    },
+    "temporal": {
+      "publication_date": "2020-09",
+      "mentioned_years": [
+        "1907",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bulling A.",
+        "Bâce",
+        "Bâce M",
+        "De News",
+        "During Everyday Mobile Device Interactions",
+        "Megabyte",
+        "Mihai Bâce",
+        "Sander Staal",
+        "Staal S",
+        "www.youtube.com/watch?v=SzLn3LujIqw Video-Dataset"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Blickkontakt-Erkennungssystem",
+        "Bâces",
+        "CHI ’20",
+        "Digitales Wohlbefinden",
+        "Frontkamera-Videos",
+        "Smartphone",
+        "Systems",
+        "Videos",
+        "Wenn Man auf ein Telefon Schaut"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Auge Wenn",
+        "During Everyday",
+        "Annotations-Game",
+        "Sie Ihr",
+        "Nutzer-Alltag",
+        "Am Beispiel",
+        "Visual Attention",
+        "Sander Staal",
+        "Computing Systems",
+        "Mobile Device",
+        "Medizinische Anwendungen",
+        "Diese Daten",
+        "Video-Dataset",
+        "Contact Detection",
+        "Distributed Systems",
+        "Telefon Schaut",
+        "Bulling A",
+        "Frontkamera-Videos",
+        "Die App",
+        "Human Factors",
+        "App-Nutzung",
+        "Staal S",
+        "App-Entwickler",
+        "Co-Autor",
+        "Mit Hilfe",
+        "Die Aufmerksamkeit",
+        "Blickkontakt-Erkennungssystem",
+        "Robust Eye",
+        "Unser System",
+        "Upload-Zeiten",
+        "Digitales Wohlbefinden",
+        "Eye-Trackern",
+        "Unterhaltungs-Apps",
+        "New York",
+        "Wochen Videosequenzen",
+        "De News",
+        "Aufwand Studien",
+        "Review-Komponente",
+        "Der Doktorand",
+        "Handy-Entsperrung",
+        "Aber Bildschirmzeit"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Distributed Systems Group",
+        "ETH Zürich",
+        "Institut für intelligente interaktive Systeme",
+        "Proceedings of the Conference on Human Factors",
+        "Universität Stuttgart",
+        "Unser System"
+      ],
+      "locations": [
+        "ACM",
+        "Auswertungsserver",
+        "Blickkontakt",
+        "Computing Systems",
+        "NY",
+        "New York",
+        "Nutzer-Alltag",
+        "Nutzern",
+        "Papers",
+        "Review-Komponente",
+        "USA",
+        "www.emva-dataset.org"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Bâce",
+        "Smartphone",
+        "ETH Zürich",
+        "Review-Komponente",
+        "Videos",
+        "Staal S",
+        "Bulling A.",
+        "De News",
+        "Wenn Man auf ein Telefon Schaut",
+        "Tag"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Verständnis der Anwenderaufmerksamkeit",
+          "Verständnis der Anwenderaufmerksamkeit",
+          "Infrastruktur als grosse Herausforderung",
+          "Basis für unterschiedlichste Forschung"
+        ],
+        "content_length": 6516
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "www.youtube.com/watch?v=SzLn3LujIqw Video-Dataset",
+        "2020",
+        "Bâce M",
+        "Sander Staal",
+        "1907",
+        "2019",
+        "ETH Zürich",
+        "Proceedings of the Conference on Human Factors",
+        "Megabyte",
+        "Staal S",
+        "Bulling A.",
+        "EU",
+        "Bâce",
+        "Institut für intelligente interaktive Systeme",
+        "Unser System",
+        "Distributed Systems Group",
+        "Mihai Bâce",
+        "Universität Stuttgart",
+        "De News",
+        "During Everyday Mobile Device Interactions"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Digitales Wohlbefinden",
+        "who",
+        "Smartphone",
+        "Wenn Man auf ein Telefon Schaut",
+        "CHI ’20",
+        "Bâces",
+        "Videos",
+        "Blickkontakt-Erkennungssystem",
+        "Frontkamera-Videos",
+        "Systems",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

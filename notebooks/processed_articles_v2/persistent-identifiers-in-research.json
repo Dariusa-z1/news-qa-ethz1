@@ -1,0 +1,181 @@
+{
+  "filename": "persistent-identifiers-in-research.md",
+  "original_filename": "persistent-identifiers-in-research.html",
+  "source_path": "en_internal/2019/07/persistent-identifiers-in-research.html",
+  "date": "2019-07",
+  "title": "Persistent Identifiers In Research",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Persistent identifiers (PID) play an instrumental role in ensuring the traceability of digital objects from academia and research on the internet.\n\nWe are delighted to welcome speakers who will shed light on this current topic from various perspectives on Friday, 13 September 2019.\n\nThe presentations will focus on current applications for persistent identifiers in research and new ideas, developments and initiatives for the future – either from a provider perspective such as DataCite and ORCID or in ongoing projects. We will also offer an outlook by examining the possibilities that the use of block chain technologies offer in this field.\n\nThe event, which will be held in English, is not only aimed at PID providers, but also at users and anyone else interested in the topic.\n\nFurther information and registration"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Identifiers in Research",
+        "label": "ORG",
+        "start": 31,
+        "end": 54
+      },
+      {
+        "text": "PID",
+        "label": "ORG",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "Friday",
+        "label": "DATE",
+        "start": 255,
+        "end": 261
+      },
+      {
+        "text": "13 September 2019",
+        "label": "DATE",
+        "start": 263,
+        "end": 280
+      },
+      {
+        "text": "DataCite",
+        "label": "ORG",
+        "start": 478,
+        "end": 486
+      },
+      {
+        "text": "ORCID",
+        "label": "ORG",
+        "start": 491,
+        "end": 496
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 677,
+        "end": 684
+      },
+      {
+        "text": "PID",
+        "label": "ORG",
+        "start": 707,
+        "end": 710
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "DataCite",
+        "Identifiers in Research",
+        "ORCID",
+        "PID"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "13 September 2019",
+        "Friday"
+      ],
+      "MISC": [
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "PID": 2,
+      "Identifiers in Research": 1,
+      "Friday": 1,
+      "13 September 2019": 1,
+      "DataCite": 1,
+      "ORCID": 1,
+      "English": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "persistent-identifiers-in-research.md",
+      "title": "En Internal/2019/07/persistent Identifiers in Research",
+      "language": "en",
+      "source_path": "en_internal/2019/07/persistent-identifiers-in-research.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "English"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Research Persistent",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DataCite",
+        "Identifiers in Research",
+        "ORCID",
+        "PID"
+      ],
+      "locations": [],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "PID",
+        "Identifiers in Research",
+        "Friday",
+        "13 September 2019",
+        "DataCite",
+        "ORCID",
+        "English"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 876
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "PID",
+        "2019",
+        "DataCite",
+        "ORCID",
+        "Identifiers in Research"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "English",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

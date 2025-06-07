@@ -1,0 +1,310 @@
+{
+  "filename": "intensive-course-in-german-as-a-foreign-language.md",
+  "original_filename": "intensive-course-in-german-as-a-foreign-language.html",
+  "source_path": "en_internal/2016/05/intensive-course-in-german-as-a-foreign-language.html",
+  "date": "2016-05",
+  "title": "Intensive Course In German As A Foreign Language",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Teaching is one of the key responsibilities of doctoral students and research staff at ETH Zurich. Working in cooperation with the joint Language Center of ETH Zurich and the University of Zurich, ETH Zurich offers an intensive course in German as a foreign language to help ensure that a lack of German language skills do not form a barrier in everyday life at the university.\n\nIn just one year, course participants acquire the necessary language skills to be able to communicate in German about their academic work and everyday activities, while also laying the foundations for their own teaching in German.\n\nETH doctoral students can register for the intensive German course from 30 May to 14 July 2016. The course starts on 15 August 2016 and includes two two-week intensive courses in August 2016 and January 2017, as well as 56 lessons in the autumn 2016 semester and 56 lessons in the spring semester of 2017. The course fee is 2,650 Swiss francs."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 87,
+        "end": 97
+      },
+      {
+        "text": "Language Center",
+        "label": "FAC",
+        "start": 137,
+        "end": 152
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 171,
+        "end": 195
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 197,
+        "end": 207
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 238,
+        "end": 244
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 297,
+        "end": 303
+      },
+      {
+        "text": "just one year",
+        "label": "DATE",
+        "start": 381,
+        "end": 394
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 483,
+        "end": 489
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 601,
+        "end": 607
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 609,
+        "end": 612
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 662,
+        "end": 668
+      },
+      {
+        "text": "30 May to",
+        "label": "DATE",
+        "start": 681,
+        "end": 690
+      },
+      {
+        "text": "July 2016",
+        "label": "DATE",
+        "start": 694,
+        "end": 703
+      },
+      {
+        "text": "15 August 2016",
+        "label": "DATE",
+        "start": 726,
+        "end": 740
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 754,
+        "end": 757
+      },
+      {
+        "text": "two-week",
+        "label": "DATE",
+        "start": 758,
+        "end": 766
+      },
+      {
+        "text": "August 2016",
+        "label": "DATE",
+        "start": 788,
+        "end": 799
+      },
+      {
+        "text": "January 2017",
+        "label": "DATE",
+        "start": 804,
+        "end": 816
+      },
+      {
+        "text": "56 lessons",
+        "label": "QUANTITY",
+        "start": 829,
+        "end": 839
+      },
+      {
+        "text": "56 lessons",
+        "label": "QUANTITY",
+        "start": 872,
+        "end": 882
+      },
+      {
+        "text": "the spring semester of 2017",
+        "label": "DATE",
+        "start": 886,
+        "end": 913
+      },
+      {
+        "text": "2,650 Swiss francs",
+        "label": "MONEY",
+        "start": 933,
+        "end": 951
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Language Center"
+      ],
+      "DATE": [
+        "15 August 2016",
+        "30 May to",
+        "August 2016",
+        "January 2017",
+        "July 2016",
+        "just one year",
+        "the spring semester of 2017",
+        "two-week"
+      ],
+      "MISC": [
+        "2,650 Swiss francs",
+        "56 lessons",
+        "German",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "German": 6,
+      "ETH Zurich": 2,
+      "56 lessons": 2,
+      "Language Center": 1,
+      "the University of Zurich": 1,
+      "just one year": 1,
+      "ETH": 1,
+      "30 May to": 1,
+      "July 2016": 1,
+      "15 August 2016": 1,
+      "two": 1,
+      "two-week": 1,
+      "August 2016": 1,
+      "January 2017": 1,
+      "the spring semester of 2017": 1,
+      "2,650 Swiss francs": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "intensive-course-in-german-as-a-foreign-language.md",
+      "title": "En Internal/2016/05/intensive Course in German As A Foreign Language",
+      "language": "en",
+      "source_path": "en_internal/2016/05/intensive-course-in-german-as-a-foreign-language.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "2,650 Swiss francs",
+        "56 lessons",
+        "German"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "A Foreign",
+        "En Internal",
+        "Language Teaching",
+        "Language Center",
+        "ETH Zurich",
+        "German As"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Language Center"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "German",
+        "ETH Zurich",
+        "56 lessons",
+        "Language Center",
+        "the University of Zurich",
+        "just one year",
+        "ETH",
+        "30 May to",
+        "July 2016",
+        "15 August 2016"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1023
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2017",
+        "the University of Zurich",
+        "2016",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "what",
+        "56 lessons",
+        "German",
+        "when",
+        "where",
+        "2,650 Swiss francs"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student"
+      ]
+    }
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "filename": "can-technology-fix-climate-change.md",
+  "original_filename": "can-technology-fix-climate-change.html",
+  "source_path": "en_news_events/2015/09/can-technology-fix-climate-change.html",
+  "date": "2015-09",
+  "title": "Can Technology Fix Climate Change",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A less rosy view of technological change",
+      "text": "- The first path is that PV could make electricity less expensive, stimulating additional growth in electricity consumption (classical rebound effect). But since PV doesn’t work at night, the additional consumption could lead to greater demand for conventionally generated power: more coal and gas.\n\n- The second path is that PV could replace demand for coal and gas. But this requires policy-makers to attend to the performance gap, which in this case is nighttime supply. We need a way for PV power to let us watch the evening news.\n\nIn a recently published book, I have argued for using technology policy to solve climate change. [1] Traditional climate policy instruments such as carbon taxes have focused on penalizing greenhouse gas emissions, and have led to improvements in the efficiency of traditional technologies (e.g. more efficient cars and trucks). And yet the empirical evidence suggests that these have done a poor job at stimulating innovations in the key technologies needed to eliminate emissions altogether. Instead, my book’s argument went, we need to rely more heavily now on policy instruments that provide a direct stimulus to innovation and diffusion for the new technologies. As those technologies are ready—and many of them already are—we can focus on supporting their growth, so that they will push aside the older technologies, the sources of greenhouse gas emissions. That is the quickest route to eliminating emissions."
+    },
+    {
+      "heading": "A less rosy view of technological change",
+      "text": "But then in the last few weeks, I have had a series of conversations with Marcel Hänggi, a Swiss writer who recently published a book on the history of technological progress and innovation. [2] What his research suggests is that most major innovations have not actually replaced old technologies, but instead supplemented them. Indeed, often the new technologies cause even greater growth in the old ones. Gutenberg’s printing press, for example, enabled a boom in people’s wanting to read written material. To satisfy this growth in demand, there was explosive growth for several decades not only in printed books, but also in hand-scribed writing. Hänggi’s argument is that we are foolish to count on new technologies, such as renewable energy, to push aside fossil fuels.\n\nI was forced to ask myself: Is Hänggi right? Is an emphasis on technological change likely to fail to solve climate change, just like all the other policies that aren’t working either? Here is my answer: Hänggi could be right, but he doesn’t need to be. Which way things go depend on whether policy-makers pay attention to two factors."
+    },
+    {
+      "heading": "Mind the performance gap",
+      "text": "First, policy-makers need to mind the gap, so to speak: they need to understand the difference between what the new technologies can offer on their own, and what we need them to offer if they are to replace fossil fuels entirely. Consider solar photovoltaic (PV). PV is shaping up to become the least-cost source of electricity. This could lead us down two paths, one bad and one good.\n\nAs long as policy-makers are taking steps to stimulate growth in PV—which is a good thing—they need to make sure they are coupling that growth to an increase in storage capacity. The good news is that this is starting to happen in some countries, such as Germany and the United States (see also this blog post ), and for good reason: policy-makers want to be able to show their constituents that the technology policies they are enacting really can have the effect of displacing fossil fuels. This type of action needs to happen not just with PV and batteries, but in other areas such as electro-mobility."
+    },
+    {
+      "heading": "Further information",
+      "text": "When compact fluorescent and LED lighting became cost competitive with incandescent bulbs, policy makers in the EU did not count on the market to move fast enough, but actively began to prohibit the sale of incandescent light bulbs. In Japan, when new gains are made in the efficiency of household appliances, the government prohibits the sale of less efficient models. Regulation of this sort is not the tool to stimulate innovation—that needs to come from support policies—but rather a response to innovation, cementing into place on a sector-by-sector basis the gains that new technologies make possible. It works.\n\nWe are already at the point where new building standards can stipulate, starting in 2020, that all new buildings generate no net emissions for heating and cooling. We are entering a phase where governments can begin to prohibit the construction of new fossil power plants. Within a decade it will likely be possible to begin phasing out cars with internal combustion engines.\n\nOf course such actions will be politically challenging, yet there is clear evidence that voters in most countries would support such regulatory actions, as long as they do not come with a noticeable economic cost or inconvenience."
+    },
+    {
+      "heading": "A proven formula",
+      "text": "My optimism continues. I still believe that new technologies can help us to stop climate change, but only in conjunction with deliberate public policy. First, policies need to ensure that the portfolio of new technologies is adequate; the invisible hand of the market will fill many gaps, but not all, and for these a more visible hand of public support is required. Second, policies need to progress across sectors to prohibit emissions-generating activities, as soon as such a prohibition is technically, economically, and socially feasible. It is a formula that has worked in the past, and it can work in the future.\n\n[1] Anthony Patt (2015) Transforming energy: solving climate change with technology policy . Cambridge University Press, 349 pp.\n\n[2] Marcel Hänggi (2015) Fortschrittsgeschichten: für einen guten Umgang mit Technik . Fischer Verlag, 303 pp."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 6,
+        "end": 11
+      },
+      {
+        "text": "PV",
+        "label": "PERSON",
+        "start": 25,
+        "end": 27
+      },
+      {
+        "text": "PV",
+        "label": "ORG",
+        "start": 162,
+        "end": 164
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 181,
+        "end": 186
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 305,
+        "end": 311
+      },
+      {
+        "text": "PV",
+        "label": "PERSON",
+        "start": 325,
+        "end": 327
+      },
+      {
+        "text": "evening",
+        "label": "TIME",
+        "start": 520,
+        "end": 527
+      },
+      {
+        "text": "the last few weeks",
+        "label": "DATE",
+        "start": 12,
+        "end": 30
+      },
+      {
+        "text": "Marcel Hänggi",
+        "label": "PERSON",
+        "start": 74,
+        "end": 87
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 91,
+        "end": 96
+      },
+      {
+        "text": "Gutenberg",
+        "label": "PERSON",
+        "start": 407,
+        "end": 416
+      },
+      {
+        "text": "several decades",
+        "label": "DATE",
+        "start": 574,
+        "end": 589
+      },
+      {
+        "text": "Hänggi",
+        "label": "GPE",
+        "start": 651,
+        "end": 657
+      },
+      {
+        "text": "Hänggi",
+        "label": "GPE",
+        "start": 807,
+        "end": 813
+      },
+      {
+        "text": "Hänggi",
+        "label": "GPE",
+        "start": 980,
+        "end": 986
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1099,
+        "end": 1102
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "PV",
+        "label": "PERSON",
+        "start": 264,
+        "end": 266
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 353,
+        "end": 356
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 364,
+        "end": 367
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 376,
+        "end": 379
+      },
+      {
+        "text": "PV",
+        "label": "GPE",
+        "start": 451,
+        "end": 453
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 641,
+        "end": 648
+      },
+      {
+        "text": "the United States",
+        "label": "GPE",
+        "start": 653,
+        "end": 670
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 112,
+        "end": 114
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 236,
+        "end": 241
+      },
+      {
+        "text": "a decade",
+        "label": "DATE",
+        "start": 898,
+        "end": 906
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 152,
+        "end": 157
+      },
+      {
+        "text": "Second",
+        "label": "ORDINAL",
+        "start": 367,
+        "end": 373
+      },
+      {
+        "text": "Anthony Patt",
+        "label": "PERSON",
+        "start": 624,
+        "end": 636
+      },
+      {
+        "text": "Cambridge University Press",
+        "label": "ORG",
+        "start": 713,
+        "end": 739
+      },
+      {
+        "text": "349 pp",
+        "label": "QUANTITY",
+        "start": 741,
+        "end": 747
+      },
+      {
+        "text": "Umgang",
+        "label": "PERSON",
+        "start": 815,
+        "end": 821
+      },
+      {
+        "text": "Verlag",
+        "label": "PERSON",
+        "start": 844,
+        "end": 850
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Anthony Patt",
+        "Gutenberg",
+        "Marcel Hänggi",
+        "PV",
+        "Umgang",
+        "Verlag"
+      ],
+      "ORG": [
+        "Cambridge University Press",
+        "EU",
+        "PV"
+      ],
+      "LOCATION": [
+        "Germany",
+        "Hänggi",
+        "Japan",
+        "PV",
+        "the United States"
+      ],
+      "DATE": [
+        "a decade",
+        "evening",
+        "night",
+        "several decades",
+        "the last few weeks"
+      ],
+      "MISC": [
+        "349 pp",
+        "First",
+        "Second",
+        "Swiss",
+        "first",
+        "one",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "PV": 5,
+      "Hänggi": 3,
+      "two": 2,
+      "First": 2,
+      "one": 2,
+      "first": 1,
+      "night": 1,
+      "second": 1,
+      "evening": 1,
+      "the last few weeks": 1,
+      "Marcel Hänggi": 1,
+      "Swiss": 1,
+      "Gutenberg": 1,
+      "several decades": 1,
+      "Germany": 1,
+      "the United States": 1,
+      "EU": 1,
+      "Japan": 1,
+      "a decade": 1,
+      "Second": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "can-technology-fix-climate-change.md",
+      "title": "En News Events/2015/09/can Technology Fix Climate Change",
+      "language": "en",
+      "source_path": "en_news_events/2015/09/can-technology-fix-climate-change.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Anthony Patt",
+        "Gutenberg",
+        "Marcel Hänggi",
+        "PV",
+        "Umgang",
+        "Verlag"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "349 pp",
+        "First",
+        "Second",
+        "Swiss",
+        "first",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Fischer Verlag",
+        "Climate Change",
+        "Cambridge University",
+        "In Japan",
+        "En News",
+        "Technology Fix",
+        "United States",
+        "Anthony Patt"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cambridge University Press",
+        "EU",
+        "PV"
+      ],
+      "locations": [
+        "Germany",
+        "Hänggi",
+        "Japan",
+        "PV",
+        "the United States"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "PV",
+        "Hänggi",
+        "two",
+        "First",
+        "one",
+        "first",
+        "night",
+        "second",
+        "evening",
+        "the last few weeks"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "A less rosy view of technological change",
+          "A less rosy view of technological change",
+          "Mind the performance gap",
+          "Further information",
+          "A proven formula"
+        ],
+        "content_length": 5703
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "EU",
+        "2020",
+        "PV",
+        "Verlag",
+        "Umgang",
+        "Marcel Hänggi",
+        "Gutenberg",
+        "Cambridge University Press",
+        "Anthony Patt"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "349 pp",
+        "Second",
+        "who",
+        "Swiss",
+        "where",
+        "what",
+        "second",
+        "First",
+        "how",
+        "climate_change",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

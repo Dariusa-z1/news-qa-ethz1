@@ -1,0 +1,343 @@
+{
+  "filename": "why-does-research-need-to-be-independent.md",
+  "original_filename": "why-does-research-need-to-be-independent.html",
+  "source_path": "en_news_events/2015/04/why-does-research-need-to-be-independent.html",
+  "date": "2015-04",
+  "title": "Why Does Research Need To Be Independent",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Science in a nutshell: during a ride on the Polybahn from Central to ETH, ETH employees have about 100 seconds to excite their audience for their activities. In the latest Polybahn-Pitch, Vice President Detlef Günther speaks about the independence of research. The video is in german.\n\nThe autonomy of research is particularly important for the university in order to drive gains in knowledge without commercial interests. Only by being autonomous is diversity possible, says Günther in the video.\n\nHowever, science is committed to serve society and politics. ETH Zurich needs to prove its sense of responsibility on a daily basis. \"We should think ahead for the challenges of the future in order to then find the corresponding answers of tomorrow and the day after tomorrow and to also offer solutions.\"\n\nSince the beginning of the year, Polybahn-Pitches with the members of the Executive Board are being published at irregular intervals. The films of ETH President Lino Guzzella , Rector Sarah Springman and Roman Boutellier , Vice President Human Resources and Infrastructure, are already online."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Polybahn",
+        "label": "ORG",
+        "start": 44,
+        "end": 52
+      },
+      {
+        "text": "Central",
+        "label": "ORG",
+        "start": 58,
+        "end": 65
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 74,
+        "end": 77
+      },
+      {
+        "text": "about 100 seconds",
+        "label": "TIME",
+        "start": 93,
+        "end": 110
+      },
+      {
+        "text": "Polybahn-Pitch",
+        "label": "ORG",
+        "start": 172,
+        "end": 186
+      },
+      {
+        "text": "Detlef Günther",
+        "label": "PERSON",
+        "start": 203,
+        "end": 217
+      },
+      {
+        "text": "german",
+        "label": "NORP",
+        "start": 277,
+        "end": 283
+      },
+      {
+        "text": "Günther",
+        "label": "PERSON",
+        "start": 475,
+        "end": 482
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 558,
+        "end": 568
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 617,
+        "end": 622
+      },
+      {
+        "text": "tomorrow",
+        "label": "DATE",
+        "start": 737,
+        "end": 745
+      },
+      {
+        "text": "the day after tomorrow",
+        "label": "DATE",
+        "start": 750,
+        "end": 772
+      },
+      {
+        "text": "the beginning of the year",
+        "label": "DATE",
+        "start": 809,
+        "end": 834
+      },
+      {
+        "text": "Polybahn-Pitches",
+        "label": "ORG",
+        "start": 836,
+        "end": 852
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 873,
+        "end": 892
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 950,
+        "end": 953
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 964,
+        "end": 977
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 987,
+        "end": 1002
+      },
+      {
+        "text": "Roman Boutellier",
+        "label": "PERSON",
+        "start": 1007,
+        "end": 1023
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Detlef Günther",
+        "ETH Zurich",
+        "Günther",
+        "Lino Guzzella",
+        "Roman Boutellier",
+        "Sarah Springman"
+      ],
+      "ORG": [
+        "Central",
+        "ETH",
+        "Polybahn",
+        "Polybahn-Pitch",
+        "Polybahn-Pitches",
+        "the Executive Board"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "about 100 seconds",
+        "daily",
+        "the beginning of the year",
+        "the day after tomorrow",
+        "tomorrow"
+      ],
+      "MISC": [
+        "german"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Polybahn": 1,
+      "Central": 1,
+      "about 100 seconds": 1,
+      "Polybahn-Pitch": 1,
+      "Detlef Günther": 1,
+      "german": 1,
+      "Günther": 1,
+      "ETH Zurich": 1,
+      "daily": 1,
+      "tomorrow": 1,
+      "the day after tomorrow": 1,
+      "the beginning of the year": 1,
+      "Polybahn-Pitches": 1,
+      "the Executive Board": 1,
+      "Lino Guzzella": 1,
+      "Sarah Springman": 1,
+      "Roman Boutellier": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "why-does-research-need-to-be-independent.md",
+      "title": "En News Events/2015/04/why Does Research Need To Be Independent",
+      "language": "en",
+      "source_path": "en_news_events/2015/04/why-does-research-need-to-be-independent.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Detlef Günther",
+        "ETH Zurich",
+        "Günther",
+        "Lino Guzzella",
+        "Roman Boutellier",
+        "Sarah Springman"
+      ],
+      "people_with_roles": {
+        "Detlef Günther": [
+          "president"
+        ],
+        "Günther": [
+          "president"
+        ],
+        "Lino Guzzella": [
+          "president",
+          "rector"
+        ],
+        "Roman Boutellier": [
+          "president",
+          "rector"
+        ],
+        "Sarah Springman": [
+          "president",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "german"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Rector Sarah",
+        "Be Independent",
+        "Roman Boutellier",
+        "Vice President",
+        "En News",
+        "ETH President",
+        "Executive Board",
+        "Polybahn-Pitch",
+        "Does Research",
+        "Human Resources",
+        "Need To",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "Polybahn-Pitches"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Central",
+        "ETH",
+        "Polybahn",
+        "Polybahn-Pitch",
+        "Polybahn-Pitches",
+        "the Executive Board"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Polybahn",
+        "Central",
+        "about 100 seconds",
+        "Polybahn-Pitch",
+        "Detlef Günther",
+        "german",
+        "Günther",
+        "ETH Zurich",
+        "daily"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1163
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Polybahn",
+        "ETH",
+        "Detlef Günther",
+        "Roman Boutellier",
+        "2015",
+        "Polybahn-Pitches",
+        "Sarah Springman",
+        "Central",
+        "Polybahn-Pitch",
+        "the Executive Board",
+        "Lino Guzzella",
+        "Günther",
+        "ETH Zurich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering",
+        "german"
+      ],
+      "graph_relations": [
+        "Detlef Günther_has_role_president",
+        "Günther_has_role_president",
+        "Lino Guzzella_has_role_president",
+        "Lino Guzzella_has_role_rector",
+        "Roman Boutellier_has_role_president",
+        "Roman Boutellier_has_role_rector",
+        "Sarah Springman_has_role_president",
+        "Sarah Springman_has_role_rector",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

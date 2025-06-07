@@ -1,0 +1,441 @@
+{
+  "filename": "implant-slimming-aid.md",
+  "original_filename": "implant-slimming-aid.html",
+  "source_path": "en_news_events/2013/11/implant-slimming-aid.html",
+  "date": "2013-11",
+  "title": "Implant Slimming Aid",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Genetic regulatory circuit monitors blood fat",
+      "text": "Humankind has a weight problem – and not only in industrialised nations, either: the growing prosperity in many Asian or Latin American countries goes hand in hand with a way of life that quite literally has hefty consequences. According to the WHO, over half the population in many industrialised nations is overweight, one in three people extremely so. Overweight people are at an increased risk of developing type-2 diabetes or cardiovascular disease, the latter being the most common cause of death in western industrialised nations. Not only is high-calorie and fatty food a lifetime on the hips, backside and stomach; it also leaves traces in the blood, where various fats ingested via food circulate. Increased blood-fat values are also regarded as a risk factor for heart attacks and strokes."
+    },
+    {
+      "heading": "Genetic regulatory circuit monitors blood fat",
+      "text": "The research group headed by ETH-Zurich professor Martin Fussenegger from the Department of Biosystems Science and Engineering in Basel has now developed an early warning system and treatment: an implantable genetic circuit mainly composed of human gene components. On the one hand, it constantly monitors the circulating fat levels in the blood. On the other hand, it has a feedback function and forms a messenger substance in response to excessively high blood-fat levels that conveys a sense of satiety to the body.\n\nIn order to construct this highly complex regulatory circuit, the biotechnologists skilfully combined different genes that produce particular proteins and reaction steps. They implanted the construct in human cells, which they then inserted into tiny capsules.\n\nThe researchers studied obese mice that had been fed fatty food. After the capsules with the gene regulatory circuit had been implanted in the animals and intervened due to the excessive levels, the obese mice stopped eating and their bodyweight dropped noticeably as a result. As the blood-fat levels also returned to normal, the regulatory circuit stopped producing the satiety signal.\n\n“Instead of placing the mice on a diet to achieve weight loss, we kept giving the animals as much high-calorie food as they could eat,” stresses Fussenegger. The animals ate less because the implant signalised a feeling of satiety to them. Mice that received normal animal feed with a five-per-cent fat content did not lose any weight or reduce their intake of food, says the biotechnologist."
+    },
+    {
+      "heading": "Sensor for different dietary fats",
+      "text": "One major advantage of the new synthetic regulatory circuit is the fact that it is not only able to measure one sort of fat, but rather several saturated and unsaturated animal and vegetable fats that are ingested with food at once. However, this development cannot simply be transferred to humans. It will take many years to develop a suitable product. Nonetheless, Fussenegger can certainly envisage that one day obese people with a body mass index of way over thirty could have such a gene network implanted to help them lose weight. Fussenegger sees the development as a possible alternative to surgical interventions such as liposuction or gastric bands. “The advantage of our implant would be that it can be used without such invasive interventions.” Another merit: instead of intervening in the progression of a disease that is difficult to regulate, it has a preventive effect and exploits the natural human satiety mechanism.\n\nThis gene network is one of the most complex that Fussenegger and his team have constructed to date and was made possible thanks to the biotechnologist’s years of experience in the field. It is not the first time he and his team have succeeded in constructing such a complex feedback regulatory circuit: a number of years ago, they produced an implant that can also be used to combat gout via a feedback regulatory circuit."
+    },
+    {
+      "heading": "Literature reference:",
+      "text": "Rössger K, Charpin-El-Hamri G, Fussenegger M. A closed-loop synthetic gene circuit for the treatment of diet-induced obesity in mice. Nature Communications, published online 26th November 2013. DOI: 10.1038/ncomms3825\n\nETH Zurich Prof. Martin Fussenegger Biosystems Science and Engineering Phone +41 61 387 31 60 ETH Zurich Franziska Schmid Media Relations Phone: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Asian",
+        "label": "NORP",
+        "start": 112,
+        "end": 117
+      },
+      {
+        "text": "Latin American",
+        "label": "NORP",
+        "start": 121,
+        "end": 135
+      },
+      {
+        "text": "WHO",
+        "label": "ORG",
+        "start": 245,
+        "end": 248
+      },
+      {
+        "text": "over half",
+        "label": "CARDINAL",
+        "start": 250,
+        "end": 259
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 321,
+        "end": 324
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 328,
+        "end": 333
+      },
+      {
+        "text": "ETH-Zurich",
+        "label": "ORG",
+        "start": 29,
+        "end": 39
+      },
+      {
+        "text": "Martin Fussenegger",
+        "label": "PERSON",
+        "start": 50,
+        "end": 68
+      },
+      {
+        "text": "the Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 74,
+        "end": 126
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 130,
+        "end": 135
+      },
+      {
+        "text": "obese",
+        "label": "NORP",
+        "start": 804,
+        "end": 809
+      },
+      {
+        "text": "five-per-cent",
+        "label": "MONEY",
+        "start": 1453,
+        "end": 1466
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 108,
+        "end": 111
+      },
+      {
+        "text": "many years",
+        "label": "DATE",
+        "start": 312,
+        "end": 322
+      },
+      {
+        "text": "Fussenegger",
+        "label": "PERSON",
+        "start": 985,
+        "end": 996
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1137,
+        "end": 1142
+      },
+      {
+        "text": "years ago",
+        "label": "DATE",
+        "start": 1251,
+        "end": 1260
+      },
+      {
+        "text": "Rössger K",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Charpin-El-Hamri G",
+        "label": "ORG",
+        "start": 11,
+        "end": 29
+      },
+      {
+        "text": "Fussenegger M. A",
+        "label": "PERSON",
+        "start": 31,
+        "end": 47
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 134,
+        "end": 155
+      },
+      {
+        "text": "26th",
+        "label": "ORDINAL",
+        "start": 174,
+        "end": 178
+      },
+      {
+        "text": "November 2013",
+        "label": "DATE",
+        "start": 179,
+        "end": 192
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 199,
+        "end": 206
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 222,
+        "end": 228
+      },
+      {
+        "text": "Martin Fussenegger Biosystems Science",
+        "label": "PERSON",
+        "start": 235,
+        "end": 272
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 312,
+        "end": 315
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 316,
+        "end": 322
+      },
+      {
+        "text": "Schmid Media Relations Phone",
+        "label": "ORG",
+        "start": 333,
+        "end": 361
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fussenegger",
+        "Fussenegger M. A",
+        "Martin Fussenegger",
+        "Martin Fussenegger Biosystems Science"
+      ],
+      "ORG": [
+        "Charpin-El-Hamri G",
+        "ETH",
+        "ETH-Zurich",
+        "Nature Communications",
+        "Rössger K",
+        "Schmid Media Relations Phone",
+        "WHO",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "LOCATION": [
+        "Basel",
+        "Zurich"
+      ],
+      "DATE": [
+        "November 2013",
+        "many years",
+        "years ago"
+      ],
+      "MISC": [
+        "10.1038",
+        "26th",
+        "Asian",
+        "Latin American",
+        "One",
+        "first",
+        "five-per-cent",
+        "obese",
+        "one",
+        "over half",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "one": 2,
+      "Zurich": 2,
+      "Asian": 1,
+      "Latin American": 1,
+      "WHO": 1,
+      "over half": 1,
+      "three": 1,
+      "ETH-Zurich": 1,
+      "Martin Fussenegger": 1,
+      "the Department of Biosystems Science and Engineering": 1,
+      "Basel": 1,
+      "obese": 1,
+      "five-per-cent": 1,
+      "One": 1,
+      "many years": 1,
+      "Fussenegger": 1,
+      "first": 1,
+      "years ago": 1,
+      "Rössger K": 1,
+      "Charpin-El-Hamri G": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "implant-slimming-aid.md",
+      "title": "En News Events/2013/11/implant Slimming Aid",
+      "language": "en",
+      "source_path": "en_news_events/2013/11/implant-slimming-aid.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Fussenegger",
+        "Fussenegger M. A",
+        "Martin Fussenegger",
+        "Martin Fussenegger Biosystems Science"
+      ],
+      "people_with_roles": {
+        "Fussenegger": [
+          "head",
+          "professor"
+        ],
+        "Martin Fussenegger": [
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "26th",
+        "Asian",
+        "Latin American",
+        "first",
+        "five-per-cent",
+        "obese",
+        "over half",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Charpin-El",
+        "ETH-Zurich",
+        "Hamri G",
+        "En News",
+        "Latin American",
+        "Franziska Schmid",
+        "Slimming Aid",
+        "Engineering Phone",
+        "ETH Zurich",
+        "Biosystems Science",
+        "Fussenegger M",
+        "Martin Fussenegger",
+        "Nature Communications",
+        "Media Relations"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering in Basel has now developed an early warning system and treatment"
+      ],
+      "institutions": [
+        "Charpin-El-Hamri G",
+        "ETH",
+        "ETH-Zurich",
+        "Nature Communications",
+        "Rössger K",
+        "Schmid Media Relations Phone",
+        "WHO",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "locations": [
+        "Basel",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "one",
+        "Zurich",
+        "Asian",
+        "Latin American",
+        "WHO",
+        "over half",
+        "three",
+        "ETH-Zurich",
+        "Martin Fussenegger",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Genetic regulatory circuit monitors blood fat",
+          "Genetic regulatory circuit monitors blood fat",
+          "Sensor for different dietary fats",
+          "Literature reference:"
+        ],
+        "content_length": 4149
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Martin Fussenegger Biosystems Science",
+        "ETH",
+        "ETH-Zurich",
+        "Rössger K",
+        "Schmid Media Relations Phone",
+        "WHO",
+        "2013",
+        "Charpin-El-Hamri G",
+        "Fussenegger",
+        "Nature Communications",
+        "Martin Fussenegger",
+        "Fussenegger M. A",
+        "the Department of Biosystems Science and Engineering"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "over half",
+        "three",
+        "five-per-cent",
+        "Latin American",
+        "who",
+        "10.1038",
+        "26th",
+        "Asian",
+        "what",
+        "how",
+        "medical_research",
+        "obese",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Fussenegger_has_role_head",
+        "Fussenegger_has_role_professor",
+        "Martin Fussenegger_has_role_head",
+        "Martin Fussenegger_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

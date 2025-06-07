@@ -1,0 +1,138 @@
+{
+  "filename": "tips-for-holiday-reading-wanted.md",
+  "original_filename": "tips-for-holiday-reading-wanted.html",
+  "source_path": "en_internal/2021/04/tips-for-holiday-reading-wanted.html",
+  "date": "2021-04",
+  "title": "Tips For Holiday Reading Wanted",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For many of us, going on holiday means we finally have time to pick up a book again – and thankfully, it’s (almost) as easy to enjoy one on your balcony as on a beach. Have you read a book recently that stuck in your memory? Or is there a classic that you always come back to? Let other ETH members share the enjoyment you got from reading it and send your book recommendation with a brief reason for your choice to by 10 May. Five book recs will be published in the next edition of the ETH employee magazine “life” ; the rest will appear in “Internal news”."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 287,
+        "end": 290
+      },
+      {
+        "text": "10 May",
+        "label": "DATE",
+        "start": 419,
+        "end": 425
+      },
+      {
+        "text": "Five",
+        "label": "CARDINAL",
+        "start": 427,
+        "end": 431
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 487,
+        "end": 490
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "10 May"
+      ],
+      "MISC": [
+        "Five"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "10 May": 1,
+      "Five": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tips-for-holiday-reading-wanted.md",
+      "title": "En Internal/2021/04/tips For Holiday Reading Wanted",
+      "language": "en",
+      "source_path": "en_internal/2021/04/tips-for-holiday-reading-wanted.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Five"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Reading Wanted",
+        "For Holiday",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "10 May",
+        "Five"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 610
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "why",
+        "when",
+        "Five"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

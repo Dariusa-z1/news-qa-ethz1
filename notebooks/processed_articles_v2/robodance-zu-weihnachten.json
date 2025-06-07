@@ -1,0 +1,224 @@
+{
+  "filename": "robodance-zu-weihnachten.md",
+  "original_filename": "robodance-zu-weihnachten.html",
+  "source_path": "de_news_events/2014/12/robodance-zu-weihnachten.html",
+  "date": "2014-12",
+  "title": "Robodance Zu Weihnachten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Seit zwei Jahren muss man sich vor Weihnachten in Acht nehmen: Die Roboter sind los! Sie treiben an der ETH Zürich und Umgebung ihr Unwesen – sie fällen Bäume, schleppen Geschenke durch die Gegend oder verteilen sie fliegend – stets autonom und scheinbar losgelöst von sämtlichen menschlichen Einflüssen.\n\nDieses Jahr verhalten sie sich wieder etwas tugendhafter. Kein Baumfrevel, keine Geschenkeschlacht. Die Roboter möchten diesmal schlicht und einfach die Menschen mit einem Tänzchen und einerVariation von Jingle Bells erfreuen. Ihr filmisch festgehaltenes Weihnachtstreiben wurde am vergangenen Montag am Weihnachtsapéro der ETH-Schulleitung uraufgeführt.\n\nOb das Weihnachtslied das Zeug hat zum grossen Dancehit, und ob die Roboter mittlerweile so weit sind, dass sie selbst Songs und Choreographien schreiben können, sei einmal dahingestellt. Aber zutrauen würde man den Autonomen, dass sie zum nächsten Musicstar-Casting in den Fernsehstudios am Leutschenbach ohne Fremdsteuerung auftauchen.\n\nDann also: Merry autonomous Christmas!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Weihnachten",
+        "label": "MISC",
+        "start": 36,
+        "end": 47
+      },
+      {
+        "text": "Weihnachten",
+        "label": "MISC",
+        "start": 35,
+        "end": 46
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 104,
+        "end": 114
+      },
+      {
+        "text": "Dieses Jahr",
+        "label": "MISC",
+        "start": 305,
+        "end": 316
+      },
+      {
+        "text": "Jingle Bells",
+        "label": "PER",
+        "start": 509,
+        "end": 521
+      },
+      {
+        "text": "Weihnachtsapéro",
+        "label": "LOC",
+        "start": 609,
+        "end": 624
+      },
+      {
+        "text": "ETH-Schulleitung",
+        "label": "ORG",
+        "start": 629,
+        "end": 645
+      },
+      {
+        "text": "Songs",
+        "label": "PER",
+        "start": 779,
+        "end": 784
+      },
+      {
+        "text": "Musicstar-Casting",
+        "label": "LOC",
+        "start": 909,
+        "end": 926
+      },
+      {
+        "text": "Fernsehstudios",
+        "label": "LOC",
+        "start": 934,
+        "end": 948
+      },
+      {
+        "text": "Leutschenbach",
+        "label": "LOC",
+        "start": 952,
+        "end": 965
+      },
+      {
+        "text": "Merry",
+        "label": "PER",
+        "start": 1009,
+        "end": 1014
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Jingle Bells",
+        "Merry",
+        "Songs"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Schulleitung"
+      ],
+      "LOCATION": [
+        "Fernsehstudios",
+        "Leutschenbach",
+        "Musicstar-Casting",
+        "Weihnachtsapéro"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Dieses Jahr",
+        "Weihnachten"
+      ]
+    },
+    "entity_counts": {
+      "Weihnachten": 2,
+      "ETH Zürich": 1,
+      "Dieses Jahr": 1,
+      "Jingle Bells": 1,
+      "Weihnachtsapéro": 1,
+      "ETH-Schulleitung": 1,
+      "Songs": 1,
+      "Musicstar-Casting": 1,
+      "Fernsehstudios": 1,
+      "Leutschenbach": 1,
+      "Merry": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "robodance-zu-weihnachten.md",
+      "title": "De News Events/2014/12/robodance zu Weihnachten",
+      "language": "de",
+      "source_path": "de_news_events/2014/12/robodance-zu-weihnachten.html"
+    },
+    "temporal": {
+      "publication_date": "2014-12",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Jingle Bells",
+        "Merry",
+        "Songs"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Dieses Jahr",
+        "Weihnachten"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Roboter",
+        "Dieses Jahr",
+        "Weihnachten Seit",
+        "Jingle Bells",
+        "De News",
+        "Kein Baumfrevel",
+        "ETH-Schulleitung",
+        "Musicstar-Casting"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Schulleitung"
+      ],
+      "locations": [
+        "Fernsehstudios",
+        "Leutschenbach",
+        "Musicstar-Casting",
+        "Weihnachtsapéro"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Weihnachten",
+        "ETH Zürich",
+        "Dieses Jahr",
+        "Jingle Bells",
+        "Weihnachtsapéro",
+        "ETH-Schulleitung",
+        "Songs",
+        "Musicstar-Casting",
+        "Fernsehstudios",
+        "Leutschenbach"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1087
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Songs",
+        "EU",
+        "Jingle Bells",
+        "ETH Zürich",
+        "Merry",
+        "ETH-Schulleitung",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "Dieses Jahr",
+        "Weihnachten"
+      ],
+      "graph_relations": []
+    }
+  }
+}

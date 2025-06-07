@@ -1,0 +1,455 @@
+{
+  "filename": "frequenzmessung-mit-quanten-hilfe.md",
+  "original_filename": "frequenzmessung-mit-quanten-hilfe.html",
+  "source_path": "de_news_events/2017/05/frequenzmessung-mit-quanten-hilfe.html",
+  "date": "2017-05",
+  "title": "Frequenzmessung Mit Quanten Hilfe",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Quantensensor im Diamanten",
+      "text": "Genaue Frequenzmessungen sind in vielen wissenschaftlichen und technischen Anwendungen äusserst wichtig. Um zum Beispiel biologisch relevante Moleküle mit Hilfe der Kernspinresonanz zu analysieren, misst man die Frequenzen, bei denen die Atomkerne auf elektromagnetische Wellen reagieren. Mit Hilfe neuer, auf der Quantenmechanik beruhender Messverfahren ist es mittlerweile sogar möglich, solche Analysen mit winzigen Sonden durchzuführen, die in unmittelbare Nähe von Geweben und Zellen gebracht werden können.\n\nWissenschaftler der ETH Zürich unter Leitung von Christian Degen, Professor am Labor für Festkörperphysik, haben nun eine Methode entwickelt, mit der solche Frequenzmessungen in Zukunft um ein Vielfaches genauer gemacht werden können."
+    },
+    {
+      "heading": "Quantensensor im Diamanten",
+      "text": "Seit einigen Jahren versuchen Forscher weltweit, die Quantenmechanik für hochempfindliche Präzisionsmessungen nutzbar zu machen. So ist denn auch die Quantensensorik eine der Säulen des kürzlich von der Europäischen Kommission angekündigten Flagship-Projekts, mit dem Forschung zu Quantentechnologien verstärkt gefördert wird. Degen und seine Mitarbeiter realisieren einen Quantensensor mit Hilfe eines sogenannten Stickstoff-Fehlstellen-Zentrums in einem Diamanten. Dabei handelt es sich um einen leichten Defekt in dem eigentlich ausschliesslich aus Kohlenstoff bestehenden Edelstein.\n\nKonkret ersetzt ein Stickstoffatom ein Kohlenstoffatom im Kristallgitter, und zugleich fehlt in einem benachbarten Gitterplatz ein Kohlenstoffatom. Die Energiezustände einer solchen Fehlstelle kann man als Quantensystem mit zwei Niveaus (auch als Qubit bekannt) betrachten und mit Hilfe von Mikrowellen und Laserstrahlen kontrollieren. Versetzt man das Quantensystem in eine Überlagerung der beiden Energiezustände, so kann man damit sehr schwache magnetische oder elektrische Felder messen – allerdings nur so lange, wie die Überlagerung oder «Kohärenz» anhält und nicht durch Umwelteinflüsse («Dekohärenz») zerstört wird."
+    },
+    {
+      "heading": "Genauigkeit durch Mehrfachmessung",
+      "text": "«Um Frequenzen präzise zu bestimmen, sollte man aber möglichst lange messen können. Genau in diesem Punkt eröffnet unsere Technik neue Perspektiven», erklärt Jens Boss, Doktorand in Degens Labor. Die Idee dabei: Je mehr Schwingungen eines periodischen Signals man zählen kann, desto kleiner wird der relative Messfehler. Um nun nicht mehr an die Kohärenzzeit des Stickstoff-Fehlstellen-Zentrums gebunden zu sein, ersannen die ETH-Forscher einen Kniff. Statt einer einzigen Messung innerhalb der Kohärenzzeit zu machen, reihten sie viele Hunderte solcher Messungen hintereinander. Dabei wurde der Quantenzustand des Stickstoff-Fehlstellen-Zentrum jedes Mal von Neuem in einen Überlagerungszustand versetzt oder «initialisiert».\n\nMit diesen Messungen konnte jeweils die Phase (also der Schwingungszustand) des periodischen Signals zu einem bestimmten Zeitpunkt bestimmt werden. Um schliesslich aus diesen Schnappschüssen später die komplette Schwingung zusammenzusetzen, synchronisierten Degen und seine Mitarbeiter die Messungen mit einer sehr genauen Uhr, mit deren Hilfe die Zeitpunkte der Schnappschüsse exakt festgehalten wurden.\n\nAuf diese Art gelang es den Forschern, ein schwaches magnetisches Signal über mehrere Stunden zu messen und dessen Frequenzen auf weniger als ein Mikrohertz (eine Millionstel Schwingung pro Sekunde, oder etwa eine Schwingung alle 300 Stunden) zu bestimmen. Über die Empfindlichkeit ihres Sensors waren die Forscher dabei selbst etwas überrascht, wie ETH-Doktorand Kristian Cujia erläutert: «Obwohl unser Signal nur 170 Nanotesla betrug – das ist weniger als ein Hundertstel des Erdmagnetfeldes – hatten wir ein Signal-Rausch Verhältnis von mehr als 10’000 zu eins. Dies ist gewaltig für so kleine Signale.»"
+    },
+    {
+      "heading": "Anwendungen in der Kernspinresonanz",
+      "text": "Diese Kombination aus extrem präziser und zugleich auf schwächste Signale empfindlicher Frequenzmessung gibt Anlass zum Optimismus für zukünftige Quantentechnologien. Degen sieht Anwendungsmöglichkeiten beispielsweise in der Nano-Kernspinresonanz. Bei diesem Verfahren nähert man Sensoren wie die an der ETH benutzten auf wenige Nanometer dem zu untersuchenden Material. Dies erlaubt räumliche Auflösungen, die sonst nur mit Hilfe sehr starker Magnetfelder erreicht werden können (wie sie etwa in Geräten für medizinische Zwecke eingesetzt werden).\n\nMittels exakter Messung der Resonanzfrequenzen können dann zudem Rückschlüsse auf die Positionen der einzelnen Atome in einem Molekül des Materials gezogen werden. Mit der neuen Methode kann die Genauigkeit dieser Frequenzmessungen von momentan etwa 10 Hertz auf weniger als ein Millihertz verbessert werden.\n\nBoss JM, Cujia KS, Zopes J, Degen CL: Quantum sensing with arbitrary frequency resolution. Science, 25. Mai 2017, doi: externe Seite 10.1126/science.aam7009"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Quanten",
+        "label": "MISC",
+        "start": 43,
+        "end": 50
+      },
+      {
+        "text": "Genaue",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Atomkerne",
+        "label": "PER",
+        "start": 238,
+        "end": 247
+      },
+      {
+        "text": "Geweben",
+        "label": "LOC",
+        "start": 470,
+        "end": 477
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 533,
+        "end": 543
+      },
+      {
+        "text": "Christian Degen",
+        "label": "PER",
+        "start": 562,
+        "end": 577
+      },
+      {
+        "text": "Europäischen Kommission",
+        "label": "ORG",
+        "start": 203,
+        "end": 226
+      },
+      {
+        "text": "Degen",
+        "label": "PER",
+        "start": 327,
+        "end": 332
+      },
+      {
+        "text": "Stickstoff-Fehlstellen-Zentrums",
+        "label": "MISC",
+        "start": 415,
+        "end": 446
+      },
+      {
+        "text": "Konkret",
+        "label": "PER",
+        "start": 587,
+        "end": 594
+      },
+      {
+        "text": "Jens Boss",
+        "label": "PER",
+        "start": 158,
+        "end": 167
+      },
+      {
+        "text": "Degens",
+        "label": "LOC",
+        "start": 182,
+        "end": 188
+      },
+      {
+        "text": "Stickstoff-Fehlstellen-Zentrums",
+        "label": "MISC",
+        "start": 363,
+        "end": 394
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 426,
+        "end": 438
+      },
+      {
+        "text": "Stickstoff-Fehlstellen-Zentrum",
+        "label": "LOC",
+        "start": 615,
+        "end": 645
+      },
+      {
+        "text": "Neuem",
+        "label": "LOC",
+        "start": 660,
+        "end": 665
+      },
+      {
+        "text": "Forschern",
+        "label": "MISC",
+        "start": 1160,
+        "end": 1169
+      },
+      {
+        "text": "ETH-Doktorand",
+        "label": "ORG",
+        "start": 1482,
+        "end": 1495
+      },
+      {
+        "text": "Kristian Cujia",
+        "label": "PER",
+        "start": 1496,
+        "end": 1510
+      },
+      {
+        "text": "Signal",
+        "label": "ORG",
+        "start": 1536,
+        "end": 1542
+      },
+      {
+        "text": "Nanotesla",
+        "label": "MISC",
+        "start": 1551,
+        "end": 1560
+      },
+      {
+        "text": "Signal-Rausch",
+        "label": "MISC",
+        "start": 1643,
+        "end": 1656
+      },
+      {
+        "text": "Degen",
+        "label": "PER",
+        "start": 167,
+        "end": 172
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 304,
+        "end": 307
+      },
+      {
+        "text": "Boss JM",
+        "label": "LOC",
+        "start": 858,
+        "end": 865
+      },
+      {
+        "text": "Cujia KS",
+        "label": "ORG",
+        "start": 867,
+        "end": 875
+      },
+      {
+        "text": "Zopes J",
+        "label": "PER",
+        "start": 877,
+        "end": 884
+      },
+      {
+        "text": "Degen CL",
+        "label": "ORG",
+        "start": 886,
+        "end": 894
+      },
+      {
+        "text": "Science",
+        "label": "MISC",
+        "start": 949,
+        "end": 956
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Atomkerne",
+        "Christian Degen",
+        "De News",
+        "Degen",
+        "Genaue",
+        "Jens Boss",
+        "Konkret",
+        "Kristian Cujia",
+        "Zopes J"
+      ],
+      "ORG": [
+        "Cujia KS",
+        "Degen CL",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "Europäischen Kommission",
+        "Signal"
+      ],
+      "LOCATION": [
+        "Boss JM",
+        "Degens",
+        "Geweben",
+        "Neuem",
+        "Stickstoff-Fehlstellen-Zentrum"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Forscher",
+        "Forschern",
+        "Nanotesla",
+        "Quanten",
+        "Science",
+        "Signal-Rausch",
+        "Stickstoff-Fehlstellen-Zentrums"
+      ]
+    },
+    "entity_counts": {
+      "Degen": 2,
+      "Stickstoff-Fehlstellen-Zentrums": 2,
+      "De News": 1,
+      "Quanten": 1,
+      "Genaue": 1,
+      "Atomkerne": 1,
+      "Geweben": 1,
+      "ETH Zürich": 1,
+      "Christian Degen": 1,
+      "Europäischen Kommission": 1,
+      "Konkret": 1,
+      "Jens Boss": 1,
+      "Degens": 1,
+      "ETH-Forscher": 1,
+      "Stickstoff-Fehlstellen-Zentrum": 1,
+      "Neuem": 1,
+      "Forschern": 1,
+      "ETH-Doktorand": 1,
+      "Kristian Cujia": 1,
+      "Signal": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "frequenzmessung-mit-quanten-hilfe.md",
+      "title": "De News Events/2017/05/frequenzmessung mit Quanten Hilfe",
+      "language": "de",
+      "source_path": "de_news_events/2017/05/frequenzmessung-mit-quanten-hilfe.html"
+    },
+    "temporal": {
+      "publication_date": "2017-05",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Atomkerne",
+        "Christian Degen",
+        "De News",
+        "Degen",
+        "Genaue",
+        "Jens Boss",
+        "Konkret",
+        "Kristian Cujia",
+        "Zopes J"
+      ],
+      "people_with_roles": {
+        "Christian Degen": [
+          "professor"
+        ],
+        "Degen": [
+          "professor"
+        ],
+        "Genaue": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "ETH-Forscher",
+        "Forschern",
+        "Nanotesla",
+        "Quanten",
+        "Science",
+        "Signal-Rausch",
+        "Stickstoff-Fehlstellen-Zentrums"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Signal-Rausch",
+        "Genaue Frequenzmessungen",
+        "Quanten Hilfe",
+        "Um Frequenzen",
+        "Christian Degen",
+        "ETH-Forscher",
+        "Diese Kombination",
+        "Boss JM",
+        "Stickstoff-Fehlstellen",
+        "Millionstel Schwingung",
+        "Flagship-Projekts",
+        "Jens Boss",
+        "Kristian Cujia",
+        "Zopes J",
+        "Die Idee",
+        "Mit Hilfe",
+        "Degens Labor",
+        "Cujia KS",
+        "ETH-Doktorand",
+        "Degen CL",
+        "Nano-Kernspinresonanz",
+        "De News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cujia KS",
+        "Degen CL",
+        "ETH",
+        "ETH Zürich",
+        "ETH-Doktorand",
+        "Europäischen Kommission",
+        "Signal"
+      ],
+      "locations": [
+        "Boss JM",
+        "Degens",
+        "Geweben",
+        "Neuem",
+        "Stickstoff-Fehlstellen-Zentrum"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Degen",
+        "Stickstoff-Fehlstellen-Zentrums",
+        "De News",
+        "Quanten",
+        "Genaue",
+        "Atomkerne",
+        "Geweben",
+        "ETH Zürich",
+        "Christian Degen",
+        "Europäischen Kommission"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Quantensensor im Diamanten",
+          "Quantensensor im Diamanten",
+          "Genauigkeit durch Mehrfachmessung",
+          "Anwendungen in der Kernspinresonanz"
+        ],
+        "content_length": 4775
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Jens Boss",
+        "Kristian Cujia",
+        "Degen CL",
+        "Konkret",
+        "ETH",
+        "Zopes J",
+        "Christian Degen",
+        "2017",
+        "EU",
+        "Europäischen Kommission",
+        "ETH Zürich",
+        "Signal",
+        "De News",
+        "Cujia KS",
+        "Atomkerne",
+        "Genaue",
+        "ETH-Doktorand",
+        "Degen"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "Signal-Rausch",
+        "Stickstoff-Fehlstellen-Zentrums",
+        "who",
+        "Forschern",
+        "Science",
+        "ETH-Forscher",
+        "what",
+        "Nanotesla",
+        "Quanten",
+        "how",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Christian Degen_has_role_professor",
+        "Degen_has_role_professor",
+        "Genaue_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

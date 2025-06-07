@@ -1,0 +1,478 @@
+{
+  "filename": "miniscule-robots-of-metal-and-plastic.md",
+  "original_filename": "miniscule-robots-of-metal-and-plastic.html",
+  "source_path": "en_news_events/2020/11/miniscule-robots-of-metal-and-plastic.html",
+  "date": "2020-11",
+  "title": "Miniscule Robots Of Metal And Plastic",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "High-tech production method",
+      "text": "Robots so tiny that they can manoeuvre through our blood vessels and deliver medications to certain points in the body – researchers have been pursuing this goal for years. Now, scientists at ETH Zurich have succeeded for the first time in building such “micromachines” out of metal and plastic, in which these two materials are interlocked as closely as links in a chain. This is possible thanks to a new manufacturing technique they have devised.\n\nMicroscopic image of the two-component microvehicle shown above. (Photograph: Alcântara et al. Nature Communications 2020)\n\n“Metals and polymers have different properties, and both materials offer certain advantages in building micromachines. Our goal was to benefit from all these properties simultaneously by combining the two,” explains Carlos Alcântara, formerly a doctoral student in Salvador Pané’s group at the Institute of Robotics and Intelligent Systems and one of the two lead authors of the paper. As a rule, micromachines are powered from outside the body using magnetic fields, which means they must have magnetic metal parts installed. Polymers, in contrast, have the advantage that they can be used to construct soft, flexible components as well as parts that dissolve inside the body. If medication is embedded in this kind of soluble polymer, it is possible to selectively supply active substances to certain points in the body."
+    },
+    {
+      "heading": "High-tech production method",
+      "text": "Underpinning the new manufacturing method is the expertise of ETH Professor Salvador Pané. For years, he has been working with a high-precision 3D printing technique that produces complex objects on the micrometre level, a technique known as 3D lithography. The ETH scientists applied this method to produce a kind of mould or template for their micromachines. These templates have narrow grooves that serve as a “negative” and can be filled with the chosen materials.\n\nUsing electrochemical deposition, the scientists fill some of the grooves with metal and others with polymers before ultimately dissolving the template away with solvents. “Our interdisciplinary group consists of electrical engineers, mechanical engineers, chemists, and materials scientists who all work closely together. That was the key to developing this method,” says Fabian Landers, a doctoral student in Pané’s group. He is the other lead author of the paper, which has been published in the journal Nature Communications ."
+    },
+    {
+      "heading": "Vehicle with tiny magnetic wheels",
+      "text": "As a proof of principle for making micromachines by interlocking materials, the ETH scientists created various miniscule vehicles with plastic chassis and magnetic metal wheels powered by means of a rotating magnetic field. Some of the vehicles can be propelled across a glass surface, while others – depending on the polymer used – can float in liquid or on a liquid surface.\n\nMicroscopic images of further examples of two-component micromachines. (Photograph: Alcântara et al. Nature Communications 2020)\n\nThe scientists are now planning to refine their two-component micromachines and experiment with other materials. In addition, they will attempt to create more complex shapes and machines, including some that can fold and unfold themselves. Besides serving as “ferries” that distribute active substances, future applications of micromachines include treating aneurysms (bulges in blood vessels) or performing other surgical procedures. Another research goal is to make stents (tube‐shaped vessel supports) that unfold themselves and can be positioned at a specific place in the body using magnetic fields.\n\nAlcântara CCJ, Landers FC, Kim S, De Marco C, Ahmed D, Nelson BJ, Pané S: Mechanically Interlocked 3D Multi-Material Micromachines, Nature Communications, November 24 2020, doi: 10.1038/s41467-020-19725-6"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Robots Of Metal And Plastic",
+        "label": "PERSON",
+        "start": 33,
+        "end": 60
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 166,
+        "end": 171
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 192,
+        "end": 202
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 226,
+        "end": 231
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 311,
+        "end": 314
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 474,
+        "end": 477
+      },
+      {
+        "text": "Alcântara",
+        "label": "PERSON",
+        "start": 527,
+        "end": 536
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 773,
+        "end": 776
+      },
+      {
+        "text": "Carlos Alcântara",
+        "label": "PERSON",
+        "start": 788,
+        "end": 804
+      },
+      {
+        "text": "Pané",
+        "label": "ORG",
+        "start": 846,
+        "end": 850
+      },
+      {
+        "text": "the Institute of Robotics and Intelligent Systems",
+        "label": "ORG",
+        "start": 862,
+        "end": 911
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 916,
+        "end": 919
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 927,
+        "end": 930
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "Salvador Pané",
+        "label": "PERSON",
+        "start": 76,
+        "end": 89
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 95,
+        "end": 100
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 262,
+        "end": 265
+      },
+      {
+        "text": "Fabian Landers",
+        "label": "PERSON",
+        "start": 842,
+        "end": 856
+      },
+      {
+        "text": "Pané",
+        "label": "ORG",
+        "start": 880,
+        "end": 884
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 976,
+        "end": 997
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 80,
+        "end": 83
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 419,
+        "end": 422
+      },
+      {
+        "text": "Alcântara",
+        "label": "PERSON",
+        "start": 461,
+        "end": 470
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 554,
+        "end": 557
+      },
+      {
+        "text": "Alcântara CCJ",
+        "label": "PERSON",
+        "start": 1111,
+        "end": 1124
+      },
+      {
+        "text": "Landers FC",
+        "label": "PERSON",
+        "start": 1126,
+        "end": 1136
+      },
+      {
+        "text": "Kim S",
+        "label": "PERSON",
+        "start": 1138,
+        "end": 1143
+      },
+      {
+        "text": "De Marco C",
+        "label": "PERSON",
+        "start": 1145,
+        "end": 1155
+      },
+      {
+        "text": "Ahmed D",
+        "label": "PERSON",
+        "start": 1157,
+        "end": 1164
+      },
+      {
+        "text": "Nelson BJ",
+        "label": "PERSON",
+        "start": 1166,
+        "end": 1175
+      },
+      {
+        "text": "Pané S: Mechanically",
+        "label": "ORG",
+        "start": 1177,
+        "end": 1197
+      },
+      {
+        "text": "3D Multi-Material Micromachines",
+        "label": "ORG",
+        "start": 1210,
+        "end": 1241
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1243,
+        "end": 1264
+      },
+      {
+        "text": "November 24 2020",
+        "label": "DATE",
+        "start": 1266,
+        "end": 1282
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1289,
+        "end": 1296
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Ahmed D",
+        "Alcântara",
+        "Alcântara CCJ",
+        "Carlos Alcântara",
+        "De Marco C",
+        "Fabian Landers",
+        "Kim S",
+        "Landers FC",
+        "Nelson BJ",
+        "Robots Of Metal And Plastic",
+        "Salvador Pané"
+      ],
+      "ORG": [
+        "3D Multi-Material Micromachines",
+        "ETH",
+        "ETH Zurich",
+        "Nature Communications",
+        "Pané",
+        "Pané S: Mechanically",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "November 24 2020",
+        "years"
+      ],
+      "MISC": [
+        "10.1038",
+        "first",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two": 6,
+      "ETH": 3,
+      "years": 2,
+      "Alcântara": 2,
+      "Pané": 2,
+      "Nature Communications": 2,
+      "Robots Of Metal And Plastic": 1,
+      "ETH Zurich": 1,
+      "first": 1,
+      "Carlos Alcântara": 1,
+      "the Institute of Robotics and Intelligent Systems": 1,
+      "one": 1,
+      "Salvador Pané": 1,
+      "Fabian Landers": 1,
+      "Alcântara CCJ": 1,
+      "Landers FC": 1,
+      "Kim S": 1,
+      "De Marco C": 1,
+      "Ahmed D": 1,
+      "Nelson BJ": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "miniscule-robots-of-metal-and-plastic.md",
+      "title": "En News Events/2020/11/miniscule Robots Of Metal And Plastic",
+      "language": "en",
+      "source_path": "en_news_events/2020/11/miniscule-robots-of-metal-and-plastic.html"
+    },
+    "temporal": {
+      "publication_date": "2020-11",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Ahmed D",
+        "Alcântara",
+        "Alcântara CCJ",
+        "Carlos Alcântara",
+        "De Marco C",
+        "Fabian Landers",
+        "Kim S",
+        "Landers FC",
+        "Nelson BJ",
+        "Robots Of Metal And Plastic",
+        "Salvador Pané"
+      ],
+      "people_with_roles": {
+        "Alcântara": [
+          "student"
+        ],
+        "Carlos Alcântara": [
+          "student"
+        ],
+        "Fabian Landers": [
+          "student"
+        ],
+        "Robots Of Metal And Plastic": [
+          "researcher"
+        ],
+        "Salvador Pané": [
+          "Professor",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Plastic Robots",
+        "Robots Of",
+        "Ahmed D",
+        "En News",
+        "De Marco",
+        "Multi-Material",
+        "Mechanically Interlocked",
+        "Nelson BJ",
+        "Landers FC",
+        "ETH Professor",
+        "Kim S",
+        "Nature Communications",
+        "ETH Zurich",
+        "Metal And",
+        "The ETH",
+        "Fabian Landers",
+        "Intelligent Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "3D Multi-Material Micromachines",
+        "ETH",
+        "ETH Zurich",
+        "Nature Communications",
+        "Pané",
+        "Pané S: Mechanically",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "two",
+        "ETH",
+        "years",
+        "Alcântara",
+        "Pané",
+        "Nature Communications",
+        "Robots Of Metal And Plastic",
+        "ETH Zurich",
+        "first",
+        "Carlos Alcântara"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "High-tech production method",
+          "High-tech production method",
+          "Vehicle with tiny magnetic wheels"
+        ],
+        "content_length": 3777
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2020",
+        "Fabian Landers",
+        "Landers FC",
+        "3D Multi-Material Micromachines",
+        "Pané",
+        "Nelson BJ",
+        "Salvador Pané",
+        "the Institute of Robotics and Intelligent Systems",
+        "De Marco C",
+        "EU",
+        "Robots Of Metal And Plastic",
+        "Kim S",
+        "Nature Communications",
+        "Carlos Alcântara",
+        "Alcântara CCJ",
+        "Ahmed D",
+        "Alcântara",
+        "Pané S: Mechanically",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "10.1038",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Alcântara_has_role_student",
+        "Carlos Alcântara_has_role_student",
+        "Fabian Landers_has_role_student",
+        "Robots Of Metal And Plastic_has_role_researcher",
+        "Salvador Pané_has_role_Professor",
+        "Salvador Pané_has_role_student",
+        "Salvador Pané_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

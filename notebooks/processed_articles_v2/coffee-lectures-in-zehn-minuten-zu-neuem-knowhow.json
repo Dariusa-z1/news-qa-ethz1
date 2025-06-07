@@ -1,0 +1,281 @@
+{
+  "filename": "coffee-lectures-in-zehn-minuten-zu-neuem-knowhow.md",
+  "original_filename": "coffee-lectures-in-zehn-minuten-zu-neuem-knowhow.html",
+  "source_path": "en_internal/2022/01/coffee-lectures-in-zehn-minuten-zu-neuem-knowhow.html",
+  "date": "2022-01",
+  "title": "Coffee Lectures In Zehn Minuten Zu Neuem Knowhow",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How the Coffee Lectures work",
+      "text": "- Get to know the new Web of Science interface – 2 February\n\n- Metadata standards for documenting your research – 9 February\n\n- New open-access funding options at the ETH Library – 16 February\n\n- Qualified evaluation of information from the internet – 23 February\n\n- How to use the ETH Library in 8 steps for new staff and doctoral students, or what you need to prepare for a zombie apocalypse – 2 March\n\nGet to know a new tool in our Coffee Lectures that assists you in your academic work or learn important tips and tricks on topics such as metadata standards, open-access funding opportunities or the qualified evaluation of information from the internet."
+    },
+    {
+      "heading": "How the Coffee Lectures work",
+      "text": "Each session lasts ten minutes. You will receive concise, condensed information on a particular topic and have time to ask questions at the end. Just the right length of time to enjoy a coffee while you listen.\n\nThe online events will be held via Zoom at 3.15 p.m. on Wednesday afternoons from 2 February to 2 March 2022. Event language is English . Registration is not required. For browser-based Zoom sessions, we recommend using Chrome."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "Good to know: For many of the past Coffee Lectures , a recording and/or the slides of the presentations are available on our website."
+    },
+    {
+      "heading": "New topics are welcome!",
+      "text": "Do you have any questions about a tool or would you like more in-depth information on a topic related to information search, scientific writing and publishing or archiving? Send us your proposed topic to and we will see if it is suitable for a Coffee Lecture.\n\nMore than just data – Benefit from know-how #KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lectures",
+        "label": "PERSON",
+        "start": 27,
+        "end": 35
+      },
+      {
+        "text": "the ETH Library",
+        "label": "FAC",
+        "start": 161,
+        "end": 176
+      },
+      {
+        "text": "February",
+        "label": "DATE",
+        "start": 182,
+        "end": 190
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 274,
+        "end": 289
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "PERSON",
+        "start": 430,
+        "end": 445
+      },
+      {
+        "text": "ten minutes",
+        "label": "TIME",
+        "start": 19,
+        "end": 30
+      },
+      {
+        "text": "3.15 p.m.",
+        "label": "TIME",
+        "start": 254,
+        "end": 263
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 267,
+        "end": 276
+      },
+      {
+        "text": "2 February",
+        "label": "DATE",
+        "start": 293,
+        "end": 303
+      },
+      {
+        "text": "March 2022",
+        "label": "DATE",
+        "start": 309,
+        "end": 319
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 339,
+        "end": 346
+      },
+      {
+        "text": "Chrome",
+        "label": "PERSON",
+        "start": 431,
+        "end": 437
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "PERSON",
+        "start": 35,
+        "end": 50
+      },
+      {
+        "text": "a Coffee Lecture",
+        "label": "PERSON",
+        "start": 242,
+        "end": 258
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chrome",
+        "Coffee Lectures",
+        "Lectures",
+        "a Coffee Lecture"
+      ],
+      "ORG": [
+        "the ETH Library"
+      ],
+      "LOCATION": [
+        "the ETH Library"
+      ],
+      "DATE": [
+        "2 February",
+        "3.15 p.m.",
+        "February",
+        "March 2022",
+        "Wednesday",
+        "ten minutes"
+      ],
+      "MISC": [
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "the ETH Library": 2,
+      "Coffee Lectures": 2,
+      "Lectures": 1,
+      "February": 1,
+      "ten minutes": 1,
+      "3.15 p.m.": 1,
+      "Wednesday": 1,
+      "2 February": 1,
+      "March 2022": 1,
+      "English": 1,
+      "Chrome": 1,
+      "a Coffee Lecture": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "coffee-lectures-in-zehn-minuten-zu-neuem-knowhow.md",
+      "title": "En Internal/2022/01/coffee Lectures in Zehn Minuten zu Neuem Knowhow",
+      "language": "en",
+      "source_path": "en_internal/2022/01/coffee-lectures-in-zehn-minuten-zu-neuem-knowhow.html"
+    },
+    "temporal": {
+      "publication_date": "2022-01",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chrome",
+        "Coffee Lectures",
+        "Lectures",
+        "a Coffee Lecture"
+      ],
+      "people_with_roles": {
+        "Coffee Lectures": [
+          "student"
+        ],
+        "Lectures": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "English"
+      ],
+      "grants_funding": [
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "Coffee Lecture",
+        "Neuem Knowhow",
+        "ETH Library",
+        "Zehn Minuten",
+        "En Internal",
+        "Coffee Lectures",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the ETH Library"
+      ],
+      "locations": [
+        "the ETH Library"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "the ETH Library",
+        "Coffee Lectures",
+        "Lectures",
+        "February",
+        "ten minutes",
+        "3.15 p.m.",
+        "Wednesday",
+        "2 February",
+        "March 2022",
+        "English"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "How the Coffee Lectures work",
+          "How the Coffee Lectures work",
+          "Subscribe to Newsletter",
+          "New topics are welcome!"
+        ],
+        "content_length": 1683
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lectures",
+        "Chrome",
+        "EU",
+        "a Coffee Lecture",
+        "2022",
+        "funding",
+        "Coffee Lectures",
+        "the ETH Library"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "English",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Coffee Lectures_has_role_student",
+        "Lectures_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

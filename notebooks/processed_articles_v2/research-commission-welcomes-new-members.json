@@ -1,0 +1,345 @@
+{
+  "filename": "research-commission-welcomes-new-members.md",
+  "original_filename": "research-commission-welcomes-new-members.html",
+  "source_path": "en_internal/2015/03/research-commission-welcomes-new-members.html",
+  "date": "2015-03",
+  "title": "Research Commission Welcomes New Members",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In a recent meeting, the Executive Board announced that the Research Commission would be undergoing some changes.\n\nNew members appointed for a term to 2019:\n\nChristian Wolfrum , Professor at the Institute of Molecular Systems Biology in the Department of Health Sciences and Technology (D-HEST), has been re-elected and will remain on the Research Commission for a second term from 1 September 2015 to 31 August 2019.\n\nDieter Schlüter , Professor of Polymer Chemistry in the Department of Materials (D-MATL), and Didier Sornette , Professor of Entrepreneurial Risks in the Department of Management, Technology and Economics (D-MTEC), will be leaving the Research Commission as of 30 April 2015. Jaboury Ghazoul , Professor of Ecosystem Management in the Department of Environmental Systems Science (D-USYS), will be stepping down on 31 August."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 21,
+        "end": 40
+      },
+      {
+        "text": "the Research Commission",
+        "label": "ORG",
+        "start": 56,
+        "end": 79
+      },
+      {
+        "text": "Christian",
+        "label": "NORP",
+        "start": 156,
+        "end": 165
+      },
+      {
+        "text": "the Institute of Molecular Systems Biology",
+        "label": "ORG",
+        "start": 189,
+        "end": 231
+      },
+      {
+        "text": "the Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 235,
+        "end": 283
+      },
+      {
+        "text": "the Research Commission",
+        "label": "ORG",
+        "start": 333,
+        "end": 356
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 363,
+        "end": 369
+      },
+      {
+        "text": "September 2015 to 31 August 2019",
+        "label": "DATE",
+        "start": 382,
+        "end": 414
+      },
+      {
+        "text": "Dieter Schlüter",
+        "label": "PERSON",
+        "start": 416,
+        "end": 431
+      },
+      {
+        "text": "Chemistry",
+        "label": "PERSON",
+        "start": 455,
+        "end": 464
+      },
+      {
+        "text": "the Department of Materials",
+        "label": "ORG",
+        "start": 468,
+        "end": 495
+      },
+      {
+        "text": "Didier Sornette",
+        "label": "PERSON",
+        "start": 510,
+        "end": 525
+      },
+      {
+        "text": "Entrepreneurial Risks",
+        "label": "ORG",
+        "start": 541,
+        "end": 562
+      },
+      {
+        "text": "the Department of Management, Technology and Economics",
+        "label": "ORG",
+        "start": 566,
+        "end": 620
+      },
+      {
+        "text": "the Research Commission",
+        "label": "ORG",
+        "start": 647,
+        "end": 670
+      },
+      {
+        "text": "30 April 2015",
+        "label": "DATE",
+        "start": 677,
+        "end": 690
+      },
+      {
+        "text": "Ghazoul",
+        "label": "PERSON",
+        "start": 700,
+        "end": 707
+      },
+      {
+        "text": "the Department of Environmental Systems Science",
+        "label": "ORG",
+        "start": 747,
+        "end": 794
+      },
+      {
+        "text": "31 August",
+        "label": "DATE",
+        "start": 830,
+        "end": 839
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chemistry",
+        "Didier Sornette",
+        "Dieter Schlüter",
+        "Ghazoul"
+      ],
+      "ORG": [
+        "Entrepreneurial Risks",
+        "the Department of Environmental Systems Science",
+        "the Department of Health Sciences and Technology",
+        "the Department of Management, Technology and Economics",
+        "the Department of Materials",
+        "the Executive Board",
+        "the Institute of Molecular Systems Biology",
+        "the Research Commission"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "30 April 2015",
+        "31 August",
+        "September 2015 to 31 August 2019"
+      ],
+      "MISC": [
+        "Christian",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "the Research Commission": 3,
+      "the Executive Board": 1,
+      "Christian": 1,
+      "the Institute of Molecular Systems Biology": 1,
+      "the Department of Health Sciences and Technology": 1,
+      "second": 1,
+      "September 2015 to 31 August 2019": 1,
+      "Dieter Schlüter": 1,
+      "Chemistry": 1,
+      "the Department of Materials": 1,
+      "Didier Sornette": 1,
+      "Entrepreneurial Risks": 1,
+      "the Department of Management, Technology and Economics": 1,
+      "30 April 2015": 1,
+      "Ghazoul": 1,
+      "the Department of Environmental Systems Science": 1,
+      "31 August": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "research-commission-welcomes-new-members.md",
+      "title": "En Internal/2015/03/research Commission Welcomes New Members",
+      "language": "en",
+      "source_path": "en_internal/2015/03/research-commission-welcomes-new-members.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chemistry",
+        "Didier Sornette",
+        "Dieter Schlüter",
+        "Ghazoul"
+      ],
+      "people_with_roles": {
+        "Chemistry": [
+          "professor"
+        ],
+        "Didier Sornette": [
+          "professor"
+        ],
+        "Dieter Schlüter": [
+          "professor"
+        ],
+        "Ghazoul": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Christian",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Ecosystem Management",
+        "Didier Sornette",
+        "Jaboury Ghazoul",
+        "New Members",
+        "D-USYS",
+        "Environmental Systems",
+        "Entrepreneurial Risks",
+        "D-MATL",
+        "Research Commission",
+        "Commission Welcomes",
+        "Executive Board",
+        "En Internal",
+        "Christian Wolfrum",
+        "D-HEST",
+        "Polymer Chemistry",
+        "D-MTEC",
+        "Health Sciences",
+        "Molecular Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Health Sciences and Technology ",
+        "Materials ",
+        "Management",
+        "Environmental Systems Science "
+      ],
+      "institutions": [
+        "Entrepreneurial Risks",
+        "the Department of Environmental Systems Science",
+        "the Department of Health Sciences and Technology",
+        "the Department of Management, Technology and Economics",
+        "the Department of Materials",
+        "the Executive Board",
+        "the Institute of Molecular Systems Biology",
+        "the Research Commission"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "the Research Commission",
+        "the Executive Board",
+        "Christian",
+        "the Institute of Molecular Systems Biology",
+        "the Department of Health Sciences and Technology",
+        "second",
+        "September 2015 to 31 August 2019",
+        "Dieter Schlüter",
+        "Chemistry",
+        "the Department of Materials"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 904
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Didier Sornette",
+        "the Department of Materials",
+        "2015",
+        "Ghazoul",
+        "Entrepreneurial Risks",
+        "2019",
+        "EU",
+        "Chemistry",
+        "the Institute of Molecular Systems Biology",
+        "the Department of Health Sciences and Technology",
+        "the Executive Board",
+        "the Department of Environmental Systems Science",
+        "the Research Commission",
+        "the Department of Management, Technology and Economics",
+        "Dieter Schlüter"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Christian",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "medical_research",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Chemistry_has_role_professor",
+        "Didier Sornette_has_role_professor",
+        "Dieter Schlüter_has_role_professor",
+        "Ghazoul_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

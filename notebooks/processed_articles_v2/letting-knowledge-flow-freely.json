@@ -1,0 +1,299 @@
+{
+  "filename": "letting-knowledge-flow-freely.md",
+  "original_filename": "letting-knowledge-flow-freely.html",
+  "source_path": "en_internal/2018/02/letting-knowledge-flow-freely.html",
+  "date": "2018-02",
+  "title": "Letting Knowledge Flow Freely",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Zurich’s new Open Access policy supports swissuniversities’ (the Rectors’ Conference of Swiss Higher Education Institutions) national Open Access strategy and incorporates central statements from the survey on Open Access conducted by ETH researchers in spring 2017. The Executive Board implemented the revised policy on 1 February 2018.\n\nIts core statements are:\n\nA further important aspect of ETH’s new Open Access policy is that it will increase the public transparency of published research. Freely available knowledge enables greater replication of results. ETH’s Open Access policy therefore contributes to research integrity, something which is an absolute priority for the university. Our OA policy and the related individual advice offered by the ETH Library also help researchers to avoid untrustworthy publication platforms that have appeared as part of the increase in OA.\n\nETH Zurich’s competence centre for Open Access is the ETH Library, which has made further information available on its website . The library’s experts would be happy to provide advice and support regarding the implementation of the Open Access policy. Please contact the e-publishing department.\n\nYou can find information about the legal aspects of republishing in the Research Collection here .\n\nThe video from the ETH Library was added to this article on 20 March."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Open Access",
+        "label": "PRODUCT",
+        "start": 17,
+        "end": 28
+      },
+      {
+        "text": "the Rectors’ Conference of Swiss Higher Education Institutions",
+        "label": "ORG",
+        "start": 65,
+        "end": 127
+      },
+      {
+        "text": "Open Access",
+        "label": "ORG",
+        "start": 214,
+        "end": 225
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 239,
+        "end": 242
+      },
+      {
+        "text": "spring 2017",
+        "label": "DATE",
+        "start": 258,
+        "end": 269
+      },
+      {
+        "text": "The Executive Board",
+        "label": "ORG",
+        "start": 271,
+        "end": 290
+      },
+      {
+        "text": "1 February 2018",
+        "label": "DATE",
+        "start": 325,
+        "end": 340
+      },
+      {
+        "text": "ETH’s",
+        "label": "ORG",
+        "start": 397,
+        "end": 402
+      },
+      {
+        "text": "Open Access",
+        "label": "PRODUCT",
+        "start": 407,
+        "end": 418
+      },
+      {
+        "text": "ETH’s Open Access",
+        "label": "ORG",
+        "start": 565,
+        "end": 582
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 754,
+        "end": 769
+      },
+      {
+        "text": "OA",
+        "label": "GPE",
+        "start": 883,
+        "end": 885
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 887,
+        "end": 899
+      },
+      {
+        "text": "Open Access",
+        "label": "WORK_OF_ART",
+        "start": 922,
+        "end": 933
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 937,
+        "end": 952
+      },
+      {
+        "text": "the Research Collection",
+        "label": "ORG",
+        "start": 1251,
+        "end": 1274
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 1297,
+        "end": 1312
+      },
+      {
+        "text": "20 March",
+        "label": "DATE",
+        "start": 1342,
+        "end": 1350
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH’s",
+        "ETH’s Open Access",
+        "Open Access",
+        "The Executive Board",
+        "the ETH Library",
+        "the Rectors’ Conference of Swiss Higher Education Institutions",
+        "the Research Collection"
+      ],
+      "LOCATION": [
+        "OA"
+      ],
+      "DATE": [
+        "1 February 2018",
+        "20 March",
+        "spring 2017"
+      ],
+      "MISC": [
+        "Open Access"
+      ]
+    },
+    "entity_counts": {
+      "Open Access": 4,
+      "the ETH Library": 3,
+      "ETH Zurich’s": 2,
+      "the Rectors’ Conference of Swiss Higher Education Institutions": 1,
+      "ETH": 1,
+      "spring 2017": 1,
+      "The Executive Board": 1,
+      "1 February 2018": 1,
+      "ETH’s": 1,
+      "ETH’s Open Access": 1,
+      "OA": 1,
+      "the Research Collection": 1,
+      "20 March": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "letting-knowledge-flow-freely.md",
+      "title": "En Internal/2018/02/letting Knowledge Flow Freely",
+      "language": "en",
+      "source_path": "en_internal/2018/02/letting-knowledge-flow-freely.html"
+    },
+    "temporal": {
+      "publication_date": "2018-02",
+      "mentioned_years": [
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {
+        "ETH Zurich’s": [
+          "researcher",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Open Access"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Knowledge Flow",
+        "Education Institutions",
+        "ETH Library",
+        "The Executive",
+        "En Internal",
+        "Research Collection",
+        "Swiss Higher",
+        "Our OA",
+        "ETH Zurich",
+        "Open Access",
+        "Freely ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH’s",
+        "ETH’s Open Access",
+        "Open Access",
+        "The Executive Board",
+        "the ETH Library",
+        "the Rectors’ Conference of Swiss Higher Education Institutions",
+        "the Research Collection"
+      ],
+      "locations": [
+        "OA"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Open Access",
+        "the ETH Library",
+        "ETH Zurich’s",
+        "the Rectors’ Conference of Swiss Higher Education Institutions",
+        "ETH",
+        "spring 2017",
+        "The Executive Board",
+        "1 February 2018",
+        "ETH’s",
+        "ETH’s Open Access"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1406
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "ETH’s Open Access",
+        "2017",
+        "the ETH Library",
+        "The Executive Board",
+        "the Research Collection",
+        "Open Access",
+        "ETH Zurich’s",
+        "ETH’s",
+        "the Rectors’ Conference of Swiss Higher Education Institutions"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "what",
+        "Open Access",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich’s_has_role_researcher",
+        "ETH Zurich’s_has_role_rector",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

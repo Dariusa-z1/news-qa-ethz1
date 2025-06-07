@@ -1,0 +1,268 @@
+{
+  "filename": "covid-19%20research-call-for-proposals.md",
+  "original_filename": "covid-19%20research-call-for-proposals.html",
+  "source_path": "en_internal/2020/03/covid-19%20research-call-for-proposals.html",
+  "date": "2020-03",
+  "title": "Covid 19%20Research Call For Proposals",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Centre invites researchers from its four partner institutions (ETH Zurich, University of Basel, University Children’s Hospital Basel and Swiss Tropical and Public Health Institute) to submit projects that can deliver impact in the COVID-19 pandemic.\n\nThe research areas to be considered are diagnostics for COVID-19, human immune response to COVID-19 and medical interventions and disease management for COVID-19.\n\nApplications must be led by at least one principal investigator from the partner institutions. Projects are expected to be 2.5 years in duration and range from 0.5 to 2.5 Mio CHF. Deadline to submit is Wednesday April 8th.\n\nDetails of the call for proposals and application are available at brc.ch/ftc ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Call For Proposals",
+        "label": "WORK_OF_ART",
+        "start": 40,
+        "end": 58
+      },
+      {
+        "text": "Centre",
+        "label": "GPE",
+        "start": 4,
+        "end": 10
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 40,
+        "end": 44
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 67,
+        "end": 77
+      },
+      {
+        "text": "University of Basel",
+        "label": "ORG",
+        "start": 79,
+        "end": 98
+      },
+      {
+        "text": "University Children’s Hospital Basel",
+        "label": "ORG",
+        "start": 100,
+        "end": 136
+      },
+      {
+        "text": "Swiss Tropical and Public Health Institute",
+        "label": "ORG",
+        "start": 141,
+        "end": 183
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 235,
+        "end": 243
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 310,
+        "end": 318
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 345,
+        "end": 353
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 407,
+        "end": 415
+      },
+      {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 445,
+        "end": 457
+      },
+      {
+        "text": "2.5 years",
+        "label": "DATE",
+        "start": 540,
+        "end": 549
+      },
+      {
+        "text": "0.5",
+        "label": "CARDINAL",
+        "start": 577,
+        "end": 580
+      },
+      {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 584,
+        "end": 587
+      },
+      {
+        "text": "Wednesday April 8th",
+        "label": "DATE",
+        "start": 619,
+        "end": 638
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "COVID-19",
+        "ETH Zurich",
+        "Swiss Tropical and Public Health Institute",
+        "University Children’s Hospital Basel",
+        "University of Basel"
+      ],
+      "LOCATION": [
+        "Centre"
+      ],
+      "DATE": [
+        "2.5 years",
+        "Wednesday April 8th"
+      ],
+      "MISC": [
+        "0.5",
+        "2.5",
+        "Call For Proposals",
+        "at least one",
+        "four"
+      ]
+    },
+    "entity_counts": {
+      "COVID-19": 4,
+      "Call For Proposals": 1,
+      "Centre": 1,
+      "four": 1,
+      "ETH Zurich": 1,
+      "University of Basel": 1,
+      "University Children’s Hospital Basel": 1,
+      "Swiss Tropical and Public Health Institute": 1,
+      "at least one": 1,
+      "2.5 years": 1,
+      "0.5": 1,
+      "2.5": 1,
+      "Wednesday April 8th": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "covid-19%20research-call-for-proposals.md",
+      "title": "En Internal/2020/03/covid 19%20research Call For Proposals",
+      "language": "en",
+      "source_path": "en_internal/2020/03/covid-19%20research-call-for-proposals.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "Call For Proposals",
+        "at least one",
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Mio CHF",
+        "Swiss Tropical",
+        "Hospital Basel",
+        "Public Health",
+        "Call For",
+        "En Internal",
+        "Proposals The",
+        "University Children",
+        "ETH Zurich",
+        "Wednesday April"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH Zurich",
+        "Swiss Tropical and Public Health Institute",
+        "University Children’s Hospital Basel",
+        "University of Basel"
+      ],
+      "locations": [
+        "Centre"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "COVID-19",
+        "Call For Proposals",
+        "Centre",
+        "four",
+        "ETH Zurich",
+        "University of Basel",
+        "University Children’s Hospital Basel",
+        "Swiss Tropical and Public Health Institute",
+        "at least one",
+        "2.5 years"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 781
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020",
+        "Swiss Tropical and Public Health Institute",
+        "ETH Zurich",
+        "University of Basel",
+        "COVID-19",
+        "University Children’s Hospital Basel"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "at least one",
+        "four",
+        "who",
+        "Call For Proposals",
+        "what",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "filename": "eth-link-with-additional-departure-times.md",
+  "original_filename": "eth-link-with-additional-departure-times.html",
+  "source_path": "en_internal/2016/09/eth-link-with-additional-departure-times.html",
+  "date": "2016-09",
+  "title": "Eth Link With Additional Departure Times",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "This is the shuttle bus that links ETH’s two main sites in Zurich.\n\nFrom 19 September to 23 December 2016 there will be an additional bus to make the trip between the Zentrum and Hönggerberg campuses easier. As well as the normal departure times of x.14, x.34 and x.54, during the autumn semester the ETH Link will also leave Zentrum at x.04 and Hönggerberg at x.44. Unlike the buses in use at the moment, the additional vehicle will for the time being remain without branding apart from the ETH Zurich logo on the back. A decision on whether or not to continue the trial will be taken after the end of the semester.\n\nIn addition, the first four buses from Hönggerberg (7.30, 7.40, 7.50 and 8.10 am) will also carry on after Zentrum to Zurich Central Station.\n\nFor more information and the new timetables, please see the ETH Link website."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 59,
+        "end": 65
+      },
+      {
+        "text": "19 September to",
+        "label": "DATE",
+        "start": 72,
+        "end": 87
+      },
+      {
+        "text": "December 2016",
+        "label": "DATE",
+        "start": 91,
+        "end": 104
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 166,
+        "end": 173
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 178,
+        "end": 189
+      },
+      {
+        "text": "x.14",
+        "label": "ORG",
+        "start": 248,
+        "end": 252
+      },
+      {
+        "text": "x.34",
+        "label": "ORG",
+        "start": 254,
+        "end": 258
+      },
+      {
+        "text": "x.54",
+        "label": "ORG",
+        "start": 263,
+        "end": 267
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 325,
+        "end": 332
+      },
+      {
+        "text": "x.04",
+        "label": "DATE",
+        "start": 336,
+        "end": 340
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 345,
+        "end": 356
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 495,
+        "end": 501
+      },
+      {
+        "text": "the end of the semester",
+        "label": "DATE",
+        "start": 591,
+        "end": 614
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 633,
+        "end": 638
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 639,
+        "end": 643
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 655,
+        "end": 666
+      },
+      {
+        "text": "7.30",
+        "label": "CARDINAL",
+        "start": 668,
+        "end": 672
+      },
+      {
+        "text": "7.40",
+        "label": "CARDINAL",
+        "start": 674,
+        "end": 678
+      },
+      {
+        "text": "7.50",
+        "label": "CARDINAL",
+        "start": 680,
+        "end": 684
+      },
+      {
+        "text": "8.10 am",
+        "label": "QUANTITY",
+        "start": 689,
+        "end": 696
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 723,
+        "end": 730
+      },
+      {
+        "text": "Zurich Central Station",
+        "label": "ORG",
+        "start": 734,
+        "end": 756
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Zentrum"
+      ],
+      "ORG": [
+        "ETH",
+        "Zurich Central Station",
+        "x.14",
+        "x.34",
+        "x.54"
+      ],
+      "LOCATION": [
+        "Hönggerberg",
+        "Zurich"
+      ],
+      "DATE": [
+        "19 September to",
+        "December 2016",
+        "the end of the semester",
+        "x.04"
+      ],
+      "MISC": [
+        "7.30",
+        "7.40",
+        "7.50",
+        "8.10 am",
+        "first",
+        "four",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Zentrum": 3,
+      "Hönggerberg": 3,
+      "Zurich": 2,
+      "ETH": 1,
+      "two": 1,
+      "19 September to": 1,
+      "December 2016": 1,
+      "x.14": 1,
+      "x.34": 1,
+      "x.54": 1,
+      "x.04": 1,
+      "the end of the semester": 1,
+      "first": 1,
+      "four": 1,
+      "7.30": 1,
+      "7.40": 1,
+      "7.50": 1,
+      "8.10 am": 1,
+      "Zurich Central Station": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-link-with-additional-departure-times.md",
+      "title": "En Internal/2016/09/eth Link With Additional Departure Times",
+      "language": "en",
+      "source_path": "en_internal/2016/09/eth-link-with-additional-departure-times.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Zentrum"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "7.30",
+        "7.40",
+        "7.50",
+        "8.10 am",
+        "first",
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Times This",
+        "Additional Departure",
+        "En Internal",
+        "ETH Link",
+        "Zurich Central",
+        "Link With",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Zurich Central Station",
+        "x.14",
+        "x.34",
+        "x.54"
+      ],
+      "locations": [
+        "Hönggerberg",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Zentrum",
+        "Hönggerberg",
+        "Zurich",
+        "ETH",
+        "two",
+        "19 September to",
+        "December 2016",
+        "x.14",
+        "x.34",
+        "x.54"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 899
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "x.34",
+        "ETH",
+        "Zurich Central Station",
+        "x.14",
+        "x.54",
+        "2016",
+        "Zentrum"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "7.30",
+        "four",
+        "7.50",
+        "7.40",
+        "8.10 am",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

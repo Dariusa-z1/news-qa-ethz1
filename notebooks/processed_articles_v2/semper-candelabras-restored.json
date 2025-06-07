@@ -1,0 +1,305 @@
+{
+  "filename": "semper-candelabras-restored.md",
+  "original_filename": "semper-candelabras-restored.html",
+  "source_path": "en_internal/2018/06/semper-candelabras-restored.html",
+  "date": "2018-06",
+  "title": "Semper Candelabras Restored",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The historic candelabras that flanked the polyterrace entrance of the ETH main building for many decades have experienced a lot. They were reshaped, repainted, relocated and finally eroded by rust. They had to be dismantled in 2013 for safety reasons.\n\nThey've been back in their old glory since this morning. And that can be taken quite literally: Missing segments were reproduced and existing segments repaired. Finally, the candelabras were gilded. Professor Ulrich Weidmann, Vice President for Personnel and Resources, is convinced of the results of the restoration work:\n\nMany old photos show dark painted candelabras. Why were they gilded now? The candelabras were restored according to the designs of Gottfried Semper to the state of 1868. Research by Uta Hassler, emeritus professor of historic building research and conservation at ETH Zurich, and material tests have shown that they were originally gilded. In later years the aesthetic feeling seems to have changed and they were painted over dark. In my view, the decision to return to the original state is the right one.\n\nAren't golden candelabras a little too luxurious for a public university? The restoration costs for the golden version were no higher than they would have been for a darker version. So we could decide freely and chose the historically correct variant.\n\nAre there plans to restore other parts of the main building to its original state? The main building was built in three periods by the architects Semper, Gull and Geisendorf. It is assumed that today less than a fifth of the building stock in use is really still from Semper. This means that there is actually no original state at all, but only original states per area of the main building. As far as functionality and regulations allow, we want to move back to the respective original state during refurbishments. The largest single project in the coming years will be the renovation of the Semper-Aula. We are also keen to improve the transitions between the different epochs."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Candelabras Restored",
+        "label": "ORG",
+        "start": 27,
+        "end": 47
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 70,
+        "end": 73
+      },
+      {
+        "text": "many decades",
+        "label": "DATE",
+        "start": 92,
+        "end": 104
+      },
+      {
+        "text": "this morning",
+        "label": "TIME",
+        "start": 295,
+        "end": 307
+      },
+      {
+        "text": "Ulrich Weidmann",
+        "label": "PERSON",
+        "start": 461,
+        "end": 476
+      },
+      {
+        "text": "Personnel and Resources",
+        "label": "ORG",
+        "start": 497,
+        "end": 520
+      },
+      {
+        "text": "Gottfried Semper",
+        "label": "WORK_OF_ART",
+        "start": 706,
+        "end": 722
+      },
+      {
+        "text": "Uta Hassler",
+        "label": "PERSON",
+        "start": 757,
+        "end": 768
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 839,
+        "end": 849
+      },
+      {
+        "text": "later years",
+        "label": "DATE",
+        "start": 918,
+        "end": 929
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1448,
+        "end": 1453
+      },
+      {
+        "text": "Geisendorf",
+        "label": "PERSON",
+        "start": 1497,
+        "end": 1507
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1528,
+        "end": 1533
+      },
+      {
+        "text": "less than a fifth",
+        "label": "CARDINAL",
+        "start": 1534,
+        "end": 1551
+      },
+      {
+        "text": "Semper",
+        "label": "ORG",
+        "start": 1602,
+        "end": 1608
+      },
+      {
+        "text": "the coming years",
+        "label": "DATE",
+        "start": 1880,
+        "end": 1896
+      },
+      {
+        "text": "the Semper-Aula",
+        "label": "LOC",
+        "start": 1923,
+        "end": 1938
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Geisendorf",
+        "Ulrich Weidmann",
+        "Uta Hassler"
+      ],
+      "ORG": [
+        "Candelabras Restored",
+        "ETH",
+        "ETH Zurich",
+        "Personnel and Resources",
+        "Semper"
+      ],
+      "LOCATION": [
+        "the Semper-Aula"
+      ],
+      "DATE": [
+        "later years",
+        "many decades",
+        "the coming years",
+        "this morning",
+        "today"
+      ],
+      "MISC": [
+        "Gottfried Semper",
+        "less than a fifth",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Candelabras Restored": 1,
+      "ETH": 1,
+      "many decades": 1,
+      "this morning": 1,
+      "Ulrich Weidmann": 1,
+      "Personnel and Resources": 1,
+      "Gottfried Semper": 1,
+      "Uta Hassler": 1,
+      "ETH Zurich": 1,
+      "later years": 1,
+      "three": 1,
+      "Geisendorf": 1,
+      "today": 1,
+      "less than a fifth": 1,
+      "Semper": 1,
+      "the coming years": 1,
+      "the Semper-Aula": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "semper-candelabras-restored.md",
+      "title": "En Internal/2018/06/semper Candelabras Restored",
+      "language": "en",
+      "source_path": "en_internal/2018/06/semper-candelabras-restored.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2013",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Geisendorf",
+        "Ulrich Weidmann",
+        "Uta Hassler"
+      ],
+      "people_with_roles": {
+        "Ulrich Weidmann": [
+          "Professor",
+          "president",
+          "professor"
+        ],
+        "Uta Hassler": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Gottfried Semper",
+        "less than a fifth",
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Uta Hassler",
+        "Vice President",
+        "Candelabras Restored",
+        "Professor Ulrich",
+        "En Internal",
+        "Semper-Aula",
+        "Gottfried Semper",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Candelabras Restored",
+        "ETH",
+        "ETH Zurich",
+        "Personnel and Resources",
+        "Semper"
+      ],
+      "locations": [
+        "the Semper-Aula"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Candelabras Restored",
+        "ETH",
+        "many decades",
+        "this morning",
+        "Ulrich Weidmann",
+        "Personnel and Resources",
+        "Gottfried Semper",
+        "Uta Hassler",
+        "ETH Zurich",
+        "later years"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2065
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Ulrich Weidmann",
+        "ETH",
+        "Uta Hassler",
+        "Personnel and Resources",
+        "Semper",
+        "2018",
+        "Candelabras Restored",
+        "2013",
+        "Geisendorf",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "who",
+        "when",
+        "Gottfried Semper",
+        "what",
+        "how",
+        "why",
+        "less than a fifth",
+        "where"
+      ],
+      "graph_relations": [
+        "Ulrich Weidmann_has_role_Professor",
+        "Ulrich Weidmann_has_role_president",
+        "Ulrich Weidmann_has_role_professor",
+        "Uta Hassler_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

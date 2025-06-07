@@ -1,0 +1,525 @@
+{
+  "filename": "healthy-organelles-healthy-cells.md",
+  "original_filename": "healthy-organelles-healthy-cells.html",
+  "source_path": "en_news_events/2019/09/healthy-organelles-healthy-cells.html",
+  "date": "2019-09",
+  "title": "Healthy Organelles Healthy Cells",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Proteins that stick together",
+      "text": "For a long time, the contents of cells were thought to be fairly unstructured and chaotic: a mixture of proteins, DNA and a multitude of small metabolic molecules. Although important cellular processes in plants and animals were known to take place in organelles (larger structures enclosed by a membrane, such as the nucleus or mitochondria), it is only in the past few years that scientists have discovered that there is another type of structure playing a critical role in the organisation of cellular processes: membraneless organelles. These tiny droplets are formed in a self-organised process that resembles the separation of oil droplets in water.\n\nNowadays, there is a great deal of evidence to suggest that these compartments are of considerable importance for medicine: they may be involved in the development of some 40 neurodegenerative diseases, including Alzheimer’s, Huntington’s disease and amyotrophic lateral sclerosis (ALS) – all of which are currently incurable.\n\n“Researchers are discovering a growing number of biological processes that take place in these organelles, separated from the rest of the cell’s content,” says Karsten Weis, Professor of Biochemistry at ETH Zurich. Now, together with his team, he has researched the principle underpinning the formation of membraneless organelles and how this process is regulated."
+    },
+    {
+      "heading": "Proteins that stick together",
+      "text": "For this, the ETH biochemists analysed a specific family of proteins known as DEAD-box ATPases. In all types of organism – bacteria, plants and animals – these proteins act as a kind of molecular switch: once they have bound to the energy storage molecule adenosine triphosphate (ATP), they also bind to and transport RNA, the template copied from DNA for the production of proteins.\n\nIn each organism, some of these DEAD-box ATPases contain flexible “arms” made up of only a small subset of the total of 20 amino acids. “This striking feature points to a special function,” says Weis. To begin with, he and his team investigated ATPases from yeast. They modified the flexible arms using genetic engineering methods and then analysed the proteins both in the test tube and in live yeast cells. By doing so, they realised that it is precisely these flexible arms that are responsible for the formation and regulation of membraneless organelles.\n\n“The flexible areas are readily soluble in the aqueous environment inside a cell,” explains Weis. “However, once a large number of ATPase molecules come together, these flexible parts cause the proteins to bind to one another.” The ATPases condense into large clusters, leading to a phase separation similar to that of oil in water – and membraneless cell organelles form. Further experiments with DEAD-box ATPases from human and bacterial cells indicated to the researchers that this process works in a very similar way in all types of organism."
+    },
+    {
+      "heading": "Organelles create order",
+      "text": "Moreover, the ATPases not only ensure the self-organised formation of organelles, but also use ATP-dependent binding of RNA to regulate the transport of RNA molecules and proteins into these structures, where the RNA molecules are collected. Weis and his colleagues believe it is possible that they are processed or broken down within the structures, or simply stored there for a while.\n\nIn living cells, the ETH researchers have even observed how RNA is transported through several different membraneless organelles. “This suggests that further processing of the RNA molecules takes place step by step in different organelles,” says Weis. One organelle is responsible for a first step in the process, the other organelle for the next, and so on – like working on a production line."
+    },
+    {
+      "heading": "More targeted research in the future",
+      "text": "However, membraneless organelles are susceptible to failure. Over time, they can transform into defunct, sticky aggregates – into clumps that are no longer fluid. “It is this kind of permanent aggregates in the cells that cause neurodegenerative diseases,” says Weis. The findings of his research group now suggest that DEAD-box ATPases help to keep the organelles in a fluid state – thereby preventing the formation of dangerous aggregates.\n\nNow that the biochemists have understood how such membraneless organelles are regulated, they are able to study the phenomenon in a more targeted way. For example, by switching the activity of the ATPases on and off and they can observe how this affects organelles and cells. In this way, the ETH researchers ultimately want to find out what role the membraneless compartments play in disease development.\n\nHondele M, Sachdev R, Heinrich S, Wang J, Vallotton P, Fontoura BMA, Weis K. DEAD-box ATPases are global regulators of phase-separated organelles. Nature, volume 573, pages 144–148 (2019). doi: 10.1038/s41586-019-1502-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the past few years",
+        "label": "DATE",
+        "start": 358,
+        "end": 376
+      },
+      {
+        "text": "some 40",
+        "label": "CARDINAL",
+        "start": 823,
+        "end": 830
+      },
+      {
+        "text": "Huntington",
+        "label": "ORG",
+        "start": 882,
+        "end": 892
+      },
+      {
+        "text": "ALS",
+        "label": "ORG",
+        "start": 938,
+        "end": 941
+      },
+      {
+        "text": "Karsten Weis",
+        "label": "PERSON",
+        "start": 1143,
+        "end": 1155
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1190,
+        "end": 1196
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "DEAD",
+        "label": "ORG",
+        "start": 78,
+        "end": 82
+      },
+      {
+        "text": "ATPases",
+        "label": "ORG",
+        "start": 87,
+        "end": 94
+      },
+      {
+        "text": "DEAD",
+        "label": "ORG",
+        "start": 416,
+        "end": 420
+      },
+      {
+        "text": "ATPases",
+        "label": "ORG",
+        "start": 425,
+        "end": 432
+      },
+      {
+        "text": "Weis",
+        "label": "PERSON",
+        "start": 579,
+        "end": 583
+      },
+      {
+        "text": "ATPases",
+        "label": "ORG",
+        "start": 629,
+        "end": 636
+      },
+      {
+        "text": "Weis",
+        "label": "PERSON",
+        "start": 1035,
+        "end": 1039
+      },
+      {
+        "text": "ATPase",
+        "label": "ORG",
+        "start": 1074,
+        "end": 1080
+      },
+      {
+        "text": "ATPases",
+        "label": "ORG",
+        "start": 1175,
+        "end": 1182
+      },
+      {
+        "text": "DEAD",
+        "label": "ORG",
+        "start": 1341,
+        "end": 1345
+      },
+      {
+        "text": "ATPases",
+        "label": "ORG",
+        "start": 1350,
+        "end": 1357
+      },
+      {
+        "text": "ATPases",
+        "label": "ORG",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 120,
+        "end": 123
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 153,
+        "end": 156
+      },
+      {
+        "text": "RNA",
+        "label": "ORG",
+        "start": 213,
+        "end": 216
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 408,
+        "end": 411
+      },
+      {
+        "text": "RNA",
+        "label": "PERSON",
+        "start": 447,
+        "end": 450
+      },
+      {
+        "text": "Weis",
+        "label": "PERSON",
+        "start": 633,
+        "end": 637
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 639,
+        "end": 642
+      },
+      {
+        "text": "organelle",
+        "label": "GPE",
+        "start": 643,
+        "end": 652
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 674,
+        "end": 679
+      },
+      {
+        "text": "Weis",
+        "label": "PERSON",
+        "start": 262,
+        "end": 266
+      },
+      {
+        "text": "DEAD",
+        "label": "ORG",
+        "start": 320,
+        "end": 324
+      },
+      {
+        "text": "ATPases",
+        "label": "ORG",
+        "start": 329,
+        "end": 336
+      },
+      {
+        "text": "ATPases",
+        "label": "ORG",
+        "start": 639,
+        "end": 646
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 735,
+        "end": 738
+      },
+      {
+        "text": "Hondele M",
+        "label": "ORG",
+        "start": 848,
+        "end": 857
+      },
+      {
+        "text": "Sachdev",
+        "label": "PERSON",
+        "start": 859,
+        "end": 866
+      },
+      {
+        "text": "Heinrich S",
+        "label": "PERSON",
+        "start": 870,
+        "end": 880
+      },
+      {
+        "text": "Wang J",
+        "label": "PERSON",
+        "start": 882,
+        "end": 888
+      },
+      {
+        "text": "Vallotton P",
+        "label": "ORG",
+        "start": 890,
+        "end": 901
+      },
+      {
+        "text": "Fontoura BMA",
+        "label": "PERSON",
+        "start": 903,
+        "end": 915
+      },
+      {
+        "text": "Weis K. DEAD-box",
+        "label": "PERSON",
+        "start": 917,
+        "end": 933
+      },
+      {
+        "text": "ATPases",
+        "label": "ORG",
+        "start": 934,
+        "end": 941
+      },
+      {
+        "text": "144–148",
+        "label": "CARDINAL",
+        "start": 1021,
+        "end": 1028
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1042,
+        "end": 1049
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fontoura BMA",
+        "Heinrich S",
+        "Karsten Weis",
+        "RNA",
+        "Sachdev",
+        "Wang J",
+        "Weis",
+        "Weis K. DEAD-box"
+      ],
+      "ORG": [
+        "ALS",
+        "ATPase",
+        "ATPases",
+        "DEAD",
+        "ETH",
+        "Hondele M",
+        "Huntington",
+        "RNA",
+        "Vallotton P"
+      ],
+      "LOCATION": [
+        "Zurich",
+        "organelle"
+      ],
+      "DATE": [
+        "the past few years"
+      ],
+      "MISC": [
+        "10.1038",
+        "144–148",
+        "One",
+        "first",
+        "some 40"
+      ]
+    },
+    "entity_counts": {
+      "ATPases": 9,
+      "DEAD": 4,
+      "Weis": 4,
+      "RNA": 4,
+      "ETH": 3,
+      "the past few years": 1,
+      "some 40": 1,
+      "Huntington": 1,
+      "ALS": 1,
+      "Karsten Weis": 1,
+      "Zurich": 1,
+      "ATPase": 1,
+      "One": 1,
+      "organelle": 1,
+      "first": 1,
+      "Hondele M": 1,
+      "Sachdev": 1,
+      "Heinrich S": 1,
+      "Wang J": 1,
+      "Vallotton P": 1
+    },
+    "total_entities": 43,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "healthy-organelles-healthy-cells.md",
+      "title": "En News Events/2019/09/healthy Organelles Healthy Cells",
+      "language": "en",
+      "source_path": "en_news_events/2019/09/healthy-organelles-healthy-cells.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Fontoura BMA",
+        "Heinrich S",
+        "Karsten Weis",
+        "RNA",
+        "Sachdev",
+        "Wang J",
+        "Weis",
+        "Weis K. DEAD-box"
+      ],
+      "people_with_roles": {
+        "Karsten Weis": [
+          "researcher",
+          "professor"
+        ],
+        "RNA": [
+          "researcher"
+        ],
+        "Weis": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "144–148",
+        "first",
+        "some 40"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "The ATPases",
+        "En News",
+        "Sachdev R",
+        "Wang J",
+        "Fontoura BMA",
+        "Karsten Weis",
+        "Organelles Healthy",
+        "Cells For",
+        "Hondele M",
+        "Heinrich S",
+        "Vallotton P",
+        "ETH Zurich",
+        "Weis K"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ALS",
+        "ATPase",
+        "ATPases",
+        "DEAD",
+        "ETH",
+        "Hondele M",
+        "Huntington",
+        "RNA",
+        "Vallotton P"
+      ],
+      "locations": [
+        "Zurich",
+        "organelle"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ATPases",
+        "DEAD",
+        "Weis",
+        "RNA",
+        "ETH",
+        "the past few years",
+        "some 40",
+        "Huntington",
+        "ALS",
+        "Karsten Weis"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Proteins that stick together",
+          "Proteins that stick together",
+          "Organelles create order",
+          "More targeted research in the future"
+        ],
+        "content_length": 4750
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "RNA",
+        "ALS",
+        "Weis K. DEAD-box",
+        "Weis",
+        "Fontoura BMA",
+        "Wang J",
+        "2019",
+        "Karsten Weis",
+        "Heinrich S",
+        "EU",
+        "Vallotton P",
+        "Sachdev",
+        "DEAD",
+        "Huntington",
+        "Hondele M",
+        "ATPase",
+        "ATPases"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "144–148",
+        "first",
+        "some 40",
+        "who",
+        "10.1038",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Karsten Weis_has_role_researcher",
+        "Karsten Weis_has_role_professor",
+        "RNA_has_role_researcher",
+        "Weis_has_role_researcher",
+        "Weis_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

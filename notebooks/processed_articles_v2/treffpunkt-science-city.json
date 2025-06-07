@@ -1,0 +1,385 @@
+{
+  "filename": "treffpunkt-science-city.md",
+  "original_filename": "treffpunkt-science-city.html",
+  "source_path": "en_news_events/2016/02/treffpunkt-science-city.html",
+  "date": "2016-02",
+  "title": "Treffpunkt Science City",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Robotic assistance and the power of thought",
+      "text": "Health is a priceless asset, and one that needs to be looked after. But what exactly can we do to improve our well-being? If someone falls ill or has an accident, how can modern medicine cure them, or at least make their daily lives more bearable?\n\nThe upcoming edition of the Treffpunkt Science City series, entitled “the imperfect human”, offers answers to these questions and others. From 6 to 22 March, ETH scientists and medical professionals will present the discoveries and insights that could have a decisive impact on our health. Visitors – whether children, teenagers or adults – will have the chance to get involved in a range of workshops and demonstrations."
+    },
+    {
+      "heading": "Robotic assistance and the power of thought",
+      "text": "The events get underway on Sunday, 6 March with the theme of “ingenious assistants”. Robert Riener will introduce the Cybathlon, an innovative competition in which people with disabilities compete using the latest assistive devices, such as exoskeletons and prostheses. Visitors will be able to see for themselves how they cope with uneven surfaces in a wheelchair, or how they fare in a thought-controlled computer game. Urs Kolly, a seven-time Paralympic medal winner, will explain how an accident transformed his life, and will talk about the challenges he faces everyday."
+    },
+    {
+      "heading": "New forms of therapy",
+      "text": "Whether components for an artificial heart, microrobots that deliver targeted medication to the body, or tailormade cancer therapies – the future belongs to minimally invasive, personalised medicine. On the second Family Sunday, on 13 March, experts will present the latest medical developments in these fields. Children will get the chance to prepare a cream under the guidance of a pharmacist, and adults will be able to complete their own health check.\n\nHow can we stay fit and healthy for as long as possible, both in body and mind? On the third and final activity Sunday, researchers will be answering precisely these questions. They’ll also be explaining whether vitamin pills and sports drinks really are effective, and why more and more people nowadays are overweight."
+    },
+    {
+      "heading": "Treffpunkt Science City",
+      "text": "Treffpunkt Science City is a free science programme that’s accessible to people of all ages. Family Sundays feature lectures as well as programmes for children and teenagers, and will take place on the ETH Hönggerberg campus on 6, 13 and 20 March, from 11am to 4pm. On 10 March, there will be a panel discussion around the theme of “burnout”, and on 22 March, there will be the chance to visit the recently opened Balgrist campus. The detailed programme can be found here: (Im)perfect human beings\n\nThe Cybathlon will take place on 8 October 2016 at the Swiss Arena in Kloten. The event will see people with physical disabilities take part in a unique competition thanks to the latest assistive technology. The goal of the Cybathlon is to provide a platform to promote the development of assistive technologies that offer the best possible support to people with disabilities in their everyday lives. At the same, it is hoped that barriers between people with disabilities, technology developers, and the general public will be broken down. The Cybathlon: moving people and technology."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Science City",
+        "label": "GPE",
+        "start": 34,
+        "end": 46
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 221,
+        "end": 226
+      },
+      {
+        "text": "the Treffpunkt Science City",
+        "label": "ORG",
+        "start": 272,
+        "end": 299
+      },
+      {
+        "text": "6 to 22 March",
+        "label": "DATE",
+        "start": 391,
+        "end": 404
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 406,
+        "end": 409
+      },
+      {
+        "text": "Sunday",
+        "label": "DATE",
+        "start": 27,
+        "end": 33
+      },
+      {
+        "text": "6 March",
+        "label": "DATE",
+        "start": 35,
+        "end": 42
+      },
+      {
+        "text": "Robert Riener",
+        "label": "PERSON",
+        "start": 85,
+        "end": 98
+      },
+      {
+        "text": "Cybathlon",
+        "label": "PRODUCT",
+        "start": 118,
+        "end": 127
+      },
+      {
+        "text": "Urs Kolly",
+        "label": "PERSON",
+        "start": 422,
+        "end": 431
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 435,
+        "end": 440
+      },
+      {
+        "text": "Paralympic",
+        "label": "GPE",
+        "start": 446,
+        "end": 456
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 207,
+        "end": 213
+      },
+      {
+        "text": "Sunday",
+        "label": "DATE",
+        "start": 221,
+        "end": 227
+      },
+      {
+        "text": "13 March",
+        "label": "DATE",
+        "start": 232,
+        "end": 240
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 543,
+        "end": 548
+      },
+      {
+        "text": "Sunday",
+        "label": "DATE",
+        "start": 568,
+        "end": 574
+      },
+      {
+        "text": "Science City",
+        "label": "GPE",
+        "start": 11,
+        "end": 23
+      },
+      {
+        "text": "Sundays",
+        "label": "DATE",
+        "start": 100,
+        "end": 107
+      },
+      {
+        "text": "20 March",
+        "label": "DATE",
+        "start": 238,
+        "end": 246
+      },
+      {
+        "text": "11am to 4pm",
+        "label": "TIME",
+        "start": 253,
+        "end": 264
+      },
+      {
+        "text": "10 March",
+        "label": "DATE",
+        "start": 269,
+        "end": 277
+      },
+      {
+        "text": "22 March",
+        "label": "DATE",
+        "start": 350,
+        "end": 358
+      },
+      {
+        "text": "Balgrist",
+        "label": "NORP",
+        "start": 414,
+        "end": 422
+      },
+      {
+        "text": "8 October 2016",
+        "label": "DATE",
+        "start": 531,
+        "end": 545
+      },
+      {
+        "text": "the Swiss Arena in Kloten",
+        "label": "ORG",
+        "start": 549,
+        "end": 574
+      },
+      {
+        "text": "Cybathlon",
+        "label": "ORG",
+        "start": 722,
+        "end": 731
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Robert Riener",
+        "Urs Kolly"
+      ],
+      "ORG": [
+        "Cybathlon",
+        "ETH",
+        "the Swiss Arena in Kloten",
+        "the Treffpunkt Science City"
+      ],
+      "LOCATION": [
+        "Paralympic",
+        "Science City"
+      ],
+      "DATE": [
+        "10 March",
+        "11am to 4pm",
+        "13 March",
+        "20 March",
+        "22 March",
+        "6 March",
+        "6 to 22 March",
+        "8 October 2016",
+        "Sunday",
+        "Sundays",
+        "daily"
+      ],
+      "MISC": [
+        "Balgrist",
+        "Cybathlon",
+        "second",
+        "seven",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "Sunday": 3,
+      "Science City": 2,
+      "Cybathlon": 2,
+      "daily": 1,
+      "the Treffpunkt Science City": 1,
+      "6 to 22 March": 1,
+      "ETH": 1,
+      "6 March": 1,
+      "Robert Riener": 1,
+      "Urs Kolly": 1,
+      "seven": 1,
+      "Paralympic": 1,
+      "second": 1,
+      "13 March": 1,
+      "third": 1,
+      "Sundays": 1,
+      "20 March": 1,
+      "11am to 4pm": 1,
+      "10 March": 1,
+      "22 March": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "treffpunkt-science-city.md",
+      "title": "En News Events/2016/02/treffpunkt Science City",
+      "language": "en",
+      "source_path": "en_news_events/2016/02/treffpunkt-science-city.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Robert Riener",
+        "Urs Kolly"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "chair",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "Balgrist",
+        "Cybathlon",
+        "second",
+        "seven",
+        "third"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Family Sunday",
+        "En News",
+        "Science City",
+        "Treffpunkt Science",
+        "Swiss Arena",
+        "The Cybathlon",
+        "Family Sundays",
+        "Robert Riener",
+        "Urs Kolly"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cybathlon",
+        "ETH",
+        "the Swiss Arena in Kloten",
+        "the Treffpunkt Science City"
+      ],
+      "locations": [
+        "Paralympic",
+        "Science City"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Sunday",
+        "Science City",
+        "Cybathlon",
+        "daily",
+        "the Treffpunkt Science City",
+        "6 to 22 March",
+        "ETH",
+        "6 March",
+        "Robert Riener",
+        "Urs Kolly"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Robotic assistance and the power of thought",
+          "Robotic assistance and the power of thought",
+          "New forms of therapy",
+          "Treffpunkt Science City"
+        ],
+        "content_length": 3156
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Cybathlon",
+        "2016",
+        "the Treffpunkt Science City",
+        "the Swiss Arena in Kloten",
+        "Robert Riener",
+        "Urs Kolly"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "Cybathlon",
+        "seven",
+        "who",
+        "Balgrist",
+        "what",
+        "second",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

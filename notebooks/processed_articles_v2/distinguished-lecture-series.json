@@ -1,0 +1,265 @@
+{
+  "filename": "distinguished-lecture-series.md",
+  "original_filename": "distinguished-lecture-series.html",
+  "source_path": "en_internal/2016/10/distinguished-lecture-series.html",
+  "date": "2016-10",
+  "title": "Distinguished Lecture Series",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The D-MAVT Distinguished Lecture Series brings world leading scientists and engineers to ETH Zurich to present their work in a colloquium and to meet with its faculty and students. The colloquium has broad attendance by faculty, staff, Master and Doctoral students from all departments of ETH Zurich.\n\nThis year’s topics are:\n\nPiezoelectric micromachined ultrasonic transducers in consumer electronics\n\nProf. David A. Horsley, University of California\n\n17 October 2016 from 5.15 p.m. in HG F30\n\nFlying Carpets: Ultralight Structures for Space Solar Power\n\nProf. Sergio Pellegrino , California Institute of Technology\n\n14 November 2016 from 5:15 p.m. in HG F30"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 89,
+        "end": 99
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 289,
+        "end": 299
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 301,
+        "end": 310
+      },
+      {
+        "text": "David A. Horsley",
+        "label": "PERSON",
+        "start": 406,
+        "end": 422
+      },
+      {
+        "text": "University of California",
+        "label": "ORG",
+        "start": 424,
+        "end": 448
+      },
+      {
+        "text": "17 October 2016",
+        "label": "DATE",
+        "start": 449,
+        "end": 464
+      },
+      {
+        "text": "5.15 p.m.",
+        "label": "TIME",
+        "start": 470,
+        "end": 479
+      },
+      {
+        "text": "HG F30 Flying Carpets",
+        "label": "ORG",
+        "start": 483,
+        "end": 504
+      },
+      {
+        "text": "Ultralight Structures",
+        "label": "PERSON",
+        "start": 506,
+        "end": 527
+      },
+      {
+        "text": "Solar Power",
+        "label": "ORG",
+        "start": 538,
+        "end": 549
+      },
+      {
+        "text": "Sergio Pellegrino",
+        "label": "PERSON",
+        "start": 556,
+        "end": 573
+      },
+      {
+        "text": "California Institute of Technology",
+        "label": "ORG",
+        "start": 576,
+        "end": 610
+      },
+      {
+        "text": "November 2016",
+        "label": "DATE",
+        "start": 614,
+        "end": 627
+      },
+      {
+        "text": "5:15 p.m.",
+        "label": "TIME",
+        "start": 633,
+        "end": 642
+      },
+      {
+        "text": "HG F30",
+        "label": "ORG",
+        "start": 646,
+        "end": 652
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "David A. Horsley",
+        "ETH Zurich",
+        "Sergio Pellegrino",
+        "Ultralight Structures"
+      ],
+      "ORG": [
+        "California Institute of Technology",
+        "HG F30",
+        "HG F30 Flying Carpets",
+        "Solar Power",
+        "University of California"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "17 October 2016",
+        "5.15 p.m.",
+        "5:15 p.m.",
+        "November 2016",
+        "This year"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "This year": 1,
+      "David A. Horsley": 1,
+      "University of California": 1,
+      "17 October 2016": 1,
+      "5.15 p.m.": 1,
+      "HG F30 Flying Carpets": 1,
+      "Ultralight Structures": 1,
+      "Solar Power": 1,
+      "Sergio Pellegrino": 1,
+      "California Institute of Technology": 1,
+      "November 2016": 1,
+      "5:15 p.m.": 1,
+      "HG F30": 1
+    },
+    "total_entities": 15,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "distinguished-lecture-series.md",
+      "title": "En Internal/2016/10/distinguished Lecture Series",
+      "language": "en",
+      "source_path": "en_internal/2016/10/distinguished-lecture-series.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "David A. Horsley",
+        "ETH Zurich",
+        "Sergio Pellegrino",
+        "Ultralight Structures"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "scientist",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "MAVT Distinguished",
+        "Space Solar",
+        "Ultralight Structures",
+        "The D",
+        "En Internal",
+        "Sergio Pellegrino",
+        "David A",
+        "California Institute",
+        "ETH Zurich",
+        "Lecture Series",
+        "Flying Carpets"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "California Institute of Technology",
+        "HG F30",
+        "HG F30 Flying Carpets",
+        "Solar Power",
+        "University of California"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "This year",
+        "David A. Horsley",
+        "University of California",
+        "17 October 2016",
+        "5.15 p.m.",
+        "HG F30 Flying Carpets",
+        "Ultralight Structures",
+        "Solar Power",
+        "Sergio Pellegrino"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 708
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "HG F30",
+        "HG F30 Flying Carpets",
+        "University of California",
+        "Ultralight Structures",
+        "2016",
+        "Sergio Pellegrino",
+        "Solar Power",
+        "David A. Horsley",
+        "California Institute of Technology",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "who",
+        "when",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_student"
+      ]
+    }
+  }
+}

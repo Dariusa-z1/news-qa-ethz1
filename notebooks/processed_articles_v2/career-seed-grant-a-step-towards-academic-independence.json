@@ -1,0 +1,189 @@
+{
+  "filename": "career-seed-grant-a-step-towards-academic-independence.md",
+  "original_filename": "career-seed-grant-a-step-towards-academic-independence.html",
+  "source_path": "en_internal/2016/01/career-seed-grant-a-step-towards-academic-independence.html",
+  "date": "2016-01",
+  "title": "Career Seed Grant A Step Towards Academic Independence",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "At the request of the Vice President Research and Corporate Relations, the Executive Board has established the ETH Zurich Career Seed Grant as of 1 March 2016.\n\nThe new ETH funding instrument will give postdoctoral researchers at ETH Zurich the opportunity to independently conduct their own research project alongside their tasks in the research group of their professorship.\n\nThose interested in applying for a Career Seed Grant should note the following:\n\nSubmissions deadlines for a Career Seed Grant: 1 March 2016 and 1 September 2016.\n\nFurther information: www.seedprojects.ethz.ch (with guidelines and contact information)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Corporate Relations",
+        "label": "ORG",
+        "start": 50,
+        "end": 69
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 71,
+        "end": 90
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 107,
+        "end": 121
+      },
+      {
+        "text": "1 March 2016",
+        "label": "DATE",
+        "start": 146,
+        "end": 158
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 168,
+        "end": 171
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 229,
+        "end": 239
+      },
+      {
+        "text": "1 March 2016",
+        "label": "DATE",
+        "start": 503,
+        "end": 515
+      },
+      {
+        "text": "September 2016",
+        "label": "DATE",
+        "start": 522,
+        "end": 536
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Corporate Relations",
+        "ETH",
+        "ETH Zurich",
+        "the ETH Zurich",
+        "the Executive Board"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1 March 2016",
+        "September 2016"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "1 March 2016": 2,
+      "Corporate Relations": 1,
+      "the Executive Board": 1,
+      "the ETH Zurich": 1,
+      "ETH": 1,
+      "ETH Zurich": 1,
+      "September 2016": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "career-seed-grant-a-step-towards-academic-independence.md",
+      "title": "En Internal/2016/01/career Seed Grant A Step Towards Academic Independence",
+      "language": "en",
+      "source_path": "en_internal/2016/01/career-seed-grant-a-step-towards-academic-independence.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "president",
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "Seed Grant",
+        "Vice President",
+        "Career Seed",
+        "Towards Academic",
+        "Corporate Relations",
+        "Executive Board",
+        "En Internal",
+        "ETH Zurich",
+        "A Step",
+        "Independence At"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Corporate Relations",
+        "ETH",
+        "ETH Zurich",
+        "the ETH Zurich",
+        "the Executive Board"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "1 March 2016",
+        "Corporate Relations",
+        "the Executive Board",
+        "the ETH Zurich",
+        "ETH",
+        "ETH Zurich",
+        "September 2016"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 705
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the ETH Zurich",
+        "grant",
+        "Corporate Relations",
+        "2016",
+        "funding",
+        "the Executive Board",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

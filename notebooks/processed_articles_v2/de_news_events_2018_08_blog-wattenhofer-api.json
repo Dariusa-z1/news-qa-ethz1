@@ -1,0 +1,466 @@
+{
+  "filename": "de_news_events_2018_08_blog-wattenhofer-api.md",
+  "original_filename": "de_news_events_2018_08_blog-wattenhofer-api.html",
+  "source_path": "de_news_events/2018/08/blog-wattenhofer-api.html",
+  "date": "2018-08",
+  "title": "Blog Wattenhofer Api",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Mehr als die Summe der Einzelteile",
+      "text": "Wenn mein Smartphone morgens eine bestimmte Melodie spielt, dann weiss ich, dass es Zeit ist für meinen Fussweg zur Bushaltestelle. Falls ich unterwegs trödle, vibriert das Smartphone, und ich beschleunige meinen Schritt etwas. Ich bin wie immer exakt gleichzeitig mit dem Bus an der Haltestelle und steige einfach ein. Das funktioniert auch problemlos, wenn der Bus Verspätung hat.\n\nKlingt so die Zukunftsmusik einer Smart City? Warum Zukunft?! So eine App ist relativ simpel und kann an einem Wochenende geschrieben werden. Die Daten sind auch alle vorhanden; die Busse sind mit GPS ausgerüstet und übermitteln in Echtzeit ihre aktuelle Position an die Zentrale. Nur – wie kommt die App an diese Daten ran?"
+    },
+    {
+      "heading": "Mehr als die Summe der Einzelteile",
+      "text": "Die drei magischen Buchstaben heissen API, was für Application Programming Interface (Programmierschnittstelle) steht. APIs erlauben es, Daten und Funktionen einfach für weitere Benutzer zur Verfügung zu stellen. Diese Benutzer können verschiedene Datenquellen kombinieren und damit Services oder weitere Daten generieren, die mehr sind als die Summe ihrer Einzelteile.\n\nDas Konzept einer Internet-basierten API wurde in der Dot-Com Ära vor 20 Jahren populär. APIs standen auch im Zentrum als Jeff Bezos im Jahre 2002 sein Online-Warenhaus Amazon in eine Technologiefirma umgebaut hat. Nicht nur hat Bezos von seinen Entwicklern verlangt, dass in Zukunft jegliche Amazon-Software mittels API kommunizieren muss (sonst würde man «gefeuert»), sondern er hat auch gefordert, dass diese APIs sowohl intern wie auch extern («ohne Ausnahmen») zugänglich sein müssen. Damit hat Bezos unter anderem den Grundstein dafür gelegt, dass Amazon heute als Cloud-Dienstleister dreimal grösser ist als die Konkurrenz."
+    },
+    {
+      "heading": "Nicht die APIs sind das Problem",
+      "text": "Viele Menschen stehen APIs äusserst kritisch gegenüber. Gerade kürzlich standen APIs im Zentrum der Vorfälle um Facebook und Cambridge Analytica. Über eine API hat Facebook etwa 60 Partnern Zugang zu Benutzerdaten gegeben. Diese Partner konnten persönliche Daten von Facebook-Benutzern lesen, die ihr Einverständnis dafür gegeben hatten. Daneben konnten die Partner auch die Daten der Freunde der Benutzer lesen, und die der Freunde der Freunde. Meiner Meinung nach geht es im Kern des Facebook-Vorfalls nicht darum, dass Facebook über eine API Daten anbietet, sondern nur darum, wem Facebook welche Daten anbietet. Man muss mit APIs generell immer vorsichtig sein."
+    },
+    {
+      "heading": "Datenzugang nicht nur für Grossunternehmen",
+      "text": "Schweizer Behörden, Kantone und Städte sind derzeit im Digitalisierungsfieber. Man überlegt sich, mit welchen Innovationen man die Bürger beglücken könnte, man startet Tasks Forces und Strategien (beispielsweise die externe Seite Smart City-Strategie der Stadt Zürich).\n\nDie Zukunft zu gestalten, ist jedoch nicht die Kernkompetenz einer Verwaltung. Die Behörden sollten lieber darauf fokussieren, wie der Zugriff auf ihren Datenschatz sinnvoll und sicher geregelt werden kann. Welche Daten kann man (in Echtzeit!) interessierten Dritten zur Verfügung stellen? Wie sind Datenschutz, Zugriffsfrequenz und Schreibrechte geregelt? Welche Daten sind öffentlich, auf welche Daten kann man mit einer speziellen Berechtigung zugreifen, und welche bleiben tabu?\n\nWir sollten die Daten nicht – wie leider oft üblich – nur potenten Grossunternehmen überlassen, sondern via API eben auch kleinen Unternehmen und Einzelpersonen, denn echte Innovationen passieren oft auch im Kleinen. Ich bin sicher, die Studierenden der ETH hätten Spass daran, Apps zu entwickeln, welche die Daten sinnvoll nutzen. Die Behörden sollten es ermöglichen, dass verschiedene innovative Konzepte entstehen können. Dann kriegen wir auch die Smart City – und ich meinen Bus.\n\nRoger Wattenhofer Professor für Verteilte Systeme an der ETH Zürich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Wattenhofer Api",
+        "label": "LOC",
+        "start": 28,
+        "end": 43
+      },
+      {
+        "text": "weiss ich",
+        "label": "MISC",
+        "start": 65,
+        "end": 74
+      },
+      {
+        "text": "Fussweg",
+        "label": "LOC",
+        "start": 104,
+        "end": 111
+      },
+      {
+        "text": "Klingt",
+        "label": "PER",
+        "start": 383,
+        "end": 389
+      },
+      {
+        "text": "Application Programming Interface",
+        "label": "MISC",
+        "start": 51,
+        "end": 84
+      },
+      {
+        "text": "Internet-basierten API",
+        "label": "MISC",
+        "start": 388,
+        "end": 410
+      },
+      {
+        "text": "Dot-Com Ära",
+        "label": "MISC",
+        "start": 424,
+        "end": 435
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 480,
+        "end": 487
+      },
+      {
+        "text": "Jeff Bezos",
+        "label": "PER",
+        "start": 492,
+        "end": 502
+      },
+      {
+        "text": "Bezos",
+        "label": "PER",
+        "start": 599,
+        "end": 604
+      },
+      {
+        "text": "Bezos",
+        "label": "PER",
+        "start": 870,
+        "end": 875
+      },
+      {
+        "text": "Amazon",
+        "label": "ORG",
+        "start": 924,
+        "end": 930
+      },
+      {
+        "text": "Zentrum der Vorfälle",
+        "label": "ORG",
+        "start": 88,
+        "end": 108
+      },
+      {
+        "text": "Facebook",
+        "label": "MISC",
+        "start": 112,
+        "end": 120
+      },
+      {
+        "text": "Cambridge Analytica",
+        "label": "ORG",
+        "start": 125,
+        "end": 144
+      },
+      {
+        "text": "Facebook",
+        "label": "MISC",
+        "start": 164,
+        "end": 172
+      },
+      {
+        "text": "Facebook-Benutzern",
+        "label": "MISC",
+        "start": 267,
+        "end": 285
+      },
+      {
+        "text": "Meiner",
+        "label": "PER",
+        "start": 446,
+        "end": 452
+      },
+      {
+        "text": "Facebook-Vorfalls",
+        "label": "ORG",
+        "start": 486,
+        "end": 503
+      },
+      {
+        "text": "Facebook",
+        "label": "MISC",
+        "start": 522,
+        "end": 530
+      },
+      {
+        "text": "Facebook",
+        "label": "MISC",
+        "start": 584,
+        "end": 592
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Digitalisierungsfieber",
+        "label": "LOC",
+        "start": 55,
+        "end": 77
+      },
+      {
+        "text": "Bürger",
+        "label": "MISC",
+        "start": 131,
+        "end": 137
+      },
+      {
+        "text": "Tasks Forces",
+        "label": "ORG",
+        "start": 168,
+        "end": 180
+      },
+      {
+        "text": "Strategien",
+        "label": "LOC",
+        "start": 185,
+        "end": 195
+      },
+      {
+        "text": "Stadt Zürich",
+        "label": "LOC",
+        "start": 255,
+        "end": 267
+      },
+      {
+        "text": "Kleinen",
+        "label": "LOC",
+        "start": 961,
+        "end": 968
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1007,
+        "end": 1010
+      },
+      {
+        "text": "Smart City",
+        "label": "LOC",
+        "start": 1204,
+        "end": 1214
+      },
+      {
+        "text": "Roger Wattenhofer",
+        "label": "PER",
+        "start": 1237,
+        "end": 1254
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1294,
+        "end": 1304
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bezos",
+        "De News",
+        "Jeff Bezos",
+        "Klingt",
+        "Meiner",
+        "Roger Wattenhofer"
+      ],
+      "ORG": [
+        "Amazon",
+        "Cambridge Analytica",
+        "ETH",
+        "ETH Zürich",
+        "Facebook-Vorfalls",
+        "Tasks Forces",
+        "Zentrum",
+        "Zentrum der Vorfälle"
+      ],
+      "LOCATION": [
+        "Digitalisierungsfieber",
+        "Fussweg",
+        "Kleinen",
+        "Smart City",
+        "Stadt Zürich",
+        "Strategien",
+        "Wattenhofer Api"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Application Programming Interface",
+        "Bürger",
+        "Dot-Com Ära",
+        "Facebook",
+        "Facebook-Benutzern",
+        "Internet-basierten API",
+        "Schweizer",
+        "weiss ich"
+      ]
+    },
+    "entity_counts": {
+      "Facebook": 4,
+      "Bezos": 2,
+      "De News": 1,
+      "Wattenhofer Api": 1,
+      "weiss ich": 1,
+      "Fussweg": 1,
+      "Klingt": 1,
+      "Application Programming Interface": 1,
+      "Internet-basierten API": 1,
+      "Dot-Com Ära": 1,
+      "Zentrum": 1,
+      "Jeff Bezos": 1,
+      "Amazon": 1,
+      "Zentrum der Vorfälle": 1,
+      "Cambridge Analytica": 1,
+      "Facebook-Benutzern": 1,
+      "Meiner": 1,
+      "Facebook-Vorfalls": 1,
+      "Schweizer": 1,
+      "Digitalisierungsfieber": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2018_08_blog-wattenhofer-api.md",
+      "title": "De News Events/2018/08/blog Wattenhofer Api",
+      "language": "de",
+      "source_path": "de_news_events/2018/08/blog-wattenhofer-api.html"
+    },
+    "temporal": {
+      "publication_date": "2018-08",
+      "mentioned_years": [
+        "2002",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bezos",
+        "De News",
+        "Jeff Bezos",
+        "Klingt",
+        "Meiner",
+        "Roger Wattenhofer"
+      ],
+      "people_with_roles": {
+        "Roger Wattenhofer": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Application Programming Interface",
+        "Bürger",
+        "Dot-Com Ära",
+        "Facebook",
+        "Facebook-Benutzern",
+        "Internet-basierten API",
+        "Schweizer",
+        "weiss ich"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Facebook-Vorfalls",
+        "Warum Zukunft",
+        "Seite Smart",
+        "Wattenhofer Api",
+        "Welche Daten",
+        "Diese Partner",
+        "Amazon-Software",
+        "Partnern Zugang",
+        "Cambridge Analytica",
+        "Diese Benutzer",
+        "Online-Warenhaus",
+        "Jeff Bezos",
+        "API Daten",
+        "Smart City",
+        "Die Zukunft",
+        "Facebook-Benutzern",
+        "Dot-Com",
+        "Roger Wattenhofer",
+        "Tasks Forces",
+        "Verteilte Systeme",
+        "Das Konzept",
+        "Cloud-Dienstleister",
+        "Viele Menschen",
+        "Die Daten",
+        "City-Strategie",
+        "De News",
+        "Meiner Meinung",
+        "Application Programming"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Amazon",
+        "Cambridge Analytica",
+        "ETH",
+        "ETH Zürich",
+        "Facebook-Vorfalls",
+        "Tasks Forces",
+        "Zentrum",
+        "Zentrum der Vorfälle"
+      ],
+      "locations": [
+        "Digitalisierungsfieber",
+        "Fussweg",
+        "Kleinen",
+        "Smart City",
+        "Stadt Zürich",
+        "Strategien",
+        "Wattenhofer Api"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Facebook",
+        "Bezos",
+        "De News",
+        "Wattenhofer Api",
+        "weiss ich",
+        "Fussweg",
+        "Klingt",
+        "Application Programming Interface",
+        "Internet-basierten API",
+        "Dot-Com Ära"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Mehr als die Summe der Einzelteile",
+          "Mehr als die Summe der Einzelteile",
+          "Nicht die APIs sind das Problem",
+          "Datenzugang nicht nur für Grossunternehmen"
+        ],
+        "content_length": 3728
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2002",
+        "Amazon",
+        "Cambridge Analytica",
+        "ETH",
+        "Facebook-Vorfalls",
+        "2018",
+        "Klingt",
+        "EU",
+        "Bezos",
+        "ETH Zürich",
+        "Zentrum",
+        "De News",
+        "Jeff Bezos",
+        "Roger Wattenhofer",
+        "Meiner",
+        "Tasks Forces",
+        "Zentrum der Vorfälle"
+      ],
+      "semantic_concepts": [
+        "Internet-basierten API",
+        "Facebook",
+        "Schweizer",
+        "Dot-Com Ära",
+        "Bürger",
+        "who",
+        "Facebook-Benutzern",
+        "weiss ich",
+        "computer_science",
+        "when",
+        "Application Programming Interface"
+      ],
+      "graph_relations": [
+        "Roger Wattenhofer_has_role_professor",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

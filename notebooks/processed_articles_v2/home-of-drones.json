@@ -1,0 +1,815 @@
+{
+  "filename": "home-of-drones.md",
+  "original_filename": "home-of-drones.html",
+  "source_path": "en_news_events/2018/06/home-of-drones.html",
+  "date": "2018-06",
+  "title": "Home Of Drones",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Switzerland’s drone ecosystem",
+      "text": "This week, the World Economic Forum moves drones to the top of its agenda convening its Drone Innovators Network at ETH Zurich. Discussions are set to span the spectrum of drone implementation in society from aviation policy to urban delivery and from the benefits of drones to their potential risk.\n\nReflecting on a long research tradition, ETH President Lino Guzzella, who opened the conference with a welcome address, traces back ETH unmanned aerial vehicle research to the mid-1980s and an autonomous helicopter project in the Department of Mechanical Engineering. Since then, ETH researchers have engaged in pioneering work accelerating drone research that influences fields as widely dispersed as aviation and agriculture."
+    },
+    {
+      "heading": "Switzerland’s drone ecosystem",
+      "text": "“Switzerland plays a leading role in drone technology today,” said Doris Leuthard who addresses leaders in the opening keynote of the Drone Innovators Network. Leuthard, a Swiss Federal Councillor and head of the Federal Department of Environment, Transport, Energy and Communications, attributes the country’s drone leadership to, “Innovative companies and universities driving the success, along with pragmatic government regulation that takes the needs of research and development into account. This unique mix has created an environment that is equally attractive for start-ups, companies and research.” “The Swiss possess a drive for innovation that allows them to compete in a global market,” says Raffaello D’Andrea, ETH Professor of Dynamic Systems and Control. Pioneers not only in drone technology, the Swiss are forerunners in advancing drone regulation. Cooperation with stakeholders in the Swiss Federal Office of Civil Aviation (BAZL), with companies like, SkyGuide, and other stakeholders in industry and academia Swiss innovators are able to engage directly with policymakers.\n\nThe drone ecosystem in Switzerland also enjoys favourable conditions in terms of protection and licensing of intellectual property. This combined with the existence of a highly skilled and motivated labour force, flexible labour laws, and a long tradition of Swiss-quality technologies prepares Switzerland to become a world leader for commercial drone technologies."
+    },
+    {
+      "heading": "Inside the labs",
+      "text": "ETH Zurich, at the epicentre of Swiss drone innovation and influence, devotes entire lab facilities and faculties to drone-related research. Why, one might ask, are universities devoting time and taxpayers’ monies to drones? A look inside ETH’s labs reveals the value of drone research and potential for beneficial applications in society. “Robots live and learn” in ETH Zurich’s Flying Machine Arena where D’Andrea and his team study dynamic systems and control. Using quadrocopters as a research platform, they develop algorithms and test the limits of complex aerodynamic effects. One of the lab’s most important developments is its “failsafe” technology, now licensed by ETH spin-off Verity Studios. The failsafe tech ensures the safety and reliability of today’s multicopter and quadrocopter drones.\n\nAt the base of the core technology is an algorithm that instructs a drone to stabilize itself from a spin condition, after a motor failure, and perform a safe, controlled landing. Verity Studios, a spin-off company of D’Andrea’s research in the Institute for Dynamic Systems and Control, demonstrated its effectiveness in its work with Cirque du Soleil’s Broadway musical, Paramour flying more than 7,000 autonomous flights without a single safety incident. As drones continue to populate the sky for photography, commercial uses, and industrial applications, safety becomes a primary research consideration. For well more than a decade, ETH Zurich’s Autonomous Systems Lab, led by Professor Roland Siegwart, has focused on design, control, and navigation of drones with potential applications in agriculture, industrial inspection, environmental monitoring, and search and rescue. AtlantikSolar, one of many examples from this lab was the first unmanned, autonomous, solar-powered aircraft. It set a world record-breaking non-stop flight of 82 hours and recently supported remote glacial research in Greenland.\n\nChris Anderson, former editor of WIRED magazine, once declared Switzerland “the Silicon Valley of Robotics” – a reputation due, in part, to the prevalence of drone companies founded and operating in Switzerland. Presence Switzerland estimates that 50 drone companies exist in the country and that the industry will create an estimated 150,000 jobs in Europe by 2050. Among these job creators and revenue, generators are approximately ten ETH spin-offs – Wingtra, Verity Studios, and Fotokite to name, but a few. Wingtra, a spinoff of Roland Siegwart’s research in the Autonomous Systems lab, developed a drone that takes off like a helicopter and flies like a fixed wing, develops commercial long-range drones that collect survey data ranging from mining to wildlife monitoring. In addition to its run on Broadway, Verity Studios toured with rock band, Metallica and famed Swiss Circus Knie. Verity Studios also recently announced USD18 million in venture capital financing earlier this month. Fotokite, another spin-off company from D’Andrea’s research, focuses on broadcast aerial photography and one of the first drone companies to be approved by the U.S. Federal Aviation Association - just took home USD 1 million from a New York drone competition. “The success of ETH spin-offs rely upon effective leadership in the professional use of drones and the integration of airspace between public and private use,” says Siegwart."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "This week",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "the World Economic Forum",
+        "label": "ORG",
+        "start": 11,
+        "end": 35
+      },
+      {
+        "text": "Drone Innovators Network",
+        "label": "PRODUCT",
+        "start": 88,
+        "end": 112
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 116,
+        "end": 126
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 341,
+        "end": 344
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 355,
+        "end": 368
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 432,
+        "end": 435
+      },
+      {
+        "text": "the mid-1980s",
+        "label": "DATE",
+        "start": 472,
+        "end": 485
+      },
+      {
+        "text": "the Department of Mechanical Engineering",
+        "label": "ORG",
+        "start": 526,
+        "end": 566
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 580,
+        "end": 583
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1,
+        "end": 12
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 54,
+        "end": 59
+      },
+      {
+        "text": "Doris Leuthard",
+        "label": "PERSON",
+        "start": 67,
+        "end": 81
+      },
+      {
+        "text": "the Drone Innovators Network",
+        "label": "ORG",
+        "start": 130,
+        "end": 158
+      },
+      {
+        "text": "Leuthard",
+        "label": "PERSON",
+        "start": 160,
+        "end": 168
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 172,
+        "end": 177
+      },
+      {
+        "text": "the Federal Department of Environment, Transport, Energy and Communications",
+        "label": "ORG",
+        "start": 209,
+        "end": 284
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 613,
+        "end": 618
+      },
+      {
+        "text": "Raffaello",
+        "label": "PERSON",
+        "start": 704,
+        "end": 713
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 724,
+        "end": 727
+      },
+      {
+        "text": "Dynamic Systems",
+        "label": "ORG",
+        "start": 741,
+        "end": 756
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 813,
+        "end": 818
+      },
+      {
+        "text": "the Swiss Federal Office of Civil Aviation",
+        "label": "ORG",
+        "start": 899,
+        "end": 941
+      },
+      {
+        "text": "BAZL",
+        "label": "ORG",
+        "start": 943,
+        "end": 947
+      },
+      {
+        "text": "SkyGuide",
+        "label": "ORG",
+        "start": 971,
+        "end": 979
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1029,
+        "end": 1034
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1116,
+        "end": 1127
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1352,
+        "end": 1357
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1388,
+        "end": 1399
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 32,
+        "end": 37
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 239,
+        "end": 242
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 584,
+        "end": 587
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 675,
+        "end": 678
+      },
+      {
+        "text": "Verity Studios",
+        "label": "ORG",
+        "start": 688,
+        "end": 702
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 760,
+        "end": 765
+      },
+      {
+        "text": "Verity Studios",
+        "label": "ORG",
+        "start": 985,
+        "end": 999
+      },
+      {
+        "text": "the Institute for Dynamic Systems and Control",
+        "label": "ORG",
+        "start": 1046,
+        "end": 1091
+      },
+      {
+        "text": "Cirque du Soleil’s Broadway",
+        "label": "ORG",
+        "start": 1141,
+        "end": 1168
+      },
+      {
+        "text": "more than 7,000",
+        "label": "CARDINAL",
+        "start": 1194,
+        "end": 1209
+      },
+      {
+        "text": "more than a decade",
+        "label": "DATE",
+        "start": 1423,
+        "end": 1441
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 1443,
+        "end": 1455
+      },
+      {
+        "text": "Roland Siegwart",
+        "label": "PERSON",
+        "start": 1497,
+        "end": 1512
+      },
+      {
+        "text": "AtlantikSolar",
+        "label": "ORG",
+        "start": 1687,
+        "end": 1700
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1702,
+        "end": 1705
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1745,
+        "end": 1750
+      },
+      {
+        "text": "82 hours",
+        "label": "TIME",
+        "start": 1847,
+        "end": 1855
+      },
+      {
+        "text": "Greenland",
+        "label": "GPE",
+        "start": 1906,
+        "end": 1915
+      },
+      {
+        "text": "Chris Anderson",
+        "label": "PERSON",
+        "start": 1917,
+        "end": 1931
+      },
+      {
+        "text": "WIRED",
+        "label": "ORG",
+        "start": 1950,
+        "end": 1955
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1980,
+        "end": 1991
+      },
+      {
+        "text": "the Silicon Valley",
+        "label": "LOC",
+        "start": 1993,
+        "end": 2011
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2116,
+        "end": 2127
+      },
+      {
+        "text": "Presence Switzerland",
+        "label": "PERSON",
+        "start": 2129,
+        "end": 2149
+      },
+      {
+        "text": "an estimated 150,000",
+        "label": "CARDINAL",
+        "start": 2239,
+        "end": 2259
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 2268,
+        "end": 2274
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2355,
+        "end": 2358
+      },
+      {
+        "text": "Wingtra, Verity Studios",
+        "label": "ORG",
+        "start": 2371,
+        "end": 2394
+      },
+      {
+        "text": "Fotokite",
+        "label": "NORP",
+        "start": 2400,
+        "end": 2408
+      },
+      {
+        "text": "Wingtra",
+        "label": "ORG",
+        "start": 2429,
+        "end": 2436
+      },
+      {
+        "text": "Roland Siegwart’s",
+        "label": "ORG",
+        "start": 2451,
+        "end": 2468
+      },
+      {
+        "text": "Broadway, Verity Studios",
+        "label": "ORG",
+        "start": 2722,
+        "end": 2746
+      },
+      {
+        "text": "Metallica",
+        "label": "PERSON",
+        "start": 2770,
+        "end": 2779
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2790,
+        "end": 2795
+      },
+      {
+        "text": "Circus Knie",
+        "label": "PERSON",
+        "start": 2796,
+        "end": 2807
+      },
+      {
+        "text": "Verity Studios",
+        "label": "ORG",
+        "start": 2809,
+        "end": 2823
+      },
+      {
+        "text": "million",
+        "label": "CARDINAL",
+        "start": 2854,
+        "end": 2861
+      },
+      {
+        "text": "earlier this month",
+        "label": "DATE",
+        "start": 2891,
+        "end": 2909
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 3016,
+        "end": 3019
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3027,
+        "end": 3032
+      },
+      {
+        "text": "the U.S. Federal Aviation Association",
+        "label": "ORG",
+        "start": 3067,
+        "end": 3104
+      },
+      {
+        "text": "USD 1 million",
+        "label": "LAW",
+        "start": 3122,
+        "end": 3135
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 3143,
+        "end": 3151
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 3187,
+        "end": 3190
+      },
+      {
+        "text": "Siegwart",
+        "label": "PERSON",
+        "start": 3336,
+        "end": 3344
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chris Anderson",
+        "Circus Knie",
+        "Doris Leuthard",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Leuthard",
+        "Lino Guzzella",
+        "Metallica",
+        "Presence Switzerland",
+        "Raffaello",
+        "Roland Siegwart",
+        "Siegwart"
+      ],
+      "ORG": [
+        "AtlantikSolar",
+        "BAZL",
+        "Broadway, Verity Studios",
+        "Cirque du Soleil’s Broadway",
+        "Dynamic Systems",
+        "ETH",
+        "Roland Siegwart’s",
+        "SkyGuide",
+        "Verity Studios",
+        "WIRED",
+        "Wingtra",
+        "Wingtra, Verity Studios",
+        "the Department of Mechanical Engineering",
+        "the Drone Innovators Network",
+        "the Federal Department of Environment, Transport, Energy and Communications",
+        "the Institute for Dynamic Systems and Control",
+        "the Swiss Federal Office of Civil Aviation",
+        "the U.S. Federal Aviation Association",
+        "the World Economic Forum"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Europe",
+        "Greenland",
+        "New York",
+        "Switzerland",
+        "the Silicon Valley"
+      ],
+      "DATE": [
+        "82 hours",
+        "This week",
+        "earlier this month",
+        "more than a decade",
+        "the mid-1980s",
+        "today"
+      ],
+      "MISC": [
+        "Drone Innovators Network",
+        "Fotokite",
+        "One",
+        "Swiss",
+        "USD 1 million",
+        "an estimated 150,000",
+        "first",
+        "million",
+        "more than 7,000",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 8,
+      "Swiss": 7,
+      "Switzerland": 5,
+      "Verity Studios": 3,
+      "ETH Zurich": 2,
+      "today": 2,
+      "one": 2,
+      "first": 2,
+      "This week": 1,
+      "the World Economic Forum": 1,
+      "Drone Innovators Network": 1,
+      "Lino Guzzella": 1,
+      "the mid-1980s": 1,
+      "the Department of Mechanical Engineering": 1,
+      "Doris Leuthard": 1,
+      "the Drone Innovators Network": 1,
+      "Leuthard": 1,
+      "the Federal Department of Environment, Transport, Energy and Communications": 1,
+      "Raffaello": 1,
+      "Dynamic Systems": 1
+    },
+    "total_entities": 75,
+    "unique_entities": 52
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "home-of-drones.md",
+      "title": "En News Events/2018/06/home Of Drones",
+      "language": "en",
+      "source_path": "en_news_events/2018/06/home-of-drones.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chris Anderson",
+        "Circus Knie",
+        "Doris Leuthard",
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Leuthard",
+        "Lino Guzzella",
+        "Metallica",
+        "Presence Switzerland",
+        "Raffaello",
+        "Roland Siegwart",
+        "Siegwart"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ],
+        "ETH Zurich’s": [
+          "professor"
+        ],
+        "Leuthard": [
+          "head"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ],
+        "Raffaello": [
+          "professor"
+        ],
+        "Roland Siegwart": [
+          "Professor",
+          "professor"
+        ],
+        "Siegwart": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Drone Innovators Network",
+        "Fotokite",
+        "Swiss",
+        "USD 1 million",
+        "an estimated 150,000",
+        "first",
+        "million",
+        "more than 7,000"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Of Drones",
+        "Dynamic Systems",
+        "The Swiss",
+        "Drone Innovators",
+        "Swiss Circus",
+        "Federal Department",
+        "ETH Professor",
+        "Roland Siegwart",
+        "Lino Guzzella",
+        "Presence Switzerland",
+        "Silicon Valley",
+        "Professor Roland",
+        "Civil Aviation",
+        "World Economic",
+        "Federal Aviation",
+        "Doris Leuthard",
+        "Mechanical Engineering",
+        "Raffaello D",
+        "Chris Anderson",
+        "Swiss Federal",
+        "Autonomous Systems",
+        "ETH President",
+        "En News",
+        "Flying Machine",
+        "New York",
+        "Verity Studios",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mechanical Engineering",
+        "Environment",
+        "Dynamic Systems and Control"
+      ],
+      "institutions": [
+        "AtlantikSolar",
+        "BAZL",
+        "Broadway, Verity Studios",
+        "Cirque du Soleil’s Broadway",
+        "Dynamic Systems",
+        "ETH",
+        "Roland Siegwart’s",
+        "SkyGuide",
+        "Verity Studios",
+        "WIRED",
+        "Wingtra",
+        "Wingtra, Verity Studios",
+        "the Department of Mechanical Engineering",
+        "the Drone Innovators Network",
+        "the Federal Department of Environment, Transport, Energy and Communications",
+        "the Institute for Dynamic Systems and Control",
+        "the Swiss Federal Office of Civil Aviation",
+        "the U.S. Federal Aviation Association",
+        "the World Economic Forum"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Europe",
+        "Greenland",
+        "New York",
+        "Switzerland",
+        "the Silicon Valley"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Swiss",
+        "Switzerland",
+        "Verity Studios",
+        "ETH Zurich",
+        "today",
+        "one",
+        "first",
+        "This week",
+        "the World Economic Forum"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Switzerland’s drone ecosystem",
+          "Switzerland’s drone ecosystem",
+          "Inside the labs"
+        ],
+        "content_length": 5575
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Raffaello",
+        "Siegwart",
+        "Dynamic Systems",
+        "the Swiss Federal Office of Civil Aviation",
+        "BAZL",
+        "SkyGuide",
+        "Leuthard",
+        "Cirque du Soleil’s Broadway",
+        "ETH Zurich’s",
+        "ERC",
+        "2018",
+        "Wingtra, Verity Studios",
+        "the U.S. Federal Aviation Association",
+        "Roland Siegwart",
+        "Lino Guzzella",
+        "Presence Switzerland",
+        "Broadway, Verity Studios",
+        "EU",
+        "the World Economic Forum",
+        "Doris Leuthard",
+        "Roland Siegwart’s",
+        "the Drone Innovators Network",
+        "the Federal Department of Environment, Transport, Energy and Communications",
+        "Chris Anderson",
+        "Metallica",
+        "AtlantikSolar",
+        "WIRED",
+        "Wingtra",
+        "Verity Studios",
+        "the Department of Mechanical Engineering",
+        "ETH Zurich",
+        "the Institute for Dynamic Systems and Control",
+        "Circus Knie"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "million",
+        "more than 7,000",
+        "who",
+        "Swiss",
+        "where",
+        "Drone Innovators Network",
+        "USD 1 million",
+        "what",
+        "an estimated 150,000",
+        "Fotokite",
+        "computer_science",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich’s_has_role_professor",
+        "Leuthard_has_role_head",
+        "Lino Guzzella_has_role_president",
+        "Raffaello_has_role_professor",
+        "Roland Siegwart_has_role_Professor",
+        "Roland Siegwart_has_role_professor",
+        "Siegwart_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

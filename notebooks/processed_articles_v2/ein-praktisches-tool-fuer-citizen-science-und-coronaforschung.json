@@ -1,0 +1,475 @@
+{
+  "filename": "ein-praktisches-tool-fuer-citizen-science-und-coronaforschung.md",
+  "original_filename": "ein-praktisches-tool-fuer-citizen-science-und-coronaforschung.html",
+  "source_path": "de_internal/2020/05/ein-praktisches-tool-fuer-citizen-science-und-coronaforschung.html",
+  "date": "2020-05",
+  "title": "Ein Praktisches Tool Fuer Citizen Science Und Coronaforschung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Mit der Intelligenz von Mensch und Maschine",
+      "text": "Viele wissenschaftliche Studien untersuchen derzeit, wie man das Coronavirus und die Krankheit COVID-19 eindämmen kann. Sie alle zu lesen und dann den politischen Entscheidungsträgern schnell eine Gesamtzusammenfassung mit allen nützlichen Informationen bereitzustellen, ist unmöglich.\n\nVergleichbares gilt für die unzähligen Beiträge, die auf den sozialen Medien Tipps und Tricks, Tatsachen und Meinungen verbreiten, wie man sich vor COVID-19 wirksam schützen kann. Auch sie kann niemand auf einen einzigen Blick oder Knopfdruck bündeln und gesamthaft auswerten.\n\nTechniken der künstlichen Intelligenz können jedoch helfen, die relevanten Informationen aus grossen Text- und Bildmengen herauszufiltern und zu untersuchen. Ebenso lässt sich die kollektive Intelligenz von Menschen nutzen, um Text-, Ton- und Bildinformationen einzuschätzen."
+    },
+    {
+      "heading": "Mit der Intelligenz von Mensch und Maschine",
+      "text": "Einen Ansatz, der Künstliche Intelligenz mit der «Schwarmintelligenz» von Internetnutzerinnen und -nutzern (sog. Crowdsourcing) kombiniert, verfolgen derzeit vier Forschungsprojekte, die auf der Website des externe Seite Citizen Science Center Zürich , einem Kompetenzzentrum von ETH und Universität Zürich, öffentlich zugänglich sind. Alle vier sind Citizen Science-Projekte, die so aufbereitet sind, dass Freiwillige («Bürger» oder «Bürgerinnen») mitmachen können."
+    },
+    {
+      "heading": "Project Builder für eigene Projekte nutzen",
+      "text": "KI sucht nach relevanten Tweets, Menschen ordnen sie ein.\n\nEines der Projekte kombiniert zum Beispiel Crowdsourcing und maschinelles Lernen, um Fotos auszuwerten, die auf Twitter veröffentlicht sind, und die Informationen über das Abstandhalten («Social Distancing») und die Verwendung von Schutz- oder Hygienemaske im öffentlichen Raum enthalten.\n\nDabei treffen maschinelle Lernalgorithmen eine erste Auswahl an relevanten Tweets mit Fotos. Die Mitwirkenden bestätigen dann die Relevanz eines Fotos, indem sie Fragen beantworten und über ein Auswahl-Menü die Details hinzufügen, die die KI nicht erfassen kann. Auf diese Weise lassen sich die Algorithmen verbessern und präzisere Informationen gewinnen, die ihrerseits Rückschlüsse auf die Wirksamkeit von Abstandhalten und Maskentragen ermöglichen."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "Der Inhalt von wissenschaftlichen Artikeln wird Schlagworten zugeteilt.\n\nIn einem anderen Projekt werden wissenschaftliche Artikel ausgewertet, um relevante Informationen über politische Massnahmen gegen COVID-19 zu finden, auszuwerten und an die Politik weiterzugeben. Auch hier geht es darum, dass zum einen KI die Suche nach relevanten Artikeln unterstützt, zum andern Freiwillige die Genauigkeit der Ergebnisse erhöhen können, indem sie Fragen zur inhaltlichen Relevanz beantworten und den Inhalt per Mausklick Schlagworten zuteilen."
+    },
+    {
+      "heading": "Der neue «Citizen Science Project Builder»",
+      "text": "Möglich macht diese Projekte der « externe Seite Citizen Science Project Builder »: mit diesem webbasierten Tool können Forschende, Studierende und Interessierte ein Citizen Science-Projekt durchführen.\n\nDie Erstversion unterstützt Projekte, in denen die Mitwirkenden grosse Bild- oder Textmengen wie Satellitenfotos oder Social-Media-Beiträge (z.B. Tweets), PDF-Dateien (z.B. wissenschaftliche Artikel), Videoclips oder Audioaufzeichnungen (z.B. Geräusche) beschreiben und einordnen. Die Benutzeroberfläche erfordert keine speziellen Technik- und Programmierfähigkeiten.\n\nDas Team des Citizen Science Center, das den Project Builder entwickelt hat, freut sich, wenn ETH-Angehörige das Tool nutzen, um ein externe Seite eigenes Projekt zu erstellen .\n\nAuch Feedback ist willkommen, um das Tool weiterzuentwickeln. Das Team bietet auch Einführungs-Workshops zum Builder an und ist jederzeit per Email erreichbar: .\n\nWeitere Informationen finden sich auf der Webseite des Citizen Science Project Builder. Diese enthält aktuell 10 externe Seite Projekte ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Vergleichbares",
+        "label": "PER",
+        "start": 286,
+        "end": 300
+      },
+      {
+        "text": "sozialen",
+        "label": "MISC",
+        "start": 347,
+        "end": 355
+      },
+      {
+        "text": "Tipps",
+        "label": "LOC",
+        "start": 363,
+        "end": 368
+      },
+      {
+        "text": "Tricks",
+        "label": "LOC",
+        "start": 373,
+        "end": 379
+      },
+      {
+        "text": "COVID-19",
+        "label": "LOC",
+        "start": 434,
+        "end": 442
+      },
+      {
+        "text": "Bildmengen",
+        "label": "LOC",
+        "start": 674,
+        "end": 684
+      },
+      {
+        "text": "Citizen Science Center Zürich",
+        "label": "LOC",
+        "start": 221,
+        "end": 250
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 280,
+        "end": 283
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 288,
+        "end": 306
+      },
+      {
+        "text": "Citizen Science-Projekte",
+        "label": "MISC",
+        "start": 351,
+        "end": 375
+      },
+      {
+        "text": "Bürger",
+        "label": "MISC",
+        "start": 421,
+        "end": 427
+      },
+      {
+        "text": "mitmachen",
+        "label": "MISC",
+        "start": 449,
+        "end": 458
+      },
+      {
+        "text": "KI sucht",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Tweets",
+        "label": "PER",
+        "start": 25,
+        "end": 31
+      },
+      {
+        "text": "Twitter",
+        "label": "MISC",
+        "start": 170,
+        "end": 177
+      },
+      {
+        "text": "Tweets",
+        "label": "PER",
+        "start": 422,
+        "end": 428
+      },
+      {
+        "text": "Mitwirkenden",
+        "label": "ORG",
+        "start": 444,
+        "end": 456
+      },
+      {
+        "text": "Auswahl-Menü",
+        "label": "ORG",
+        "start": 541,
+        "end": 553
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 586,
+        "end": 588
+      },
+      {
+        "text": "Abstandhalten",
+        "label": "LOC",
+        "start": 755,
+        "end": 768
+      },
+      {
+        "text": "Maskentragen",
+        "label": "LOC",
+        "start": 773,
+        "end": 785
+      },
+      {
+        "text": "Schlagworten",
+        "label": "LOC",
+        "start": 48,
+        "end": 60
+      },
+      {
+        "text": "COVID-19",
+        "label": "MISC",
+        "start": 203,
+        "end": 211
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 309,
+        "end": 311
+      },
+      {
+        "text": "Citizen Science Project Builder",
+        "label": "MISC",
+        "start": 49,
+        "end": 80
+      },
+      {
+        "text": "Mitwirkenden",
+        "label": "ORG",
+        "start": 254,
+        "end": 266
+      },
+      {
+        "text": "Satellitenfotos",
+        "label": "PER",
+        "start": 300,
+        "end": 315
+      },
+      {
+        "text": "Social-Media-Beiträge",
+        "label": "LOC",
+        "start": 321,
+        "end": 342
+      },
+      {
+        "text": "Tweets",
+        "label": "LOC",
+        "start": 349,
+        "end": 355
+      },
+      {
+        "text": "PDF-Dateien",
+        "label": "ORG",
+        "start": 358,
+        "end": 369
+      },
+      {
+        "text": "Project Builder",
+        "label": "MISC",
+        "start": 616,
+        "end": 631
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 665,
+        "end": 679
+      },
+      {
+        "text": "Feedback",
+        "label": "PER",
+        "start": 754,
+        "end": 762
+      },
+      {
+        "text": "Einführungs-Workshops",
+        "label": "ORG",
+        "start": 832,
+        "end": 853
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Feedback",
+        "Satellitenfotos",
+        "Tweets",
+        "Vergleichbares"
+      ],
+      "ORG": [
+        "Auswahl-Menü",
+        "ETH",
+        "Einführungs-Workshops",
+        "KI",
+        "KI sucht",
+        "Mitwirkenden",
+        "PDF-Dateien",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Abstandhalten",
+        "Bildmengen",
+        "COVID-19",
+        "Citizen Science Center Zürich",
+        "De Internal/2020/05",
+        "Maskentragen",
+        "Schlagworten",
+        "Social-Media-Beiträge",
+        "Tipps",
+        "Tricks",
+        "Tweets"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Bürger",
+        "COVID-19",
+        "Citizen Science Project Builder",
+        "Citizen Science-Projekte",
+        "ETH-Angehörige",
+        "Project Builder",
+        "Twitter",
+        "mitmachen",
+        "sozialen"
+      ]
+    },
+    "entity_counts": {
+      "Tweets": 3,
+      "COVID-19": 2,
+      "Mitwirkenden": 2,
+      "KI": 2,
+      "De Internal/2020/05": 1,
+      "Vergleichbares": 1,
+      "sozialen": 1,
+      "Tipps": 1,
+      "Tricks": 1,
+      "Bildmengen": 1,
+      "Citizen Science Center Zürich": 1,
+      "ETH": 1,
+      "Universität Zürich": 1,
+      "Citizen Science-Projekte": 1,
+      "Bürger": 1,
+      "mitmachen": 1,
+      "KI sucht": 1,
+      "Twitter": 1,
+      "Auswahl-Menü": 1,
+      "Abstandhalten": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ein-praktisches-tool-fuer-citizen-science-und-coronaforschung.md",
+      "title": "De Internal/2020/05/ein Praktisches Tool Fuer Citizen Science und Coronaforschung",
+      "language": "de",
+      "source_path": "de_internal/2020/05/ein-praktisches-tool-fuer-citizen-science-und-coronaforschung.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Feedback",
+        "Satellitenfotos",
+        "Tweets",
+        "Vergleichbares"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Bürger",
+        "COVID-19",
+        "Citizen Science Project Builder",
+        "Citizen Science-Projekte",
+        "ETH-Angehörige",
+        "Project Builder",
+        "Twitter",
+        "mitmachen",
+        "sozialen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Praktisches Tool",
+        "Seite Projekte",
+        "Social-Media",
+        "Beispiel Crowdsourcing",
+        "Citizen Science",
+        "Krankheit COVID",
+        "Project Builder",
+        "Social Distancing",
+        "Auch Feedback",
+        "Seite Citizen",
+        "Medien Tipps",
+        "Science Center",
+        "Fuer Citizen",
+        "Die Mitwirkenden",
+        "Mausklick Schlagworten",
+        "PDF-Dateien",
+        "Weitere Informationen",
+        "Der Inhalt",
+        "Das Team",
+        "De Internal",
+        "Coronaforschung Viele",
+        "Science Project",
+        "Die Erstversion",
+        "Einen Ansatz"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Auswahl-Menü",
+        "ETH",
+        "Einführungs-Workshops",
+        "KI",
+        "KI sucht",
+        "Mitwirkenden",
+        "PDF-Dateien",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Abstandhalten",
+        "Bildmengen",
+        "COVID-19",
+        "Citizen Science Center Zürich",
+        "De Internal/2020/05",
+        "Maskentragen",
+        "Schlagworten",
+        "Social-Media-Beiträge",
+        "Tipps",
+        "Tricks",
+        "Tweets"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "Tweets",
+        "COVID-19",
+        "Mitwirkenden",
+        "KI",
+        "De Internal/2020/05",
+        "Vergleichbares",
+        "sozialen",
+        "Tipps",
+        "Tricks",
+        "Bildmengen"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Mit der Intelligenz von Mensch und Maschine",
+          "Mit der Intelligenz von Mensch und Maschine",
+          "Project Builder für eigene Projekte nutzen",
+          "Staffnet",
+          "Der neue «Citizen Science Project Builder»"
+        ],
+        "content_length": 3781
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Tweets",
+        "Vergleichbares",
+        "ETH",
+        "Auswahl-Menü",
+        "KI sucht",
+        "EU",
+        "2020",
+        "Mitwirkenden",
+        "PDF-Dateien",
+        "Feedback",
+        "KI",
+        "Einführungs-Workshops",
+        "Satellitenfotos",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "Twitter",
+        "Bürger",
+        "Project Builder",
+        "Citizen Science Project Builder",
+        "Citizen Science-Projekte",
+        "what",
+        "sozialen",
+        "COVID-19",
+        "when",
+        "mitmachen"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

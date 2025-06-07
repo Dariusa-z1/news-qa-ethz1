@@ -1,0 +1,671 @@
+{
+  "filename": "dialog-ueber-molekulare-fabriken.md",
+  "original_filename": "dialog-ueber-molekulare-fabriken.html",
+  "source_path": "en_internal/2015/10/dialog-ueber-molekulare-fabriken.html",
+  "date": "2015-10",
+  "title": "Dialog Ueber Molekulare Fabriken",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Molecular sciences, art, religion and politics – these topics will be discussed on 22 October 2015 at 7.20 pm at the second \"Basar Molekular\", a live-radio talk at Unternehmen Mitte in Basel with four well-known guests: Anita Fetz, Council of States member representing Basel-Stadt since 2003, Felix Gmür, the bishop of Basel, who leads the largest Swiss diocese since 2011, Stefan Gubser, TV- and theater-actor, best known for his role as \"Kommissar” Reto Flückiger in the Swiss episodes of the Sunday-night TV-favourite \"Tatort\", and Daniel J. Müller, Professor for Biophysics at ETH Zurich (D-BSSE) and Co-Director of the NCCR Molecular Systems Engineering.\n\nThe interdisciplinary research project Molecular Systems Engineering is headed by the University of Basel and ETH Zurich and aims to engineer synthetic molecular factories that can be used in medical diagnosis, therapy and treatment to improve our health and for the production of chemical substances. \"Basar Molekular. Der Wissens Talk\" is an ethics-event of the NCCR Molecular Systems Engineering.\n\nThe SeminBar with its regular seminars at the bar is also open to the public, bringing new know-how on molecular systems engineering to researchers and the interested public alike. Prof. Dr. Andreas Plückthun, Director at the Department of Biochemistry at the University of Zurich, will talk on 28 October at 6 pm about \"Influencing cells with man-made proteins”. Afterwards, starting at 9 pm, students will present the first international “Oktoberfest”. On Thursday 26 November, Dr. Philippe Marlière, founder of Synthetic- and Xeno-Biology, will talk about entrepreneurship. His talk entitled “Accept No Limits” will definitely be worthwhile for anyone interested in creating their own start-up company.\n\n\"Basar Molekular. Der Wissens Talk.\"\n\nWhen: 22 October 2015, 7.20 pm. Free entrance. In German.\n\nWhere: Unternehmen Mitte, in the big hall at the back, Gerbergasse 30, Basel.\n\nSave the dates: In 2016, \"Basar Molekular\" takes place on 2 February and 27 October.\n\nWhen: 28 October 2015 at 6 pm. Free entrance. In English.\n\nWhere: Ackermannshof, St. Johanns-Vorstadt 21, Basel.\n\nSave the date: SeminBar with Dr. Philippe Marlière on 26 November 2015: \"Accept No Limits!\" Same time and place."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Ueber Molekulare Fabriken",
+        "label": "PERSON",
+        "start": 27,
+        "end": 52
+      },
+      {
+        "text": "22 October 2015",
+        "label": "DATE",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "7.20 pm",
+        "label": "TIME",
+        "start": 102,
+        "end": 109
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 117,
+        "end": 123
+      },
+      {
+        "text": "Basar Molekular",
+        "label": "WORK_OF_ART",
+        "start": 125,
+        "end": 140
+      },
+      {
+        "text": "Unternehmen Mitte",
+        "label": "ORG",
+        "start": 164,
+        "end": 181
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 185,
+        "end": 190
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 196,
+        "end": 200
+      },
+      {
+        "text": "Anita Fetz",
+        "label": "PERSON",
+        "start": 220,
+        "end": 230
+      },
+      {
+        "text": "Council of States",
+        "label": "ORG",
+        "start": 232,
+        "end": 249
+      },
+      {
+        "text": "Basel-Stadt",
+        "label": "ORG",
+        "start": 270,
+        "end": 281
+      },
+      {
+        "text": "Felix Gmür",
+        "label": "PERSON",
+        "start": 294,
+        "end": 304
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 320,
+        "end": 325
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 349,
+        "end": 354
+      },
+      {
+        "text": "Stefan Gubser",
+        "label": "PERSON",
+        "start": 375,
+        "end": 388
+      },
+      {
+        "text": "Kommissar",
+        "label": "ORG",
+        "start": 441,
+        "end": 450
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 474,
+        "end": 479
+      },
+      {
+        "text": "Sunday-night",
+        "label": "TIME",
+        "start": 496,
+        "end": 508
+      },
+      {
+        "text": "Tatort",
+        "label": "WORK_OF_ART",
+        "start": 523,
+        "end": 529
+      },
+      {
+        "text": "Daniel J. Müller",
+        "label": "PERSON",
+        "start": 536,
+        "end": 552
+      },
+      {
+        "text": "the NCCR Molecular Systems Engineering",
+        "label": "ORG",
+        "start": 621,
+        "end": 659
+      },
+      {
+        "text": "Molecular Systems Engineering",
+        "label": "ORG",
+        "start": 700,
+        "end": 729
+      },
+      {
+        "text": "the University of Basel",
+        "label": "ORG",
+        "start": 743,
+        "end": 766
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 771,
+        "end": 781
+      },
+      {
+        "text": "Basar Molekular",
+        "label": "ORG",
+        "start": 964,
+        "end": 979
+      },
+      {
+        "text": "Der Wissens Talk",
+        "label": "PERSON",
+        "start": 981,
+        "end": 997
+      },
+      {
+        "text": "the NCCR Molecular Systems Engineering",
+        "label": "ORG",
+        "start": 1021,
+        "end": 1059
+      },
+      {
+        "text": "SeminBar",
+        "label": "ORG",
+        "start": 1065,
+        "end": 1073
+      },
+      {
+        "text": "Andreas Plückthun",
+        "label": "PERSON",
+        "start": 1252,
+        "end": 1269
+      },
+      {
+        "text": "the Department of Biochemistry",
+        "label": "ORG",
+        "start": 1283,
+        "end": 1313
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 1317,
+        "end": 1341
+      },
+      {
+        "text": "28 October",
+        "label": "DATE",
+        "start": 1356,
+        "end": 1366
+      },
+      {
+        "text": "6 pm",
+        "label": "TIME",
+        "start": 1370,
+        "end": 1374
+      },
+      {
+        "text": "9 pm",
+        "label": "TIME",
+        "start": 1449,
+        "end": 1453
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1481,
+        "end": 1486
+      },
+      {
+        "text": "Oktoberfest",
+        "label": "ORG",
+        "start": 1502,
+        "end": 1513
+      },
+      {
+        "text": "Thursday 26 November",
+        "label": "DATE",
+        "start": 1519,
+        "end": 1539
+      },
+      {
+        "text": "Philippe Marlière",
+        "label": "PERSON",
+        "start": 1545,
+        "end": 1562
+      },
+      {
+        "text": "Xeno-Biology",
+        "label": "ORG",
+        "start": 1590,
+        "end": 1602
+      },
+      {
+        "text": "Accept No Limits",
+        "label": "WORK_OF_ART",
+        "start": 1657,
+        "end": 1673
+      },
+      {
+        "text": "Basar Molekular",
+        "label": "ORG",
+        "start": 1768,
+        "end": 1783
+      },
+      {
+        "text": "Der Wissens Talk",
+        "label": "PERSON",
+        "start": 1785,
+        "end": 1801
+      },
+      {
+        "text": "22 October 2015",
+        "label": "DATE",
+        "start": 1810,
+        "end": 1825
+      },
+      {
+        "text": "7.20 pm",
+        "label": "TIME",
+        "start": 1827,
+        "end": 1834
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1854,
+        "end": 1860
+      },
+      {
+        "text": "Mitte",
+        "label": "PERSON",
+        "start": 1881,
+        "end": 1886
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 1933,
+        "end": 1938
+      },
+      {
+        "text": "Basar Molekular",
+        "label": "WORK_OF_ART",
+        "start": 1966,
+        "end": 1981
+      },
+      {
+        "text": "2 February",
+        "label": "DATE",
+        "start": 1998,
+        "end": 2008
+      },
+      {
+        "text": "28 October 2015",
+        "label": "DATE",
+        "start": 2031,
+        "end": 2046
+      },
+      {
+        "text": "6 pm",
+        "label": "TIME",
+        "start": 2050,
+        "end": 2054
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 2074,
+        "end": 2081
+      },
+      {
+        "text": "Ackermannshof",
+        "label": "GPE",
+        "start": 2090,
+        "end": 2103
+      },
+      {
+        "text": "St. Johanns-Vorstadt",
+        "label": "GPE",
+        "start": 2105,
+        "end": 2125
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 2130,
+        "end": 2135
+      },
+      {
+        "text": "SeminBar",
+        "label": "ORG",
+        "start": 2152,
+        "end": 2160
+      },
+      {
+        "text": "Philippe Marlière",
+        "label": "PERSON",
+        "start": 2170,
+        "end": 2187
+      },
+      {
+        "text": "26 November 2015",
+        "label": "DATE",
+        "start": 2191,
+        "end": 2207
+      },
+      {
+        "text": "Accept No Limits",
+        "label": "WORK_OF_ART",
+        "start": 2210,
+        "end": 2226
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Plückthun",
+        "Anita Fetz",
+        "Daniel J. Müller",
+        "Der Wissens Talk",
+        "ETH Zurich",
+        "Felix Gmür",
+        "Mitte",
+        "Philippe Marlière",
+        "Stefan Gubser",
+        "Ueber Molekulare Fabriken"
+      ],
+      "ORG": [
+        "Basar Molekular",
+        "Basel-Stadt",
+        "Council of States",
+        "Kommissar",
+        "Molecular Systems Engineering",
+        "Oktoberfest",
+        "SeminBar",
+        "Unternehmen Mitte",
+        "Xeno-Biology",
+        "the Department of Biochemistry",
+        "the NCCR Molecular Systems Engineering",
+        "the University of Basel",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Ackermannshof",
+        "Basel",
+        "St. Johanns-Vorstadt"
+      ],
+      "DATE": [
+        "2 February",
+        "22 October 2015",
+        "26 November 2015",
+        "28 October",
+        "28 October 2015",
+        "6 pm",
+        "7.20 pm",
+        "9 pm",
+        "Sunday-night",
+        "Thursday 26 November"
+      ],
+      "MISC": [
+        "Accept No Limits",
+        "Basar Molekular",
+        "English",
+        "German",
+        "Swiss",
+        "Tatort",
+        "first",
+        "four",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "Basar Molekular": 4,
+      "Basel": 4,
+      "22 October 2015": 2,
+      "7.20 pm": 2,
+      "Swiss": 2,
+      "the NCCR Molecular Systems Engineering": 2,
+      "Der Wissens Talk": 2,
+      "SeminBar": 2,
+      "6 pm": 2,
+      "Philippe Marlière": 2,
+      "Accept No Limits": 2,
+      "Ueber Molekulare Fabriken": 1,
+      "second": 1,
+      "Unternehmen Mitte": 1,
+      "four": 1,
+      "Anita Fetz": 1,
+      "Council of States": 1,
+      "Basel-Stadt": 1,
+      "Felix Gmür": 1,
+      "Stefan Gubser": 1
+    },
+    "total_entities": 59,
+    "unique_entities": 44
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "dialog-ueber-molekulare-fabriken.md",
+      "title": "En Internal/2015/10/dialog Ueber Molekulare Fabriken",
+      "language": "en",
+      "source_path": "en_internal/2015/10/dialog-ueber-molekulare-fabriken.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2003",
+        "2011",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Plückthun",
+        "Anita Fetz",
+        "Daniel J. Müller",
+        "Der Wissens Talk",
+        "ETH Zurich",
+        "Felix Gmür",
+        "Mitte",
+        "Philippe Marlière",
+        "Stefan Gubser",
+        "Ueber Molekulare Fabriken"
+      ],
+      "people_with_roles": {
+        "Andreas Plückthun": [
+          "director",
+          "rector"
+        ],
+        "ETH Zurich": [
+          "professor",
+          "director",
+          "head",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director",
+        "head",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Accept No Limits",
+        "Basar Molekular",
+        "English",
+        "German",
+        "Swiss",
+        "Tatort",
+        "first",
+        "four",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Basar Molekular",
+        "Ueber Molekulare",
+        "Stefan Gubser",
+        "Der Wissens",
+        "In German",
+        "In English",
+        "NCCR Molecular",
+        "Fabriken Molecular",
+        "Basel-Stadt",
+        "D-BSSE",
+        "The SeminBar",
+        "Daniel J",
+        "Johanns-Vorstadt",
+        "Unternehmen Mitte",
+        "Systems Engineering",
+        "Anita Fetz",
+        "Xeno-Biology",
+        "Molecular Systems",
+        "Co-Director",
+        "En Internal",
+        "Accept No",
+        "ETH Zurich",
+        "On Thursday"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biochemistry at the University of Zurich"
+      ],
+      "institutions": [
+        "Basar Molekular",
+        "Basel-Stadt",
+        "Council of States",
+        "Kommissar",
+        "Molecular Systems Engineering",
+        "Oktoberfest",
+        "SeminBar",
+        "Unternehmen Mitte",
+        "Xeno-Biology",
+        "the Department of Biochemistry",
+        "the NCCR Molecular Systems Engineering",
+        "the University of Basel",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Ackermannshof",
+        "Basel",
+        "St. Johanns-Vorstadt"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Basar Molekular",
+        "Basel",
+        "22 October 2015",
+        "7.20 pm",
+        "Swiss",
+        "the NCCR Molecular Systems Engineering",
+        "Der Wissens Talk",
+        "SeminBar",
+        "6 pm",
+        "Philippe Marlière"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2311
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Basar Molekular",
+        "Der Wissens Talk",
+        "the University of Zurich",
+        "2016",
+        "Daniel J. Müller",
+        "Stefan Gubser",
+        "Ueber Molekulare Fabriken",
+        "2003",
+        "the NCCR Molecular Systems Engineering",
+        "Andreas Plückthun",
+        "SeminBar",
+        "Basel-Stadt",
+        "Molecular Systems Engineering",
+        "Kommissar",
+        "Mitte",
+        "Oktoberfest",
+        "2015",
+        "Unternehmen Mitte",
+        "the Department of Biochemistry",
+        "2011",
+        "EU",
+        "Anita Fetz",
+        "the University of Basel",
+        "Xeno-Biology",
+        "Felix Gmür",
+        "Council of States",
+        "ETH Zurich",
+        "Philippe Marlière"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Accept No Limits",
+        "first",
+        "Basar Molekular",
+        "four",
+        "who",
+        "Swiss",
+        "English",
+        "chemistry",
+        "biology",
+        "what",
+        "second",
+        "German",
+        "how",
+        "medical_research",
+        "Tatort",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Andreas Plückthun_has_role_director",
+        "Andreas Plückthun_has_role_rector",
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_director",
+        "ETH Zurich_has_role_head",
+        "ETH Zurich_has_role_rector",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

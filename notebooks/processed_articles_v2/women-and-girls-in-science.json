@@ -1,0 +1,171 @@
+{
+  "filename": "women-and-girls-in-science.md",
+  "original_filename": "women-and-girls-in-science.html",
+  "source_path": "en_news_events/2023/02/women-and-girls-in-science.html",
+  "date": "2023-02",
+  "title": "Women And Girls In Science",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Although we still have a long way to go to achieve gender balance in research and academia, we have made a lot of progress since 1855. Today, over 8,500 female researchers and students contribute every day to making ETH one of the best universities in the world.\n\nETH Diversity has compiled more facts, portraits of female scientists at ETH Zurich as well as additional information on other events to this awareness day on an overview page ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 135,
+        "end": 140
+      },
+      {
+        "text": "over 8,500",
+        "label": "CARDINAL",
+        "start": 142,
+        "end": 152
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 216,
+        "end": 219
+      },
+      {
+        "text": "ETH Diversity",
+        "label": "ORG",
+        "start": 263,
+        "end": 276
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 336,
+        "end": 346
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Diversity",
+        "ETH Zurich",
+        "En News"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Today"
+      ],
+      "MISC": [
+        "over 8,500"
+      ]
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Today": 1,
+      "over 8,500": 1,
+      "ETH": 1,
+      "ETH Diversity": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "women-and-girls-in-science.md",
+      "title": "En News Events/2023/02/women And Girls in Science",
+      "language": "en",
+      "source_path": "en_news_events/2023/02/women-and-girls-in-science.html"
+    },
+    "temporal": {
+      "publication_date": "2023-02",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "over 8,500"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "ETH Diversity",
+        "Science Although",
+        "ETH Zurich",
+        "And Girls"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Diversity",
+        "ETH Zurich",
+        "En News"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "En News",
+        "Today",
+        "over 8,500",
+        "ETH",
+        "ETH Diversity",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 491
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "En News",
+        "ETH Diversity",
+        "ETH Zurich",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "over 8,500",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

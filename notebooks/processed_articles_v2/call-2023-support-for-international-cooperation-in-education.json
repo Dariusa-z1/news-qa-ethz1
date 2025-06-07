@@ -1,0 +1,328 @@
+{
+  "filename": "call-2023-support-for-international-cooperation-in-education.md",
+  "original_filename": "call-2023-support-for-international-cooperation-in-education.html",
+  "source_path": "en_internal/2024/02/call-2023-support-for-international-cooperation-in-education.html",
+  "date": "2024-02",
+  "title": "Call 2023 Support For International Cooperation In Education",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Under the International Programme, Movetia supports cooperation projects between Swiss educational institutions and European and non-European partner institutions to develop joint educational activities. Funding is available as fixed grants between CHF 15,000 and CHF 60,000 CHF, covering a maximum of 60% of the total project costs. The maximum project duration is 24 months\n\nApplication deadline is 28 March 2024 .\n\nFurther information is available on the Movetia website .\n\nIt is also possible to participate in educational cooperation partnerships under the Erasmus+ programme – either as an official partner (third-country status, funded through EU funds) or as an associate partner (funded by Movetia through the Swiss-European Mobility Programme SEMP ).\n\nIn contrast to cooperation projects under Erasmus+, projects under the Movetia \"International Programme\" are led by a Swiss university. The focus is on partnerships worldwide. For cooperation projects, the application deadlines are 5 March / 1 October 2024 (EU applications) and 19 March / 15 October 2024 (Movetia)."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Support For International Cooperation in Education",
+        "label": "ORG",
+        "start": 30,
+        "end": 80
+      },
+      {
+        "text": "the International Programme",
+        "label": "ORG",
+        "start": 6,
+        "end": 33
+      },
+      {
+        "text": "Movetia",
+        "label": "PERSON",
+        "start": 35,
+        "end": 42
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 81,
+        "end": 86
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 116,
+        "end": 124
+      },
+      {
+        "text": "non-European",
+        "label": "NORP",
+        "start": 129,
+        "end": 141
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 249,
+        "end": 252
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 264,
+        "end": 267
+      },
+      {
+        "text": "60,000",
+        "label": "CARDINAL",
+        "start": 268,
+        "end": 274
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 275,
+        "end": 278
+      },
+      {
+        "text": "60%",
+        "label": "PERCENT",
+        "start": 302,
+        "end": 305
+      },
+      {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 366,
+        "end": 375
+      },
+      {
+        "text": "28 March 2024",
+        "label": "DATE",
+        "start": 400,
+        "end": 413
+      },
+      {
+        "text": "Movetia",
+        "label": "PERSON",
+        "start": 456,
+        "end": 463
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 611,
+        "end": 616
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 648,
+        "end": 650
+      },
+      {
+        "text": "Movetia",
+        "label": "PERSON",
+        "start": 696,
+        "end": 703
+      },
+      {
+        "text": "the Swiss-European Mobility Programme",
+        "label": "ORG",
+        "start": 712,
+        "end": 749
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 876,
+        "end": 881
+      },
+      {
+        "text": "5 March /",
+        "label": "DATE",
+        "start": 990,
+        "end": 999
+      },
+      {
+        "text": "October 2024",
+        "label": "DATE",
+        "start": 1002,
+        "end": 1014
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 1016,
+        "end": 1018
+      },
+      {
+        "text": "19 March / 15 October 2024",
+        "label": "DATE",
+        "start": 1037,
+        "end": 1063
+      },
+      {
+        "text": "Movetia",
+        "label": "PERSON",
+        "start": 1065,
+        "end": 1072
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Movetia"
+      ],
+      "ORG": [
+        "CHF",
+        "EU",
+        "Support For International Cooperation in Education",
+        "the International Programme",
+        "the Swiss-European Mobility Programme"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "19 March / 15 October 2024",
+        "24 months",
+        "28 March 2024",
+        "5 March /",
+        "October 2024"
+      ],
+      "MISC": [
+        "60%",
+        "60,000",
+        "European",
+        "Swiss",
+        "non-European",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "Movetia": 4,
+      "CHF": 3,
+      "Swiss": 2,
+      "EU": 2,
+      "Support For International Cooperation in Education": 1,
+      "the International Programme": 1,
+      "European": 1,
+      "non-European": 1,
+      "60,000": 1,
+      "60%": 1,
+      "24 months": 1,
+      "28 March 2024": 1,
+      "third": 1,
+      "the Swiss-European Mobility Programme": 1,
+      "5 March /": 1,
+      "October 2024": 1,
+      "19 March / 15 October 2024": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "call-2023-support-for-international-cooperation-in-education.md",
+      "title": "En Internal/2024/02/call 2023 Support For International Cooperation in Education",
+      "language": "en",
+      "source_path": "en_internal/2024/02/call-2023-support-for-international-cooperation-in-education.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Movetia"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "60,000",
+        "European",
+        "Swiss",
+        "non-European",
+        "third"
+      ],
+      "grants_funding": [
+        "EU",
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "Swiss-European",
+        "International Cooperation",
+        "Mobility Programme",
+        "International Programme",
+        "En Internal",
+        "Support For",
+        "Education Under"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CHF",
+        "EU",
+        "Support For International Cooperation in Education",
+        "the International Programme",
+        "the Swiss-European Mobility Programme"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Movetia",
+        "CHF",
+        "Swiss",
+        "EU",
+        "Support For International Cooperation in Education",
+        "the International Programme",
+        "European",
+        "non-European",
+        "60,000",
+        "60%"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1159
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "CHF",
+        "grant",
+        "Support For International Cooperation in Education",
+        "Movetia",
+        "EU",
+        "the Swiss-European Mobility Programme",
+        "funding",
+        "the International Programme",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "Swiss",
+        "non-European",
+        "what",
+        "European",
+        "60,000",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

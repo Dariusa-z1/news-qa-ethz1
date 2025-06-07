@@ -1,0 +1,116 @@
+{
+  "filename": "annette-oxenius-receives-the-cloetta-prize.md",
+  "original_filename": "annette-oxenius-receives-the-cloetta-prize.html",
+  "source_path": "en_news_events/2022/10/annette-oxenius-receives-the-cloetta-prize.html",
+  "date": "2022-10",
+  "title": "Annette Oxenius Receives The Cloetta Prize",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News Events",
+        "label": "MISC",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Oxenius Receives",
+        "label": "PER",
+        "start": 31,
+        "end": 47
+      },
+      {
+        "text": "The Cloetta Prize",
+        "label": "MISC",
+        "start": 48,
+        "end": 65
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Oxenius Receives"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "En News Events",
+        "The Cloetta Prize"
+      ]
+    },
+    "entity_counts": {
+      "En News Events": 1,
+      "Oxenius Receives": 1,
+      "The Cloetta Prize": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "annette-oxenius-receives-the-cloetta-prize.md",
+      "title": "En News Events/2022/10/annette Oxenius Receives The Cloetta Prize",
+      "language": "unknown",
+      "source_path": "en_news_events/2022/10/annette-oxenius-receives-the-cloetta-prize.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Oxenius Receives"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "En News Events",
+        "The Cloetta Prize"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Cloetta",
+        "Oxenius Receives",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "En News Events",
+        "Oxenius Receives",
+        "The Cloetta Prize"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 66
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022",
+        "Oxenius Receives"
+      ],
+      "semantic_concepts": [
+        "En News Events",
+        "The Cloetta Prize"
+      ],
+      "graph_relations": []
+    }
+  }
+}

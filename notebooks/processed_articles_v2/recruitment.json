@@ -1,0 +1,230 @@
+{
+  "filename": "recruitment.md",
+  "original_filename": "recruitment.html",
+  "source_path": "en_internal/2019/09/recruitment.html",
+  "date": "2019-09",
+  "title": "Recruitment",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Every year, around 1,000 positions are published on ETH Zurich’s job portal. These are now being created using the recruitment software softfactors, which offers recruiters a convenient way to create and publish job ads, and provides support with pre-selection and efficient applicant management.\n\nTo integrate and advertise published positions on ETH webpages, ETH departments have previously been able to use the job portal components in the web content management system AEM. Positions were filtered using a free text field, which occasionally led to problems displaying positions if the exact phrase was not used.\n\nThe AEM components have now been upgraded and the integration of positions simplified. When creating a position, the recruiter enters the five-digit identification number (Leitzahl) under which the future staff member will be employed. This means that when using the components, the positions can now be filtered by identification number when integrated into the website. In the standard component configuration, all open positions at ETH Zurich will be displayed. You can find detailed guidelines in the protected page AEM manual lock .\n\nWith this improvement, we would like to help ensure that all ETH departments can quickly and consistently publish their open positions on ETH webpages. This makes the appeal of ETH Zurich as an employer more visible and makes the application process easier for potential employees."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Every year",
+        "label": "DATE",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "around 1,000",
+        "label": "CARDINAL",
+        "start": 12,
+        "end": 24
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 52,
+        "end": 64
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 347,
+        "end": 350
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 361,
+        "end": 364
+      },
+      {
+        "text": "AEM",
+        "label": "ORG",
+        "start": 473,
+        "end": 476
+      },
+      {
+        "text": "AEM",
+        "label": "ORG",
+        "start": 621,
+        "end": 624
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 755,
+        "end": 759
+      },
+      {
+        "text": "Leitzahl",
+        "label": "ORG",
+        "start": 789,
+        "end": 797
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1052,
+        "end": 1062
+      },
+      {
+        "text": "AEM",
+        "label": "ORG",
+        "start": 1137,
+        "end": 1140
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1216,
+        "end": 1219
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1293,
+        "end": 1296
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1332,
+        "end": 1342
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "AEM",
+        "ETH",
+        "ETH Zurich",
+        "Leitzahl"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Every year"
+      ],
+      "MISC": [
+        "around 1,000",
+        "five"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 4,
+      "AEM": 3,
+      "ETH Zurich": 2,
+      "Every year": 1,
+      "around 1,000": 1,
+      "ETH Zurich’s": 1,
+      "five": 1,
+      "Leitzahl": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "recruitment.md",
+      "title": "En Internal/2019/09/recruitment",
+      "language": "en",
+      "source_path": "en_internal/2019/09/recruitment.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "around 1,000",
+        "five"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "The AEM",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AEM",
+        "ETH",
+        "ETH Zurich",
+        "Leitzahl"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "AEM",
+        "ETH Zurich",
+        "Every year",
+        "around 1,000",
+        "ETH Zurich’s",
+        "five",
+        "Leitzahl"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1471
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Leitzahl",
+        "ETH",
+        "2019",
+        "AEM",
+        "ETH Zurich",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "around 1,000",
+        "how",
+        "computer_science",
+        "five",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

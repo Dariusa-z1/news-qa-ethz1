@@ -1,0 +1,251 @@
+{
+  "filename": "big-data-study-on-spread-of-flu-launched.md",
+  "original_filename": "big-data-study-on-spread-of-flu-launched.html",
+  "source_path": "en_internal/2016/11/big-data-study-on-spread-of-flu-launched.html",
+  "date": "2016-11",
+  "title": "Big Data Study On Spread Of Flu Launched",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "How does flu spread and to what extent can individual behaviour stop it in its tracks?\n\nBig data researchers at ETH Zurich want to investigate these questions in a study of flu throughout Switzerland. Unlike traditional flu activity analysis, they are not relying on data passed on to them by doctors and hospitals. Instead, they are evaluating data submitted directly by the general public.\n\nPeople of all ages who are living in Switzerland, regardless of whether they have flu symptoms or not, can participate in the study using a new online platform, grippenet.ch (in German or French ). The platform is part of a major European initiative. ETH Zurich staff and students are also invited to participate in the study.\n\nParticipants register for the study by entering their postal code and an email address; their personal information remains anonymous. Information is recorded throughout the winter months, including possible flu-like symptoms and preventive measures such as washing hands and avoiding large gatherings of people. In return, the study participants receive continually updated information on changes in the reported flu status in the different cantons, including their own.\n\nThe aim of the study is to better understand the complex interaction between the spread of disease, the information made available to the general public, and behavioural responses. The knowledge of these relationships will help combat the spread of diseases more effectively in future.\n\nDirk Helbing (D-GESS)\n\nDirk Helbing, study leader and Professor of Computational Social Science, will be happy to answer any questions you may have. You can call him on +41 44 632 88 80 or an email ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Data Study On Spread Of Flu Launched",
+        "label": "ORG",
+        "start": 24,
+        "end": 60
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 111,
+        "end": 121
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 187,
+        "end": 198
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 428,
+        "end": 439
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 569,
+        "end": 575
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "start": 579,
+        "end": 585
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 621,
+        "end": 629
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 642,
+        "end": 652
+      },
+      {
+        "text": "the winter months",
+        "label": "DATE",
+        "start": 887,
+        "end": 904
+      },
+      {
+        "text": "Dirk Helbing",
+        "label": "ORG",
+        "start": 1475,
+        "end": 1487
+      },
+      {
+        "text": "Dirk Helbing",
+        "label": "ORG",
+        "start": 1497,
+        "end": 1509
+      },
+      {
+        "text": "Computational Social Science",
+        "label": "ORG",
+        "start": 1541,
+        "end": 1569
+      },
+      {
+        "text": "88 80",
+        "label": "DATE",
+        "start": 1654,
+        "end": 1659
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Computational Social Science",
+        "Data Study On Spread Of Flu Launched",
+        "Dirk Helbing",
+        "ETH Zurich"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "88 80",
+        "the winter months"
+      ],
+      "MISC": [
+        "European",
+        "French",
+        "German"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Switzerland": 2,
+      "Dirk Helbing": 2,
+      "Data Study On Spread Of Flu Launched": 1,
+      "German": 1,
+      "French": 1,
+      "European": 1,
+      "the winter months": 1,
+      "Computational Social Science": 1,
+      "88 80": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "big-data-study-on-spread-of-flu-launched.md",
+      "title": "En Internal/2016/11/big Data Study On Spread Of Flu Launched",
+      "language": "en",
+      "source_path": "en_internal/2016/11/big-data-study-on-spread-of-flu-launched.html"
+    },
+    "temporal": {
+      "publication_date": "2016-11",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "European",
+        "French",
+        "German"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Of Flu",
+        "Dirk Helbing",
+        "D-GESS",
+        "Computational Social",
+        "En Internal",
+        "On Spread",
+        "ETH Zurich",
+        "Data Study",
+        "Launched How"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Computational Social Science",
+        "Data Study On Spread Of Flu Launched",
+        "Dirk Helbing",
+        "ETH Zurich"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Switzerland",
+        "Dirk Helbing",
+        "Data Study On Spread Of Flu Launched",
+        "German",
+        "French",
+        "European",
+        "the winter months",
+        "Computational Social Science",
+        "88 80"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1740
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Dirk Helbing",
+        "EU",
+        "2016",
+        "Computational Social Science",
+        "ETH Zurich",
+        "Data Study On Spread Of Flu Launched"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "French",
+        "who",
+        "what",
+        "how",
+        "German",
+        "medical_research",
+        "European",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

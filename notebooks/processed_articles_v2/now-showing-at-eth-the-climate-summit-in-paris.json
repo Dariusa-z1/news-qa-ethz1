@@ -1,0 +1,293 @@
+{
+  "filename": "now-showing-at-eth-the-climate-summit-in-paris.md",
+  "original_filename": "now-showing-at-eth-the-climate-summit-in-paris.html",
+  "source_path": "en_internal/2015/12/now-showing-at-eth-the-climate-summit-in-paris.html",
+  "date": "2015-12",
+  "title": "Now Showing At Eth The Climate Summit In Paris",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The 2015 United Nations Climate Change Conference COP 21 has been taking place in Paris since 30 November, and runs until 11 December. Representatives from the governments and civil society of nearly 200 countries are debating how the founding efforts of the Kyoto Protocol should be continued. By the end of this week, they should achieve a new binding international agreement framing a climate policy which aims to limit global warming to under 2°C.\n\nOne important discussion point is the emission reduction objectives from each country. Also being debated are the financial mechanisms to compensate the poorest countries suffering from climate change, and the support for countries that have been asked to combine important economic development with low carbon emissions.\n\nIn order to keep up-to-date with the negotiations, plenary sessions and press conferences from the COP21 are being webcast live on the “Green Floor” in the CHN building (D-floor next to the lift), every day from 10am to 6pm. Daily updates on the status of the negotiations are being shown on-screen and recorded in print, as flyers.\n\nMartha Vogel is a doctoral student at the Institute for Atmospheric and Climate Science at ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Showing At Eth The Climate Summit",
+        "label": "WORK_OF_ART",
+        "start": 24,
+        "end": 57
+      },
+      {
+        "text": "Paris",
+        "label": "GPE",
+        "start": 61,
+        "end": 66
+      },
+      {
+        "text": "United Nations Climate Change Conference",
+        "label": "ORG",
+        "start": 9,
+        "end": 49
+      },
+      {
+        "text": "Paris",
+        "label": "GPE",
+        "start": 82,
+        "end": 87
+      },
+      {
+        "text": "30 November",
+        "label": "DATE",
+        "start": 94,
+        "end": 105
+      },
+      {
+        "text": "11 December",
+        "label": "DATE",
+        "start": 122,
+        "end": 133
+      },
+      {
+        "text": "nearly 200",
+        "label": "CARDINAL",
+        "start": 193,
+        "end": 203
+      },
+      {
+        "text": "the Kyoto Protocol",
+        "label": "LAW",
+        "start": 255,
+        "end": 273
+      },
+      {
+        "text": "the end of this week",
+        "label": "DATE",
+        "start": 298,
+        "end": 318
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 452,
+        "end": 455
+      },
+      {
+        "text": "Green Floor",
+        "label": "WORK_OF_ART",
+        "start": 910,
+        "end": 921
+      },
+      {
+        "text": "CHN",
+        "label": "ORG",
+        "start": 930,
+        "end": 933
+      },
+      {
+        "text": "every day",
+        "label": "DATE",
+        "start": 971,
+        "end": 980
+      },
+      {
+        "text": "10am to 6pm",
+        "label": "TIME",
+        "start": 986,
+        "end": 997
+      },
+      {
+        "text": "Martha Vogel",
+        "label": "PERSON",
+        "start": 1107,
+        "end": 1119
+      },
+      {
+        "text": "the Institute for Atmospheric and Climate Science",
+        "label": "ORG",
+        "start": 1145,
+        "end": 1194
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1202,
+        "end": 1208
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Martha Vogel"
+      ],
+      "ORG": [
+        "CHN",
+        "United Nations Climate Change Conference",
+        "the Institute for Atmospheric and Climate Science"
+      ],
+      "LOCATION": [
+        "Paris",
+        "Zurich"
+      ],
+      "DATE": [
+        "10am to 6pm",
+        "11 December",
+        "30 November",
+        "every day",
+        "the end of this week"
+      ],
+      "MISC": [
+        "Green Floor",
+        "One",
+        "Showing At Eth The Climate Summit",
+        "nearly 200",
+        "the Kyoto Protocol"
+      ]
+    },
+    "entity_counts": {
+      "Paris": 2,
+      "Showing At Eth The Climate Summit": 1,
+      "United Nations Climate Change Conference": 1,
+      "30 November": 1,
+      "11 December": 1,
+      "nearly 200": 1,
+      "the Kyoto Protocol": 1,
+      "the end of this week": 1,
+      "One": 1,
+      "Green Floor": 1,
+      "CHN": 1,
+      "every day": 1,
+      "10am to 6pm": 1,
+      "Martha Vogel": 1,
+      "the Institute for Atmospheric and Climate Science": 1,
+      "Zurich": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "now-showing-at-eth-the-climate-summit-in-paris.md",
+      "title": "En Internal/2015/12/now Showing At Eth The Climate Summit in Paris",
+      "language": "en",
+      "source_path": "en_internal/2015/12/now-showing-at-eth-the-climate-summit-in-paris.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Martha Vogel"
+      ],
+      "people_with_roles": {
+        "Martha Vogel": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "Green Floor",
+        "Showing At Eth The Climate Summit",
+        "nearly 200",
+        "the Kyoto Protocol"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Climate Change",
+        "Green Floor",
+        "Climate Summit",
+        "Eth The",
+        "En Internal",
+        "United Nations",
+        "Kyoto Protocol",
+        "Showing At",
+        "Martha Vogel",
+        "Climate Science",
+        "Conference COP",
+        "ETH Zurich",
+        "Paris The"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Atmospheric and Climate Science at ETH Zurich"
+      ],
+      "institutions": [
+        "CHN",
+        "United Nations Climate Change Conference",
+        "the Institute for Atmospheric and Climate Science"
+      ],
+      "locations": [
+        "Paris",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Paris",
+        "Showing At Eth The Climate Summit",
+        "United Nations Climate Change Conference",
+        "30 November",
+        "11 December",
+        "nearly 200",
+        "the Kyoto Protocol",
+        "the end of this week",
+        "One",
+        "Green Floor"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1279
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Institute for Atmospheric and Climate Science",
+        "2015",
+        "CHN",
+        "Martha Vogel",
+        "United Nations Climate Change Conference"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Showing At Eth The Climate Summit",
+        "Green Floor",
+        "nearly 200",
+        "the Kyoto Protocol",
+        "how",
+        "climate_change",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Martha Vogel_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,690 @@
+{
+  "filename": "blog-wattenhofer-des-bargelds-tod.md",
+  "original_filename": "blog-wattenhofer-des-bargelds-tod.html",
+  "source_path": "de_news_events/2020/08/blog-wattenhofer-des-bargelds-tod.html",
+  "date": "2020-08",
+  "title": "Blog Wattenhofer Des Bargelds Tod",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "CBDC macht das Rennen",
+      "text": "(Bild: ETH Zürich)\n\nWir haben führende Schweizer Detailhändler gefragt, ob sich das Zahlverhalten wegen Covid-19 verändert hat. Und tatsächlich, wurde kurz vor Covid-19 noch mehrheitlich bar bezahlt, sind die Barzahler nun in der Minderheit. Momentan zahlen ca. 60% der Kunden mit einer App oder mit Plastikgeld. Noch ist nicht klar, ob sich das Zahlverhalten wieder zurück zum Bargeld verschiebt, sobald wir Covid-19 überstanden haben – wenn dann nicht das nächste Virus vor der Türe steht.\n\nAllerdings vermute ich, dass mit Bargeld sowieso bald Schluss ist. Es steht ein mächtiger Konkurrent in den Startlöchern, mit dem etwas sperrigen Namen Central Bank Digital Currency, kurz CBDC. Einige Zentralbanken treiben die Entwicklung von CBDC voran. In Schweden nennt sich das e-krona, in Uruguay digital peso, und in China DC/EP oder Digital Currency Electronic Payment."
+    },
+    {
+      "heading": "CBDC macht das Rennen",
+      "text": "Ich habe vor etwas mehr als einem Jahr an dieser Stelle behauptet, dass wir bald neue Geldformen sehen werden. Mittlerweile bin ich mir sicher, dass CBDC das Rennen machen wird. CBDC wird sowohl Bargeld wie auch Debitkarten verdrängen. Dezentrale Kryptowährungen wie Bitcoin werden ihre Nische als libertäres Gegenmodell behaupten, aber andere Bezahlsysteme werden mit CBDC verschmelzen."
+    },
+    {
+      "heading": "… und bei Stromausfall?",
+      "text": "Aber nochmals einen Schritt zurück: Was ist CBDC genau? CBDC ist eine elektronische Währung, herausgegeben von der jeweiligen Zentralbank. Die Philosophie von CBDC ist nahe am Bargeld. Ein digitaler eFranken ist genau gleich viel Wert wie ein normaler Franken. Genau wie ein normaler Franken ist er in der Schweiz legales Zahlmittel – und muss entsprechend von allen Händlern akzeptiert werden.\n\nDas Frontend von CBDC entspricht dem Frontend von Appgeld wie Google Pay. Man bezahlt kontaktlos, auch Überweisungen zwischen Privaten erledigt man direkt von Smartphone zu Smartphone, wie zum Beispiel bei Twint. Das Backend ist dem Backend von Kryptowährungen angelehnt. Transaktionen sind digital signiert, eine Blockchain oder Mining braucht es allerdings nicht. Digitale eFranken werden von der Nationalbank herausgegeben zum Beispiel im Tausch mit Bargeld. Transaktionen werden von einer kleinen Gruppe von Rechnern verifiziert oder direkt in einem Bezahlnetz durchgeführt."
+    },
+    {
+      "heading": "Tschüss Negativzins und andere Vorteile",
+      "text": "Ich habe eine grosse Liste von Nachteilen der bisherigen Bezahlsysteme zusammengetragen. Zu meiner eigenen Überraschung ist es so, dass eine gute CBDC Implementation so ziemlich alle Nachteile der bisherigen Bezahlsysteme in Vorteile umwandeln kann. CBDC ist besser als die Vereinigung aller bisherigen Bezahlsysteme."
+    },
+    {
+      "heading": "Nur verwenden, was man versteht?",
+      "text": "Im Gegensatz zu Appgeld wird die Privatsphäre geschützt und kann nur mit einer richterlichen Verfügung aufgehoben werden. Man muss keinem Dienstleister vertrauen: Ein eFranken verschwindet nicht, wenn eine Bank oder ein Bezahldienstleister Konkurs geht. Die Nationalbank garantiert, dass Transaktionen komplett gebührenfrei sind und bleiben. Auch das Horten von viel eFranken ist komplett kostenfrei – Tschüss Negativzins!\n\nIm Gegensatz zu Bargeld sind die Produktionskosten nahezu Null, Transaktionen an der Kasse schnell. Online bezahlen funktioniert problemlos. Es gibt keine Geldfälschung, keine Steuerhinterziehung, kein Verlust oder Diebstahl."
+    },
+    {
+      "heading": "… und bei Stromausfall?",
+      "text": "Eine technisch interessante Frage ist das Überweisen von Geld im Notfall, zum Beispiel bei Strom- oder Internetausfall. In einer solchen Ausnahmesituation wäre es angebracht, dass Transaktionen nach wie vor akzeptiert werden. Der gutgläubige Umgang mit Transaktionen im Notfall wiederum würde einem Betrüger mit manipuliertem Smartphone ermöglichen, das gleiche Geld doppelt auszugeben. Allerdings wäre eine solche Kombination von Umständen sehr selten. Ausserdem würde so ein Betrugsversuch aufgedeckt, sobald Strom und Internet wieder zurück sind. Dann stimmt die Buchhaltung wieder, und man kann den Betrüger strafrechtlich belangen, so wie man das heute schon bei Herstellern von Falschgeld macht. Man kann sogar einfach seine Adresse ermitteln."
+    },
+    {
+      "heading": "Man kann Transaktionen nachverfolgen",
+      "text": "Womit wir bei der Privatsphäre wären. Bargeld kann komplett anonym transferiert werden. Bei CBDC gibt es eine Datenspur. Diese ist zwar verschlüsselt und ausserdem möglichst nur zwischen Beteiligten vorhanden. Der Staat sieht normale Transaktionen nicht, sondern höchstens eine Gesamtsumme von Transaktionen. Wenn der Staat allerdings einer Transaktion nachgehen möchte, dann kann er die Identität und entsprechende Zahlungen eines Verdächtigen lüften. Der Gesetzgeber sollte dafür sorgen, dass das Aufdecken von Identitäten nicht zu oft vorkommt.\n\nSchliesslich gibt es noch den Kritikpunkt der Komplexität. CBDC baut auf das Prinzip der asymmetrischen Kryptographie, einer Anwendung mathematischer Zahlentheorie, die man auch in Zukunft wohl nicht in der Schule lernen wird. Man muss also gewissermassen einer Technologie vertrauen, die man nicht komplett durchschaut. Doch seien wir ehrlich: Wir vertrauen unterdessen ganz vielen Technologien, die wir auch nicht komplett verstehen, sogar der asymmetrischen Kryptographie selbst («https»).\n\nBargeldliebhaber sagen, dass sie die Nachteile von Bargeld nicht stören, da diese vor allem Probleme der Verwaltung und der Händler seien, aber nicht die eigenen. Das stimmt. Es wird wohl so sein, dass die Kosten von Bargeld bald auf die Kunden abgewälzt werden. Dann wird sich entscheiden, ob man Bargeld so sehr liebt, dass man dafür auch mehr zahlt. Das ist heute zum Teil schon so. Parkgebühren werden mit App auf die Minute genau abgerechnet. Wer die reservierte Parkzeit nicht ausnutzt, bekommt das restliche Geld zurück. Mit CBDC geht sowas auch, ohne dass der Bezahldienstleister weiss, wo man parkiert hat.\n\nAm 3. und 4. September veranstaltet die ETH Zürich den Workshop Future Money: Which Road? . Gemeinsam mit Hans Gersbach, Professor für Makroökonomie, Innovation und Politik an der ETH Zürich, hat Roger Wattenhofer ein Profilpapier geschrieben, welche die wirtschaftliche und technische Umsetzung des eFrankens beschreibt. Willkommen sind Freunde von Digitalwährungen, aber auch Skeptiker und Bargeld-Enthusiasten, um über das spannende Thema zu diskutieren.\n\nWeitere Infos und Registration\n\nRoger Wattenhofer Professor für Verteilte Systeme an der ETH Zürich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Bargelds",
+        "label": "PER",
+        "start": 44,
+        "end": 52
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 7,
+        "end": 17
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 38,
+        "end": 47
+      },
+      {
+        "text": "Covid-19",
+        "label": "LOC",
+        "start": 159,
+        "end": 167
+      },
+      {
+        "text": "Plastikgeld",
+        "label": "MISC",
+        "start": 299,
+        "end": 310
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 465,
+        "end": 470
+      },
+      {
+        "text": "Bargeld sowieso",
+        "label": "PER",
+        "start": 524,
+        "end": 539
+      },
+      {
+        "text": "Startlöchern",
+        "label": "LOC",
+        "start": 599,
+        "end": 611
+      },
+      {
+        "text": "Central Bank Digital Currency",
+        "label": "ORG",
+        "start": 643,
+        "end": 672
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 679,
+        "end": 683
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 734,
+        "end": 738
+      },
+      {
+        "text": "Schweden",
+        "label": "LOC",
+        "start": 749,
+        "end": 757
+      },
+      {
+        "text": "e-krona",
+        "label": "LOC",
+        "start": 773,
+        "end": 780
+      },
+      {
+        "text": "Uruguay",
+        "label": "LOC",
+        "start": 785,
+        "end": 792
+      },
+      {
+        "text": "China DC/EP",
+        "label": "MISC",
+        "start": 814,
+        "end": 825
+      },
+      {
+        "text": "Digital Currency Electronic Payment",
+        "label": "ORG",
+        "start": 831,
+        "end": 866
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 149,
+        "end": 153
+      },
+      {
+        "text": "CBDC",
+        "label": "MISC",
+        "start": 178,
+        "end": 182
+      },
+      {
+        "text": "Dezentrale",
+        "label": "PER",
+        "start": 236,
+        "end": 246
+      },
+      {
+        "text": "Bitcoin",
+        "label": "PER",
+        "start": 267,
+        "end": 274
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 369,
+        "end": 373
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 44,
+        "end": 48
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 56,
+        "end": 60
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 159,
+        "end": 163
+      },
+      {
+        "text": "Bargeld",
+        "label": "LOC",
+        "start": 176,
+        "end": 183
+      },
+      {
+        "text": "eFranken",
+        "label": "MISC",
+        "start": 199,
+        "end": 207
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 306,
+        "end": 313
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 412,
+        "end": 416
+      },
+      {
+        "text": "Google Pay",
+        "label": "MISC",
+        "start": 457,
+        "end": 467
+      },
+      {
+        "text": "Smartphone zu Smartphone",
+        "label": "PER",
+        "start": 554,
+        "end": 578
+      },
+      {
+        "text": "Twint",
+        "label": "LOC",
+        "start": 601,
+        "end": 606
+      },
+      {
+        "text": "Kryptowährungen",
+        "label": "LOC",
+        "start": 640,
+        "end": 655
+      },
+      {
+        "text": "Nationalbank",
+        "label": "ORG",
+        "start": 794,
+        "end": 806
+      },
+      {
+        "text": "Rechnern",
+        "label": "LOC",
+        "start": 907,
+        "end": 915
+      },
+      {
+        "text": "CBDC",
+        "label": "MISC",
+        "start": 146,
+        "end": 150
+      },
+      {
+        "text": "Vorteile",
+        "label": "LOC",
+        "start": 225,
+        "end": 233
+      },
+      {
+        "text": "CBDC",
+        "label": "MISC",
+        "start": 250,
+        "end": 254
+      },
+      {
+        "text": "Appgeld",
+        "label": "LOC",
+        "start": 16,
+        "end": 23
+      },
+      {
+        "text": "eFranken",
+        "label": "MISC",
+        "start": 167,
+        "end": 175
+      },
+      {
+        "text": "Nationalbank",
+        "label": "ORG",
+        "start": 258,
+        "end": 270
+      },
+      {
+        "text": "eFranken",
+        "label": "MISC",
+        "start": 367,
+        "end": 375
+      },
+      {
+        "text": "Tschüss Negativzins",
+        "label": "ORG",
+        "start": 402,
+        "end": 421
+      },
+      {
+        "text": "Bargeld",
+        "label": "PER",
+        "start": 439,
+        "end": 446
+      },
+      {
+        "text": "Online",
+        "label": "PER",
+        "start": 523,
+        "end": 529
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 521,
+        "end": 529
+      },
+      {
+        "text": "Herstellern",
+        "label": "LOC",
+        "start": 668,
+        "end": 679
+      },
+      {
+        "text": "Falschgeld",
+        "label": "LOC",
+        "start": 684,
+        "end": 694
+      },
+      {
+        "text": "Bargeld",
+        "label": "PER",
+        "start": 38,
+        "end": 45
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 92,
+        "end": 96
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 607,
+        "end": 611
+      },
+      {
+        "text": "Bargeld",
+        "label": "PER",
+        "start": 1258,
+        "end": 1265
+      },
+      {
+        "text": "Bargeld",
+        "label": "PER",
+        "start": 1339,
+        "end": 1346
+      },
+      {
+        "text": "CBDC",
+        "label": "ORG",
+        "start": 1573,
+        "end": 1577
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1697,
+        "end": 1707
+      },
+      {
+        "text": "Workshop Future Money",
+        "label": "ORG",
+        "start": 1712,
+        "end": 1733
+      },
+      {
+        "text": "Which Road",
+        "label": "MISC",
+        "start": 1735,
+        "end": 1745
+      },
+      {
+        "text": "Hans Gersbach",
+        "label": "PER",
+        "start": 1763,
+        "end": 1776
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1837,
+        "end": 1847
+      },
+      {
+        "text": "Roger Wattenhofer",
+        "label": "PER",
+        "start": 1853,
+        "end": 1870
+      },
+      {
+        "text": "eFrankens",
+        "label": "MISC",
+        "start": 1957,
+        "end": 1966
+      },
+      {
+        "text": "Roger Wattenhofer",
+        "label": "PER",
+        "start": 2146,
+        "end": 2163
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 2203,
+        "end": 2213
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bargeld",
+        "Bargeld sowieso",
+        "Bargelds",
+        "Bitcoin",
+        "De News",
+        "Dezentrale",
+        "Hans Gersbach",
+        "Online",
+        "Roger Wattenhofer",
+        "Smartphone zu Smartphone"
+      ],
+      "ORG": [
+        "CBDC",
+        "Central Bank Digital Currency",
+        "Digital Currency Electronic Payment",
+        "ETH Zürich",
+        "Nationalbank",
+        "Tschüss Negativzins",
+        "Workshop Future Money"
+      ],
+      "LOCATION": [
+        "Appgeld",
+        "Bargeld",
+        "Covid-19",
+        "Falschgeld",
+        "Herstellern",
+        "Kryptowährungen",
+        "Rechnern",
+        "Schweden",
+        "Schweiz",
+        "Startlöchern",
+        "Twint",
+        "Uruguay",
+        "Vorteile",
+        "e-krona"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CBDC",
+        "China DC/EP",
+        "Google Pay",
+        "Internet",
+        "Plastikgeld",
+        "Schweizer",
+        "Virus",
+        "Which Road",
+        "eFranken",
+        "eFrankens"
+      ]
+    },
+    "entity_counts": {
+      "CBDC": 14,
+      "Bargeld": 5,
+      "ETH Zürich": 4,
+      "eFranken": 3,
+      "Nationalbank": 2,
+      "Roger Wattenhofer": 2,
+      "De News": 1,
+      "Bargelds": 1,
+      "Schweizer": 1,
+      "Covid-19": 1,
+      "Plastikgeld": 1,
+      "Virus": 1,
+      "Bargeld sowieso": 1,
+      "Startlöchern": 1,
+      "Central Bank Digital Currency": 1,
+      "Schweden": 1,
+      "e-krona": 1,
+      "Uruguay": 1,
+      "China DC/EP": 1,
+      "Digital Currency Electronic Payment": 1
+    },
+    "total_entities": 63,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "blog-wattenhofer-des-bargelds-tod.md",
+      "title": "De News Events/2020/08/blog Wattenhofer des Bargelds Tod",
+      "language": "de",
+      "source_path": "de_news_events/2020/08/blog-wattenhofer-des-bargelds-tod.html"
+    },
+    "temporal": {
+      "publication_date": "2020-08",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bargeld",
+        "Bargeld sowieso",
+        "Bargelds",
+        "Bitcoin",
+        "De News",
+        "Dezentrale",
+        "Hans Gersbach",
+        "Online",
+        "Roger Wattenhofer",
+        "Smartphone zu Smartphone"
+      ],
+      "people_with_roles": {
+        "Hans Gersbach": [
+          "professor"
+        ],
+        "Roger Wattenhofer": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "CBDC",
+        "China DC/EP",
+        "Google Pay",
+        "Internet",
+        "Plastikgeld",
+        "Schweizer",
+        "Virus",
+        "Which Road",
+        "eFranken",
+        "eFrankens"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Das Backend",
+        "Google Pay",
+        "Electronic Payment",
+        "Which Road",
+        "Im Gegensatz",
+        "Einige Zentralbanken",
+        "Bezahldienstleister Konkurs",
+        "Workshop Future",
+        "Hans Gersbach",
+        "In Schweden",
+        "Die Nationalbank",
+        "Das Frontend",
+        "Digital Currency",
+        "Roger Wattenhofer",
+        "Weitere Infos",
+        "Namen Central",
+        "Der Staat",
+        "Die Philosophie",
+        "Verteilte Systeme",
+        "CBDC Implementation",
+        "Bargeld-Enthusiasten",
+        "China DC",
+        "Bank Digital",
+        "Bei CBDC",
+        "De News",
+        "Bargelds Tod",
+        "Der Gesetzgeber",
+        "Mit CBDC"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CBDC",
+        "Central Bank Digital Currency",
+        "Digital Currency Electronic Payment",
+        "ETH Zürich",
+        "Nationalbank",
+        "Tschüss Negativzins",
+        "Workshop Future Money"
+      ],
+      "locations": [
+        "Appgeld",
+        "Bargeld",
+        "Covid-19",
+        "Falschgeld",
+        "Herstellern",
+        "Kryptowährungen",
+        "Rechnern",
+        "Schweden",
+        "Schweiz",
+        "Startlöchern",
+        "Twint",
+        "Uruguay",
+        "Vorteile",
+        "e-krona"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "CBDC",
+        "Bargeld",
+        "ETH Zürich",
+        "eFranken",
+        "Nationalbank",
+        "Roger Wattenhofer",
+        "De News",
+        "Bargelds",
+        "Schweizer",
+        "Covid-19"
+      ],
+      "document_structure": {
+        "total_sections": 7,
+        "section_titles": [
+          "CBDC macht das Rennen",
+          "CBDC macht das Rennen",
+          "… und bei Stromausfall?",
+          "Tschüss Negativzins und andere Vorteile",
+          "Nur verwenden, was man versteht?",
+          "… und bei Stromausfall?",
+          "Man kann Transaktionen nachverfolgen"
+        ],
+        "content_length": 6226
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Workshop Future Money",
+        "Nationalbank",
+        "2020",
+        "Bitcoin",
+        "Online",
+        "Bargeld sowieso",
+        "Digital Currency Electronic Payment",
+        "Bargelds",
+        "Smartphone zu Smartphone",
+        "ETH Zürich",
+        "Tschüss Negativzins",
+        "Hans Gersbach",
+        "EU",
+        "Roger Wattenhofer",
+        "Bargeld",
+        "Central Bank Digital Currency",
+        "Dezentrale",
+        "De News",
+        "CBDC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "China DC/EP",
+        "eFranken",
+        "eFrankens",
+        "Google Pay",
+        "Schweizer",
+        "Internet",
+        "who",
+        "Which Road",
+        "Virus",
+        "CBDC",
+        "when",
+        "Plastikgeld"
+      ],
+      "graph_relations": [
+        "Hans Gersbach_has_role_professor",
+        "Roger Wattenhofer_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

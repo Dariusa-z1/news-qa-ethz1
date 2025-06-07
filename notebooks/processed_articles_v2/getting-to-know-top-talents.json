@@ -1,0 +1,242 @@
+{
+  "filename": "getting-to-know-top-talents.md",
+  "original_filename": "getting-to-know-top-talents.html",
+  "source_path": "en_news_events/2017/04/getting-to-know-top-talents.html",
+  "date": "2017-04",
+  "title": "Getting To Know Top Talents",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "As part of an open day, current and former Excellence Scholars met with guests to present their research projects and discuss their studies, motivations and future plans. In her speech, Rector and ESOP patron Sarah M. Springman thanked all the sponsors and partners who make a key contribution to supporting ETH's most talented students every year.\n\nSince 2007, the Excellence Scholarship and Opportunity Programme has made it possible for Master's students to complete their degree at ETH without any financial worries, while benefiting from special support from a member of the teaching staff. The scholarship is offered exclusively to the best incoming Master's students, regardless of their origin or financial background. The scholarships are financed by donations from alumni, friends and sponsors of the ETH Zurich Foundation."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "an open day",
+        "label": "DATE",
+        "start": 11,
+        "end": 22
+      },
+      {
+        "text": "Excellence Scholars",
+        "label": "PERSON",
+        "start": 43,
+        "end": 62
+      },
+      {
+        "text": "Rector",
+        "label": "PRODUCT",
+        "start": 186,
+        "end": 192
+      },
+      {
+        "text": "ESOP",
+        "label": "ORG",
+        "start": 197,
+        "end": 201
+      },
+      {
+        "text": "Sarah M. Springman",
+        "label": "PERSON",
+        "start": 209,
+        "end": 227
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 308,
+        "end": 311
+      },
+      {
+        "text": "every year",
+        "label": "DATE",
+        "start": 337,
+        "end": 347
+      },
+      {
+        "text": "the Excellence Scholarship",
+        "label": "ORG",
+        "start": 361,
+        "end": 387
+      },
+      {
+        "text": "Opportunity Programme",
+        "label": "ORG",
+        "start": 392,
+        "end": 413
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 485,
+        "end": 488
+      },
+      {
+        "text": "the ETH Zurich Foundation",
+        "label": "ORG",
+        "start": 806,
+        "end": 831
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Excellence Scholars",
+        "Sarah M. Springman"
+      ],
+      "ORG": [
+        "ESOP",
+        "ETH",
+        "En News",
+        "Opportunity Programme",
+        "the ETH Zurich Foundation",
+        "the Excellence Scholarship"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "an open day",
+        "every year"
+      ],
+      "MISC": [
+        "Rector"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "En News": 1,
+      "an open day": 1,
+      "Excellence Scholars": 1,
+      "Rector": 1,
+      "ESOP": 1,
+      "Sarah M. Springman": 1,
+      "every year": 1,
+      "the Excellence Scholarship": 1,
+      "Opportunity Programme": 1,
+      "the ETH Zurich Foundation": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "getting-to-know-top-talents.md",
+      "title": "En News Events/2017/04/getting To Know Top Talents",
+      "language": "en",
+      "source_path": "en_news_events/2017/04/getting-to-know-top-talents.html"
+    },
+    "temporal": {
+      "publication_date": "2017-04",
+      "mentioned_years": [
+        "2007",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Excellence Scholars",
+        "Sarah M. Springman"
+      ],
+      "people_with_roles": {
+        "Excellence Scholars": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "alumni",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Rector"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Top Talents",
+        "To Know",
+        "En News",
+        "Excellence Scholarship",
+        "Sarah M",
+        "Excellence Scholars",
+        "Opportunity Programme",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ESOP",
+        "ETH",
+        "En News",
+        "Opportunity Programme",
+        "the ETH Zurich Foundation",
+        "the Excellence Scholarship"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH",
+        "En News",
+        "an open day",
+        "Excellence Scholars",
+        "Rector",
+        "ESOP",
+        "Sarah M. Springman",
+        "every year",
+        "the Excellence Scholarship",
+        "Opportunity Programme"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 884
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the ETH Zurich Foundation",
+        "2007",
+        "En News",
+        "Sarah M. Springman",
+        "the Excellence Scholarship",
+        "ESOP",
+        "2017",
+        "Excellence Scholars",
+        "Opportunity Programme"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Rector",
+        "what",
+        "when"
+      ],
+      "graph_relations": [
+        "Excellence Scholars_has_role_student"
+      ]
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "filename": "coffee-lectures-neue-online-kurse.md",
+  "original_filename": "coffee-lectures-neue-online-kurse.html",
+  "source_path": "en_internal/2020/05/coffee-lectures-neue-online-kurse.html",
+  "date": "2020-05",
+  "title": "Coffee Lectures Neue Online Kurse",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Our Coffee Lectures can provide the answers you need to questions concerning information research, open-access publishing and research data management. They are also a good opportunity to get to know points of contact and specialist staff at ETH Library.\n\nEach session lasts fifteen minutes. You will receive concise, condensed information on a particular topic and have time to ask questions at the end. Fifteen minutes also happens to be just the right amount of time to enjoy a cup of tea or coffee while getting the information you need.\n\nOur Coffee Lectures take place at 15.15 on Wednesday afternoon. The topics for this spring semester are:\n\nRegistration is not required. These are online sessions held via Zoom: https://ethz.zoom.us/j/99585769649\n\nOur Coffee Lectures are primarily aimed at research associates at ETH Zurich, although students and members of other universities are also welcome to attend. The sessions are held in English.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal.\n\n#ETHLibraryDigital – ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Lectures Neue Online Kurse",
+        "label": "ORG",
+        "start": 27,
+        "end": 53
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "PERSON",
+        "start": 4,
+        "end": 19
+      },
+      {
+        "text": "ETH Library",
+        "label": "ORG",
+        "start": 242,
+        "end": 253
+      },
+      {
+        "text": "fifteen minutes",
+        "label": "TIME",
+        "start": 274,
+        "end": 289
+      },
+      {
+        "text": "Fifteen minutes",
+        "label": "TIME",
+        "start": 404,
+        "end": 419
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "PERSON",
+        "start": 545,
+        "end": 560
+      },
+      {
+        "text": "15.15",
+        "label": "CARDINAL",
+        "start": 575,
+        "end": 580
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 584,
+        "end": 593
+      },
+      {
+        "text": "afternoon",
+        "label": "TIME",
+        "start": 594,
+        "end": 603
+      },
+      {
+        "text": "this spring semester",
+        "label": "DATE",
+        "start": 620,
+        "end": 640
+      },
+      {
+        "text": "Coffee Lectures",
+        "label": "PERSON",
+        "start": 756,
+        "end": 771
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 818,
+        "end": 828
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 935,
+        "end": 942
+      },
+      {
+        "text": "KnowHow",
+        "label": "PERSON",
+        "start": 944,
+        "end": 951
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 954,
+        "end": 967
+      },
+      {
+        "text": "ETH Library",
+        "label": "PERSON",
+        "start": 1036,
+        "end": 1047
+      },
+      {
+        "text": "COVID-19",
+        "label": "ORG",
+        "start": 1133,
+        "end": 1141
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Coffee Lectures",
+        "ETH Library",
+        "ETH Library’s",
+        "KnowHow"
+      ],
+      "ORG": [
+        "COVID-19",
+        "ETH Library",
+        "ETH Zurich",
+        "Lectures Neue Online Kurse"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Fifteen minutes",
+        "Wednesday",
+        "afternoon",
+        "fifteen minutes",
+        "this spring semester"
+      ],
+      "MISC": [
+        "15.15",
+        "English"
+      ]
+    },
+    "entity_counts": {
+      "Coffee Lectures": 3,
+      "ETH Library": 2,
+      "Lectures Neue Online Kurse": 1,
+      "fifteen minutes": 1,
+      "Fifteen minutes": 1,
+      "15.15": 1,
+      "Wednesday": 1,
+      "afternoon": 1,
+      "this spring semester": 1,
+      "ETH Zurich": 1,
+      "English": 1,
+      "KnowHow": 1,
+      "ETH Library’s": 1,
+      "COVID-19": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "coffee-lectures-neue-online-kurse.md",
+      "title": "En Internal/2020/05/coffee Lectures Neue Online Kurse",
+      "language": "en",
+      "source_path": "en_internal/2020/05/coffee-lectures-neue-online-kurse.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "Coffee Lectures",
+        "ETH Library",
+        "ETH Library’s",
+        "KnowHow"
+      ],
+      "people_with_roles": {
+        "Coffee Lectures": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "15.15",
+        "English"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Online Kurse",
+        "Our Coffee",
+        "ETH Library",
+        "En Internal",
+        "ETH Zurich",
+        "Lectures Neue"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19",
+        "ETH Library",
+        "ETH Zurich",
+        "Lectures Neue Online Kurse"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Coffee Lectures",
+        "ETH Library",
+        "Lectures Neue Online Kurse",
+        "fifteen minutes",
+        "Fifteen minutes",
+        "15.15",
+        "Wednesday",
+        "afternoon",
+        "this spring semester",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1224
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EU",
+        "ETH Library",
+        "2020",
+        "ETH Zurich",
+        "Lectures Neue Online Kurse",
+        "KnowHow",
+        "Coffee Lectures",
+        "COVID-19",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "15.15",
+        "who",
+        "English",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Coffee Lectures_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "filename": "nature-communications-becomes-open-access-journal.md",
+  "original_filename": "nature-communications-becomes-open-access-journal.html",
+  "source_path": "en_internal/2014/10/nature-communications-becomes-open-access-journal.html",
+  "date": "2014-10",
+  "title": "Nature Communications Becomes Open Access Journal",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "All articles submitted from 20 October 2014 will be published under an open-access model. The publication costs for authors will amount to USD 5,200. You can find more information in the press release and in the FAQs provided by the publishing house.\n\nNature Communications is one of the most well-known, multidisciplinary journals with an impact factor of 10.742."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "20 October 2014",
+        "label": "DATE",
+        "start": 28,
+        "end": 43
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 251,
+        "end": 272
+      },
+      {
+        "text": "10.742",
+        "label": "CARDINAL",
+        "start": 356,
+        "end": 362
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Nature Communications"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "20 October 2014"
+      ],
+      "MISC": [
+        "10.742"
+      ]
+    },
+    "entity_counts": {
+      "20 October 2014": 1,
+      "Nature Communications": 1,
+      "10.742": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nature-communications-becomes-open-access-journal.md",
+      "title": "En Internal/2014/10/nature Communications Becomes Open Access Journal",
+      "language": "en",
+      "source_path": "en_internal/2014/10/nature-communications-becomes-open-access-journal.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "10.742"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Communications Becomes",
+        "En Internal",
+        "Nature Communications",
+        "Open Access",
+        "Journal All"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Nature Communications"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "20 October 2014",
+        "Nature Communications",
+        "10.742"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 434
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2014",
+        "Nature Communications"
+      ],
+      "semantic_concepts": [
+        "10.742"
+      ],
+      "graph_relations": []
+    }
+  }
+}

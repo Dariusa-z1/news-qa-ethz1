@@ -1,0 +1,445 @@
+{
+  "filename": "implant-acts-as-a-countermeasure.md",
+  "original_filename": "implant-acts-as-a-countermeasure.html",
+  "source_path": "en_news_events/2015/12/implant-acts-as-a-countermeasure.html",
+  "date": "2015-12",
+  "title": "Implant Acts As A Countermeasure",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Prosthesis supports the immune system",
+      "text": "ETH Professor Martin Fussenegger calls them molecular prosthetics: cells with specially developed gene circuits that can be implanted into an organism, where they take over metabolic functions that the organism cannot perform itself. Fussenegger and his team at ETH Zurich’s Department of Biosystems Science and Engineering in Basel have now succeeded in developing a molecular prosthesis of this kind where the functions are far more complex than before. The prosthesis is tailored to the treatment of psoriasis, a complex and chronic inflammatory disease of the skin.\n\nGene circuits created in the past typically monitored only whether a metabolic molecule A was present in their environment; if so, they produced a metabolic molecule X as a response. The new, more complex circuit can detect two molecules, A and B, simultaneously, and only if both are present does it produce the molecules X and Y. “We have used cellular components to build an AND logic gate, as is familiar in electronics and without which computers could not function,” says Fussenegger. When researchers implanted a circuit with an AND gate of this kind into mice, the circuit was able to successfully suppress phases of psoriasis in the mouse model.\n\nThe new molecular prosthesis uses the language by which immune cells in the body communicate with one another: the language of the numerous messenger molecules that the immune cells can both produce and detect."
+    },
+    {
+      "heading": "Prosthesis supports the immune system",
+      "text": "The different cells of the immune system are involved in two ways during a psoriasis phase: first, they are responsible for triggering an inflammatory response by increasing the production of various messengers, including those referred to as TNF and IL-22. Second, at a later point, they produce a series of messengers that cause the inflammation to fade away again, among them IL-4 and IL-10.\n\nThe circuit developed by the ETH researchers can detect the inflammatory molecules TNF and IL-22. If (and only if) these two messengers are present simultaneously, the circuit produces the anti-inflammatory molecules IL-4 and IL-10. “In this way, our molecular prosthesis helps the immune system to suppress the inflammatory response,” explains Fussenegger."
+    },
+    {
+      "heading": "Designer cells in a porous capsule",
+      "text": "The scientists took tiny porous capsules made of algal gelatine and encased 200 cells of a human cell line with this gene circuit in each capsule. They then injected 6,000 of these minute capsules into the abdomens of mice. New blood vessels formed naturally and connected the capsules to the bloodstream.\n\nUsing a medicine, the scientists triggered an inflammatory response, similar to psoriasis, in the skin of the mice. They then compared the mice into which ‘designer cell capsules’ had been implanted with those without capsules. Only the latter showed symptoms of inflammation. The implant suppressed the inflammatory disease successfully."
+    },
+    {
+      "heading": "Circuits as an early-warning system",
+      "text": "Nowadays, the symptoms of psoriasis – inflamed, itchy and sometimes flaky areas of skin – are usually combated with an ointment that is applied locally. In addition, there are pharmacological having an effect throughout the body.\n\nTherapies of this kind are typically commenced when a phase of psoriasis flares up. “This means that with the existing therapies, we are practically always lagging behind the symptoms,” says Fussenegger. The gene circuit implants, on the other hand, lend themselves well to prevention: “The circuit begins producing anti-inflammatory messengers at an early stage – when a phase is looming at the level of inflammatory messengers, instead of waiting until skin rashes appear.”"
+    },
+    {
+      "heading": "Other inflammatory diseases",
+      "text": "The successful experiments in mice were a feasibility study, says Fussenegger. Whether and when designer cells of this kind can be used in humans remains to be seen. However, he says it is conceivable that such cells will one day also be implanted into psoriasis patients. Since growth in connective tissue could cut the implant off from the bloodstream over time, a doctor would probably have to replace it every few months.\n\nBiological circuits of this kind with AND gates may also be suitable for other diseases. Fussenegger says: “Chronic inflammatory diseases are a good example of the type of disease that cannot be diagnosed by measuring a single molecule.” However, generally such diseases could be diagnosed using a designer cell that measures the profile of several messengers in the bloodstream. And if this designer cell were also to produce therapeutic molecules, it would open up promising treatment options for a wide range of diseases in the future."
+    },
+    {
+      "heading": "Reference",
+      "text": "Schukur L, Geering B, Charpin-El Hamri G, Fussenegger M: Implantable synthetic cytokine converter cells with AND-gate logic treat experimental psoriasis. Science Translational Medicine 2015, 7: 318ra201, doi: 10.1126/scitranslmed.aac4964\n\nETH Zurich Medienstelle Phone: +41 44 632 41 41\n\nETH Zurich Prof. Martin Fussenegger Phone: +41 61 387 31 60"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Martin Fussenegger",
+        "label": "PERSON",
+        "start": 14,
+        "end": 32
+      },
+      {
+        "text": "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 262,
+        "end": 323
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 327,
+        "end": 332
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 794,
+        "end": 797
+      },
+      {
+        "text": "Y.",
+        "label": "PERSON",
+        "start": 899,
+        "end": 901
+      },
+      {
+        "text": "Fussenegger",
+        "label": "PERSON",
+        "start": 1048,
+        "end": 1059
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 92,
+        "end": 97
+      },
+      {
+        "text": "TNF",
+        "label": "ORG",
+        "start": 243,
+        "end": 246
+      },
+      {
+        "text": "Second",
+        "label": "ORDINAL",
+        "start": 258,
+        "end": 264
+      },
+      {
+        "text": "IL-10",
+        "label": "PRODUCT",
+        "start": 388,
+        "end": 393
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 424,
+        "end": 427
+      },
+      {
+        "text": "TNF",
+        "label": "ORG",
+        "start": 478,
+        "end": 481
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 516,
+        "end": 519
+      },
+      {
+        "text": "IL-10",
+        "label": "PRODUCT",
+        "start": 621,
+        "end": 626
+      },
+      {
+        "text": "Fussenegger",
+        "label": "PERSON",
+        "start": 740,
+        "end": 751
+      },
+      {
+        "text": "6,000",
+        "label": "CARDINAL",
+        "start": 166,
+        "end": 171
+      },
+      {
+        "text": "Fussenegger",
+        "label": "PERSON",
+        "start": 421,
+        "end": 432
+      },
+      {
+        "text": "Fussenegger",
+        "label": "PERSON",
+        "start": 66,
+        "end": 77
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 222,
+        "end": 229
+      },
+      {
+        "text": "every few months",
+        "label": "DATE",
+        "start": 408,
+        "end": 424
+      },
+      {
+        "text": "Schukur L",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Charpin-El Hamri G",
+        "label": "ORG",
+        "start": 22,
+        "end": 40
+      },
+      {
+        "text": "318ra201",
+        "label": "CARDINAL",
+        "start": 194,
+        "end": 202
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 209,
+        "end": 216
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 238,
+        "end": 248
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 286,
+        "end": 296
+      },
+      {
+        "text": "Martin Fussenegger Phone",
+        "label": "PERSON",
+        "start": 303,
+        "end": 327
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fussenegger",
+        "Martin Fussenegger",
+        "Martin Fussenegger Phone",
+        "Schukur L",
+        "Y."
+      ],
+      "ORG": [
+        "Charpin-El Hamri G",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "En News",
+        "TNF"
+      ],
+      "LOCATION": [
+        "Basel"
+      ],
+      "DATE": [
+        "every few months",
+        "one day"
+      ],
+      "MISC": [
+        "10.1126",
+        "318ra201",
+        "6,000",
+        "IL-10",
+        "Second",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Fussenegger": 4,
+      "two": 3,
+      "ETH": 2,
+      "TNF": 2,
+      "IL-10": 2,
+      "ETH Zurich": 2,
+      "En News": 1,
+      "Martin Fussenegger": 1,
+      "ETH Zurich’s Department of Biosystems Science and Engineering": 1,
+      "Basel": 1,
+      "Y.": 1,
+      "first": 1,
+      "Second": 1,
+      "6,000": 1,
+      "one day": 1,
+      "every few months": 1,
+      "Schukur L": 1,
+      "Charpin-El Hamri G": 1,
+      "318ra201": 1,
+      "10.1126": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "implant-acts-as-a-countermeasure.md",
+      "title": "En News Events/2015/12/implant Acts As A Countermeasure",
+      "language": "en",
+      "source_path": "en_news_events/2015/12/implant-acts-as-a-countermeasure.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Fussenegger",
+        "Martin Fussenegger",
+        "Martin Fussenegger Phone",
+        "Schukur L",
+        "Y."
+      ],
+      "people_with_roles": {
+        "Fussenegger": [
+          "professor"
+        ],
+        "Martin Fussenegger": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1126",
+        "318ra201",
+        "6,000",
+        "IL-10",
+        "Second",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Charpin-El",
+        "A Countermeasure",
+        "Hamri G",
+        "En News",
+        "Medienstelle Phone",
+        "ETH Zurich",
+        "ETH Professor",
+        "Schukur L",
+        "Biosystems Science",
+        "Fussenegger M",
+        "Martin Fussenegger",
+        "Acts As",
+        "Geering B",
+        "Science Translational"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering in Basel have now succeeded in developing a molecular prosthesis of this kind where the functions are far more complex than before"
+      ],
+      "institutions": [
+        "Charpin-El Hamri G",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "En News",
+        "TNF"
+      ],
+      "locations": [
+        "Basel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Fussenegger",
+        "two",
+        "ETH",
+        "TNF",
+        "IL-10",
+        "ETH Zurich",
+        "En News",
+        "Martin Fussenegger",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "Basel"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Prosthesis supports the immune system",
+          "Prosthesis supports the immune system",
+          "Designer cells in a porous capsule",
+          "Circuits as an early-warning system",
+          "Other inflammatory diseases",
+          "Reference"
+        ],
+        "content_length": 4914
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "Charpin-El Hamri G",
+        "En News",
+        "Y.",
+        "EU",
+        "Martin Fussenegger Phone",
+        "ETH Zurich",
+        "TNF",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "Fussenegger",
+        "Schukur L",
+        "Martin Fussenegger"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "318ra201",
+        "first",
+        "Second",
+        "who",
+        "chemistry",
+        "10.1126",
+        "IL-10",
+        "biology",
+        "6,000",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Fussenegger_has_role_professor",
+        "Martin Fussenegger_has_role_Professor",
+        "Martin Fussenegger_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

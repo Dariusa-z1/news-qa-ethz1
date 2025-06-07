@@ -1,0 +1,167 @@
+{
+  "filename": "neu-zugriff-auf-nature-plants.md",
+  "original_filename": "neu-zugriff-auf-nature-plants.html",
+  "source_path": "de_internal/2015/04/neu-zugriff-auf-nature-plants.html",
+  "date": "2015-04",
+  "title": "Neu Zugriff Auf Nature Plants",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die ETH-Bibliothek bietet ab sofort den Zugriff auf externe Seite Nature Plants an. Die neuste Zeitschrift der Nature Publishing Group veröffentlicht Forschungsbeiträge zur Molekularbiologie, Physiologie und Ökologie der Pflanzen sowie der Interaktion zwischen den Menschen und dem Pflanzenreich.\n\nDer Zugriff auf diese Datenbank ist aus lizenzrechtlichen Gründen auf die Domain ethz.ch beschränkt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/04/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Nature Plants",
+        "label": "LOC",
+        "start": 36,
+        "end": 49
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "Nature Plants",
+        "label": "PER",
+        "start": 66,
+        "end": 79
+      },
+      {
+        "text": "Nature Publishing Group",
+        "label": "ORG",
+        "start": 111,
+        "end": 134
+      },
+      {
+        "text": "Pflanzenreich",
+        "label": "LOC",
+        "start": 282,
+        "end": 295
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Nature Plants"
+      ],
+      "ORG": [
+        "ETH-Bibliothek",
+        "Nature Publishing Group"
+      ],
+      "LOCATION": [
+        "De Internal/2015/04/",
+        "Nature Plants",
+        "Pflanzenreich"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Nature Plants": 2,
+      "De Internal/2015/04/": 1,
+      "ETH-Bibliothek": 1,
+      "Nature Publishing Group": 1,
+      "Pflanzenreich": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neu-zugriff-auf-nature-plants.md",
+      "title": "De Internal/2015/04/neu Zugriff auf Nature Plants",
+      "language": "de",
+      "source_path": "de_internal/2015/04/neu-zugriff-auf-nature-plants.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Nature Plants"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Nature Plants",
+        "De Internal",
+        "Nature Publishing",
+        "Seite Nature",
+        "Der Zugriff",
+        "Die ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Bibliothek",
+        "Nature Publishing Group"
+      ],
+      "locations": [
+        "De Internal/2015/04/",
+        "Nature Plants",
+        "Pflanzenreich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "Nature Plants",
+        "De Internal/2015/04/",
+        "ETH-Bibliothek",
+        "Nature Publishing Group",
+        "Pflanzenreich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 448
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "2015",
+        "Nature Plants",
+        "EU",
+        "Nature Publishing Group"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

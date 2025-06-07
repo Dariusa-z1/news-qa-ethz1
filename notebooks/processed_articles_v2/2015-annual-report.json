@@ -1,0 +1,474 @@
+{
+  "filename": "2015-annual-report.md",
+  "original_filename": "2015-annual-report.html",
+  "source_path": "en_news_events/2016/04/2015-annual-report.html",
+  "date": "2016-04",
+  "title": "2015 Annual Report",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Continuing growth",
+      "text": "Each year, ETH Zurich publicly discloses details of its performance and services rendered. This year, the annual report comes in a new format for the first time: a status report, which summarises the key events and developments at the university, and a detailed annual financial statement in line with the International Public Sector Accounting Standards (IPSAS). The annual report is also now available in three languages: German, English and French."
+    },
+    {
+      "heading": "Continuing growth",
+      "text": "The annual report is clear evidence that ETH can look back on a successful year. The number of students has again risen slightly, with over 19,000 young men and women now studying at ETH Zurich. It is pleasing to see that the share of women starting at undergraduate level has increased to 32%.\n\nIn research too, ETH Zurich can look back on a great number of successes over the past year. Whether in health or environmental sciences, astronomy or quantum physics, researchers at ETH Zurich published a wide range of new findings in 2015. This once again highlights that collaboration with industry and society is an important instrument in driving research forward into pioneering areas; for example, donations from third parties enabled the university to build the Zurich Information Security and Privacy Center and the World Food System Center.\n\nConversely, ETH Zurich has itself also acted as an important instigator in industry: 25 new spin-off companies, nearly 100 patents and numerous collaborations with companies from a wide range of different sectors all go to show just how important ETH was to the local economy in 2015.\n\nThe university's growth can also be seen in its financial performance. ETH Zurich's operating revenue amounted to CHF 1712 million in 2015, an increase of 1% on the previous year. Around two thirds of this revenue originated from basic government funding, with the remainder coming from third parties. Operating expenses came to CHF 1605 million, or 2% higher than the previous year."
+    },
+    {
+      "heading": "How to access the annual report",
+      "text": "Archive annual reports 2002-2014"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Each year",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 91,
+        "end": 100
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 106,
+        "end": 112
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 150,
+        "end": 155
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 262,
+        "end": 268
+      },
+      {
+        "text": "the International Public Sector Accounting Standards",
+        "label": "ORG",
+        "start": 302,
+        "end": 354
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 368,
+        "end": 374
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 407,
+        "end": 412
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 424,
+        "end": 430
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 432,
+        "end": 439
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "start": 444,
+        "end": 450
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 4,
+        "end": 10
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "19,000",
+        "label": "CARDINAL",
+        "start": 140,
+        "end": 146
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 183,
+        "end": 193
+      },
+      {
+        "text": "32%",
+        "label": "PERCENT",
+        "start": 290,
+        "end": 293
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 312,
+        "end": 322
+      },
+      {
+        "text": "the past year",
+        "label": "DATE",
+        "start": 373,
+        "end": 386
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 478,
+        "end": 488
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 715,
+        "end": 720
+      },
+      {
+        "text": "the Zurich Information Security",
+        "label": "ORG",
+        "start": 761,
+        "end": 792
+      },
+      {
+        "text": "Privacy Center",
+        "label": "ORG",
+        "start": 797,
+        "end": 811
+      },
+      {
+        "text": "the World Food System Center",
+        "label": "ORG",
+        "start": 816,
+        "end": 844
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 858,
+        "end": 868
+      },
+      {
+        "text": "nearly 100",
+        "label": "CARDINAL",
+        "start": 958,
+        "end": 968
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1093,
+        "end": 1096
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 1202,
+        "end": 1214
+      },
+      {
+        "text": "1712 million",
+        "label": "CARDINAL",
+        "start": 1249,
+        "end": 1261
+      },
+      {
+        "text": "1%",
+        "label": "PERCENT",
+        "start": 1286,
+        "end": 1288
+      },
+      {
+        "text": "the previous year",
+        "label": "DATE",
+        "start": 1292,
+        "end": 1309
+      },
+      {
+        "text": "Around two thirds",
+        "label": "CARDINAL",
+        "start": 1311,
+        "end": 1328
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 1418,
+        "end": 1423
+      },
+      {
+        "text": "1605 million",
+        "label": "CARDINAL",
+        "start": 1464,
+        "end": 1476
+      },
+      {
+        "text": "2%",
+        "label": "PERCENT",
+        "start": 1481,
+        "end": 1483
+      },
+      {
+        "text": "the previous year",
+        "label": "DATE",
+        "start": 1496,
+        "end": 1513
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 8,
+        "end": 14
+      },
+      {
+        "text": "2002-2014",
+        "label": "DATE",
+        "start": 23,
+        "end": 32
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich's"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Privacy Center",
+        "the International Public Sector Accounting Standards",
+        "the World Food System Center",
+        "the Zurich Information Security"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "2002-2014",
+        "Each year",
+        "This year",
+        "annual",
+        "the past year",
+        "the previous year"
+      ],
+      "MISC": [
+        "1%",
+        "1605 million",
+        "1712 million",
+        "19,000",
+        "2%",
+        "32%",
+        "Around two thirds",
+        "English",
+        "French",
+        "German",
+        "first",
+        "nearly 100",
+        "third",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 5,
+      "annual": 5,
+      "ETH": 2,
+      "third": 2,
+      "the previous year": 2,
+      "Each year": 1,
+      "This year": 1,
+      "first": 1,
+      "the International Public Sector Accounting Standards": 1,
+      "three": 1,
+      "German": 1,
+      "English": 1,
+      "French": 1,
+      "19,000": 1,
+      "32%": 1,
+      "the past year": 1,
+      "the Zurich Information Security": 1,
+      "Privacy Center": 1,
+      "the World Food System Center": 1,
+      "nearly 100": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "2015-annual-report.md",
+      "title": "En News Events/2016/04/2015 Annual Report",
+      "language": "en",
+      "source_path": "en_news_events/2016/04/2015-annual-report.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2002",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich's"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "1605 million",
+        "1712 million",
+        "19,000",
+        "Around two thirds",
+        "English",
+        "French",
+        "German",
+        "first",
+        "nearly 100",
+        "third",
+        "three"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Sector Accounting",
+        "En News",
+        "System Center",
+        "International Public",
+        "World Food",
+        "Privacy Center",
+        "Annual Report",
+        "Zurich Information",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Privacy Center",
+        "the International Public Sector Accounting Standards",
+        "the World Food System Center",
+        "the Zurich Information Security"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "annual",
+        "ETH",
+        "third",
+        "the previous year",
+        "Each year",
+        "This year",
+        "first",
+        "the International Public Sector Accounting Standards",
+        "three"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Continuing growth",
+          "Continuing growth",
+          "How to access the annual report"
+        ],
+        "content_length": 2044
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2002",
+        "ETH",
+        "2014",
+        "2015",
+        "the Zurich Information Security",
+        "2016",
+        "the World Food System Center",
+        "Privacy Center",
+        "funding",
+        "ETH Zurich",
+        "the International Public Sector Accounting Standards",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "1712 million",
+        "three",
+        "Around two thirds",
+        "when",
+        "19,000",
+        "nearly 100",
+        "third",
+        "French",
+        "medical_research",
+        "who",
+        "English",
+        "what",
+        "how",
+        "physics",
+        "first",
+        "1605 million",
+        "German",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "filename": "eth-domain-construction-programme-for-2016.md",
+  "original_filename": "eth-domain-construction-programme-for-2016.html",
+  "source_path": "en_internal/2015/06/eth-domain-construction-programme-for-2016.html",
+  "date": "2015-06",
+  "title": "Eth Domain Construction Programme For 2016",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "For plans and projects below ten million francs, the ETH Domain is applying to the Federal Council and to Parliament for a framework credit of 173.4 million francs. This credit line proposed to Parliament by the Federal Council is based on the ETH's 2013-2016 Strategic Plan for ETH Zurich, EPFL and the four research institutions of the ETH Domain (PSI, WSL, Empa, Eawag). In a comparison spanning several years, the volume of the 2016 construction programme is below average. There is no application for any major individual project in excess of ten million francs.\n\nA challenge is the provision in good time of the infrastructure necessary in view of the continuing increase of the numbers of students, teachers and researchers, changing user requirements and available resources. In terms of real-estate management, 2016 will be characterised by a more efficient, more economical and an eco-friendlier energy supply to all the premises."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Domain Construction Programme",
+        "label": "ORG",
+        "start": 24,
+        "end": 53
+      },
+      {
+        "text": "ten million francs",
+        "label": "MONEY",
+        "start": 29,
+        "end": 47
+      },
+      {
+        "text": "the ETH Domain",
+        "label": "ORG",
+        "start": 49,
+        "end": 63
+      },
+      {
+        "text": "the Federal Council",
+        "label": "ORG",
+        "start": 79,
+        "end": 98
+      },
+      {
+        "text": "Parliament",
+        "label": "ORG",
+        "start": 106,
+        "end": 116
+      },
+      {
+        "text": "173.4 million francs",
+        "label": "MONEY",
+        "start": 143,
+        "end": 163
+      },
+      {
+        "text": "Parliament",
+        "label": "ORG",
+        "start": 194,
+        "end": 204
+      },
+      {
+        "text": "the Federal Council",
+        "label": "ORG",
+        "start": 208,
+        "end": 227
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 244,
+        "end": 247
+      },
+      {
+        "text": "2013-2016",
+        "label": "DATE",
+        "start": 250,
+        "end": 259
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 279,
+        "end": 289
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 291,
+        "end": 295
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 304,
+        "end": 308
+      },
+      {
+        "text": "the ETH Domain",
+        "label": "ORG",
+        "start": 334,
+        "end": 348
+      },
+      {
+        "text": "PSI",
+        "label": "ORG",
+        "start": 350,
+        "end": 353
+      },
+      {
+        "text": "WSL",
+        "label": "ORG",
+        "start": 355,
+        "end": 358
+      },
+      {
+        "text": "Empa",
+        "label": "ORG",
+        "start": 360,
+        "end": 364
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 399,
+        "end": 412
+      },
+      {
+        "text": "ten million francs",
+        "label": "MONEY",
+        "start": 548,
+        "end": 566
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Domain Construction Programme",
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "Empa",
+        "PSI",
+        "Parliament",
+        "WSL",
+        "the ETH Domain",
+        "the Federal Council"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "2013-2016",
+        "several years"
+      ],
+      "MISC": [
+        "173.4 million francs",
+        "four",
+        "ten million francs"
+      ]
+    },
+    "entity_counts": {
+      "ten million francs": 2,
+      "the ETH Domain": 2,
+      "the Federal Council": 2,
+      "Parliament": 2,
+      "Domain Construction Programme": 1,
+      "173.4 million francs": 1,
+      "ETH": 1,
+      "2013-2016": 1,
+      "ETH Zurich": 1,
+      "EPFL": 1,
+      "four": 1,
+      "PSI": 1,
+      "WSL": 1,
+      "Empa": 1,
+      "several years": 1
+    },
+    "total_entities": 19,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-domain-construction-programme-for-2016.md",
+      "title": "En Internal/2015/06/eth Domain Construction Programme For 2016",
+      "language": "en",
+      "source_path": "en_internal/2015/06/eth-domain-construction-programme-for-2016.html"
+    },
+    "temporal": {
+      "publication_date": "2015-06",
+      "mentioned_years": [
+        "2013",
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "173.4 million francs",
+        "four",
+        "ten million francs"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Domain Construction",
+        "ETH Domain",
+        "Programme For",
+        "En Internal",
+        "Federal Council",
+        "ETH Zurich",
+        "Strategic Plan"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Domain Construction Programme",
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "Empa",
+        "PSI",
+        "Parliament",
+        "WSL",
+        "the ETH Domain",
+        "the Federal Council"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ten million francs",
+        "the ETH Domain",
+        "the Federal Council",
+        "Parliament",
+        "Domain Construction Programme",
+        "173.4 million francs",
+        "ETH",
+        "2013-2016",
+        "ETH Zurich",
+        "EPFL"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1003
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "ETH",
+        "WSL",
+        "2015",
+        "Parliament",
+        "2013",
+        "Domain Construction Programme",
+        "2016",
+        "the ETH Domain",
+        "PSI",
+        "ETH Zurich",
+        "the Federal Council",
+        "Empa"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ten million francs",
+        "four",
+        "who",
+        "173.4 million francs",
+        "what",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

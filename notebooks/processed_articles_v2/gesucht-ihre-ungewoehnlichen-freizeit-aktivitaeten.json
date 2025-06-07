@@ -1,0 +1,180 @@
+{
+  "filename": "gesucht-ihre-ungewoehnlichen-freizeit-aktivitaeten.md",
+  "original_filename": "gesucht-ihre-ungewoehnlichen-freizeit-aktivitaeten.html",
+  "source_path": "de_internal/2024/01/gesucht-ihre-ungewoehnlichen-freizeit-aktivitaeten.html",
+  "date": "2024-01",
+  "title": "Gesucht Ihre Ungewoehnlichen Freizeit Aktivitaeten",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Ihre Freizeit-Gruppe im life",
+      "text": "Für die Frühlingsausgabe des life-Magazins suchen wir solche und auch weniger ausgefallene Aktivitäten, die ETH-Angehörige gemeinsam unternehmen. Wir möchten Gruppen und Netzwerke portraitieren, die sich auch ausserhalb der Arbeit regelmässig für bestimmte Aktivitäten treffen.\n\nSchreiben Sie uns in wenigen Sätzen von ihren Freizeit- und Feierabendgruppen und inspirieren Sie damit andere in der ETH-Community. Schreiben Sie uns gerne auch, wenn Sie für Ihre Aktivitäten erst noch Gleichgesinnte suchen."
+    },
+    {
+      "heading": "Ihre Freizeit-Gruppe im life",
+      "text": "Schicken Sie die Beschreibung ihrer gemeinsamen Freizeit-Aktivität oder der Aktivität, für die Sie noch andere ETH-Angehörige suchen, per Mail bis spätestens am 8. Februar an Michael Walther ( ), gerne auch mit Fotos. Die Redaktion wählt aus den eingesandten Vorschlägen einige aus, die wir in der April-Ausgabe des life-Magazins präsentieren."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/01/gesucht",
+        "label": "LOC",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "life-Magazins",
+        "label": "LOC",
+        "start": 29,
+        "end": 42
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 108,
+        "end": 122
+      },
+      {
+        "text": "ETH-Community",
+        "label": "MISC",
+        "start": 396,
+        "end": 409
+      },
+      {
+        "text": "Freizeit-Aktivität",
+        "label": "ORG",
+        "start": 48,
+        "end": 66
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 111,
+        "end": 125
+      },
+      {
+        "text": "Michael Walther",
+        "label": "PER",
+        "start": 175,
+        "end": 190
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Michael Walther"
+      ],
+      "ORG": [
+        "Freizeit-Aktivität"
+      ],
+      "LOCATION": [
+        "De Internal/2024/01/gesucht",
+        "life-Magazins"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige",
+        "ETH-Community"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Angehörige": 2,
+      "De Internal/2024/01/gesucht": 1,
+      "life-Magazins": 1,
+      "ETH-Community": 1,
+      "Freizeit-Aktivität": 1,
+      "Michael Walther": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "gesucht-ihre-ungewoehnlichen-freizeit-aktivitaeten.md",
+      "title": "De Internal/2024/01/gesucht Ihre Ungewoehnlichen Freizeit Aktivitaeten",
+      "language": "de",
+      "source_path": "de_internal/2024/01/gesucht-ihre-ungewoehnlichen-freizeit-aktivitaeten.html"
+    },
+    "temporal": {
+      "publication_date": "2024-01",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Michael Walther"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Angehörige",
+        "ETH-Community"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Community",
+        "Freizeit Aktivitaeten",
+        "Michael Walther",
+        "De Internal",
+        "April-Ausgabe",
+        "Die Redaktion",
+        "Schicken Sie",
+        "Ihre Ungewoehnlichen",
+        "Schreiben Sie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Freizeit-Aktivität"
+      ],
+      "locations": [
+        "De Internal/2024/01/gesucht",
+        "life-Magazins"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Angehörige",
+        "De Internal/2024/01/gesucht",
+        "life-Magazins",
+        "ETH-Community",
+        "Freizeit-Aktivität",
+        "Michael Walther"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Ihre Freizeit-Gruppe im life",
+          "Ihre Freizeit-Gruppe im life"
+        ],
+        "content_length": 919
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "Michael Walther",
+        "Freizeit-Aktivität"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Angehörige",
+        "ETH-Community"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

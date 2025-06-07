@@ -1,0 +1,192 @@
+{
+  "filename": "de_internal_2015_01_eth-woche---fordere-die-zukunft-heraus.md",
+  "original_filename": "de_internal_2015_01_eth-woche---fordere-die-zukunft-heraus.html",
+  "source_path": "de_internal/2015/01/eth-woche---fordere-die-zukunft-heraus.html",
+  "date": "2015-01",
+  "title": "Eth Woche Fordere Die Zukunft Heraus",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Ernährung: Gesund. Gerecht. Genug für alle.",
+      "text": "Die ETH Woche ist eine Veranstaltung der Critical Thinking Initiative und fördert kritisches Denken, innovatives Lernen und nachhaltiges Handeln.\n\nDas Thema der ersten ETH Woche ist so komplex wie relevant: Die globale Ernährungssituation im 21. Jahrhundert. Um sie zu verstehen ist ökologisches, landwirtschaftliches und technisches Wissen im Kontext politischer, wirtschaftlicher und gesellschaftlicher Systeme erforderlich.\n\nOrt: ETH Zürich Hönggerberg, volles Tagesprogramm Kostenlose Verpflegung und Übernachtung Datum: Sonntag 6.9.2015 bis Freitag 11.9.2015. Unterrichtssprache: Englisch\n\nWer? Die ETH Woche ist offen für 150 Bachelorstudierende aus allen 16 Departementen, die im September 2015 mindestens das 4. Semester beendet haben werden.\n\nAnmeldungen : Die definitiven Anmeldungen werden ab Mitte Februar bis zum 18. April 2015 entgegen genommen. Die definitive Aufnahmebestätigung erfolgt bis spätestens zum 30. April 2015.\n\nWeitere Informationen"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/01",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Heraus",
+        "label": "PER",
+        "start": 50,
+        "end": 56
+      },
+      {
+        "text": "ETH Woche",
+        "label": "ORG",
+        "start": 4,
+        "end": 13
+      },
+      {
+        "text": "Critical Thinking Initiative",
+        "label": "ORG",
+        "start": 41,
+        "end": 69
+      },
+      {
+        "text": "ETH Woche",
+        "label": "ORG",
+        "start": 167,
+        "end": 176
+      },
+      {
+        "text": "ETH Zürich Hönggerberg",
+        "label": "ORG",
+        "start": 431,
+        "end": 453
+      },
+      {
+        "text": "Sonntag 6.9.2015",
+        "label": "MISC",
+        "start": 523,
+        "end": 539
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 583,
+        "end": 591
+      },
+      {
+        "text": "ETH Woche",
+        "label": "ORG",
+        "start": 601,
+        "end": 610
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Heraus"
+      ],
+      "ORG": [
+        "Critical Thinking Initiative",
+        "ETH Woche",
+        "ETH Zürich Hönggerberg"
+      ],
+      "LOCATION": [
+        "De Internal/2015/01"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Englisch",
+        "Sonntag 6.9.2015"
+      ]
+    },
+    "entity_counts": {
+      "ETH Woche": 3,
+      "De Internal/2015/01": 1,
+      "Heraus": 1,
+      "Critical Thinking Initiative": 1,
+      "ETH Zürich Hönggerberg": 1,
+      "Sonntag 6.9.2015": 1,
+      "Englisch": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2015_01_eth-woche---fordere-die-zukunft-heraus.md",
+      "title": "De Internal/2015/01/eth Woche Fordere die Zukunft Heraus",
+      "language": "de",
+      "source_path": "de_internal/2015/01/eth-woche---fordere-die-zukunft-heraus.html"
+    },
+    "temporal": {
+      "publication_date": "2015-01",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Heraus"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Englisch",
+        "Sonntag 6.9.2015"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Critical Thinking",
+        "Weitere Informationen",
+        "De Internal",
+        "Das Thema",
+        "Die ETH",
+        "ETH Woche",
+        "Tagesprogramm Kostenlose",
+        "Woche Fordere",
+        "Mitte Februar",
+        "Zukunft Heraus"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Critical Thinking Initiative",
+        "ETH Woche",
+        "ETH Zürich Hönggerberg"
+      ],
+      "locations": [
+        "De Internal/2015/01"
+      ],
+      "programs": [
+        "program",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Woche",
+        "De Internal/2015/01",
+        "Heraus",
+        "Critical Thinking Initiative",
+        "ETH Zürich Hönggerberg",
+        "Sonntag 6.9.2015",
+        "Englisch"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Ernährung: Gesund. Gerecht. Genug für alle."
+        ],
+        "content_length": 1017
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich Hönggerberg",
+        "2015",
+        "Heraus",
+        "ETH Woche",
+        "Critical Thinking Initiative"
+      ],
+      "semantic_concepts": [
+        "Sonntag 6.9.2015",
+        "Englisch"
+      ],
+      "graph_relations": []
+    }
+  }
+}

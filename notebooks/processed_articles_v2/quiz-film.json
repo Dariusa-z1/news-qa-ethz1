@@ -1,0 +1,189 @@
+{
+  "filename": "quiz-film.md",
+  "original_filename": "quiz-film.html",
+  "source_path": "en_news_events/2019/09/quiz-film.html",
+  "date": "2019-09",
+  "title": "Quiz Film",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Would you have believed it? In our quiz series, we take you on a tour of discovery through remarkable, peculiar and fun facts from the research and teaching of ETH Zurich. This issue is dedicated to the world of the big picture. By the way, ETH Zurich also features as part of the fringe programme at ZFF. From 30 September to 4 October at the Folium, Sihlcity, visitors can try out ETH's Digital Platform, among other things, encounter a jumping robot or immerse themselves in virtual worlds with an interactive glove. The DisneyResearch|Studios also have some surprises to offer. The exhibition will open on 28 September at 5.00 p.m."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 160,
+        "end": 170
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 241,
+        "end": 251
+      },
+      {
+        "text": "ZFF",
+        "label": "ORG",
+        "start": 301,
+        "end": 304
+      },
+      {
+        "text": "30 September to 4 October",
+        "label": "DATE",
+        "start": 311,
+        "end": 336
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 383,
+        "end": 386
+      },
+      {
+        "text": "Digital Platform",
+        "label": "ORG",
+        "start": 389,
+        "end": 405
+      },
+      {
+        "text": "DisneyResearch|Studios",
+        "label": "NORP",
+        "start": 524,
+        "end": 546
+      },
+      {
+        "text": "28 September",
+        "label": "DATE",
+        "start": 610,
+        "end": 622
+      },
+      {
+        "text": "5.00 p.m.",
+        "label": "TIME",
+        "start": 626,
+        "end": 635
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "Digital Platform",
+        "ETH",
+        "ZFF"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "28 September",
+        "30 September to 4 October",
+        "5.00 p.m."
+      ],
+      "MISC": [
+        "DisneyResearch|Studios"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "ZFF": 1,
+      "30 September to 4 October": 1,
+      "ETH": 1,
+      "Digital Platform": 1,
+      "DisneyResearch|Studios": 1,
+      "28 September": 1,
+      "5.00 p.m.": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "quiz-film.md",
+      "title": "En News Events/2019/09/quiz Film",
+      "language": "en",
+      "source_path": "en_news_events/2019/09/quiz-film.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "DisneyResearch|Studios"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Film Would",
+        "Digital Platform",
+        "ETH Zurich",
+        "The DisneyResearch"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Digital Platform",
+        "ETH",
+        "ZFF"
+      ],
+      "locations": [],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ZFF",
+        "30 September to 4 October",
+        "ETH",
+        "Digital Platform",
+        "DisneyResearch|Studios",
+        "28 September",
+        "5.00 p.m."
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 668
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "ZFF",
+        "2019",
+        "Digital Platform",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "DisneyResearch|Studios",
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

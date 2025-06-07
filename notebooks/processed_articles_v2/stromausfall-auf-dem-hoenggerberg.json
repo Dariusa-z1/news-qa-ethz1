@@ -1,0 +1,413 @@
+{
+  "filename": "stromausfall-auf-dem-hoenggerberg.md",
+  "original_filename": "stromausfall-auf-dem-hoenggerberg.html",
+  "source_path": "en_internal/2023/01/stromausfall-auf-dem-hoenggerberg.html",
+  "date": "2023-01",
+  "title": "Stromausfall Auf Dem Hoenggerberg",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Building evacuated, but no injuries",
+      "text": "- First things first: don’t panic – the power will come back on.\n\n- Switch off any potential hazards and minimise the risk of injury: switch off any equipment that could become a potential hazard when power is restored (e.g. hotplates, ovens, rotating tools such as circular saws, etc.).\n\n- Unplug any electrical equipment that you do not absolutely need. When power is restored, this will reduce the burden on the grid so that it is not overloaded.\n\n- Conserve battery power: use battery-operated devices sparingly.\n\n- Do not use lifts.\n\n- Please also note that you can leave a building at any time, whereas it is not possible to enter a building\n\nA fault in a medium-voltage installation triggered a power outage on the Hönggerberg campus on Wednesday. (Photo: ETH Zurich/Facility Services)\n\nAt 11.20 a.m. on Wednesday, a fault occurred in a medium-voltage installation in the HPM building. The fault was caused by a voltage transformer and caused the power to short-circuit. This short circuit was so severe that a circuit breaker failed in the EWZ substation that supplies the Hönggerberg with power. “As a result, there was a power outage across the entire campus for just under 15 minutes,” says Rainer Schwab from Facility Services, who is responsible for facility management on the Hönggerberg campus.\n\nIn addition, the two emergency generators in the HEZ building, which supply power to the Hönggerberg campus in such situations, did not start immediately and were therefore unable to bridge the gap in supply. The cause of this fault is now being clarified in detail with the help of external specialists. To be on the safe side, the emergency generators on the Zentrum campus are also being examined."
+    },
+    {
+      "heading": "Building evacuated, but no injuries",
+      "text": "Luckily, no one was injured as a result of the fault or the power outage. However, the incident was attended by the fire, ambulance and police services, and about 150 ETH members who work in the HPM building were evacuated. “The evacuation was carried out in a calm and orderly fashion, as was the release of a person trapped in a lift,” says Silke Kiesewetter, interim head of Safety, Security, Health and Environment (SSHE). “The infrastructure on the Hönggerberg campus is now operating normally again, and we would like to thank all those affected for their cooperation and understanding.”"
+    },
+    {
+      "heading": "Emergency Desk available at all times",
+      "text": "One positive finding on Wednesday was that the Emergency Desk remained operational and available at all times during the power outage. In connection with the power failure, the infrastructure division of ETH (VPIN) is also clarifying other aspects, such as the triggering of a fire warning in the neighbouring HPL building and the locking management of doors. Work is also underway to clarify whether the power outage led to damage in specific research laboratories – research groups in whose laboratories the outage led to damage to research equipment should complete a )."
+    },
+    {
+      "heading": "What to do in the event of a power outage",
+      "text": "Based on the experiences of Wednesday and questions asked by ETH members, SSHE recommends the following code of conduct:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "dem Hoenggerberg",
+        "label": "PERSON",
+        "start": 37,
+        "end": 53
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 716,
+        "end": 727
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 738,
+        "end": 747
+      },
+      {
+        "text": "ETH Zurich/Facility Services",
+        "label": "ORG",
+        "start": 757,
+        "end": 785
+      },
+      {
+        "text": "11.20 a.m.",
+        "label": "TIME",
+        "start": 790,
+        "end": 800
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 804,
+        "end": 813
+      },
+      {
+        "text": "HPM",
+        "label": "PERSON",
+        "start": 872,
+        "end": 875
+      },
+      {
+        "text": "EWZ",
+        "label": "ORG",
+        "start": 1041,
+        "end": 1044
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 1074,
+        "end": 1085
+      },
+      {
+        "text": "just under 15 minutes",
+        "label": "TIME",
+        "start": 1166,
+        "end": 1187
+      },
+      {
+        "text": "Rainer Schwab",
+        "label": "PERSON",
+        "start": 1195,
+        "end": 1208
+      },
+      {
+        "text": "Facility Services",
+        "label": "ORG",
+        "start": 1214,
+        "end": 1231
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 1283,
+        "end": 1294
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1320,
+        "end": 1323
+      },
+      {
+        "text": "HEZ",
+        "label": "ORG",
+        "start": 1352,
+        "end": 1355
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 1392,
+        "end": 1403
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 1664,
+        "end": 1671
+      },
+      {
+        "text": "about 150",
+        "label": "CARDINAL",
+        "start": 157,
+        "end": 166
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 167,
+        "end": 170
+      },
+      {
+        "text": "HPM",
+        "label": "PERSON",
+        "start": 195,
+        "end": 198
+      },
+      {
+        "text": "Silke Kiesewetter",
+        "label": "PERSON",
+        "start": 343,
+        "end": 360
+      },
+      {
+        "text": "Safety, Security, Health and Environment",
+        "label": "ORG",
+        "start": 378,
+        "end": 418
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 454,
+        "end": 465
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 24,
+        "end": 33
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 204,
+        "end": 207
+      },
+      {
+        "text": "VPIN",
+        "label": "ORG",
+        "start": 209,
+        "end": 213
+      },
+      {
+        "text": "Wednesday",
+        "label": "DATE",
+        "start": 28,
+        "end": 37
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "text": "SSHE",
+        "label": "ORG",
+        "start": 74,
+        "end": 78
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "HPM",
+        "Hönggerberg",
+        "Rainer Schwab",
+        "Silke Kiesewetter",
+        "Zentrum",
+        "dem Hoenggerberg"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich/Facility Services",
+        "EWZ",
+        "Facility Services",
+        "HEZ",
+        "SSHE",
+        "Safety, Security, Health and Environment",
+        "VPIN"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "11.20 a.m.",
+        "Wednesday",
+        "just under 15 minutes"
+      ],
+      "MISC": [
+        "One",
+        "about 150",
+        "first",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Hönggerberg": 5,
+      "Wednesday": 4,
+      "ETH": 3,
+      "HPM": 2,
+      "dem Hoenggerberg": 1,
+      "first": 1,
+      "ETH Zurich/Facility Services": 1,
+      "11.20 a.m.": 1,
+      "EWZ": 1,
+      "just under 15 minutes": 1,
+      "Rainer Schwab": 1,
+      "Facility Services": 1,
+      "two": 1,
+      "HEZ": 1,
+      "Zentrum": 1,
+      "about 150": 1,
+      "Silke Kiesewetter": 1,
+      "Safety, Security, Health and Environment": 1,
+      "One": 1,
+      "VPIN": 1
+    },
+    "total_entities": 31,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "stromausfall-auf-dem-hoenggerberg.md",
+      "title": "En Internal/2023/01/stromausfall auf dem Hoenggerberg",
+      "language": "en",
+      "source_path": "en_internal/2023/01/stromausfall-auf-dem-hoenggerberg.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "HPM",
+        "Hönggerberg",
+        "Rainer Schwab",
+        "Silke Kiesewetter",
+        "Zentrum",
+        "dem Hoenggerberg"
+      ],
+      "people_with_roles": {
+        "Silke Kiesewetter": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "about 150",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Silke Kiesewetter",
+        "Facility Services",
+        "En Internal",
+        "Emergency Desk",
+        "Rainer Schwab",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich/Facility Services",
+        "EWZ",
+        "Facility Services",
+        "HEZ",
+        "SSHE",
+        "Safety, Security, Health and Environment",
+        "VPIN"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Hönggerberg",
+        "Wednesday",
+        "ETH",
+        "HPM",
+        "dem Hoenggerberg",
+        "first",
+        "ETH Zurich/Facility Services",
+        "11.20 a.m.",
+        "EWZ",
+        "just under 15 minutes"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Building evacuated, but no injuries",
+          "Building evacuated, but no injuries",
+          "Emergency Desk available at all times",
+          "What to do in the event of a power outage"
+        ],
+        "content_length": 3054
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "ETH",
+        "HEZ",
+        "HPM",
+        "SSHE",
+        "VPIN",
+        "Silke Kiesewetter",
+        "Zentrum",
+        "Safety, Security, Health and Environment",
+        "ETH Zurich/Facility Services",
+        "2023",
+        "Rainer Schwab",
+        "Facility Services",
+        "EWZ",
+        "dem Hoenggerberg"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "who",
+        "about 150",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Silke Kiesewetter_has_role_head",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

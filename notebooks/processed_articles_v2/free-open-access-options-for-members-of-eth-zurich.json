@@ -1,0 +1,154 @@
+{
+  "filename": "free-open-access-options-for-members-of-eth-zurich.md",
+  "original_filename": "free-open-access-options-for-members-of-eth-zurich.html",
+  "source_path": "en_internal/2016/03/free-open-access-options-for-members-of-eth-zurich.html",
+  "date": "2016-03",
+  "title": "Free Open Access Options For Members Of Eth Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "You can apply for vouchers for the journals of the Royal Society of Chemistry as well as for F1000 Research at the E-Publishing Office of ETH-Bibliothek.\n\nFor the journals of the Electrochemical Society , a free \"article credit\" will be activated, as soon as you choose the open-access option and give your affiliation to ETH Zurich when submitting your manuscript.\n\nPublishing in open-access journals: Funding"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Royal Society of Chemistry",
+        "label": "ORG",
+        "start": 47,
+        "end": 77
+      },
+      {
+        "text": "E-Publishing Office",
+        "label": "ORG",
+        "start": 115,
+        "end": 134
+      },
+      {
+        "text": "the Electrochemical Society",
+        "label": "ORG",
+        "start": 174,
+        "end": 201
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 321,
+        "end": 331
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "E-Publishing Office",
+        "the Electrochemical Society",
+        "the Royal Society of Chemistry"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "the Royal Society of Chemistry": 1,
+      "E-Publishing Office": 1,
+      "the Electrochemical Society": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "free-open-access-options-for-members-of-eth-zurich.md",
+      "title": "En Internal/2016/03/free Open Access Options For Members Of Eth Zurich",
+      "language": "en",
+      "source_path": "en_internal/2016/03/free-open-access-options-for-members-of-eth-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "chemistry"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Royal Society",
+        "Members Of",
+        "En Internal",
+        "ETH Zurich",
+        "Options For",
+        "Eth Zurich",
+        "Open Access",
+        "Electrochemical Society",
+        "E-Publishing"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "E-Publishing Office",
+        "the Electrochemical Society",
+        "the Royal Society of Chemistry"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "the Royal Society of Chemistry",
+        "E-Publishing Office",
+        "the Electrochemical Society",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 481
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Royal Society of Chemistry",
+        "E-Publishing Office",
+        "the Electrochemical Society",
+        "2016",
+        "funding",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "when",
+        "what",
+        "chemistry"
+      ],
+      "graph_relations": [
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

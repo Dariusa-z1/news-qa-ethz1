@@ -1,0 +1,195 @@
+{
+  "filename": "sie-ist-live-und-sie-ist-up-to-date-die-neue-website-der-eth-bibliothek.md",
+  "original_filename": "sie-ist-live-und-sie-ist-up-to-date-die-neue-website-der-eth-bibliothek.html",
+  "source_path": "en_internal/2020/08/sie-ist-live-und-sie-ist-up-to-date-die-neue-website-der-eth-bibliothek.html",
+  "date": "2020-08",
+  "title": "Sie Ist Live Und Sie Ist Up To Date Die Neue Website Der Eth Bibliothek",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The highlights",
+      "text": "- Knowledge is dazzling and colourful, it touches and moves you: you can find exciting news about library and research topics at a glance through linked sliders on topical focus points and current events.\n\n- Locations and media: Available for you: Where do you find books, images, videos and other media? Information about location addresses, online platforms, services and contact options in the overview.\n\n- Borrowing and ordering: If you search for, find and use physical and digital media: compact information from the search to the order process and the acquisition request.\n\n- Publishing and archiving: Would you like to publish and circulate your research results, and make them permanently available? We will support you and guide you through all legal, financial and organisational aspects.\n\n- News: What’s new? We use blogs and social media to keep you updated about events, services, courses and webinars.\n\n- About us: We are here for you: find out key information about positions and the organisation, about the collections and points of contact, about job descriptions and publications.\n\nWelcome to the updated digital cosmos of the ETH Library! The new website in the corporate design of ETH Zurich is visually attractive, structurally impressive and contains the latest content: What news is there in the world of research? How, when and where can I publish open access? How do I search for and use the physical and digital image holdings? Which courses and webinars can I attend at the ETH Library?\n\nUsers can use the new navigation feature to find relevant and concise information quickly and clearly – across all locations and fields of knowledge, on all topics and services."
+    },
+    {
+      "heading": "We would love to hear your feedback!",
+      "text": "We are always happy to receive questions and comments as well as your praise and criticism at – after all, how we continue developing depends greatly on you."
+    },
+    {
+      "heading": "Staffnet",
+      "text": "#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Ist Live",
+        "label": "PERSON",
+        "start": 24,
+        "end": 32
+      },
+      {
+        "text": "Neue Website",
+        "label": "ORG",
+        "start": 60,
+        "end": 72
+      },
+      {
+        "text": "Eth Bibliothek",
+        "label": "PERSON",
+        "start": 77,
+        "end": 91
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 1136,
+        "end": 1151
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1196,
+        "end": 1206
+      },
+      {
+        "text": "the ETH Library",
+        "label": "FAC",
+        "start": 1492,
+        "end": 1507
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 42,
+        "end": 57
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Eth Bibliothek",
+        "Ist Live"
+      ],
+      "ORG": [
+        "Neue Website",
+        "the ETH Library"
+      ],
+      "LOCATION": [
+        "the ETH Library"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "the ETH Library": 3,
+      "Ist Live": 1,
+      "Neue Website": 1,
+      "Eth Bibliothek": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sie-ist-live-und-sie-ist-up-to-date-die-neue-website-der-eth-bibliothek.md",
+      "title": "En Internal/2020/08/sie Ist Live und Sie Ist Up To Date die Neue Website der Eth Bibliothek",
+      "language": "en",
+      "source_path": "en_internal/2020/08/sie-ist-live-und-sie-ist-up-to-date-die-neue-website-der-eth-bibliothek.html"
+    },
+    "temporal": {
+      "publication_date": "2020-08",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Eth Bibliothek",
+        "Ist Live"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Neue Website",
+        "Up To",
+        "ETH Library",
+        "Sie Ist",
+        "En Internal",
+        "Ist Live",
+        "ETH Zurich",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Neue Website",
+        "the ETH Library"
+      ],
+      "locations": [
+        "the ETH Library"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "the ETH Library",
+        "Ist Live",
+        "Neue Website",
+        "Eth Bibliothek",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "The highlights",
+          "We would love to hear your feedback!",
+          "Staffnet"
+        ],
+        "content_length": 2055
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Neue Website",
+        "EU",
+        "2020",
+        "Ist Live",
+        "ETH Zurich",
+        "the ETH Library",
+        "Eth Bibliothek"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

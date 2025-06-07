@@ -1,0 +1,337 @@
+{
+  "filename": "is-reducing-energy-consumption-important-for-climate-change.md",
+  "original_filename": "is-reducing-energy-consumption-important-for-climate-change.html",
+  "source_path": "en_news_events/2016/01/is-reducing-energy-consumption-important-for-climate-change.html",
+  "date": "2016-01",
+  "title": "Is Reducing Energy Consumption Important For Climate Change",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A necessary and sufficient condition",
+      "text": "World leaders in Paris renewed their pledge to limit climate change to no more than 2°C warming. The science backs this up, and suggests that even with 2°C warming, there may be some catastrophic consequences. The science is also clear that to achieve the 2°C limit, and certainly any limit even more ambitious, like 1.5°C, we need to completely eliminate carbon dioxide (CO 2 ) emissions in the energy sector as quickly as possible."
+    },
+    {
+      "heading": "A necessary and sufficient condition",
+      "text": "There is an equation, known as the Kaya Identity, which can help us think about this problem. It states that our CO 2 emissions are equal to the product of our population, each person’s consumption, the energy intensity of that consumption, and the carbon intensity of that energy. Mathematically it looks like this:"
+    },
+    {
+      "heading": "It depends …",
+      "text": "Any schoolchild can tell you that if the left-hand side of this equation is going to be zero, then one of the terms on the right-hand side of the equation must be zero as well. Moreover, if one of those terms is zero, then it doesn’t matter what the other terms are: zero times anything else always equals zero. And it is also clear which of those terms it has to be. Most of us do not want to live in a world with no people, no consumption, or no energy use! But most of us would be happy to live in a world where all of our energy comes from carbon-neutral sources, as long as that energy is affordable, reliable, and environmentally sustainable. So reducing the carbon intensity of energy to zero, quickly, is the necessary and sufficient step to solving climate change."
+    },
+    {
+      "heading": "Do sufficiency and efficiency help?",
+      "text": "Does reducing our level of consumption or improving energy efficiency help to speed up the pace with which we completely decarbonize the energy system? The answer depends on a lot of other choices that we make.\n\nImagine, for example, a scenario where Switzerland decides that it does not want to import any energy. (Right now we import roughly three quarters of our primary energy supply as oil, uranium, natural gas, and coal). In all likelihood, the main sources of energy would then have to be hydropower, photovoltaic panels, and biomass. Given the environmental limits on hydropower and biomass production, we would need to devote a large area to photovoltaic panels: not only every available rooftop, but also some of our current agricultural land. However, if we reduced energy consumption, we could eliminate the need for this land and so avoid the local battles associated with converting farmers’ fields to solar fields. And that would probably make the transition away from imported fossil fuel easier."
+    },
+    {
+      "heading": "It depends …",
+      "text": "But imagine that the Swiss people continue to import energy, such as from wind farms on the Atlantic coast or solar farms around the Mediterranean. In fact there is more of this energy available, especially solar energy, than we will ever use. At the same time, how we use energy can determine how attractive renewable sources are, compared to fossil fuels. Both hydropower and solar energy, for example, are more plentiful and hence less expensive during the summer. If you live in a home with air conditioning, your energy demand is highest in the summer, and switching from fossil power to renewable power could be especially attractive. By contrast a household without air conditioning, consuming mostly in winter when hydropower and solar are scarce, would have a lower incentive to switch.\n\nSimilarly, electric cars are less expensive to own than combustion engine cars, as long as you drive them more than about 10,000 km per year. Below that, the highly efficient electric drive train simply isn’t worth the larger up-front investment. Of course, driving huge amounts in any car is bad for our communities and for the environment. But it is better to drive 11,000 km in an electric car than 9,000 km in a combustion one. There have not been any scientific studies on this, but one can easily imagine that a mobility policy focused on helping car owners to drive less could in fact delay the transition to electric vehicles.\n\nThere are many ways to reduce our energy demand through lifestyle choices and improved efficiency, with broad environmental and social benefits. But we should not fool ourselves into thinking that by doing these things, and these things alone, we necessarily help to solve climate change. We can only solve climate change by replacing fossil fuels with other sources of energy.\n\nThe good news is that these other energy sources exist, and are already beginning to compete with fossil fuels on an even footing. Our energy consumption choices can help to accelerate their adoption. Every switch from oil to electricity, whether in mobility or home heating, matters. Some of those choices may involve using less energy, but others may involve using more. To stop climate change it is far more important where our energy comes from than simply how much of it we use."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Reducing Energy Consumption Important For Climate Change",
+        "label": "ORG",
+        "start": 26,
+        "end": 82
+      },
+      {
+        "text": "Paris",
+        "label": "GPE",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "no more than 2",
+        "label": "CARDINAL",
+        "start": 71,
+        "end": 85
+      },
+      {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 317,
+        "end": 320
+      },
+      {
+        "text": "the Kaya Identity",
+        "label": "ORG",
+        "start": 31,
+        "end": 48
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 88,
+        "end": 92
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 163,
+        "end": 167
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 212,
+        "end": 216
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 267,
+        "end": 271
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 306,
+        "end": 310
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 695,
+        "end": 699
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 250,
+        "end": 261
+      },
+      {
+        "text": "roughly three quarters",
+        "label": "CARDINAL",
+        "start": 335,
+        "end": 357
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 21,
+        "end": 26
+      },
+      {
+        "text": "Atlantic",
+        "label": "LOC",
+        "start": 92,
+        "end": 100
+      },
+      {
+        "text": "Mediterranean",
+        "label": "LOC",
+        "start": 133,
+        "end": 146
+      },
+      {
+        "text": "the summer",
+        "label": "DATE",
+        "start": 456,
+        "end": 466
+      },
+      {
+        "text": "the summer",
+        "label": "DATE",
+        "start": 546,
+        "end": 556
+      },
+      {
+        "text": "winter",
+        "label": "DATE",
+        "start": 711,
+        "end": 717
+      },
+      {
+        "text": "more than about 10,000",
+        "label": "CARDINAL",
+        "start": 902,
+        "end": 924
+      },
+      {
+        "text": "11,000 km",
+        "label": "QUANTITY",
+        "start": 1164,
+        "end": 1173
+      },
+      {
+        "text": "9,000 km",
+        "label": "QUANTITY",
+        "start": 1198,
+        "end": 1206
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Reducing Energy Consumption Important For Climate Change",
+        "the Kaya Identity"
+      ],
+      "LOCATION": [
+        "Atlantic",
+        "Mediterranean",
+        "Paris",
+        "Switzerland"
+      ],
+      "DATE": [
+        "the summer",
+        "winter"
+      ],
+      "MISC": [
+        "1.5",
+        "11,000 km",
+        "9,000 km",
+        "Swiss",
+        "more than about 10,000",
+        "no more than 2",
+        "roughly three quarters",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "zero": 6,
+      "the summer": 2,
+      "Reducing Energy Consumption Important For Climate Change": 1,
+      "Paris": 1,
+      "no more than 2": 1,
+      "1.5": 1,
+      "the Kaya Identity": 1,
+      "Switzerland": 1,
+      "roughly three quarters": 1,
+      "Swiss": 1,
+      "Atlantic": 1,
+      "Mediterranean": 1,
+      "winter": 1,
+      "more than about 10,000": 1,
+      "11,000 km": 1,
+      "9,000 km": 1
+    },
+    "total_entities": 22,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "is-reducing-energy-consumption-important-for-climate-change.md",
+      "title": "En News Events/2016/01/is Reducing Energy Consumption Important For Climate Change",
+      "language": "en",
+      "source_path": "en_news_events/2016/01/is-reducing-energy-consumption-important-for-climate-change.html"
+    },
+    "temporal": {
+      "publication_date": "2016-01",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "11,000 km",
+        "9,000 km",
+        "Swiss",
+        "more than about 10,000",
+        "no more than 2",
+        "roughly three quarters",
+        "zero"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "Kaya Identity",
+        "Change World",
+        "For Climate",
+        "Reducing Energy",
+        "Consumption Important"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Reducing Energy Consumption Important For Climate Change",
+        "the Kaya Identity"
+      ],
+      "locations": [
+        "Atlantic",
+        "Mediterranean",
+        "Paris",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "zero",
+        "the summer",
+        "Reducing Energy Consumption Important For Climate Change",
+        "Paris",
+        "no more than 2",
+        "1.5",
+        "the Kaya Identity",
+        "Switzerland",
+        "roughly three quarters",
+        "Swiss"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "A necessary and sufficient condition",
+          "A necessary and sufficient condition",
+          "It depends …",
+          "Do sufficiency and efficiency help?",
+          "It depends …"
+        ],
+        "content_length": 4917
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Reducing Energy Consumption Important For Climate Change",
+        "the Kaya Identity",
+        "EU",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "zero",
+        "roughly three quarters",
+        "who",
+        "9,000 km",
+        "11,000 km",
+        "more than about 10,000",
+        "no more than 2",
+        "Swiss",
+        "what",
+        "how",
+        "climate_change",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

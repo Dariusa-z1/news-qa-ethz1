@@ -1,0 +1,455 @@
+{
+  "filename": "networked-colours.md",
+  "original_filename": "networked-colours.html",
+  "source_path": "en_news_events/2016/11/networked-colours.html",
+  "date": "2016-11",
+  "title": "Networked Colours",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Colour depends on the thickness of the coating",
+      "text": "An international team of researchers has developed a novel means of producing coloured coatings for metals. The colours are produced by a special nanometre-sized structure in the coating material. In contrast to other existing structural colours (see box), this new production process can be applied very simply over a large area. The colours are also particularly intense and the material highly scratch-proof.\n\nThe material in question is a double-layer designer material. The lower layer is a metallic network perforated by tiny cavities and made of an alloy of platinum, yttrium and aluminium. The researchers used a simple etching process to create the cavities and then placed a very thin oxide layer on top of this “nano-sponge network”."
+    },
+    {
+      "heading": "Colour depends on the thickness of the coating",
+      "text": "It’s interesting to note that the impression of the colour depends on the thickness of the aluminium oxide coating: a 12-nanometre layer makes the material appear green, a 24-nanometre layer yellow, a 28-nanomatre layer orange, a 48-nanometre layer blue and a 53-nanometre layer purple"
+    },
+    {
+      "heading": "Banknotes and planes",
+      "text": "“The colour arises from the interaction between the ambient light and both layers of the material, and in particular with the randomly organised boundary layer between the two materials,” explains physicist Henning Galinski. “We are able to capture and concentrate particular wavelengths of light in a very targeted manner.” Galinski is co-lead author of the recent study and works in the laboratory of ETH Zurich professor Ralph Spolenak and Harvard University professor Federico Capasso. Andrea Fratalocchi, professor at King Abdullah University of Science and Technology (KAUST) in Saudi Arabia, and his group contributed to the theoretical explanation of the functional principle through their comprehensive computer simulations."
+    },
+    {
+      "heading": "Chaotic network structure",
+      "text": "Until now, structural colours have generally possessed a repetitive structure that determines the colour we perceive. The disadvantage is that even tiny flaws can cause huge changes in the optical properties.\n\nIn contrast, the networks developed by Galinski and his colleagues do not follow a clear structure: the cavities in the networks are a similar size, but not exactly the same. The physical characteristics are determined by the average cavity size, not by the size of each individual cavity.\n\n“Our approach is based on disorder, rather than on the precise production of millions of repeating sub-units. This makes it extremely error-tolerant,” says Galinski. “The etching and coating process can also be used on a large scale over surfaces of several square metres.” Until now, structural colours have been restricted to a smaller scale due to their difficult and expensive manufacture.\n\nColourful networked materials also exist in nature; for example, keratin networks are responsible for the colour of the plumage in some bird species native to South America. “However, we are the first to demonstrate that these networked materials can be used technically as structural colours and thus influence which colour is perceived,” says Galinski."
+    },
+    {
+      "heading": "Banknotes and planes",
+      "text": "The new structural colours could be used to create very thin security features in banknotes, for example, or to colour vehicles and aircraft, also for camouflage paint in military applications. “However, we also see our system as a platform from which many further developments are possible,” says Galinski.\n\nThe new metamaterial – the scientific term for man-made materials with optical, electrical or magnetic properties that do not occur in nature – could also prove interesting for energy systems, such as thin-film solar cells. “We have developed an extremely thin material that concentrates and perfectly absorbs light at individual points,” says Galinski. This effect could be used to develop highly efficient light-harvesting systems. In addition, the light concentration is largely independent of its angle of incidence – another advantage for applications in solar cells.\n\nMost wall paints and artists’ colours contain coloured pigments. These are chemical compounds that absorb light of particular wavelengths. The portion of ambient light that is not absorbed by the pigment is reflected, determining the colour we perceive. Physically, the colour originates from attenuation of light at the individual colour pigments.\n\nStructural colours, in contrast, arise from the specific surface structure of a material. Materials of this type have a sophisticated and often multi-layered design. The colour impression comes from the targeted extinction of light within the material layers and their boundary layers.\n\nGalinski H, Favraud G, Dong H, Totero Gongora JS, Favaro G, Döbeli M, Spolenak R, Fratalocchi A, Capasso F: Scalable, ultra-resistant structural colors based on network metamaterials. Light: Science & Applications , published ahead of advance online publication 27 September 2016"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Colours",
+        "label": "ORG",
+        "start": 33,
+        "end": 40
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 172,
+        "end": 175
+      },
+      {
+        "text": "Henning Galinski",
+        "label": "PERSON",
+        "start": 207,
+        "end": 223
+      },
+      {
+        "text": "Galinski",
+        "label": "PERSON",
+        "start": 325,
+        "end": 333
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 403,
+        "end": 413
+      },
+      {
+        "text": "Ralph Spolenak",
+        "label": "PERSON",
+        "start": 424,
+        "end": 438
+      },
+      {
+        "text": "Harvard University",
+        "label": "ORG",
+        "start": 443,
+        "end": 461
+      },
+      {
+        "text": "Federico Capasso",
+        "label": "PERSON",
+        "start": 472,
+        "end": 488
+      },
+      {
+        "text": "Andrea Fratalocchi",
+        "label": "PERSON",
+        "start": 490,
+        "end": 508
+      },
+      {
+        "text": "King Abdullah University of Science and Technology",
+        "label": "ORG",
+        "start": 523,
+        "end": 573
+      },
+      {
+        "text": "Saudi Arabia",
+        "label": "GPE",
+        "start": 585,
+        "end": 597
+      },
+      {
+        "text": "Galinski",
+        "label": "PERSON",
+        "start": 248,
+        "end": 256
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 576,
+        "end": 584
+      },
+      {
+        "text": "Galinski",
+        "label": "PERSON",
+        "start": 655,
+        "end": 663
+      },
+      {
+        "text": "several square metres",
+        "label": "QUANTITY",
+        "start": 749,
+        "end": 770
+      },
+      {
+        "text": "South America",
+        "label": "LOC",
+        "start": 1052,
+        "end": 1065
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1088,
+        "end": 1093
+      },
+      {
+        "text": "Galinski",
+        "label": "PERSON",
+        "start": 1238,
+        "end": 1246
+      },
+      {
+        "text": "Galinski",
+        "label": "PERSON",
+        "start": 298,
+        "end": 306
+      },
+      {
+        "text": "Galinski",
+        "label": "PERSON",
+        "start": 652,
+        "end": 660
+      },
+      {
+        "text": "Galinski H",
+        "label": "ORG",
+        "start": 1516,
+        "end": 1526
+      },
+      {
+        "text": "Favraud G",
+        "label": "PERSON",
+        "start": 1528,
+        "end": 1537
+      },
+      {
+        "text": "Dong H",
+        "label": "PERSON",
+        "start": 1539,
+        "end": 1545
+      },
+      {
+        "text": "Totero Gongora JS",
+        "label": "PERSON",
+        "start": 1547,
+        "end": 1564
+      },
+      {
+        "text": "Favaro G",
+        "label": "PERSON",
+        "start": 1566,
+        "end": 1574
+      },
+      {
+        "text": "Döbeli M",
+        "label": "PERSON",
+        "start": 1576,
+        "end": 1584
+      },
+      {
+        "text": "Fratalocchi A",
+        "label": "ORG",
+        "start": 1598,
+        "end": 1611
+      },
+      {
+        "text": "Capasso F: Scalable",
+        "label": "PERSON",
+        "start": 1613,
+        "end": 1632
+      },
+      {
+        "text": "Science & Applications",
+        "label": "ORG",
+        "start": 1707,
+        "end": 1729
+      },
+      {
+        "text": "27 September 2016",
+        "label": "WORK_OF_ART",
+        "start": 1778,
+        "end": 1795
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrea Fratalocchi",
+        "Capasso F: Scalable",
+        "Dong H",
+        "Döbeli M",
+        "Favaro G",
+        "Favraud G",
+        "Federico Capasso",
+        "Galinski",
+        "Henning Galinski",
+        "Ralph Spolenak",
+        "Totero Gongora JS"
+      ],
+      "ORG": [
+        "Colours",
+        "ETH Zurich",
+        "Fratalocchi A",
+        "Galinski H",
+        "Harvard University",
+        "King Abdullah University of Science and Technology",
+        "Science & Applications"
+      ],
+      "LOCATION": [
+        "Saudi Arabia",
+        "South America"
+      ],
+      "DATE": [],
+      "MISC": [
+        "27 September 2016",
+        "first",
+        "millions",
+        "several square metres",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Galinski": 6,
+      "Colours": 1,
+      "two": 1,
+      "Henning Galinski": 1,
+      "ETH Zurich": 1,
+      "Ralph Spolenak": 1,
+      "Harvard University": 1,
+      "Federico Capasso": 1,
+      "Andrea Fratalocchi": 1,
+      "King Abdullah University of Science and Technology": 1,
+      "Saudi Arabia": 1,
+      "millions": 1,
+      "several square metres": 1,
+      "South America": 1,
+      "first": 1,
+      "Galinski H": 1,
+      "Favraud G": 1,
+      "Dong H": 1,
+      "Totero Gongora JS": 1,
+      "Favaro G": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "networked-colours.md",
+      "title": "En News Events/2016/11/networked Colours",
+      "language": "en",
+      "source_path": "en_news_events/2016/11/networked-colours.html"
+    },
+    "temporal": {
+      "publication_date": "2016-11",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrea Fratalocchi",
+        "Capasso F: Scalable",
+        "Dong H",
+        "Döbeli M",
+        "Favaro G",
+        "Favraud G",
+        "Federico Capasso",
+        "Galinski",
+        "Henning Galinski",
+        "Ralph Spolenak",
+        "Totero Gongora JS"
+      ],
+      "people_with_roles": {
+        "Andrea Fratalocchi": [
+          "professor"
+        ],
+        "Federico Capasso": [
+          "professor"
+        ],
+        "Galinski": [
+          "professor"
+        ],
+        "Ralph Spolenak": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "27 September 2016",
+        "first",
+        "millions",
+        "several square metres"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Spolenak R",
+        "Capasso F",
+        "Dong H",
+        "Henning Galinski",
+        "Galinski H",
+        "Ralph Spolenak",
+        "Fratalocchi A",
+        "Federico Capasso",
+        "Favaro G",
+        "King Abdullah",
+        "Andrea Fratalocchi",
+        "South America",
+        "Saudi Arabia",
+        "Colours An",
+        "Totero Gongora",
+        "En News",
+        "Favraud G",
+        "Harvard University",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Colours",
+        "ETH Zurich",
+        "Fratalocchi A",
+        "Galinski H",
+        "Harvard University",
+        "King Abdullah University of Science and Technology",
+        "Science & Applications"
+      ],
+      "locations": [
+        "Saudi Arabia",
+        "South America"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Galinski",
+        "Colours",
+        "two",
+        "Henning Galinski",
+        "ETH Zurich",
+        "Ralph Spolenak",
+        "Harvard University",
+        "Federico Capasso",
+        "Andrea Fratalocchi",
+        "King Abdullah University of Science and Technology"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Colour depends on the thickness of the coating",
+          "Colour depends on the thickness of the coating",
+          "Banknotes and planes",
+          "Chaotic network structure",
+          "Banknotes and planes"
+        ],
+        "content_length": 4856
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2016",
+        "Dong H",
+        "Henning Galinski",
+        "Capasso F: Scalable",
+        "Galinski H",
+        "ERC",
+        "Ralph Spolenak",
+        "Fratalocchi A",
+        "Federico Capasso",
+        "Galinski",
+        "Favaro G",
+        "King Abdullah University of Science and Technology",
+        "Döbeli M",
+        "Colours",
+        "Totero Gongora JS",
+        "Andrea Fratalocchi",
+        "Favraud G",
+        "Harvard University",
+        "Science & Applications",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "several square metres",
+        "who",
+        "chemistry",
+        "where",
+        "what",
+        "how",
+        "millions",
+        "engineering",
+        "27 September 2016"
+      ],
+      "graph_relations": [
+        "Andrea Fratalocchi_has_role_professor",
+        "Federico Capasso_has_role_professor",
+        "Galinski_has_role_professor",
+        "Ralph Spolenak_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

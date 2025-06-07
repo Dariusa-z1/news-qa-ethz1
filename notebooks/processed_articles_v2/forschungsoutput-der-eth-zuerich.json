@@ -1,0 +1,147 @@
+{
+  "filename": "forschungsoutput-der-eth-zuerich.md",
+  "original_filename": "forschungsoutput-der-eth-zuerich.html",
+  "source_path": "de_internal/2016/03/forschungsoutput-der-eth-zuerich.html",
+  "date": "2016-03",
+  "title": "Forschungsoutput Der Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Hiervon sind 61 % Zeitschriftenbeiträge und 24 % Tagungsbeiträge.\n\nETH E-Citations weist die wissenschaftlichen Publikationen, die an der ETH Zürich entstanden sind, dauerhaft nach und umfasst total rund 120 000 Einträge. So gibt die Plattform einen breiten Überblick über die Forschungsaktivitäten und -ergebnisse an der ETH Zürich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/03/forschungsoutput",
+        "label": "LOC",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "LOC",
+        "start": 41,
+        "end": 52
+      },
+      {
+        "text": "ETH E-Citations",
+        "label": "ORG",
+        "start": 66,
+        "end": 81
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 137,
+        "end": 147
+      },
+      {
+        "text": "total",
+        "label": "LOC",
+        "start": 192,
+        "end": 197
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 321,
+        "end": 331
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH E-Citations",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2016/03/forschungsoutput",
+        "Eth Zuerich",
+        "total"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De Internal/2016/03/forschungsoutput": 1,
+      "Eth Zuerich": 1,
+      "ETH E-Citations": 1,
+      "total": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "forschungsoutput-der-eth-zuerich.md",
+      "title": "De Internal/2016/03/forschungsoutput der Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2016/03/forschungsoutput-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH E",
+        "De Internal",
+        "Eth Zuerich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH E-Citations",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2016/03/forschungsoutput",
+        "Eth Zuerich",
+        "total"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2016/03/forschungsoutput",
+        "Eth Zuerich",
+        "ETH E-Citations",
+        "total"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 386
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH E-Citations",
+        "2016"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

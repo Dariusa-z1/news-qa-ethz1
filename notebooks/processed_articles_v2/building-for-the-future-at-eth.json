@@ -1,0 +1,330 @@
+{
+  "filename": "building-for-the-future-at-eth.md",
+  "original_filename": "building-for-the-future-at-eth.html",
+  "source_path": "en_internal/2015/12/building-for-the-future-at-eth.html",
+  "date": "2015-12",
+  "title": "Building For The Future At Eth",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "New apartment buildings for students, two new cafeterias and a redesigned forecourt for the ETH main building are just a few of the current construction projects at the Hönggerberg campus and around the ETH Zurich Zentrum site. This issue of “life” highlights what is being planned where, and also gives an update on the process of returning certain buildings to their original residential purpose.\n\nPresident of the Association of Students at ETH Zurich (VSETH) Kay Schaller and president of the Academic Association of Scientific Staff at ETH Zurich (AVETH) Florian Thöle also discuss work, commitment and the sense of community at ETH Zurich in a joint interview.\n\nThe results of the gender monitoring study are presented in the “Insight” section. Three successful women explain from their perspective what is working well at ETH Zurich and what could be improved.\n\nOther topics include the LISA Pathfinder satellite, which was sent into space two weeks ago, the ten-year anniversary of the “Urban Portrait”, as well as ETH Zurich’s budget for the coming year."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Future At Eth",
+        "label": "WORK_OF_ART",
+        "start": 33,
+        "end": 50
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 92,
+        "end": 95
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 169,
+        "end": 180
+      },
+      {
+        "text": "Zurich Zentrum",
+        "label": "PERSON",
+        "start": 207,
+        "end": 221
+      },
+      {
+        "text": "the Association of Students",
+        "label": "ORG",
+        "start": 412,
+        "end": 439
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 443,
+        "end": 453
+      },
+      {
+        "text": "Kay Schaller",
+        "label": "PERSON",
+        "start": 462,
+        "end": 474
+      },
+      {
+        "text": "the Academic Association of Scientific Staff",
+        "label": "ORG",
+        "start": 492,
+        "end": 536
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 540,
+        "end": 550
+      },
+      {
+        "text": "Florian Thöle",
+        "label": "PERSON",
+        "start": 559,
+        "end": 572
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 633,
+        "end": 643
+      },
+      {
+        "text": "Insight",
+        "label": "WORK_OF_ART",
+        "start": 731,
+        "end": 738
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL",
+        "start": 749,
+        "end": 754
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 827,
+        "end": 837
+      },
+      {
+        "text": "two weeks ago",
+        "label": "DATE",
+        "start": 944,
+        "end": 957
+      },
+      {
+        "text": "ten-year",
+        "label": "DATE",
+        "start": 963,
+        "end": 971
+      },
+      {
+        "text": "the “Urban Portrait",
+        "label": "EVENT",
+        "start": 987,
+        "end": 1006
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 1020,
+        "end": 1032
+      },
+      {
+        "text": "the coming year",
+        "label": "DATE",
+        "start": 1044,
+        "end": 1059
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s",
+        "Florian Thöle",
+        "Kay Schaller",
+        "Zurich Zentrum"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "the Academic Association of Scientific Staff",
+        "the Association of Students"
+      ],
+      "LOCATION": [
+        "Hönggerberg"
+      ],
+      "DATE": [
+        "ten-year",
+        "the coming year",
+        "two weeks ago"
+      ],
+      "MISC": [
+        "Insight",
+        "The Future At Eth",
+        "Three",
+        "the “Urban Portrait",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "The Future At Eth": 1,
+      "two": 1,
+      "ETH": 1,
+      "Hönggerberg": 1,
+      "Zurich Zentrum": 1,
+      "the Association of Students": 1,
+      "Kay Schaller": 1,
+      "the Academic Association of Scientific Staff": 1,
+      "Florian Thöle": 1,
+      "Insight": 1,
+      "Three": 1,
+      "two weeks ago": 1,
+      "ten-year": 1,
+      "the “Urban Portrait": 1,
+      "ETH Zurich’s": 1,
+      "the coming year": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "building-for-the-future-at-eth.md",
+      "title": "En Internal/2015/12/building For The Future At Eth",
+      "language": "en",
+      "source_path": "en_internal/2015/12/building-for-the-future-at-eth.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s",
+        "Florian Thöle",
+        "Kay Schaller",
+        "Zurich Zentrum"
+      ],
+      "people_with_roles": {
+        "Florian Thöle": [
+          "president",
+          "student"
+        ],
+        "Kay Schaller": [
+          "president",
+          "student"
+        ],
+        "Zurich Zentrum": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Insight",
+        "The Future At Eth",
+        "Three",
+        "the “Urban Portrait"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Scientific Staff",
+        "Academic Association",
+        "En Internal",
+        "LISA Pathfinder",
+        "Future At",
+        "Urban Portrait",
+        "ETH Zurich",
+        "Kay Schaller",
+        "For The",
+        "Eth New"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "the Academic Association of Scientific Staff",
+        "the Association of Students"
+      ],
+      "locations": [
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "The Future At Eth",
+        "two",
+        "ETH",
+        "Hönggerberg",
+        "Zurich Zentrum",
+        "the Association of Students",
+        "Kay Schaller",
+        "the Academic Association of Scientific Staff",
+        "Florian Thöle"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1114
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Florian Thöle",
+        "ETH",
+        "the Association of Students",
+        "the Academic Association of Scientific Staff",
+        "2015",
+        "Zurich Zentrum",
+        "ETH Zurich",
+        "Kay Schaller",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Insight",
+        "The Future At Eth",
+        "Three",
+        "the “Urban Portrait",
+        "where",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Florian Thöle_has_role_president",
+        "Florian Thöle_has_role_student",
+        "Kay Schaller_has_role_president",
+        "Kay Schaller_has_role_student",
+        "Zurich Zentrum_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

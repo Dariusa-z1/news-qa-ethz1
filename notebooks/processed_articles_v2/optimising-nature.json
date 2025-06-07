@@ -1,0 +1,453 @@
+{
+  "filename": "optimising-nature.md",
+  "original_filename": "optimising-nature.html",
+  "source_path": "en_news_events/2021/06/optimising-nature.html",
+  "date": "2021-06",
+  "title": "Optimising Nature",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Boosting better crops",
+      "text": "When it comes to food, many people yearn for nature in its most pristine state. The thinking is that natural products are somehow better and healthier. Organic food is marketed through an idealised vision of agriculture in which quasi-natural methods are used to produce natural food, and tools such as genetic engineering are frowned upon as a form of artificial meddling. Yet this romanticised view of nature is deceptive. Very little of what we eat today is produced in ways that could be considered entirely natural. “For the past 12,000 years, we’ve been modifying plants by selecting for traits that make them more edible and higher yielding,” says Bruno Studer, Professor of Molecular Plant Breeding at ETH Zurich.\n\nToday’s farmers are under pressure to adopt practices that are more environmentally friendly, in particular by reducing the use of pesticides. At the same time, we expect them to deliver consistent, high-quality harvests in an increasingly warmer and drier climate – a task that requires disease-resistant, climate-resilient crop varieties. “We need to make sure our crops are genetically prepared for the challenges that lie ahead,” says Studer. Yet traditional cross-breeding is often a slow process – which is why Studer and his team are developing molecular genetic techniques to make plant breeding more efficient. One example is the use of genetic markers that make it quicker to identify plants with the desired traits. The group works closely with Agroscope, the Swiss centre of excellence for agricultural research, and is supported by the fenaco agricultural cooperative."
+    },
+    {
+      "heading": "Precision breeding",
+      "text": "It’s been almost a decade since new plant breeding techniques based on the CRISPR / Cas system paved the way for a powerful method known as genome editing. Commonly referred to as genetic scissors, this tool is much more precise than the “shotgun” genetic engineering techniques used in the 2000s, which involved randomly introducing DNA from other species into plant genomes. Swiss legislation on genetic engineering classifies organisms as genetically modified if their genome has been modified in a way that does not occur in nature through cross-breeding or genetic recombination. A moratorium prohibiting the cultivation of such gene-edited plants has been in place since 2005. Genome editing is different, however. It enables us to make targeted changes to the genome by inserting, editing or switching off individual genes. By adding a resistance gene from a wild relative, for example, or by turning off a gene that suppresses a plant’s ability to defend itself against pests, genome editing offers a highly efficient way to create resistant plants – without introducing genetic material from other species.\n\nIn many cases, targeted changes to the genome made using genetic scissors cannot be distinguished from naturally occurring or conventionally induced mutations. This raises the question as to whether gene-edited crops should be considered as genetically modified organisms. “That’s how things are right now in Switzerland and Europe, where the cultivation of gene-edited crops is banned. However, if the same mutation occurs in a natural way or as a result of conventional breeding techniques, no strict regulations are applied, even if it is genetically the exact same germplasm,” says Studer.\n\nParadoxically, this also holds true if the mutations in the genome are induced more invasively and at random by chemicals or radiation. “That makes absolutely no sense from the plant breeding perspective. A plant is not ‘more artificial’ or ‘more dangerous’ simply because it was created through the CRISPR / Cas system!” says Studer. He argues it would make more sense to assess the risk of new plant varieties based on their traits rather than the techniques used to create them."
+    },
+    {
+      "heading": "Multinutrient rice",
+      "text": "Navreet Bhullar, a biotechnologist at the Institute of Molecular Plant Biology, agrees. Bhullar improves food crops by boosting the amount of micronutrients they contain. Over 2 billion people worldwide suffer from mineral and vitamin deficiencies because their diet is based on polished grains of rice that contain virtually no essential trace elements, such as iron. Bhullar’s team has developed transgenic rice varieties that not only have increased levels of iron and zinc in the grains, but also produce beta-carotene, a precursor of vitamin A.\n\nThe research group and its multinutrient rice are at the cutting edge of this field of technology. “We used classic genetic engineering methods to develop it because this is something that conventional breeding simply cannot do,” says Bhullar. Although she has not yet worked with CRISPR / Cas, she points out that the combination of traits such as drought tolerance, pest resistance and micronutrients offers enormous potential for sustainable agriculture, which could in turn help to solve global food shortages.\n\nThe moratorium on GM crops is set to expire at the end of this year. The Federal Council is keen to extend it by another four years and include genome editing in the complete ban on cultivation. Bhullar and Studer say that so far, the biological risks supposedly posed by older methods of genetic engineering have not proven to be true. “Switzerland shouldn’t be closing the door to the potential of new breeding methods,” they argue.\n\nBruno Studer is Professor of Molecular Plant Breeding . His research focuses on molecular biology techniques to improve plant breeding efficiency."
+    },
+    {
+      "heading": "Multinutrient rice",
+      "text": "Navreet Bhullar is a scientist at the Institute of Molecular Plant Biology . Her research team has developed new rice and wheat varieties with increased levels of micronutrients such as iron and zinc.\n\nRead the current issue online"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 34,
+        "end": 40
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 452,
+        "end": 457
+      },
+      {
+        "text": "the past 12,000 years",
+        "label": "DATE",
+        "start": 526,
+        "end": 547
+      },
+      {
+        "text": "Bruno Studer",
+        "label": "PERSON",
+        "start": 655,
+        "end": 667
+      },
+      {
+        "text": "Molecular Plant Breeding",
+        "label": "ORG",
+        "start": 682,
+        "end": 706
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 710,
+        "end": 720
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 722,
+        "end": 727
+      },
+      {
+        "text": "Studer",
+        "label": "PERSON",
+        "start": 1161,
+        "end": 1167
+      },
+      {
+        "text": "Studer",
+        "label": "PERSON",
+        "start": 1239,
+        "end": 1245
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1342,
+        "end": 1345
+      },
+      {
+        "text": "Agroscope",
+        "label": "PERSON",
+        "start": 1478,
+        "end": 1487
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1493,
+        "end": 1498
+      },
+      {
+        "text": "almost a decade",
+        "label": "DATE",
+        "start": 10,
+        "end": 25
+      },
+      {
+        "text": "the 2000s",
+        "label": "DATE",
+        "start": 287,
+        "end": 296
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 377,
+        "end": 382
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1425,
+        "end": 1436
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1441,
+        "end": 1447
+      },
+      {
+        "text": "Studer",
+        "label": "PERSON",
+        "start": 1702,
+        "end": 1708
+      },
+      {
+        "text": "Studer",
+        "label": "PERSON",
+        "start": 2037,
+        "end": 2043
+      },
+      {
+        "text": "Navreet Bhullar",
+        "label": "PERSON",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "the Institute of Molecular Plant Biology",
+        "label": "ORG",
+        "start": 38,
+        "end": 78
+      },
+      {
+        "text": "Over 2 billion",
+        "label": "CARDINAL",
+        "start": 171,
+        "end": 185
+      },
+      {
+        "text": "Bhullar",
+        "label": "NORP",
+        "start": 369,
+        "end": 376
+      },
+      {
+        "text": "Bhullar",
+        "label": "NORP",
+        "start": 785,
+        "end": 792
+      },
+      {
+        "text": "CRISPR / Cas",
+        "label": "ORG",
+        "start": 831,
+        "end": 843
+      },
+      {
+        "text": "GM",
+        "label": "ORG",
+        "start": 1083,
+        "end": 1085
+      },
+      {
+        "text": "the end of this year",
+        "label": "DATE",
+        "start": 1112,
+        "end": 1132
+      },
+      {
+        "text": "The Federal Council",
+        "label": "ORG",
+        "start": 1134,
+        "end": 1153
+      },
+      {
+        "text": "another four years",
+        "label": "DATE",
+        "start": 1178,
+        "end": 1196
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1403,
+        "end": 1414
+      },
+      {
+        "text": "Bruno Studer",
+        "label": "PERSON",
+        "start": 1500,
+        "end": 1512
+      },
+      {
+        "text": "Molecular Plant Breeding",
+        "label": "ORG",
+        "start": 1529,
+        "end": 1553
+      },
+      {
+        "text": "Navreet Bhullar",
+        "label": "PERSON",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "the Institute of Molecular Plant Biology",
+        "label": "ORG",
+        "start": 34,
+        "end": 74
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Agroscope",
+        "Bruno Studer",
+        "Navreet Bhullar",
+        "Studer"
+      ],
+      "ORG": [
+        "CRISPR / Cas",
+        "ETH Zurich",
+        "GM",
+        "Molecular Plant Breeding",
+        "The Federal Council",
+        "the Institute of Molecular Plant Biology"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Switzerland"
+      ],
+      "DATE": [
+        "Today",
+        "almost a decade",
+        "another four years",
+        "the 2000s",
+        "the end of this year",
+        "the past 12,000 years",
+        "today"
+      ],
+      "MISC": [
+        "Bhullar",
+        "Nature",
+        "One",
+        "Over 2 billion",
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "Studer": 4,
+      "Bruno Studer": 2,
+      "Molecular Plant Breeding": 2,
+      "Swiss": 2,
+      "Switzerland": 2,
+      "Navreet Bhullar": 2,
+      "the Institute of Molecular Plant Biology": 2,
+      "Bhullar": 2,
+      "Nature": 1,
+      "today": 1,
+      "the past 12,000 years": 1,
+      "ETH Zurich": 1,
+      "Today": 1,
+      "One": 1,
+      "Agroscope": 1,
+      "almost a decade": 1,
+      "the 2000s": 1,
+      "Europe": 1,
+      "Over 2 billion": 1,
+      "CRISPR / Cas": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "optimising-nature.md",
+      "title": "En News Events/2021/06/optimising Nature",
+      "language": "en",
+      "source_path": "en_news_events/2021/06/optimising-nature.html"
+    },
+    "temporal": {
+      "publication_date": "2021-06",
+      "mentioned_years": [
+        "2005",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Agroscope",
+        "Bruno Studer",
+        "Navreet Bhullar",
+        "Studer"
+      ],
+      "people_with_roles": {
+        "Bruno Studer": [
+          "professor"
+        ],
+        "Navreet Bhullar": [
+          "scientist"
+        ],
+        "Studer": [
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Bhullar",
+        "Nature",
+        "Over 2 billion",
+        "Swiss"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Navreet Bhullar",
+        "En News",
+        "Molecular Plant",
+        "Nature When",
+        "The Federal",
+        "ETH Zurich",
+        "Bruno Studer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CRISPR / Cas",
+        "ETH Zurich",
+        "GM",
+        "Molecular Plant Breeding",
+        "The Federal Council",
+        "the Institute of Molecular Plant Biology"
+      ],
+      "locations": [
+        "Europe",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Studer",
+        "Bruno Studer",
+        "Molecular Plant Breeding",
+        "Swiss",
+        "Switzerland",
+        "Navreet Bhullar",
+        "the Institute of Molecular Plant Biology",
+        "Bhullar",
+        "Nature",
+        "today"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Boosting better crops",
+          "Precision breeding",
+          "Multinutrient rice",
+          "Multinutrient rice"
+        ],
+        "content_length": 5721
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Molecular Plant Breeding",
+        "Navreet Bhullar",
+        "CRISPR / Cas",
+        "EU",
+        "2005",
+        "Studer",
+        "Agroscope",
+        "ETH Zurich",
+        "GM",
+        "The Federal Council",
+        "Bruno Studer",
+        "the Institute of Molecular Plant Biology",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Over 2 billion",
+        "Nature",
+        "who",
+        "Swiss",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "Bhullar",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Bruno Studer_has_role_professor",
+        "Navreet Bhullar_has_role_scientist",
+        "Studer_has_role_head",
+        "Studer_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

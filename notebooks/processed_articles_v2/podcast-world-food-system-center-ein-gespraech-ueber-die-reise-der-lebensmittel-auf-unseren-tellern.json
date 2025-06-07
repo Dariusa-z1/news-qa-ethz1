@@ -1,0 +1,201 @@
+{
+  "filename": "podcast-world-food-system-center-ein-gespraech-ueber-die-reise-der-lebensmittel-auf-unseren-tellern.md",
+  "original_filename": "podcast-world-food-system-center-ein-gespraech-ueber-die-reise-der-lebensmittel-auf-unseren-tellern.html",
+  "source_path": "de_news_events/2022/05/podcast-world-food-system-center-ein-gespraech-ueber-die-reise-der-lebensmittel-auf-unseren-tellern.html",
+  "date": "2022-05",
+  "title": "Podcast World Food System Center Ein Gespraech Ueber Die Reise Der Lebensmittel Auf Unseren Tellern",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Leiter des World Food System Center, Professor Robert Finger und ETH-Forscherin, Dozentin und Outreach-Koordinatorin Kenza Benabderrazik sprechen über die vielen Schichten des Systems, das Menschen rund um den Globus ernährt."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "World Food System Center",
+        "label": "MISC",
+        "start": 31,
+        "end": 55
+      },
+      {
+        "text": "World Food System Center",
+        "label": "MISC",
+        "start": 11,
+        "end": 35
+      },
+      {
+        "text": "Robert Finger",
+        "label": "PER",
+        "start": 47,
+        "end": 60
+      },
+      {
+        "text": "ETH-Forscherin",
+        "label": "MISC",
+        "start": 65,
+        "end": 79
+      },
+      {
+        "text": "Kenza Benabderrazik",
+        "label": "PER",
+        "start": 117,
+        "end": 136
+      },
+      {
+        "text": "Systems",
+        "label": "MISC",
+        "start": 176,
+        "end": 183
+      },
+      {
+        "text": "Globus",
+        "label": "LOC",
+        "start": 210,
+        "end": 216
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Kenza Benabderrazik",
+        "Robert Finger"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "Globus"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Forscherin",
+        "Systems",
+        "World Food System Center"
+      ]
+    },
+    "entity_counts": {
+      "World Food System Center": 2,
+      "De News": 1,
+      "Robert Finger": 1,
+      "ETH-Forscherin": 1,
+      "Kenza Benabderrazik": 1,
+      "Systems": 1,
+      "Globus": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-world-food-system-center-ein-gespraech-ueber-die-reise-der-lebensmittel-auf-unseren-tellern.md",
+      "title": "De News Events/2022/05/podcast World Food System Center ein Gespraech Ueber die Reise der Lebensmittel auf Unseren Tellern",
+      "language": "de",
+      "source_path": "de_news_events/2022/05/podcast-world-food-system-center-ein-gespraech-ueber-die-reise-der-lebensmittel-auf-unseren-tellern.html"
+    },
+    "temporal": {
+      "publication_date": "2022-05",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Kenza Benabderrazik",
+        "Robert Finger"
+      ],
+      "people_with_roles": {
+        "De News": [
+          "professor"
+        ],
+        "Kenza Benabderrazik": [
+          "professor"
+        ],
+        "Robert Finger": [
+          "Professor",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Forscherin",
+        "Systems",
+        "World Food System Center"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Kenza Benabderrazik",
+        "System Center",
+        "World Food",
+        "Unseren Tellern",
+        "Outreach-Koordinatorin",
+        "De News",
+        "ETH-Forscherin",
+        "Professor Robert",
+        "Gespraech Ueber"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Globus"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "World Food System Center",
+        "De News",
+        "Robert Finger",
+        "ETH-Forscherin",
+        "Kenza Benabderrazik",
+        "Systems",
+        "Globus"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 348
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022",
+        "De News",
+        "Kenza Benabderrazik",
+        "Robert Finger"
+      ],
+      "semantic_concepts": [
+        "who",
+        "ETH-Forscherin",
+        "World Food System Center",
+        "Systems"
+      ],
+      "graph_relations": [
+        "De News_has_role_professor",
+        "Kenza Benabderrazik_has_role_professor",
+        "Robert Finger_has_role_Professor",
+        "Robert Finger_has_role_professor"
+      ]
+    }
+  }
+}

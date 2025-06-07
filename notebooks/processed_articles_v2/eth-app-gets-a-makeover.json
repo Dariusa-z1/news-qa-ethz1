@@ -1,0 +1,132 @@
+{
+  "filename": "eth-app-gets-a-makeover.md",
+  "original_filename": "eth-app-gets-a-makeover.html",
+  "source_path": "en_internal/2013/12/eth-app-gets-a-makeover.html",
+  "date": "2013-12",
+  "title": "Eth App Gets A Makeover",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In alignment with the new ETH corporate design, the ETh app has been redesigned. Continue to experience campus life and receive the latest research stories on the go in an improved detailed view. The app is newly equipped with event and news filters and offers a complete ETH building directory. Find out what's an the menu at any campus canteen and look up colleagues and professors too."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "eth App",
+        "label": "PERSON",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 272,
+        "end": 275
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "eth App"
+      ],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "eth App": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-app-gets-a-makeover.md",
+      "title": "En Internal/2013/12/eth App Gets A Makeover",
+      "language": "en",
+      "source_path": "en_internal/2013/12/eth-app-gets-a-makeover.html"
+    },
+    "temporal": {
+      "publication_date": "2013-12",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "eth App"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "rector",
+        "professor",
+        "director"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "App Gets",
+        "A Makeover",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "ETH",
+        "eth App"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 432
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013",
+        "eth App",
+        "ETH"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

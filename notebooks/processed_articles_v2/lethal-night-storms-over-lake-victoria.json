@@ -1,0 +1,617 @@
+{
+  "filename": "lethal-night-storms-over-lake-victoria.md",
+  "original_filename": "lethal-night-storms-over-lake-victoria.html",
+  "source_path": "en_news_events/2016/09/lethal-night-storms-over-lake-victoria.html",
+  "date": "2016-09",
+  "title": "Lethal Night Storms Over Lake Victoria",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Converging breezes brew a stormy cocktail",
+      "text": "Lake Victoria, situated among Uganda, Kenya, and Tanzania, is a vital food source for around 30 million people living at its shore. With a surface of close to 70,000 km 2 , it is the second-largest lake in the world, and arguably also the most lethal: The lake is a notoriously dangerous place for the 200,000 people who go fishing there at night. The International Red Cross estimates that between 3,000 and 5,000 fishermen per year lose their lives in violent storms on the lake [1]. But despite Lake Victoria’s long-standing bad reputation, the potential consequences of climate change for this massive lake remained unknown until very recently."
+    },
+    {
+      "heading": "Converging breezes brew a stormy cocktail",
+      "text": "Lake Victoria can be so stormy at night because of the circulation in the atmosphere above its enormous water surface. During the day, a breeze develops that flows from the cool water towards the warm land. At night, the opposite happens: the land breeze flows away from the cooling land towards the warmer lake. As the lake is shaped like a circle, these land breezes converge above the lake from all directions. Add evaporation to this cocktail and you get a lot of storms, rain, wind, and waves.\n\nIn a new study [2] that combined the efforts of researchers from ETH Zurich and the University of Leuven, Belgium, we were able to provide scientific evidence for this pattern. In collaboration with the American space agency NASA, we developed a new satellite product which maps the number of severe thunderstorms and their locations in East Africa – every 15 minutes for a period ranging from 2005 to 2013. During the day, most storms rage over the surrounding land, especially the typical afternoon thunderstorms that are caused by local upsurges of warm air. At night, these storms concentrate above Lake Victoria."
+    },
+    {
+      "heading": "Intensifying nightly storms",
+      "text": "To predict the impact of climate change on this process, our research team also ran climate simulations using an advanced computer model. In a business-as-usual scenario, where the emission of greenhouse gases continues to increase, the extreme amounts of rainfall over Lake Victoria will increase by twice as much as the rainfall over the surrounding land. As a result, the lake will become even more of a hotspot for nighttime storms. Superstorms that today only occur once every 15 years will occur almost every year by the end of the century. Lake Victoria is therefore likely to remain the most dangerous stretch of water in the world."
+    },
+    {
+      "heading": "Developing an early warning system for the region",
+      "text": "By now several organisations realise the danger associated with these lake storms, and they have stepped in to help develop warning systems for local fishermen. One promising development in this respect is the effort of the World Meteorological Organisation together with the UK Met Office and local telecommunication companies to provide weather alerts on mobile phones [3]. Fishermen who join the service receive a text message based on a simple traffic light system, warning them in case severe thunderstorms are forecast over the lake.\n\nThe results of our new study [2] have the potential to further optimize such warning systems, as they make it possible to improve the forecasting of these extreme storms. In particular, we found that afternoon conditions on land influence how strong nighttime storms on the lake will be, suggesting greater predictability than has been assumed so far. Based on these new insights, we already developed a prototype of a new storm-prediction system. Supporting ongoing efforts, this new system may help to reduce the vulnerability of the local communities that live, work, and depend on Lake Victoria."
+    },
+    {
+      "heading": "Further information",
+      "text": "[1] International Federation of Red Cross and Red Crescent Societies, World Disasters Report 2014\n\nMovie showing two tornadoes on Lake Victoria\n\n[2] Wim Thiery, Edouard L. Davin, Sonia I. Seneviratne, Kristopher Bedka, Stef Lhermitte, and Nicole P.M. van Lipzig, Hazardous thunderstorm intensification over Lake Victoria , Nature Communications, 2016. (doi: 10.1038/NCOMMS12786)\n\n[3] Read more on the UK Met Office efforts to save lives on Lake Victoria\n\nPostdoc at the Institute for Atmospheric and Climate Science,"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Lake Victoria",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Uganda",
+        "label": "GPE",
+        "start": 30,
+        "end": 36
+      },
+      {
+        "text": "Kenya",
+        "label": "GPE",
+        "start": 38,
+        "end": 43
+      },
+      {
+        "text": "Tanzania",
+        "label": "GPE",
+        "start": 49,
+        "end": 57
+      },
+      {
+        "text": "around 30 million",
+        "label": "CARDINAL",
+        "start": 86,
+        "end": 103
+      },
+      {
+        "text": "close to 70,000 km 2",
+        "label": "QUANTITY",
+        "start": 150,
+        "end": 170
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 183,
+        "end": 189
+      },
+      {
+        "text": "200,000",
+        "label": "CARDINAL",
+        "start": 302,
+        "end": 309
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 341,
+        "end": 346
+      },
+      {
+        "text": "The International Red Cross",
+        "label": "ORG",
+        "start": 348,
+        "end": 375
+      },
+      {
+        "text": "between 3,000 and 5,000",
+        "label": "CARDINAL",
+        "start": 391,
+        "end": 414
+      },
+      {
+        "text": "Lake Victoria’s",
+        "label": "PERSON",
+        "start": 498,
+        "end": 513
+      },
+      {
+        "text": "Lake Victoria",
+        "label": "PERSON",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 126,
+        "end": 133
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 210,
+        "end": 215
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 564,
+        "end": 574
+      },
+      {
+        "text": "the University of Leuven",
+        "label": "ORG",
+        "start": 579,
+        "end": 603
+      },
+      {
+        "text": "Belgium",
+        "label": "GPE",
+        "start": 605,
+        "end": 612
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "start": 702,
+        "end": 710
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 724,
+        "end": 728
+      },
+      {
+        "text": "East Africa",
+        "label": "GPE",
+        "start": 836,
+        "end": 847
+      },
+      {
+        "text": "every 15 minutes",
+        "label": "TIME",
+        "start": 850,
+        "end": 866
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 914,
+        "end": 921
+      },
+      {
+        "text": "afternoon",
+        "label": "TIME",
+        "start": 990,
+        "end": 999
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 1064,
+        "end": 1069
+      },
+      {
+        "text": "Lake Victoria",
+        "label": "LOC",
+        "start": 1102,
+        "end": 1115
+      },
+      {
+        "text": "Lake Victoria",
+        "label": "LOC",
+        "start": 270,
+        "end": 283
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 454,
+        "end": 459
+      },
+      {
+        "text": "every 15 years",
+        "label": "DATE",
+        "start": 476,
+        "end": 490
+      },
+      {
+        "text": "almost every year",
+        "label": "DATE",
+        "start": 502,
+        "end": 519
+      },
+      {
+        "text": "the end of the century",
+        "label": "DATE",
+        "start": 523,
+        "end": 545
+      },
+      {
+        "text": "Lake Victoria",
+        "label": "PERSON",
+        "start": 547,
+        "end": 560
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 161,
+        "end": 164
+      },
+      {
+        "text": "the World Meteorological Organisation",
+        "label": "ORG",
+        "start": 220,
+        "end": 257
+      },
+      {
+        "text": "the UK Met Office",
+        "label": "ORG",
+        "start": 272,
+        "end": 289
+      },
+      {
+        "text": "afternoon",
+        "label": "TIME",
+        "start": 740,
+        "end": 749
+      },
+      {
+        "text": "Lake Victoria",
+        "label": "LOC",
+        "start": 1125,
+        "end": 1138
+      },
+      {
+        "text": "Red Crescent Societies",
+        "label": "ORG",
+        "start": 46,
+        "end": 68
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 112,
+        "end": 115
+      },
+      {
+        "text": "Lake Victoria",
+        "label": "LOC",
+        "start": 129,
+        "end": 142
+      },
+      {
+        "text": "Edouard L. Davin",
+        "label": "PERSON",
+        "start": 159,
+        "end": 175
+      },
+      {
+        "text": "Sonia I. Seneviratne",
+        "label": "PERSON",
+        "start": 177,
+        "end": 197
+      },
+      {
+        "text": "Kristopher Bedka",
+        "label": "PERSON",
+        "start": 199,
+        "end": 215
+      },
+      {
+        "text": "Stef Lhermitte",
+        "label": "PERSON",
+        "start": 217,
+        "end": 231
+      },
+      {
+        "text": "Nicole P.M. van Lipzig",
+        "label": "PERSON",
+        "start": 237,
+        "end": 259
+      },
+      {
+        "text": "Lake Victoria",
+        "label": "LOC",
+        "start": 305,
+        "end": 318
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 356,
+        "end": 363
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 398,
+        "end": 400
+      },
+      {
+        "text": "Met Office",
+        "label": "ORG",
+        "start": 401,
+        "end": 411
+      },
+      {
+        "text": "Lake Victoria Postdoc",
+        "label": "FAC",
+        "start": 437,
+        "end": 458
+      },
+      {
+        "text": "the Institute for Atmospheric and Climate Science",
+        "label": "ORG",
+        "start": 462,
+        "end": 511
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Edouard L. Davin",
+        "Kristopher Bedka",
+        "Lake Victoria",
+        "Lake Victoria’s",
+        "Nicole P.M. van Lipzig",
+        "Sonia I. Seneviratne",
+        "Stef Lhermitte"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "En News",
+        "Met Office",
+        "NASA",
+        "Red Crescent Societies",
+        "The International Red Cross",
+        "the Institute for Atmospheric and Climate Science",
+        "the UK Met Office",
+        "the University of Leuven",
+        "the World Meteorological Organisation"
+      ],
+      "LOCATION": [
+        "Belgium",
+        "East Africa",
+        "Kenya",
+        "Lake Victoria",
+        "Lake Victoria Postdoc",
+        "Tanzania",
+        "UK",
+        "Uganda"
+      ],
+      "DATE": [
+        "afternoon",
+        "almost every year",
+        "every 15 minutes",
+        "every 15 years",
+        "night",
+        "the day",
+        "the end of the century",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "200,000",
+        "American",
+        "One",
+        "around 30 million",
+        "between 3,000 and 5,000",
+        "close to 70,000 km 2",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Lake Victoria": 8,
+      "night": 4,
+      "the day": 2,
+      "afternoon": 2,
+      "En News": 1,
+      "Uganda": 1,
+      "Kenya": 1,
+      "Tanzania": 1,
+      "around 30 million": 1,
+      "close to 70,000 km 2": 1,
+      "second": 1,
+      "200,000": 1,
+      "The International Red Cross": 1,
+      "between 3,000 and 5,000": 1,
+      "Lake Victoria’s": 1,
+      "ETH Zurich": 1,
+      "the University of Leuven": 1,
+      "Belgium": 1,
+      "American": 1,
+      "NASA": 1
+    },
+    "total_entities": 53,
+    "unique_entities": 41
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "lethal-night-storms-over-lake-victoria.md",
+      "title": "En News Events/2016/09/lethal Night Storms Over Lake Victoria",
+      "language": "en",
+      "source_path": "en_news_events/2016/09/lethal-night-storms-over-lake-victoria.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2005",
+        "2013",
+        "2014",
+        "2016"
+      ],
+      "time_periods": [
+        [
+          "2005",
+          "2013"
+        ]
+      ],
+      "temporal_context": "until, during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Edouard L. Davin",
+        "Kristopher Bedka",
+        "Lake Victoria",
+        "Lake Victoria’s",
+        "Nicole P.M. van Lipzig",
+        "Sonia I. Seneviratne",
+        "Stef Lhermitte"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "200,000",
+        "American",
+        "around 30 million",
+        "between 3,000 and 5,000",
+        "close to 70,000 km 2",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "The International",
+        "Lake Victoria",
+        "Wim Thiery",
+        "Victoria Lake",
+        "World Disasters",
+        "International Federation",
+        "UK Met",
+        "Stef Lhermitte",
+        "East Africa",
+        "Over Lake",
+        "Sonia I",
+        "World Meteorological",
+        "Kristopher Bedka",
+        "Nature Communications",
+        "Climate Science",
+        "Red Crescent",
+        "Edouard L",
+        "Nicole P",
+        "Red Cross",
+        "En News",
+        "Night Storms",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Atmospheric and Climate Science"
+      ],
+      "institutions": [
+        "ETH Zurich",
+        "En News",
+        "Met Office",
+        "NASA",
+        "Red Crescent Societies",
+        "The International Red Cross",
+        "the Institute for Atmospheric and Climate Science",
+        "the UK Met Office",
+        "the University of Leuven",
+        "the World Meteorological Organisation"
+      ],
+      "locations": [
+        "Belgium",
+        "East Africa",
+        "Kenya",
+        "Lake Victoria",
+        "Lake Victoria Postdoc",
+        "Tanzania",
+        "UK",
+        "Uganda"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Lake Victoria",
+        "night",
+        "the day",
+        "afternoon",
+        "En News",
+        "Uganda",
+        "Kenya",
+        "Tanzania",
+        "around 30 million",
+        "close to 70,000 km 2"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Converging breezes brew a stormy cocktail",
+          "Converging breezes brew a stormy cocktail",
+          "Intensifying nightly storms",
+          "Developing an early warning system for the region",
+          "Further information"
+        ],
+        "content_length": 4127
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2016",
+        "Nicole P.M. van Lipzig",
+        "Edouard L. Davin",
+        "Lake Victoria",
+        "the Institute for Atmospheric and Climate Science",
+        "The International Red Cross",
+        "NASA",
+        "Stef Lhermitte",
+        "2014",
+        "Lake Victoria’s",
+        "EU",
+        "Kristopher Bedka",
+        "Red Crescent Societies",
+        "the World Meteorological Organisation",
+        "Sonia I. Seneviratne",
+        "the UK Met Office",
+        "the University of Leuven",
+        "En News",
+        "2013",
+        "ETH Zurich",
+        "2005",
+        "Met Office"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "American",
+        "between 3,000 and 5,000",
+        "10.1038",
+        "close to 70,000 km 2",
+        "200,000",
+        "what",
+        "second",
+        "how",
+        "climate_change",
+        "when",
+        "where",
+        "around 30 million"
+      ],
+      "graph_relations": [
+        "research_domain_climate_change",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

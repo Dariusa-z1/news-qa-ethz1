@@ -1,0 +1,369 @@
+{
+  "filename": "mobility-initiative.md",
+  "original_filename": "mobility-initiative.html",
+  "source_path": "en_news_events/2018/01/mobility-initiative.html",
+  "date": "2018-01",
+  "title": "Mobility Initiative",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Two to four new professorships",
+      "text": "Congested roads, packed trains and additional buses at rush hour: existing transport systems are being stretched to their limits. Technological progress is enabling new solutions, from self-driving vehicles and more efficient use of road and rail infrastructure to door-to-door mobility. Meeting the numerous challenges and creating marketable innovations requires the cooperation of the scientific, economic and public transport sectors. That’s why ETH Zurich is launching the ETH Mobility Initiative together with SBB.\n\n“With this initiative, we aim to further expand our activities and expertise in this promising area and establish ETH Zurich as a leading centre for mobility research, both nationally and internationally,” says ETH President Lino Guzzella. “This collaboration will allow us to take full advantage of the opportunities offered by the digital transformation – to improve people’s quality of life and the attractiveness of Switzerland as a location. As a strategic funding partner, we are delighted to be able to access ETH’s expertise and to support research and development in this field,” adds SBB CEO Andreas Meyer."
+    },
+    {
+      "heading": "Two to four new professorships",
+      "text": "More than 20 research groups already work in various areas of mobility research at ETH Zurich. Over the next ten years, this specialist expertise will be expanded with the introduction of two to four new professorships. Up to 100 doctoral students and postdocs will also conduct research into mobility-related questions. In future, the new specialists could work on projects such as optimising mobility and logistics services, or on digitalising and therefore increasing the efficiency of public transport infrastructure. And there's also plenty to do in the field of individual transport: for example, modern engine technologies need to be further developed and the control and operation of self-driving transport systems need to be advanced."
+    },
+    {
+      "heading": "New ETH Mobility Centre",
+      "text": "In the newly created ETH Mobility Centre, ETH scientists will work with funding partners to research technological innovations. These will include the development of nationwide mobility simulations and the improvement of vehicle–track interaction. Regular meetings, workshops and international speakers will offer platforms for exchange and anchor the projects in partner organisations. The Mobility Centre will be based at either the city-centre or Hönggerberg campus and could also feature an offshoot in the Dübendorf Innovation Park. Other aspects of the initiative will aim to facilitate exchange with politicians and the public on mobility-related issues, as well as training talented young researchers in this field.\n\nThe first ten years of the project will require CHF 100 million in funding. Funding partners such as SBB will cover approximately half of these requirements, along with other companies, organisations, foundations and private individuals. ETH Zurich will provide the remainder."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 450,
+        "end": 460
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 516,
+        "end": 519
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 635,
+        "end": 645
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 732,
+        "end": 735
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 746,
+        "end": 759
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 941,
+        "end": 952
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1038,
+        "end": 1041
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 1115,
+        "end": 1118
+      },
+      {
+        "text": "Andreas Meyer",
+        "label": "PERSON",
+        "start": 1123,
+        "end": 1136
+      },
+      {
+        "text": "More than 20",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 83,
+        "end": 93
+      },
+      {
+        "text": "the next ten years",
+        "label": "DATE",
+        "start": 100,
+        "end": 118
+      },
+      {
+        "text": "two to four",
+        "label": "CARDINAL",
+        "start": 188,
+        "end": 199
+      },
+      {
+        "text": "Up to 100",
+        "label": "CARDINAL",
+        "start": 220,
+        "end": 229
+      },
+      {
+        "text": "ETH Mobility Centre",
+        "label": "ORG",
+        "start": 21,
+        "end": 40
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "The Mobility Centre",
+        "label": "ORG",
+        "start": 387,
+        "end": 406
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 450,
+        "end": 461
+      },
+      {
+        "text": "the Dübendorf Innovation Park",
+        "label": "ORG",
+        "start": 507,
+        "end": 536
+      },
+      {
+        "text": "The first ten years",
+        "label": "DATE",
+        "start": 724,
+        "end": 743
+      },
+      {
+        "text": "100 million",
+        "label": "CARDINAL",
+        "start": 776,
+        "end": 787
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 825,
+        "end": 828
+      },
+      {
+        "text": "approximately half",
+        "label": "CARDINAL",
+        "start": 840,
+        "end": 858
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 962,
+        "end": 972
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Meyer",
+        "ETH Zurich",
+        "Lino Guzzella"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Mobility Centre",
+        "ETH Zurich",
+        "SBB",
+        "The Mobility Centre",
+        "the Dübendorf Innovation Park"
+      ],
+      "LOCATION": [
+        "Hönggerberg",
+        "Switzerland"
+      ],
+      "DATE": [
+        "The first ten years",
+        "the next ten years"
+      ],
+      "MISC": [
+        "100 million",
+        "More than 20",
+        "Up to 100",
+        "approximately half",
+        "two to four"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 4,
+      "SBB": 3,
+      "ETH": 3,
+      "Lino Guzzella": 1,
+      "Switzerland": 1,
+      "Andreas Meyer": 1,
+      "More than 20": 1,
+      "the next ten years": 1,
+      "two to four": 1,
+      "Up to 100": 1,
+      "ETH Mobility Centre": 1,
+      "The Mobility Centre": 1,
+      "Hönggerberg": 1,
+      "the Dübendorf Innovation Park": 1,
+      "The first ten years": 1,
+      "100 million": 1,
+      "approximately half": 1
+    },
+    "total_entities": 24,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mobility-initiative.md",
+      "title": "En News Events/2018/01/mobility Initiative",
+      "language": "en",
+      "source_path": "en_news_events/2018/01/mobility-initiative.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Meyer",
+        "ETH Zurich",
+        "Lino Guzzella"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president"
+        ],
+        "Lino Guzzella": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "100 million",
+        "More than 20",
+        "Up to 100",
+        "approximately half",
+        "two to four"
+      ],
+      "grants_funding": [
+        "funding"
+      ],
+      "projects": [
+        "Initiative Congested",
+        "Innovation Park",
+        "ETH President",
+        "En News",
+        "Andreas Meyer",
+        "The Mobility",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "ETH Mobility",
+        "SBB CEO"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Mobility Centre",
+        "ETH Zurich",
+        "SBB",
+        "The Mobility Centre",
+        "the Dübendorf Innovation Park"
+      ],
+      "locations": [
+        "Hönggerberg",
+        "Switzerland"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "SBB",
+        "ETH",
+        "Lino Guzzella",
+        "Switzerland",
+        "Andreas Meyer",
+        "More than 20",
+        "the next ten years",
+        "two to four",
+        "Up to 100"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Two to four new professorships",
+          "Two to four new professorships",
+          "New ETH Mobility Centre"
+        ],
+        "content_length": 2927
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "ETH Mobility Centre",
+        "Andreas Meyer",
+        "SBB",
+        "The Mobility Centre",
+        "funding",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "the Dübendorf Innovation Park"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Up to 100",
+        "who",
+        "where",
+        "More than 20",
+        "approximately half",
+        "two to four",
+        "what",
+        "100 million",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "Lino Guzzella_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

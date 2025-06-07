@@ -1,0 +1,362 @@
+{
+  "filename": "researching-phytoplankton-in-zero-gravity.md",
+  "original_filename": "researching-phytoplankton-in-zero-gravity.html",
+  "source_path": "en_news_events/2016/10/researching-phytoplankton-in-zero-gravity.html",
+  "date": "2016-10",
+  "title": "Researching Phytoplankton In Zero Gravity",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Focus on migratory micro-algae",
+      "text": "A high-flying and unusual experiment: “We were able to test an important hypothesis: changes in relative gravity, which routinely occur in aquatic environments due to turbulence, have a significant impact on the behaviour of microorganisms,” reports Roman Stocker after the second Swiss zero-g research flight.\n\nThe ETH Professor of Hydromechanics and Groundwater, together with four researchers from his team, were on board the Airbus A310 Zero-G as it headed south from Dübendorf airbase last Saturday and performed a series of parabolic manoeuvres over the Mediterranean. Between each ascent and descent there were 22 seconds of weightlessness. The ETH researchers used this rare opportunity to investigate the impact of gravity on the physiology and behaviour of organisms at the base of the aquatic food web, which play a vital role in numerous environmental processes."
+    },
+    {
+      "heading": "Focus on migratory micro-algae",
+      "text": "The researchers focused specifically on phytoplankton: single-celled photosynthetic organisms that are ubiquitous in lakes and oceans. During the day, these microorganisms swim towards the light at the water surface, while at night they migrate to greater depths, where there are more nutrients. This migratory behaviour is ecologically significant and societally important, as many migratory species of phytoplankton cause blooms that can be toxic to fish and humans.\n\n“We know that turbulence in the water can hinder the migrations of phytoplankton, but the underlying mechanism has remained unknown,” explains Stocker. He and his team hypothesize that tiny eddies in the water send single-celled organisms into a spin, which causes a continuous change in their perceived gravity relative to the direction of travel. This hypothesis resulted from laboratory experiments with artificial turbulence that the group has performed to date. Now, Saturday’s parabolic flight has allowed the researchers to test how changing gravitational strength influences the migratory behaviour of phytoplankton.\n\nTo do this, Stocker’s group set up an experimental apparatus in the plane that allowed them to simultaneously film the microscopic cells swimming under variable gravity conditions and to measure their gene expression in reaction to the gravitational changes.\n\nA full analysis of the data will require time. “We hope to gain valuable insights into one of the most important microorganisms on Earth. Ideally, the data will reveal the mechanism through which phytoplankton react to turbulence and perceived gravitational changes, enabling us to better predict the environmental processes for which these tiny organisms are responsible,” says Stocker.\n\nThe parabolic flight was organised by the University of Zurich’s Swiss Parabolic Flights initiative."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Phytoplankton",
+        "label": "PERSON",
+        "start": 35,
+        "end": 48
+      },
+      {
+        "text": "Roman Stocker",
+        "label": "PERSON",
+        "start": 250,
+        "end": 263
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 274,
+        "end": 280
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 287,
+        "end": 291
+      },
+      {
+        "text": "Hydromechanics",
+        "label": "GPE",
+        "start": 332,
+        "end": 346
+      },
+      {
+        "text": "Groundwater",
+        "label": "GPE",
+        "start": 351,
+        "end": 362
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 378,
+        "end": 382
+      },
+      {
+        "text": "Airbus",
+        "label": "ORG",
+        "start": 428,
+        "end": 434
+      },
+      {
+        "text": "A310 Zero-G",
+        "label": "PRODUCT",
+        "start": 435,
+        "end": 446
+      },
+      {
+        "text": "Dübendorf",
+        "label": "ORG",
+        "start": 471,
+        "end": 480
+      },
+      {
+        "text": "last Saturday",
+        "label": "DATE",
+        "start": 489,
+        "end": 502
+      },
+      {
+        "text": "Mediterranean",
+        "label": "LOC",
+        "start": 559,
+        "end": 572
+      },
+      {
+        "text": "22 seconds",
+        "label": "TIME",
+        "start": 617,
+        "end": 627
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 651,
+        "end": 654
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 142,
+        "end": 149
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 226,
+        "end": 231
+      },
+      {
+        "text": "Stocker",
+        "label": "PERSON",
+        "start": 612,
+        "end": 619
+      },
+      {
+        "text": "Saturday",
+        "label": "DATE",
+        "start": 941,
+        "end": 949
+      },
+      {
+        "text": "Stocker’s",
+        "label": "ORG",
+        "start": 1106,
+        "end": 1115
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1440,
+        "end": 1443
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1484,
+        "end": 1489
+      },
+      {
+        "text": "Stocker",
+        "label": "PERSON",
+        "start": 1732,
+        "end": 1739
+      },
+      {
+        "text": "the University of Zurich’s Swiss Parabolic Flights",
+        "label": "ORG",
+        "start": 1779,
+        "end": 1829
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Phytoplankton",
+        "Roman Stocker",
+        "Stocker"
+      ],
+      "ORG": [
+        "Airbus",
+        "Dübendorf",
+        "ETH",
+        "Stocker’s",
+        "the University of Zurich’s Swiss Parabolic Flights"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Groundwater",
+        "Hydromechanics",
+        "Mediterranean"
+      ],
+      "DATE": [
+        "22 seconds",
+        "Saturday",
+        "last Saturday",
+        "night",
+        "the day"
+      ],
+      "MISC": [
+        "A310 Zero-G",
+        "four",
+        "one",
+        "second",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "Stocker": 2,
+      "Phytoplankton": 1,
+      "Roman Stocker": 1,
+      "second": 1,
+      "zero": 1,
+      "Hydromechanics": 1,
+      "Groundwater": 1,
+      "four": 1,
+      "Airbus": 1,
+      "A310 Zero-G": 1,
+      "Dübendorf": 1,
+      "last Saturday": 1,
+      "Mediterranean": 1,
+      "22 seconds": 1,
+      "ETH": 1,
+      "the day": 1,
+      "night": 1,
+      "Saturday": 1,
+      "Stocker’s": 1,
+      "one": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "researching-phytoplankton-in-zero-gravity.md",
+      "title": "En News Events/2016/10/researching Phytoplankton in Zero Gravity",
+      "language": "en",
+      "source_path": "en_news_events/2016/10/researching-phytoplankton-in-zero-gravity.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Phytoplankton",
+        "Roman Stocker",
+        "Stocker"
+      ],
+      "people_with_roles": {
+        "Phytoplankton": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology",
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "A310 Zero-G",
+        "four",
+        "second",
+        "zero"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "En News",
+        "Swiss Parabolic",
+        "Roman Stocker",
+        "Zero-G",
+        "Zero Gravity",
+        "The ETH"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Airbus",
+        "Dübendorf",
+        "ETH",
+        "Stocker’s",
+        "the University of Zurich’s Swiss Parabolic Flights"
+      ],
+      "locations": [
+        "Earth",
+        "Groundwater",
+        "Hydromechanics",
+        "Mediterranean"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Stocker",
+        "Phytoplankton",
+        "Roman Stocker",
+        "second",
+        "zero",
+        "Hydromechanics",
+        "Groundwater",
+        "four",
+        "Airbus",
+        "A310 Zero-G"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Focus on migratory micro-algae",
+          "Focus on migratory micro-algae"
+        ],
+        "content_length": 2785
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Airbus",
+        "Dübendorf",
+        "Roman Stocker",
+        "Phytoplankton",
+        "EU",
+        "Stocker’s",
+        "the University of Zurich’s Swiss Parabolic Flights",
+        "2016",
+        "ERC",
+        "Stocker"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "zero",
+        "four",
+        "who",
+        "A310 Zero-G",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Phytoplankton_has_role_researcher",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "filename": "erinnerung-ausschreibung-rare-diseases-der-gebert-ruet-stiftung.md",
+  "original_filename": "erinnerung-ausschreibung-rare-diseases-der-gebert-ruet-stiftung.html",
+  "source_path": "de_internal/2014/07/erinnerung-ausschreibung-rare-diseases-der-gebert-ruet-stiftung.html",
+  "date": "2014-07",
+  "title": "Erinnerung Ausschreibung Rare Diseases Der Gebert Ruet Stiftung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Gebert Rüf Stiftung unterstützt seit 2009 Forschungsprojekte im Bereich der Diagnostik und Behandlung von seltenen genetischen Erkrankungen mit 2 Mio. Franken jährlich. Unterstützt werden Forschungsgruppen von Schweizer Universitäten, Universitätsspitälern, Eidgenössischen Technischen Hochschulen sowie von angegliederten Forschungsinstituten.\n\nDie Frist zur Einreichung von Projekten im Rahmen der 6. Ausschreibung «Rare diseases» läuft noch bis zum 8. August 2014. Einreichungsbedingungen und weitere Angaben unter: externe Seite www.grstiftung.ch ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/07",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Rare",
+        "label": "PER",
+        "start": 45,
+        "end": 49
+      },
+      {
+        "text": "Gebert Ruet Stiftung",
+        "label": "ORG",
+        "start": 63,
+        "end": 83
+      },
+      {
+        "text": "Gebert Rüf Stiftung",
+        "label": "ORG",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 214,
+        "end": 223
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Rare"
+      ],
+      "ORG": [
+        "Gebert Ruet Stiftung",
+        "Gebert Rüf Stiftung"
+      ],
+      "LOCATION": [
+        "De Internal/2014/07"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/07": 1,
+      "Rare": 1,
+      "Gebert Ruet Stiftung": 1,
+      "Gebert Rüf Stiftung": 1,
+      "Schweizer": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "erinnerung-ausschreibung-rare-diseases-der-gebert-ruet-stiftung.md",
+      "title": "De Internal/2014/07/erinnerung Ausschreibung Rare Diseases der Gebert Ruet Stiftung",
+      "language": "de",
+      "source_path": "de_internal/2014/07/erinnerung-ausschreibung-rare-diseases-der-gebert-ruet-stiftung.html"
+    },
+    "temporal": {
+      "publication_date": "2014-07",
+      "mentioned_years": [
+        "2009",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Rare"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research"
+      ],
+      "research_topics": [
+        "Schweizer"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Ausschreibung Rare",
+        "De Internal",
+        "Die Frist",
+        "Gebert Ruet",
+        "Technischen Hochschulen",
+        "Stiftung Die"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Gebert Ruet Stiftung",
+        "Gebert Rüf Stiftung"
+      ],
+      "locations": [
+        "De Internal/2014/07"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/07",
+        "Rare",
+        "Gebert Ruet Stiftung",
+        "Gebert Rüf Stiftung",
+        "Schweizer"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 640
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2009",
+        "Gebert Rüf Stiftung",
+        "Rare",
+        "Gebert Ruet Stiftung",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "medical_research",
+        "Schweizer"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research"
+      ]
+    }
+  }
+}

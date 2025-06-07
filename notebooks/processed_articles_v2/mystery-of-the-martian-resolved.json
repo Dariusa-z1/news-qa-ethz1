@@ -1,0 +1,832 @@
+{
+  "filename": "mystery-of-the-martian-resolved.md",
+  "original_filename": "mystery-of-the-martian-resolved.html",
+  "source_path": "en_news_events/2023/10/mystery-of-the-martian-resolved.html",
+  "date": "2023-10",
+  "title": "Mystery Of The Martian Resolved",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- One year after the NASA InSight Mission ended, the analysis of the recorded marsquakes, combines with computer simulations, is still yielding new findings.\n\n- An analysis of the initially observed marsquakes shows that the average density of the Martian core had to be significantly lower than that of pure liquid iron.\n\n- The new observations show that the radius of the Martian core has decreased from the initially determined range of 1,800–1,850 kilometres to somewhere in the range of 1,650– 1,700 kilometres."
+    },
+    {
+      "heading": "Fewer light elements",
+      "text": "For four years, NASA’s InSight lander recorded tremors on Mars with its seismometer. Researchers at ETH Zurich collected and analysed the data transmitted to Earth to determine the planet’s internal structure. “Although the mission ended in December 2022, we’ve now discovered something very interesting,” says Amir Khan, a Senior Scientist in the Department of Earth Sciences at ETH Zurich.\n\nAn analysis of recorded marsquakes, combined with computer simulations, paint a new picture of the planet’s interior. Sandwiched between Mars’s liquid iron alloy core and its solid silicate mantle lies a layer of liquid silicate (magma) about 150 kilometres thick. “Earth doesn’t have a completely molten silicate layer like that,” Khan says.\n\nAn analysis of the initially observed marsquakes had shown that the average density of the Martian core had to be significantly lower than that of pure liquid iron. The Earth’s core, for example, consists of about 90 percent iron by weight. Light elements such as sulphur, carbon, oxygen, and hydrogen make up a combined total of around 10 percent by weight. Initial estimates of the density of the Martian core showed that it is comprised of a much larger share of light elements – around 20 percent by weight. “This represents a very large complement of light elements, bordering on the impossible. We have been wondering about this result ever since,” says Dongyang Huang, a postdoctoral researcher in the Department of Earth Sciences at ETH Zurich."
+    },
+    {
+      "heading": "Fewer light elements",
+      "text": "The new observations show that the radius of the Martian core has decreased from the initially determined range of 1,800–1,850 kilometres to somewhere in the range of 1,650– 1,700 kilometres, which is about 50 percent of the radius of Mars. If the Martian core is smaller than previously thought but has the same mass, it follows that its density is greater and that it, therefore, contains fewer light elements. According to the new calculations, the proportion of light elements dropped to between 9 and 14 percent by weight. “This means that the average density of the Martian core is still somewhat low, but no longer inexplicable in the context of typical planet formation scenarios,” says Paolo Sossi, Assistant Professor in the Department of Earth Sciences at ETH Zurich and member of the National Centres of Competence in Research (NCCRs) PlanetS. The fact that the Martian core contains a significant amount of light elements indicates that it must have formed very early, possibly when the Sun was still surrounded by the nebula gas from which light elements could have accumulated in the Martian core.\n\nThe initial calculations were based on tremors that had occurred in close proximity to the InSight lander. However, in August and September 2021, the seismometer registered two quakes on the opposite side of Mars. One of them was caused by a meteorite impact. “These quakes produced seismic waves that traversed the core,” explains Cecilia Duran, a doctoral student in the Department of Earth Sciences at ETH Zurich. “This allowed us to illuminate the core.” In the case of the earlier marsquakes, by contrast, the waves were reflected at the core-mantle boundary, providing no information about the deepest interior of the Red Planet. As a result of these new observations, the researchers have now been able to determine the density and seismic wave speed of the fluid core up to a depth of about 1,000 kilometres."
+    },
+    {
+      "heading": "Supercomputer simulations",
+      "text": "To infer the composition of a material from such profiles, researchers usually compare the data with that of synthetic iron alloys containing different proportions of light elements (S, C, O, and H). In the lab, these alloys are exposed to high temperatures and pressures equivalent to those found in the interior of planets to then measure density and seismic wave speed. However, most of these experiments refer to the Earth’s interior and are hardly applicable to Mars. That’s why the ETH team used quantum-mechanical calculations on “Piz Daint” to identify the properties of a variety of alloys. However, as the researchers compared the calculated profiles with the seismic data, they encountered a problem. It turned out that no material matched the values at both the interior and outer rim of the Martian core. For example, at the core-mantle boundary, the matching iron alloy would have needed to contain much more carbon than in the core’s interior. “That made us realise that the region we had previously considered to be the outer rim of the liquid iron core was not the core after all, but actually the innermost part of the mantle,” explains Huang. In support of this, the researchers found that the profiles measured and computed in the outermost 150 kilometres of the core were, in fact, consistent with those of molten silicates — the same material that, in solid form, makes up the Martian mantle. Further analysis of earlier marsquakes and additional simulations confirmed this result. Regrettably however, the dusty solar panels and the resulting lack of power made it impossible for the InSight lander to provide additional data that could have shed more light on the composition and structure of Mars’s interior, as Khan recounts. “Yet, InSight was a very successful mission that provided us with a lot of new data and insights that will be analysed for years to come.”"
+    },
+    {
+      "heading": "The NASA Mars InSight Mission",
+      "text": "Khan A, Huang D, Duran C, Sossi PA, Giardini D, Murakami M: Evidence for a liquid silicate layer atop the Martian core. Nature, 25 Oct 2023, doi: 10.1038/s41586-023-06586-4\n\nSamuel H, Drilleau M, Rivoldini A, et al. Geophysical evidence for an enriched molten silicate layer above Mars' core, Nature, 25 Oct 2023, doi: 10.1038/s41586-023-06601-8"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 247,
+        "end": 254
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 372,
+        "end": 379
+      },
+      {
+        "text": "1,800–1,850 kilometres",
+        "label": "QUANTITY",
+        "start": 438,
+        "end": 460
+      },
+      {
+        "text": "1,650",
+        "label": "CARDINAL",
+        "start": 490,
+        "end": 495
+      },
+      {
+        "text": "1,700 kilometres",
+        "label": "QUANTITY",
+        "start": 497,
+        "end": 513
+      },
+      {
+        "text": "four years",
+        "label": "DATE",
+        "start": 4,
+        "end": 14
+      },
+      {
+        "text": "NASA",
+        "label": "ORG",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 58,
+        "end": 62
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 100,
+        "end": 110
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 158,
+        "end": 163
+      },
+      {
+        "text": "December 2022",
+        "label": "DATE",
+        "start": 241,
+        "end": 254
+      },
+      {
+        "text": "Amir Khan",
+        "label": "PERSON",
+        "start": 311,
+        "end": 320
+      },
+      {
+        "text": "the Department of Earth Sciences",
+        "label": "ORG",
+        "start": 344,
+        "end": 376
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 384,
+        "end": 390
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 529,
+        "end": 533
+      },
+      {
+        "text": "about 150 kilometres",
+        "label": "QUANTITY",
+        "start": 629,
+        "end": 649
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 658,
+        "end": 663
+      },
+      {
+        "text": "Khan",
+        "label": "PERSON",
+        "start": 724,
+        "end": 728
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 826,
+        "end": 833
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 904,
+        "end": 909
+      },
+      {
+        "text": "about 90 percent",
+        "label": "PERCENT",
+        "start": 943,
+        "end": 959
+      },
+      {
+        "text": "around 10 percent",
+        "label": "PERCENT",
+        "start": 1065,
+        "end": 1082
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 1134,
+        "end": 1141
+      },
+      {
+        "text": "around 20 percent",
+        "label": "PERCENT",
+        "start": 1218,
+        "end": 1235
+      },
+      {
+        "text": "Dongyang Huang",
+        "label": "PERSON",
+        "start": 1395,
+        "end": 1409
+      },
+      {
+        "text": "the Department of Earth Sciences",
+        "label": "ORG",
+        "start": 1440,
+        "end": 1472
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1480,
+        "end": 1486
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 49,
+        "end": 56
+      },
+      {
+        "text": "1,800–1,850 kilometres",
+        "label": "QUANTITY",
+        "start": 115,
+        "end": 137
+      },
+      {
+        "text": "1,650",
+        "label": "CARDINAL",
+        "start": 167,
+        "end": 172
+      },
+      {
+        "text": "1,700 kilometres",
+        "label": "QUANTITY",
+        "start": 174,
+        "end": 190
+      },
+      {
+        "text": "about 50 percent",
+        "label": "PERCENT",
+        "start": 201,
+        "end": 217
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 235,
+        "end": 239
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 248,
+        "end": 255
+      },
+      {
+        "text": "between 9 and",
+        "label": "CARDINAL",
+        "start": 492,
+        "end": 505
+      },
+      {
+        "text": "14 percent",
+        "label": "PERCENT",
+        "start": 506,
+        "end": 516
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 572,
+        "end": 579
+      },
+      {
+        "text": "Paolo Sossi",
+        "label": "PERSON",
+        "start": 695,
+        "end": 706
+      },
+      {
+        "text": "the Department of Earth Sciences",
+        "label": "ORG",
+        "start": 731,
+        "end": 763
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 771,
+        "end": 777
+      },
+      {
+        "text": "the National Centres of Competence in Research",
+        "label": "ORG",
+        "start": 792,
+        "end": 838
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 874,
+        "end": 881
+      },
+      {
+        "text": "Sun",
+        "label": "ORG",
+        "start": 1000,
+        "end": 1003
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 1099,
+        "end": 1106
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 1204,
+        "end": 1211
+      },
+      {
+        "text": "August",
+        "label": "DATE",
+        "start": 1232,
+        "end": 1238
+      },
+      {
+        "text": "September 2021",
+        "label": "DATE",
+        "start": 1243,
+        "end": 1257
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1286,
+        "end": 1289
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1321,
+        "end": 1325
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 1327,
+        "end": 1330
+      },
+      {
+        "text": "Cecilia Duran",
+        "label": "PERSON",
+        "start": 1445,
+        "end": 1458
+      },
+      {
+        "text": "the Department of Earth Sciences",
+        "label": "ORG",
+        "start": 1482,
+        "end": 1514
+      },
+      {
+        "text": "the Red Planet",
+        "label": "LOC",
+        "start": 1733,
+        "end": 1747
+      },
+      {
+        "text": "about 1,000 kilometres",
+        "label": "QUANTITY",
+        "start": 1906,
+        "end": 1928
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 421,
+        "end": 426
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 467,
+        "end": 471
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 488,
+        "end": 491
+      },
+      {
+        "text": "Piz Daint",
+        "label": "WORK_OF_ART",
+        "start": 538,
+        "end": 547
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 804,
+        "end": 811
+      },
+      {
+        "text": "Huang",
+        "label": "PERSON",
+        "start": 1155,
+        "end": 1160
+      },
+      {
+        "text": "150 kilometres",
+        "label": "QUANTITY",
+        "start": 1261,
+        "end": 1275
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 1399,
+        "end": 1406
+      },
+      {
+        "text": "InSight",
+        "label": "ORG",
+        "start": 1607,
+        "end": 1614
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 1717,
+        "end": 1721
+      },
+      {
+        "text": "Khan",
+        "label": "PERSON",
+        "start": 1737,
+        "end": 1741
+      },
+      {
+        "text": "InSight",
+        "label": "PERSON",
+        "start": 1758,
+        "end": 1765
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 1875,
+        "end": 1880
+      },
+      {
+        "text": "Khan A",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Huang D",
+        "label": "PERSON",
+        "start": 8,
+        "end": 15
+      },
+      {
+        "text": "Duran C",
+        "label": "PERSON",
+        "start": 17,
+        "end": 24
+      },
+      {
+        "text": "Giardini",
+        "label": "PERSON",
+        "start": 36,
+        "end": 44
+      },
+      {
+        "text": "Martian",
+        "label": "NORP",
+        "start": 106,
+        "end": 113
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 146,
+        "end": 153
+      },
+      {
+        "text": "Drilleau M, Rivoldini A",
+        "label": "ORG",
+        "start": 183,
+        "end": 206
+      },
+      {
+        "text": "al.",
+        "label": "ORG",
+        "start": 211,
+        "end": 214
+      },
+      {
+        "text": "Mars",
+        "label": "LOC",
+        "start": 280,
+        "end": 284
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 292,
+        "end": 298
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 318,
+        "end": 325
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Amir Khan",
+        "Cecilia Duran",
+        "Dongyang Huang",
+        "Duran C",
+        "Giardini",
+        "Huang",
+        "Huang D",
+        "InSight",
+        "Khan",
+        "Khan A",
+        "Paolo Sossi"
+      ],
+      "ORG": [
+        "Drilleau M, Rivoldini A",
+        "ETH",
+        "ETH Zurich",
+        "InSight",
+        "NASA",
+        "Sun",
+        "al.",
+        "the Department of Earth Sciences",
+        "the National Centres of Competence in Research"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Mars",
+        "Zurich",
+        "the Red Planet"
+      ],
+      "DATE": [
+        "August",
+        "December 2022",
+        "September 2021",
+        "four years",
+        "years"
+      ],
+      "MISC": [
+        "1,650",
+        "1,700 kilometres",
+        "1,800–1,850 kilometres",
+        "10.1038",
+        "14 percent",
+        "150 kilometres",
+        "Martian",
+        "Nature",
+        "One",
+        "Piz Daint",
+        "about 1,000 kilometres",
+        "about 150 kilometres",
+        "about 50 percent",
+        "about 90 percent",
+        "around 10 percent",
+        "around 20 percent",
+        "between 9 and",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Martian": 12,
+      "Mars": 7,
+      "Earth": 4,
+      "the Department of Earth Sciences": 4,
+      "Zurich": 3,
+      "InSight": 3,
+      "NASA": 2,
+      "1,800–1,850 kilometres": 2,
+      "1,650": 2,
+      "1,700 kilometres": 2,
+      "Khan": 2,
+      "10.1038": 2,
+      "four years": 1,
+      "ETH Zurich": 1,
+      "December 2022": 1,
+      "Amir Khan": 1,
+      "about 150 kilometres": 1,
+      "about 90 percent": 1,
+      "around 10 percent": 1,
+      "around 20 percent": 1
+    },
+    "total_entities": 79,
+    "unique_entities": 46
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mystery-of-the-martian-resolved.md",
+      "title": "En News Events/2023/10/mystery Of The Martian Resolved",
+      "language": "en",
+      "source_path": "en_news_events/2023/10/mystery-of-the-martian-resolved.html"
+    },
+    "temporal": {
+      "publication_date": "2023-10",
+      "mentioned_years": [
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Amir Khan",
+        "Cecilia Duran",
+        "Dongyang Huang",
+        "Duran C",
+        "Giardini",
+        "Huang",
+        "Huang D",
+        "InSight",
+        "Khan",
+        "Khan A",
+        "Paolo Sossi"
+      ],
+      "people_with_roles": {
+        "Amir Khan": [
+          "scientist"
+        ],
+        "Cecilia Duran": [
+          "student"
+        ],
+        "Dongyang Huang": [
+          "researcher"
+        ],
+        "Huang": [
+          "researcher"
+        ],
+        "Khan": [
+          "scientist"
+        ],
+        "Paolo Sossi": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1,650",
+        "1,700 kilometres",
+        "1,800–1,850 kilometres",
+        "10.1038",
+        "14 percent",
+        "150 kilometres",
+        "Martian",
+        "Nature",
+        "Piz Daint",
+        "about 1,000 kilometres",
+        "about 150 kilometres",
+        "about 50 percent",
+        "about 90 percent",
+        "around 10 percent",
+        "around 20 percent",
+        "between 9 and"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Piz Daint",
+        "Murakami M",
+        "Giardini D",
+        "National Centres",
+        "Assistant Professor",
+        "NASA InSight",
+        "Dongyang Huang",
+        "Earth Sciences",
+        "Senior Scientist",
+        "Khan A",
+        "Of The",
+        "The Earth",
+        "Paolo Sossi",
+        "Drilleau M",
+        "Red Planet",
+        "Cecilia Duran",
+        "Duran C",
+        "Sossi PA",
+        "Rivoldini A",
+        "Martian Resolved",
+        "Huang D",
+        "En News",
+        "Samuel H",
+        "Amir Khan",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Earth Sciences at ETH Zurich",
+        "Earth Sciences at ETH Zurich",
+        "Earth Sciences at ETH Zurich and member of the National Centres of Competence in Research ",
+        "Earth Sciences at ETH Zurich"
+      ],
+      "institutions": [
+        "Drilleau M, Rivoldini A",
+        "ETH",
+        "ETH Zurich",
+        "InSight",
+        "NASA",
+        "Sun",
+        "al.",
+        "the Department of Earth Sciences",
+        "the National Centres of Competence in Research"
+      ],
+      "locations": [
+        "Earth",
+        "Mars",
+        "Zurich",
+        "the Red Planet"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Martian",
+        "Mars",
+        "Earth",
+        "the Department of Earth Sciences",
+        "Zurich",
+        "InSight",
+        "NASA",
+        "1,800–1,850 kilometres",
+        "1,650",
+        "1,700 kilometres"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "In brief",
+          "Fewer light elements",
+          "Fewer light elements",
+          "Supercomputer simulations",
+          "The NASA Mars InSight Mission"
+        ],
+        "content_length": 6229
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Khan",
+        "InSight",
+        "Drilleau M, Rivoldini A",
+        "al.",
+        "ERC",
+        "Dongyang Huang",
+        "the Department of Earth Sciences",
+        "Sun",
+        "2022",
+        "Khan A",
+        "NASA",
+        "Paolo Sossi",
+        "the National Centres of Competence in Research",
+        "Cecilia Duran",
+        "Duran C",
+        "Huang",
+        "Giardini",
+        "Huang D",
+        "Amir Khan",
+        "ETH Zurich",
+        "2021",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "about 1,000 kilometres",
+        "about 90 percent",
+        "Piz Daint",
+        "1,800–1,850 kilometres",
+        "around 10 percent",
+        "when",
+        "engineering",
+        "Martian",
+        "between 9 and",
+        "about 50 percent",
+        "10.1038",
+        "14 percent",
+        "1,700 kilometres",
+        "mathematics",
+        "Nature",
+        "about 150 kilometres",
+        "around 20 percent",
+        "who",
+        "what",
+        "how",
+        "1,650",
+        "physics",
+        "150 kilometres",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Amir Khan_has_role_scientist",
+        "Cecilia Duran_has_role_student",
+        "Dongyang Huang_has_role_researcher",
+        "Huang_has_role_researcher",
+        "Khan_has_role_scientist",
+        "Paolo Sossi_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

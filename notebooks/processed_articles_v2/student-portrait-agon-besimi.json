@@ -1,0 +1,185 @@
+{
+  "filename": "student-portrait-agon-besimi.md",
+  "original_filename": "student-portrait-agon-besimi.html",
+  "source_path": "en_news_events/2023/01/student-portrait-agon-besimi.html",
+  "date": "2023-01",
+  "title": "Student Portrait Agon Besimi",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Advice for students",
+      "text": "Studying at ETH Zurich is challenging, and all students have their own personal hurdles to overcome. This short video series gives a somewhat different insight into everyday life as a student. It provides an account of students, their setbacks and how they dealt with them.\n\nETH Zurich offers advice centres for (virtually) any situation that may arise during your studies."
+    },
+    {
+      "heading": "Further information",
+      "text": "Thanks to the ESOP scholarship , Agon Besimi was able to come to ETH Zurich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Portrait Agon Besimi",
+        "label": "PERSON",
+        "start": 31,
+        "end": 51
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 12,
+        "end": 22
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 274,
+        "end": 284
+      },
+      {
+        "text": "ESOP",
+        "label": "ORG",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "Agon Besimi",
+        "label": "PERSON",
+        "start": 33,
+        "end": 44
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 65,
+        "end": 75
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Agon Besimi",
+        "ETH Zurich",
+        "Portrait Agon Besimi"
+      ],
+      "ORG": [
+        "ESOP",
+        "ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "Portrait Agon Besimi": 1,
+      "ESOP": 1,
+      "Agon Besimi": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "student-portrait-agon-besimi.md",
+      "title": "En News Events/2023/01/student Portrait Agon Besimi",
+      "language": "en",
+      "source_path": "en_news_events/2023/01/student-portrait-agon-besimi.html"
+    },
+    "temporal": {
+      "publication_date": "2023-01",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "Agon Besimi",
+        "ETH Zurich",
+        "Portrait Agon Besimi"
+      ],
+      "people_with_roles": {
+        "Agon Besimi": [
+          "student"
+        ],
+        "ETH Zurich": [
+          "student"
+        ],
+        "Portrait Agon Besimi": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "En News",
+        "Besimi Studying",
+        "Agon Besimi",
+        "ETH Zurich",
+        "Portrait Agon"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ESOP",
+        "ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Portrait Agon Besimi",
+        "ESOP",
+        "Agon Besimi"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Advice for students",
+          "Further information"
+        ],
+        "content_length": 502
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ESOP",
+        "Agon Besimi",
+        "ETH Zurich",
+        "ERC",
+        "Portrait Agon Besimi",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "what",
+        "who"
+      ],
+      "graph_relations": [
+        "Agon Besimi_has_role_student",
+        "ETH Zurich_has_role_student",
+        "Portrait Agon Besimi_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

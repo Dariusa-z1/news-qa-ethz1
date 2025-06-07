@@ -1,0 +1,168 @@
+{
+  "filename": "eth-app-verbesserter-auftritt.md",
+  "original_filename": "eth-app-verbesserter-auftritt.html",
+  "source_path": "de_internal/2013/12/eth-app-verbesserter-auftritt.html",
+  "date": "2013-12",
+  "title": "Eth App Verbesserter Auftritt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Mit dem neuen Corporate Design der ETH wurde auch bei der ETH-App ein Redesign fällig, das gleich auch für Neuerungen genutzt wurde. Die Stories zum Campusgeschehen und zu aktuellen Forschungsresultaten warten mit einer verbesserten Detailansicht auf. Neu verfügt die App über Filter zu Events und News und bietet ein komplettes Verzeichnis der ETH-Gebäude. Sie öffnet wie bisher die Speisekarten sämtlicher Restaurants auf dem Campus und liefert die Kontaktinfos aller Mitarbeitenden der ETH Zürich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2013/12",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "ETH-App",
+        "label": "MISC",
+        "start": 58,
+        "end": 65
+      },
+      {
+        "text": "ETH-Gebäude",
+        "label": "MISC",
+        "start": 345,
+        "end": 356
+      },
+      {
+        "text": "Kontaktinfos",
+        "label": "MISC",
+        "start": 451,
+        "end": 463
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 489,
+        "end": 499
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2013/12"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-App",
+        "ETH-Gebäude",
+        "Kontaktinfos"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2013/12": 1,
+      "ETH": 1,
+      "ETH-App": 1,
+      "ETH-Gebäude": 1,
+      "Kontaktinfos": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-app-verbesserter-auftritt.md",
+      "title": "De Internal/2013/12/eth App Verbesserter Auftritt",
+      "language": "de",
+      "source_path": "de_internal/2013/12/eth-app-verbesserter-auftritt.html"
+    },
+    "temporal": {
+      "publication_date": "2013-12",
+      "mentioned_years": [
+        "2013"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-App",
+        "ETH-Gebäude",
+        "Kontaktinfos"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "App Verbesserter",
+        "Corporate Design",
+        "Auftritt Mit",
+        "ETH-App",
+        "De Internal",
+        "Die Stories"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2013/12"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2013/12",
+        "ETH",
+        "ETH-App",
+        "ETH-Gebäude",
+        "Kontaktinfos",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 550
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH",
+        "2013",
+        "EU"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-App",
+        "ETH-Gebäude",
+        "Kontaktinfos"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

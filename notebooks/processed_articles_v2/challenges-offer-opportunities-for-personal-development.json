@@ -1,0 +1,160 @@
+{
+  "filename": "challenges-offer-opportunities-for-personal-development.md",
+  "original_filename": "challenges-offer-opportunities-for-personal-development.html",
+  "source_path": "en_news_events/2024/02/challenges-offer-opportunities-for-personal-development.html",
+  "date": "2024-02",
+  "title": "Challenges Offer Opportunities For Personal Development",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Advice for students",
+      "text": "Georgette Weingärtner was always enthusiastic about computer science. But at ETH she was confronted by situations involving a multitude of challenges. In the video she tells us what helped her to overcome these."
+    },
+    {
+      "heading": "Advice for students",
+      "text": "ETH Zurich offers advice centres for any situation that may arise during your studies."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Offer Opportunities For Personal Development",
+        "label": "ORG",
+        "start": 34,
+        "end": 78
+      },
+      {
+        "text": "Georgette Weingärtner",
+        "label": "PERSON",
+        "start": 0,
+        "end": 21
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 77,
+        "end": 80
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Georgette Weingärtner"
+      ],
+      "ORG": [
+        "ETH",
+        "En News",
+        "Offer Opportunities For Personal Development"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "En News": 1,
+      "Offer Opportunities For Personal Development": 1,
+      "Georgette Weingärtner": 1,
+      "ETH": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "challenges-offer-opportunities-for-personal-development.md",
+      "title": "En News Events/2024/02/challenges Offer Opportunities For Personal Development",
+      "language": "en",
+      "source_path": "en_news_events/2024/02/challenges-offer-opportunities-for-personal-development.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "during"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Georgette Weingärtner"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "En News",
+        "Offer Opportunities",
+        "For Personal",
+        "Development Georgette",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "En News",
+        "Offer Opportunities For Personal Development"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "En News",
+        "Offer Opportunities For Personal Development",
+        "Georgette Weingärtner",
+        "ETH",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Advice for students",
+          "Advice for students"
+        ],
+        "content_length": 377
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "En News",
+        "Georgette Weingärtner",
+        "ETH Zurich",
+        "Offer Opportunities For Personal Development",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

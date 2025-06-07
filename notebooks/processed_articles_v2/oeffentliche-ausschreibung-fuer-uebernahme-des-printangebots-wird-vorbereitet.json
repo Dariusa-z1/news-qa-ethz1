@@ -1,0 +1,253 @@
+{
+  "filename": "oeffentliche-ausschreibung-fuer-uebernahme-des-printangebots-wird-vorbereitet.md",
+  "original_filename": "oeffentliche-ausschreibung-fuer-uebernahme-des-printangebots-wird-vorbereitet.html",
+  "source_path": "de_internal/2024/02/oeffentliche-ausschreibung-fuer-uebernahme-des-printangebots-wird-vorbereitet.html",
+  "date": "2024-02",
+  "title": "Oeffentliche Ausschreibung Fuer Uebernahme Des Printangebots Wird Vorbereitet",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Gründe für die Ausschreibung",
+      "text": "Wie Anfang Januar bereits berichtet, soll das ETH-eigene Druckzentrum aufgrund rückläufiger Nachfrage nur noch bis Ende 2024 betrieben werden. Mit der öffentlichen Ausschreibung werden nun geeignete Partner für eine stabile Anschlusslösung ab 2025 gesucht. Die Ausschreibung umfasst das Standard-Angebot sowie die Sortimentsbereiche Plot on demand, Sicherheitsdruck (z. B. Prüfungen, Diplome) und Lettershop. Von einer verpflichtenden Übernahme des bestehenden Druckzentrums wird abgesehen, um die Erfolgschancen der Ausschreibung zu erhöhen."
+    },
+    {
+      "heading": "Gründe für die Ausschreibung",
+      "text": "Wird das Printangebot extern weitergeführt, könnten die Räume des Druckzentrums auf dem Hönggerberg künftig wieder für die Lehre und Forschung genutzt werden. Sollte es zudem gelingen, mehrere externe Druckereien als Partner zu gewinnen, würden potenzielle Ausfallrisiken minimiert und attraktive Wahlmöglichkeiten für die ETH-Angehörigen geschaffen."
+    },
+    {
+      "heading": "Lösungen für Mitarbeitende",
+      "text": "Mehrere Mitarbeitende des Druckzentrums haben bereits innerhalb der Abteilung Campus Services eine Weiterbeschäftigung gefunden und werden im Laufe des Jahres zu anderen Sektionen wechseln. Die Mitarbeitenden der Gruppe Print, für die noch keine Lösung gefunden wurde, erhalten weiter Unterstützung durch die Abteilung und HR-Beratung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2024/02",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Fuer",
+        "label": "PER",
+        "start": 47,
+        "end": 51
+      },
+      {
+        "text": "Wird Vorbereitet",
+        "label": "PER",
+        "start": 81,
+        "end": 97
+      },
+      {
+        "text": "ETH-eigene Druckzentrum",
+        "label": "MISC",
+        "start": 46,
+        "end": 69
+      },
+      {
+        "text": "Sortimentsbereiche Plot on demand",
+        "label": "LOC",
+        "start": 314,
+        "end": 347
+      },
+      {
+        "text": "Sicherheitsdruck",
+        "label": "ORG",
+        "start": 349,
+        "end": 365
+      },
+      {
+        "text": "z. B. Prüfungen",
+        "label": "MISC",
+        "start": 367,
+        "end": 382
+      },
+      {
+        "text": "Diplome",
+        "label": "LOC",
+        "start": 384,
+        "end": 391
+      },
+      {
+        "text": "Lettershop",
+        "label": "LOC",
+        "start": 397,
+        "end": 407
+      },
+      {
+        "text": "Druckzentrums auf dem",
+        "label": "LOC",
+        "start": 66,
+        "end": 87
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 88,
+        "end": 99
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "ORG",
+        "start": 323,
+        "end": 338
+      },
+      {
+        "text": "Campus Services",
+        "label": "ORG",
+        "start": 78,
+        "end": 93
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fuer",
+        "Wird Vorbereitet"
+      ],
+      "ORG": [
+        "Campus Services",
+        "ETH-Angehörigen",
+        "Sicherheitsdruck"
+      ],
+      "LOCATION": [
+        "De Internal/2024/02",
+        "Diplome",
+        "Druckzentrums auf dem",
+        "Hönggerberg",
+        "Lettershop",
+        "Sortimentsbereiche Plot on demand"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-eigene Druckzentrum",
+        "z. B. Prüfungen"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2024/02": 1,
+      "Fuer": 1,
+      "Wird Vorbereitet": 1,
+      "ETH-eigene Druckzentrum": 1,
+      "Sortimentsbereiche Plot on demand": 1,
+      "Sicherheitsdruck": 1,
+      "z. B. Prüfungen": 1,
+      "Diplome": 1,
+      "Lettershop": 1,
+      "Druckzentrums auf dem": 1,
+      "Hönggerberg": 1,
+      "ETH-Angehörigen": 1,
+      "Campus Services": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "oeffentliche-ausschreibung-fuer-uebernahme-des-printangebots-wird-vorbereitet.md",
+      "title": "De Internal/2024/02/oeffentliche Ausschreibung Fuer Uebernahme des Printangebots Wird Vorbereitet",
+      "language": "de",
+      "source_path": "de_internal/2024/02/oeffentliche-ausschreibung-fuer-uebernahme-des-printangebots-wird-vorbereitet.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024",
+        "2025"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fuer",
+        "Wird Vorbereitet"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-eigene Druckzentrum",
+        "z. B. Prüfungen"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Mehrere Mitarbeitende",
+        "Abteilung Campus",
+        "Die Mitarbeitenden",
+        "Standard-Angebot",
+        "De Internal",
+        "Sortimentsbereiche Plot",
+        "Gruppe Print",
+        "Anfang Januar",
+        "Die Ausschreibung",
+        "Ausschreibung Fuer",
+        "Printangebots Wird",
+        "HR-Beratung",
+        "Vorbereitet Wie"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Campus Services",
+        "ETH-Angehörigen",
+        "Sicherheitsdruck"
+      ],
+      "locations": [
+        "De Internal/2024/02",
+        "Diplome",
+        "Druckzentrums auf dem",
+        "Hönggerberg",
+        "Lettershop",
+        "Sortimentsbereiche Plot on demand"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2024/02",
+        "Fuer",
+        "Wird Vorbereitet",
+        "ETH-eigene Druckzentrum",
+        "Sortimentsbereiche Plot on demand",
+        "Sicherheitsdruck",
+        "z. B. Prüfungen",
+        "Diplome",
+        "Lettershop",
+        "Druckzentrums auf dem"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Gründe für die Ausschreibung",
+          "Gründe für die Ausschreibung",
+          "Lösungen für Mitarbeitende"
+        ],
+        "content_length": 1327
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "2025",
+        "Sicherheitsdruck",
+        "Wird Vorbereitet",
+        "ETH-Angehörigen",
+        "Fuer",
+        "Campus Services"
+      ],
+      "semantic_concepts": [
+        "ETH-eigene Druckzentrum",
+        "when",
+        "z. B. Prüfungen"
+      ],
+      "graph_relations": []
+    }
+  }
+}

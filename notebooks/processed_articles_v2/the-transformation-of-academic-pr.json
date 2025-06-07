@@ -1,0 +1,228 @@
+{
+  "filename": "the-transformation-of-academic-pr.md",
+  "original_filename": "the-transformation-of-academic-pr.html",
+  "source_path": "en_internal/2015/03/the-transformation-of-academic-pr.html",
+  "date": "2015-03",
+  "title": "The Transformation Of Academic Pr",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "On 1 April 2015, Minh Tran, Head of the Department of Computer Science Communications Group, gave a talk at IBM Research Zurich in Rüschlikon about \" The transformation of academic PR: how to cope with the market of ideas and corporate citizenship\" .\n\nTran’s talk focused on the following issues:\n\nThe 19th-century university was a sort of village with its priests, the early 20th-century university a town with its intellectual oligarchy, and the postwar university a bustling intellectual metropolis with infinite variety, a brave, new ‘multiversity’. Of university science though, the purpose remains to maximize impact on the world, discovering true knowledge and putting it into practice.\n\nThe pressure is on to produce and reproduce the highest quality. Nowadays, the practice of academic public relations (PR) is rather unacademic: academia is about pure objectivity while PR is about overt and covert persuasion; academia is about meritocratic knowledge dissemination while PR is about strategic knowledge dissemination; academia is about research and reporting while PR is about pragmatic, purpose-driven human connections.\n\nUpdated on 2 April 2015."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Transformation Of Academic Pr",
+        "label": "ORG",
+        "start": 20,
+        "end": 53
+      },
+      {
+        "text": "1 April 2015",
+        "label": "DATE",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "Minh Tran",
+        "label": "PERSON",
+        "start": 17,
+        "end": 26
+      },
+      {
+        "text": "the Department of Computer Science Communications Group",
+        "label": "ORG",
+        "start": 36,
+        "end": 91
+      },
+      {
+        "text": "IBM Research Zurich",
+        "label": "ORG",
+        "start": 108,
+        "end": 127
+      },
+      {
+        "text": "Rüschlikon",
+        "label": "NORP",
+        "start": 131,
+        "end": 141
+      },
+      {
+        "text": "Tran",
+        "label": "PERSON",
+        "start": 251,
+        "end": 255
+      },
+      {
+        "text": "19th-century",
+        "label": "DATE",
+        "start": 300,
+        "end": 312
+      },
+      {
+        "text": "the early 20th-century",
+        "label": "DATE",
+        "start": 364,
+        "end": 386
+      },
+      {
+        "text": "2 April 2015",
+        "label": "DATE",
+        "start": 1141,
+        "end": 1153
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Minh Tran",
+        "Tran"
+      ],
+      "ORG": [
+        "IBM Research Zurich",
+        "the Department of Computer Science Communications Group",
+        "the Transformation Of Academic Pr"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "1 April 2015",
+        "19th-century",
+        "2 April 2015",
+        "the early 20th-century"
+      ],
+      "MISC": [
+        "Rüschlikon"
+      ]
+    },
+    "entity_counts": {
+      "the Transformation Of Academic Pr": 1,
+      "1 April 2015": 1,
+      "Minh Tran": 1,
+      "the Department of Computer Science Communications Group": 1,
+      "IBM Research Zurich": 1,
+      "Rüschlikon": 1,
+      "Tran": 1,
+      "19th-century": 1,
+      "the early 20th-century": 1,
+      "2 April 2015": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-transformation-of-academic-pr.md",
+      "title": "En Internal/2015/03/the Transformation Of Academic Pr",
+      "language": "en",
+      "source_path": "en_internal/2015/03/the-transformation-of-academic-pr.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Minh Tran",
+        "Tran"
+      ],
+      "people_with_roles": {
+        "Minh Tran": [
+          "head"
+        ],
+        "Tran": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Rüschlikon"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Transformation Of",
+        "Minh Tran",
+        "En Internal",
+        "IBM Research",
+        "Academic Pr",
+        "Computer Science",
+        "Communications Group"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science Communications Group"
+      ],
+      "institutions": [
+        "IBM Research Zurich",
+        "the Department of Computer Science Communications Group",
+        "the Transformation Of Academic Pr"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "the Transformation Of Academic Pr",
+        "1 April 2015",
+        "Minh Tran",
+        "the Department of Computer Science Communications Group",
+        "IBM Research Zurich",
+        "Rüschlikon",
+        "Tran",
+        "19th-century",
+        "the early 20th-century",
+        "2 April 2015"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1212
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Minh Tran",
+        "the Transformation Of Academic Pr",
+        "Tran",
+        "the Department of Computer Science Communications Group",
+        "IBM Research Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Rüschlikon",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Minh Tran_has_role_head",
+        "Tran_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

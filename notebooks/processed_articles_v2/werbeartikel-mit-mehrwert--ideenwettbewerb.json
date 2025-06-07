@@ -1,0 +1,249 @@
+{
+  "filename": "werbeartikel-mit-mehrwert--ideenwettbewerb.md",
+  "original_filename": "werbeartikel-mit-mehrwert--ideenwettbewerb.html",
+  "source_path": "de_internal/2019/01/werbeartikel-mit-mehrwert--ideenwettbewerb.html",
+  "date": "2019-01",
+  "title": "Werbeartikel Mit Mehrwert Ideenwettbewerb",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Gesucht sind Ideen sowohl für käuflich zu erwerbende Produkte als auch für Give-Aways, die im Rahmen von Kursen, Anlässen oder ETH-Aktionen (z. B. Ersti-Bag) verteilt werden. Geben Sie Ihre Ideen bis zum 25. Februar 2019 unter www.library.ethz.ch/ideen ein! Die Gewinnerinnen und Gewinner erhalten einen Gutschein ihrer Wahl von ETH Store, Projekt Neptun, SBB oder Schweizer Bücherbon im Wert von bis zu 100 CHF. Dieser Wettbewerb ist Teil der Open-Innovation-Kampagne, welche die ETH-Bibliothek aktuell durchführt. Mit dieser Kampagne verfolgt die ETH-Bibliothek das Ziel, Meinungen, Wünsche und Perspektiven der Öffentlichkeit einzuholen, um Mehrwerte zu schaffen und ihre Dienstleistungen gemeinsam mit ihren Kundinnen und Kunden weiterzuentwickeln. Wir freuen uns auf Ihre Ideen!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/01/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Mehrwert Ideenwettbewerb",
+        "label": "PER",
+        "start": 37,
+        "end": 61
+      },
+      {
+        "text": "Give-Aways",
+        "label": "PER",
+        "start": 75,
+        "end": 85
+      },
+      {
+        "text": "ETH-Aktionen",
+        "label": "MISC",
+        "start": 127,
+        "end": 139
+      },
+      {
+        "text": "z. B. Ersti-Bag",
+        "label": "MISC",
+        "start": 141,
+        "end": 156
+      },
+      {
+        "text": "www.library.ethz.ch/ideen",
+        "label": "ORG",
+        "start": 227,
+        "end": 252
+      },
+      {
+        "text": "ETH Store",
+        "label": "ORG",
+        "start": 329,
+        "end": 338
+      },
+      {
+        "text": "Neptun",
+        "label": "MISC",
+        "start": 348,
+        "end": 354
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 356,
+        "end": 359
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 365,
+        "end": 374
+      },
+      {
+        "text": "CHF",
+        "label": "MISC",
+        "start": 408,
+        "end": 411
+      },
+      {
+        "text": "Open-Innovation-Kampagne",
+        "label": "LOC",
+        "start": 444,
+        "end": 468
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 481,
+        "end": 495
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 549,
+        "end": 563
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Give-Aways",
+        "Mehrwert Ideenwettbewerb"
+      ],
+      "ORG": [
+        "ETH Store",
+        "ETH-Bibliothek",
+        "SBB",
+        "www.library.ethz.ch/ideen"
+      ],
+      "LOCATION": [
+        "De Internal/2019/01/",
+        "Open-Innovation-Kampagne"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CHF",
+        "ETH-Aktionen",
+        "Neptun",
+        "Schweizer",
+        "z. B. Ersti-Bag"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2019/01/": 1,
+      "Mehrwert Ideenwettbewerb": 1,
+      "Give-Aways": 1,
+      "ETH-Aktionen": 1,
+      "z. B. Ersti-Bag": 1,
+      "www.library.ethz.ch/ideen": 1,
+      "ETH Store": 1,
+      "Neptun": 1,
+      "SBB": 1,
+      "Schweizer": 1,
+      "CHF": 1,
+      "Open-Innovation-Kampagne": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "werbeartikel-mit-mehrwert--ideenwettbewerb.md",
+      "title": "De Internal/2019/01/werbeartikel mit Mehrwert Ideenwettbewerb",
+      "language": "de",
+      "source_path": "de_internal/2019/01/werbeartikel-mit-mehrwert--ideenwettbewerb.html"
+    },
+    "temporal": {
+      "publication_date": "2019-01",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Give-Aways",
+        "Mehrwert Ideenwettbewerb"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Aktionen",
+        "Neptun",
+        "Schweizer",
+        "z. B. Ersti-Bag"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Open-Innovation",
+        "Geben Sie",
+        "Die Gewinnerinnen",
+        "De Internal",
+        "Projekt Neptun",
+        "Dieser Wettbewerb",
+        "Give-Aways",
+        "ETH Store",
+        "ETH-Aktionen",
+        "Mehrwert Ideenwettbewerb",
+        "Ersti-Bag",
+        "Ihre Ideen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Store",
+        "ETH-Bibliothek",
+        "SBB",
+        "www.library.ethz.ch/ideen"
+      ],
+      "locations": [
+        "De Internal/2019/01/",
+        "Open-Innovation-Kampagne"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2019/01/",
+        "Mehrwert Ideenwettbewerb",
+        "Give-Aways",
+        "ETH-Aktionen",
+        "z. B. Ersti-Bag",
+        "www.library.ethz.ch/ideen",
+        "ETH Store",
+        "Neptun",
+        "SBB"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 845
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "2019",
+        "EU",
+        "ETH Store",
+        "Give-Aways",
+        "SBB",
+        "www.library.ethz.ch/ideen",
+        "Mehrwert Ideenwettbewerb"
+      ],
+      "semantic_concepts": [
+        "Schweizer",
+        "ETH-Aktionen",
+        "z. B. Ersti-Bag",
+        "Neptun"
+      ],
+      "graph_relations": []
+    }
+  }
+}

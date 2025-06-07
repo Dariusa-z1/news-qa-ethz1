@@ -1,0 +1,261 @@
+{
+  "filename": "der-klimagipfel-live-aus-paris-an-der-eth-zuerich.md",
+  "original_filename": "der-klimagipfel-live-aus-paris-an-der-eth-zuerich.html",
+  "source_path": "de_internal/2015/12/der-klimagipfel-live-aus-paris-an-der-eth-zuerich.html",
+  "date": "2015-12",
+  "title": "Der Klimagipfel Live Aus Paris An Der Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Seit dem Montag, 30. November 2015, und noch bis zum 11. Dezember 2015 findet die 21. UN-Klimakonferenz COP21 in Paris statt. Vertreterinnen und Vertreter der Regierungen und zivilgesellschaftliche Organisationen aus knapp 200 Ländern diskutieren über ein Nachfolgeabkommen des Kyoto-Protokolls.\n\nBis Ende der Woche sollte es eine verbindliche, internationale Klimaschutz-Vereinbarung geben, die einen Rahmen für die internationale Klimapolitik bildet und damit die globale, durchschnittliche Erwärmung auf 2°C beschränkt. Zentrale Diskussionspunkte sind die Emissionsreduktionsziele der einzelnen Staaten und die Kompensationszahlungen an die ärmsten Länder der Erde.\n\nUm auch an der ETH Zürich auf dem neusten Verhandlungsstand zu sein, werden öffentliche Sitzungen und Pressekonferenzen der Klimakonferenz live auf dem «Grünen Boden» im CHN-Gebäude (D-Stock bei den Fahrstühlen) jeweils von 10 bis 18 Uhr übertragen. Ausserdem gibt es auf dem Bildschirm und den ausliegenden Flyern täglich Informationen zum aktuellen Stand der Verhandlungen.\n\nMartha Vogel ist Doktorandin am Institut für Atmosphäre und Kima der ETH Zürich."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/12",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Paris",
+        "label": "LOC",
+        "start": 45,
+        "end": 50
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "LOC",
+        "start": 58,
+        "end": 69
+      },
+      {
+        "text": "COP21",
+        "label": "MISC",
+        "start": 104,
+        "end": 109
+      },
+      {
+        "text": "Paris",
+        "label": "LOC",
+        "start": 113,
+        "end": 118
+      },
+      {
+        "text": "Kyoto-Protokolls",
+        "label": "ORG",
+        "start": 278,
+        "end": 294
+      },
+      {
+        "text": "Staaten",
+        "label": "LOC",
+        "start": 597,
+        "end": 604
+      },
+      {
+        "text": "Kompensationszahlungen",
+        "label": "LOC",
+        "start": 613,
+        "end": 635
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 662,
+        "end": 666
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 683,
+        "end": 693
+      },
+      {
+        "text": "CHN-Gebäude",
+        "label": "MISC",
+        "start": 838,
+        "end": 849
+      },
+      {
+        "text": "D-Stock",
+        "label": "MISC",
+        "start": 851,
+        "end": 858
+      },
+      {
+        "text": "Martha Vogel",
+        "label": "PER",
+        "start": 1044,
+        "end": 1056
+      },
+      {
+        "text": "Doktorandin",
+        "label": "PER",
+        "start": 1061,
+        "end": 1072
+      },
+      {
+        "text": "Institut für Atmosphäre und Kima",
+        "label": "ORG",
+        "start": 1076,
+        "end": 1108
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1113,
+        "end": 1123
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Doktorandin",
+        "Martha Vogel"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Institut für Atmosphäre und Kima",
+        "Kyoto-Protokolls"
+      ],
+      "LOCATION": [
+        "De Internal/2015/12",
+        "Erde",
+        "Eth Zuerich",
+        "Kompensationszahlungen",
+        "Paris",
+        "Staaten"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CHN-Gebäude",
+        "COP21",
+        "D-Stock"
+      ]
+    },
+    "entity_counts": {
+      "Paris": 2,
+      "ETH Zürich": 2,
+      "De Internal/2015/12": 1,
+      "Eth Zuerich": 1,
+      "COP21": 1,
+      "Kyoto-Protokolls": 1,
+      "Staaten": 1,
+      "Kompensationszahlungen": 1,
+      "Erde": 1,
+      "CHN-Gebäude": 1,
+      "D-Stock": 1,
+      "Martha Vogel": 1,
+      "Doktorandin": 1,
+      "Institut für Atmosphäre und Kima": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-klimagipfel-live-aus-paris-an-der-eth-zuerich.md",
+      "title": "De Internal/2015/12/der Klimagipfel Live Aus Paris an der Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2015/12/der-klimagipfel-live-aus-paris-an-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2015-12",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Doktorandin",
+        "Martha Vogel"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "CHN-Gebäude",
+        "COP21",
+        "D-Stock"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Klimaschutz-Vereinbarung",
+        "D-Stock",
+        "Bis Ende",
+        "De Internal",
+        "Zentrale Diskussionspunkte",
+        "Klimagipfel Live",
+        "UN-Klimakonferenz",
+        "Martha Vogel",
+        "Eth Zuerich",
+        "Kyoto-Protokolls",
+        "Aus Paris"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Institut für Atmosphäre und Kima",
+        "Kyoto-Protokolls"
+      ],
+      "locations": [
+        "De Internal/2015/12",
+        "Erde",
+        "Eth Zuerich",
+        "Kompensationszahlungen",
+        "Paris",
+        "Staaten"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Paris",
+        "ETH Zürich",
+        "De Internal/2015/12",
+        "Eth Zuerich",
+        "COP21",
+        "Kyoto-Protokolls",
+        "Staaten",
+        "Kompensationszahlungen",
+        "Erde",
+        "CHN-Gebäude"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1197
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Institut für Atmosphäre und Kima",
+        "Doktorandin",
+        "EU",
+        "ETH Zürich",
+        "Martha Vogel",
+        "Kyoto-Protokolls"
+      ],
+      "semantic_concepts": [
+        "CHN-Gebäude",
+        "COP21",
+        "D-Stock"
+      ],
+      "graph_relations": []
+    }
+  }
+}

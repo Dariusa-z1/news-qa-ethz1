@@ -1,0 +1,470 @@
+{
+  "filename": "soft-robots.md",
+  "original_filename": "soft-robots.html",
+  "source_path": "en_news_events/2014/02/soft-robots.html",
+  "date": "2014-02",
+  "title": "Soft Robots",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Highly targeted drug delivery",
+      "text": "By using external magnetic forces micro-robots could navigate through veins. Laser light is triggering a conformational change of the robot's soft shell. (Graphics: Stefano Fusco, IRIS, ETH Zürich)\n\nWhen closed, they resemble plant seedpods; when rolled open, they look like starfish. Due to their shape, these new micro-robots could well be taken for living creatures. Stefano Fusco, a doctoral student at the Institute of Robotics and Intelligent Systems ( IRIS ), looked to nature for inspiration when he developed the movement mechanism that opens and closes the robot. The mechanism by which the Venus flytrap catches its insect prey served as the blueprint for the researcher’s ‘creatures’.\n\nThe small robot is not hard, but soft: it consists of two layers of hydrogel, a class of material made up of 90% water and 10% polymers. The arms of the starfish-like shell bend inwards on their own to form a capsule, which contains tiny magnetic beads coated with a cell-friendly alginate. The hydrogel bilayers are impregnated with a model drug and serve as a drug delivery platform. At the same time they protect the magnetic beads, which carry cells to the target zone."
+    },
+    {
+      "heading": "Highly targeted drug delivery",
+      "text": "The hydrogel robot has been tested only in-vitro thus far. Using an electromagnetic manipulation system, the researchers are able to steer the capsule towards a specific location. Once there, it is irradiated with laser light in the near-infrared range (785 nm wavelength), which causes the hydrogel to change shape. The capsule opens in just seconds and releases the tiny beads. Using this method, researchers would be able to deliver a drug, for example, to a precise location inside the body and release the drug where it is needed. The change in the shape of the micro-robot is reversible, while the sensitivity to near-infrared radiation is made possible through the use of graphene oxide that Fusco mixes in with the hydrogel “From the very beginning, our goal was to develop a specific application, which is why we chose a soft material for the micro-robot,” says Fusco, who works as a materials scientist with the robotics experts at IRIS. His study, under the direction of senior scientist Selman Sakar in collaboration with other groups at ETH Zurich and Harvard University, appeared as the cover story in the journal Advanced Materials.\n\nThe doctoral student did not have to concern himself with the navigation system ; other researchers at IRIS have been working on this topic for about a decade now. It is designed to steer and move tiny magnetic objects that do not have their own drive mechanism or power supply. The sophisticated system has become known in connection with a micro-robot used for minimally invasive eye surgery."
+    },
+    {
+      "heading": "Improving operating depth",
+      "text": "However, the hydrogel robot has its limitations. Fusco found out that the near-infrared radiation he uses can penetrate only about 15 mm to 15 cm into the body, depending on the tissues. For procedures in the internal organs, this is probably insufficient. The researchers therefore have developed a different mechanism that allows the capsules to open in tissue that cannot be penetrated by the laser. The ETH doctoral student has designed the hydrogel to change form in response to a magnetic pulse, allowing the micro-robots to be released deep inside the body. “The big advantage of the hydrogel is that it can be modified with various chemical additives, which enables the capsule to respond to different stimuli,” explains the materials researcher.\n\nSo far, he has tested the hydrogel capsule only in biological fluids and water and not yet in animal or human tissue. Researchers will begin thinking about applications in living organisms only when they have succeeded in making the capsule even smaller. The current size of half a millimetre prevents the micro-robot from fitting through capillaries, for example. Fusco thinks that it “will have to be shrunk at least by a factor of 10”. Another objective is to make the capsule and its contents biodegradable. The shell and beads must be bioresorbable so that they do not need to be removed from the body after use. Fusco estimates that it will probably take another three to five years of research to achieve these two goals. This second generation of hydrogel micro-robots would then be able to undergo tests on animals.\n\nFusco S et al.: An Integrated Microrobotic Platform for On-Demand, Targeted Therapeutic Interventions. Advanced Materials 2014, 26: 952-957, doi: 10.1002/adma.201304098"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "IRIS",
+        "label": "ORG",
+        "start": 180,
+        "end": 184
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "PERSON",
+        "start": 186,
+        "end": 196
+      },
+      {
+        "text": "Stefano Fusco",
+        "label": "ORG",
+        "start": 369,
+        "end": 382
+      },
+      {
+        "text": "the Institute of Robotics and Intelligent Systems",
+        "label": "ORG",
+        "start": 406,
+        "end": 455
+      },
+      {
+        "text": "IRIS",
+        "label": "ORG",
+        "start": 458,
+        "end": 462
+      },
+      {
+        "text": "Venus",
+        "label": "LOC",
+        "start": 600,
+        "end": 605
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 750,
+        "end": 753
+      },
+      {
+        "text": "hydrogel",
+        "label": "GPE",
+        "start": 764,
+        "end": 772
+      },
+      {
+        "text": "90%",
+        "label": "PERCENT",
+        "start": 805,
+        "end": 808
+      },
+      {
+        "text": "10%",
+        "label": "PERCENT",
+        "start": 819,
+        "end": 822
+      },
+      {
+        "text": "hydrogel",
+        "label": "GPE",
+        "start": 991,
+        "end": 999
+      },
+      {
+        "text": "hydrogel",
+        "label": "GPE",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "text": "just seconds",
+        "label": "TIME",
+        "start": 338,
+        "end": 350
+      },
+      {
+        "text": "Fusco",
+        "label": "ORG",
+        "start": 699,
+        "end": 704
+      },
+      {
+        "text": "Fusco",
+        "label": "PERSON",
+        "start": 871,
+        "end": 876
+      },
+      {
+        "text": "IRIS",
+        "label": "ORG",
+        "start": 942,
+        "end": 946
+      },
+      {
+        "text": "Selman Sakar",
+        "label": "PERSON",
+        "start": 999,
+        "end": 1011
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1050,
+        "end": 1060
+      },
+      {
+        "text": "Harvard University",
+        "label": "ORG",
+        "start": 1065,
+        "end": 1083
+      },
+      {
+        "text": "Advanced Materials",
+        "label": "ORG",
+        "start": 1128,
+        "end": 1146
+      },
+      {
+        "text": "IRIS",
+        "label": "ORG",
+        "start": 1251,
+        "end": 1255
+      },
+      {
+        "text": "about a decade",
+        "label": "DATE",
+        "start": 1292,
+        "end": 1306
+      },
+      {
+        "text": "hydrogel",
+        "label": "GPE",
+        "start": 13,
+        "end": 21
+      },
+      {
+        "text": "only about 15",
+        "label": "CARDINAL",
+        "start": 120,
+        "end": 133
+      },
+      {
+        "text": "15 cm",
+        "label": "QUANTITY",
+        "start": 140,
+        "end": 145
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 407,
+        "end": 410
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 1030,
+        "end": 1034
+      },
+      {
+        "text": "another three to five years",
+        "label": "DATE",
+        "start": 1416,
+        "end": 1443
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1473,
+        "end": 1476
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1489,
+        "end": 1495
+      },
+      {
+        "text": "hydrogel micro-robots",
+        "label": "ORG",
+        "start": 1510,
+        "end": 1531
+      },
+      {
+        "text": "Fusco S et al",
+        "label": "PERSON",
+        "start": 1580,
+        "end": 1593
+      },
+      {
+        "text": "An Integrated Microrobotic Platform",
+        "label": "ORG",
+        "start": 1596,
+        "end": 1631
+      },
+      {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 1726,
+        "end": 1733
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zürich",
+        "Fusco",
+        "Fusco S et al",
+        "Selman Sakar"
+      ],
+      "ORG": [
+        "Advanced Materials",
+        "An Integrated Microrobotic Platform",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Fusco",
+        "Harvard University",
+        "IRIS",
+        "Stefano Fusco",
+        "hydrogel micro-robots",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "LOCATION": [
+        "Venus",
+        "hydrogel"
+      ],
+      "DATE": [
+        "about a decade",
+        "another three to five years",
+        "just seconds"
+      ],
+      "MISC": [
+        "10%",
+        "10.1002",
+        "15 cm",
+        "90%",
+        "half",
+        "only about 15",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "IRIS": 4,
+      "hydrogel": 4,
+      "two": 2,
+      "Fusco": 2,
+      "En News": 1,
+      "ETH Zürich": 1,
+      "Stefano Fusco": 1,
+      "the Institute of Robotics and Intelligent Systems": 1,
+      "Venus": 1,
+      "90%": 1,
+      "10%": 1,
+      "just seconds": 1,
+      "Selman Sakar": 1,
+      "ETH Zurich": 1,
+      "Harvard University": 1,
+      "Advanced Materials": 1,
+      "about a decade": 1,
+      "only about 15": 1,
+      "15 cm": 1,
+      "ETH": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "soft-robots.md",
+      "title": "En News Events/2014/02/soft Robots",
+      "language": "en",
+      "source_path": "en_news_events/2014/02/soft-robots.html"
+    },
+    "temporal": {
+      "publication_date": "2014-02",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zürich",
+        "Fusco",
+        "Fusco S et al",
+        "Selman Sakar"
+      ],
+      "people_with_roles": {
+        "Fusco": [
+          "scientist",
+          "student"
+        ],
+        "Selman Sakar": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1002",
+        "15 cm",
+        "half",
+        "only about 15",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Selman Sakar",
+        "Robots By",
+        "En News",
+        "Advanced Materials",
+        "Targeted Therapeutic",
+        "Harvard University",
+        "Stefano Fusco",
+        "An Integrated",
+        "On-Demand",
+        "Microrobotic Platform",
+        "ETH Zurich",
+        "The ETH",
+        "Fusco S",
+        "Intelligent Systems"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Advanced Materials",
+        "An Integrated Microrobotic Platform",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Fusco",
+        "Harvard University",
+        "IRIS",
+        "Stefano Fusco",
+        "hydrogel micro-robots",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "locations": [
+        "Venus",
+        "hydrogel"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "IRIS",
+        "hydrogel",
+        "two",
+        "Fusco",
+        "En News",
+        "ETH Zürich",
+        "Stefano Fusco",
+        "the Institute of Robotics and Intelligent Systems",
+        "Venus",
+        "90%"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Highly targeted drug delivery",
+          "Highly targeted drug delivery",
+          "Improving operating depth"
+        ],
+        "content_length": 4501
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "An Integrated Microrobotic Platform",
+        "Selman Sakar",
+        "ETH",
+        "2014",
+        "IRIS",
+        "En News",
+        "EU",
+        "Advanced Materials",
+        "hydrogel micro-robots",
+        "Harvard University",
+        "ETH Zürich",
+        "Fusco S et al",
+        "Stefano Fusco",
+        "ETH Zurich",
+        "Fusco",
+        "the Institute of Robotics and Intelligent Systems"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "only about 15",
+        "15 cm",
+        "half",
+        "who",
+        "chemistry",
+        "10.1002",
+        "where",
+        "biology",
+        "what",
+        "second",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Fusco_has_role_scientist",
+        "Fusco_has_role_student",
+        "Selman Sakar_has_role_scientist",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

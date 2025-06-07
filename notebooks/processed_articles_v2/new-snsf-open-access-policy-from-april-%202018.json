@@ -1,0 +1,229 @@
+{
+  "filename": "new-snsf-open-access-policy-from-april-%202018.md",
+  "original_filename": "new-snsf-open-access-policy-from-april-%202018.html",
+  "source_path": "en_internal/2018/01/new-snsf-open-access-policy-from-april-%202018.html",
+  "date": "2018-01",
+  "title": "New Snsf Open Access Policy From April %202018",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Against the backdrop of the National Open Access Strategy agreed in early 2017, the Swiss National Science Foundation aims to render all academic publications resulting from SNSF projects open access by 2020.\n\nIn order to achieve this goal, the following changes will come into effect for publications resulting from SNSF-funded projects from April 2018:\n\nFurther information on the SNSF's open access policy is available on the website Open Access at ETH Zurich and the Swiss National Science Foundation website .\n\nETH Library's E-publishing Office will gladly help you with any questions regarding the SNSF's open access guidelines.\n\nE-Publishing Office Email: Phone: +41 44 632 72 22"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Snsf Open Access",
+        "label": "ORG",
+        "start": 24,
+        "end": 40
+      },
+      {
+        "text": "April %",
+        "label": "PERCENT",
+        "start": 53,
+        "end": 60
+      },
+      {
+        "text": "the National Open Access Strategy",
+        "label": "ORG",
+        "start": 24,
+        "end": 57
+      },
+      {
+        "text": "early 2017",
+        "label": "DATE",
+        "start": 68,
+        "end": 78
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 80,
+        "end": 117
+      },
+      {
+        "text": "April 2018",
+        "label": "DATE",
+        "start": 342,
+        "end": 352
+      },
+      {
+        "text": "Open Access",
+        "label": "WORK_OF_ART",
+        "start": 435,
+        "end": 446
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 465,
+        "end": 502
+      },
+      {
+        "text": "ETH Library's",
+        "label": "ORG",
+        "start": 513,
+        "end": 526
+      },
+      {
+        "text": "E-Publishing Office",
+        "label": "ORG",
+        "start": 632,
+        "end": 651
+      },
+      {
+        "text": "Email",
+        "label": "PERSON",
+        "start": 652,
+        "end": 657
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Email"
+      ],
+      "ORG": [
+        "E-Publishing Office",
+        "ETH Library's",
+        "Snsf Open Access",
+        "the National Open Access Strategy",
+        "the Swiss National Science Foundation"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "April 2018",
+        "early 2017"
+      ],
+      "MISC": [
+        "April %",
+        "Open Access"
+      ]
+    },
+    "entity_counts": {
+      "the Swiss National Science Foundation": 2,
+      "Snsf Open Access": 1,
+      "April %": 1,
+      "the National Open Access Strategy": 1,
+      "early 2017": 1,
+      "April 2018": 1,
+      "Open Access": 1,
+      "ETH Library's": 1,
+      "E-Publishing Office": 1,
+      "Email": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "new-snsf-open-access-policy-from-april-%202018.md",
+      "title": "En Internal/2018/01/new Snsf Open Access Policy From April %202018",
+      "language": "en",
+      "source_path": "en_internal/2018/01/new-snsf-open-access-policy-from-april-%202018.html"
+    },
+    "temporal": {
+      "publication_date": "2018-01",
+      "mentioned_years": [
+        "2017",
+        "2018",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Email"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "April %",
+        "Open Access"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "From April",
+        "Access Policy",
+        "National Open",
+        "Snsf Open",
+        "ETH Library",
+        "En Internal",
+        "Swiss National",
+        "Science Foundation",
+        "ETH Zurich",
+        "Open Access",
+        "Access Strategy",
+        "E-Publishing",
+        "Office Email"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "E-Publishing Office",
+        "ETH Library's",
+        "Snsf Open Access",
+        "the National Open Access Strategy",
+        "the Swiss National Science Foundation"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "why"
+      ],
+      "key_concepts": [
+        "the Swiss National Science Foundation",
+        "Snsf Open Access",
+        "April %",
+        "the National Open Access Strategy",
+        "early 2017",
+        "April 2018",
+        "Open Access",
+        "ETH Library's",
+        "E-Publishing Office",
+        "Email"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 753
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "E-Publishing Office",
+        "the Swiss National Science Foundation",
+        "2017",
+        "2020",
+        "the National Open Access Strategy",
+        "ETH Library's",
+        "Snsf Open Access",
+        "Email"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "April %",
+        "what",
+        "Open Access",
+        "why"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

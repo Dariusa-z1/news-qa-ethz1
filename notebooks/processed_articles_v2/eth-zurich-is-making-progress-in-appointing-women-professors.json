@@ -1,0 +1,121 @@
+{
+  "filename": "eth-zurich-is-making-progress-in-appointing-women-professors.md",
+  "original_filename": "eth-zurich-is-making-progress-in-appointing-women-professors.html",
+  "source_path": "en_internal/2022/11/eth-zurich-is-making-progress-in-appointing-women-professors.html",
+  "date": "2022-11",
+  "title": "Eth Zurich Is Making Progress In Appointing Women Professors",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "En Internal/2022/11",
+        "label": "MISC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Zurich Is Making Progress",
+        "label": "MISC",
+        "start": 24,
+        "end": 49
+      },
+      {
+        "text": "Appointing",
+        "label": "LOC",
+        "start": 53,
+        "end": 63
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "Appointing"
+      ],
+      "DATE": [],
+      "MISC": [
+        "En Internal/2022/11",
+        "Zurich Is Making Progress"
+      ]
+    },
+    "entity_counts": {
+      "En Internal/2022/11": 1,
+      "Zurich Is Making Progress": 1,
+      "Appointing": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurich-is-making-progress-in-appointing-women-professors.md",
+      "title": "En Internal/2022/11/eth Zurich Is Making Progress in Appointing Women Professors",
+      "language": "unknown",
+      "source_path": "en_internal/2022/11/eth-zurich-is-making-progress-in-appointing-women-professors.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "En Internal/2022/11",
+        "Zurich Is Making Progress"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Appointing Women",
+        "Making Progress",
+        "Zurich Is",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "Appointing"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "En Internal/2022/11",
+        "Zurich Is Making Progress",
+        "Appointing"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 81
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2022"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Zurich Is Making Progress",
+        "En Internal/2022/11"
+      ],
+      "graph_relations": []
+    }
+  }
+}

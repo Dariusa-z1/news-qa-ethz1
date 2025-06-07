@@ -1,0 +1,305 @@
+{
+  "filename": "optimised-processes-for-eth-financial-planning.md",
+  "original_filename": "optimised-processes-for-eth-financial-planning.html",
+  "source_path": "en_internal/2024/02/optimised-processes-for-eth-financial-planning.html",
+  "date": "2024-02",
+  "title": "Optimised Processes For Eth Financial Planning",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Financial planning that can respond to changes",
+      "text": "A scenario and simulation model will replace current medium-term planning (MFP) in strategic financial planning, and a more dynamic rolling forecast will replace budgeting in the area of short-term, operational financial management. The corresponding processes and software solutions are being developed and will be introduced over the course of the next few months.\n\nThe approved introduction of scenario and simulation models for strategic financial planning aims to introduce flexible scenario planning that allows the simulation of rapidly changing input variables. This will give the ETH Executive Board the opportunity to simulate various strategic options financially and to assess upcoming decisions on the basis of scenarios. The focus of strategic financial planning will be even more strongly on the adoption of an overall ETH Zurich view. The scenario and simulation model will be developed in stages on the basis of the key drivers and be optimised from one year to the next based on experience.\n\nThe aim of the improvements for short-term, operational financial planning is to simplify processes, reduce the workload and give managers more flexibility in the use of funds. The new processes primarily optimise the financial planning of the Central Administrative Units, as the academic organisational units do not directly participate in medium-term planning. The new rolling forecast simplifies and harmonises financial planning thanks to the same data entry structure in both forecast rounds in the second and fourth quarter and only one reading per forecast round.\n\nThe Central Administrative Units now have a direct overview of their actual figures and entries in the planning system as well as their previous forecast values for orientation purposes. Further developments are planned for the subsequent years to provide the planning units with default values developed by a machine learning algorithm for predictive forecasting. By rolling forecast is meant that the forecast is continually adjusted and adapted to current circumstances."
+    },
+    {
+      "heading": "Financial planning that can respond to changes",
+      "text": "However, the forecast does not automatically become a binding budget value but reflects an assessment of the actual situation. This gives the Executive Board domains a more realistic financial outlook for the current and following year. The budget value for the following year is only derived in the fourth quarter as part of the second forecast and is therefore more realistic and dynamic than before.\n\nAt the same time, the new rolling forecast philosophy gives budget managers more flexibility when it comes to highly volatile project financing in a rapidly changing environment. The future process will be further adapted and optimised from each year to the next. “The advantage of a rolling forecast is that financial planning does not insist on rigid budgets but can respond dynamically to changes,” says Stefan Spiegel, Vice President for Finance and Controlling."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Processes For Eth Financial Planning",
+        "label": "WORK_OF_ART",
+        "start": 30,
+        "end": 66
+      },
+      {
+        "text": "MFP",
+        "label": "ORG",
+        "start": 75,
+        "end": 78
+      },
+      {
+        "text": "the next few months",
+        "label": "DATE",
+        "start": 346,
+        "end": 365
+      },
+      {
+        "text": "ETH Executive Board",
+        "label": "ORG",
+        "start": 588,
+        "end": 607
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 833,
+        "end": 843
+      },
+      {
+        "text": "one year",
+        "label": "DATE",
+        "start": 966,
+        "end": 974
+      },
+      {
+        "text": "the Central Administrative Units",
+        "label": "ORG",
+        "start": 1248,
+        "end": 1280
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1513,
+        "end": 1519
+      },
+      {
+        "text": "fourth quarter",
+        "label": "DATE",
+        "start": 1524,
+        "end": 1538
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 1543,
+        "end": 1551
+      },
+      {
+        "text": "the subsequent years",
+        "label": "DATE",
+        "start": 1804,
+        "end": 1824
+      },
+      {
+        "text": "the Executive Board",
+        "label": "ORG",
+        "start": 138,
+        "end": 157
+      },
+      {
+        "text": "the following year",
+        "label": "DATE",
+        "start": 258,
+        "end": 276
+      },
+      {
+        "text": "the fourth quarter",
+        "label": "DATE",
+        "start": 296,
+        "end": 314
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 330,
+        "end": 336
+      },
+      {
+        "text": "each year",
+        "label": "DATE",
+        "start": 644,
+        "end": 653
+      },
+      {
+        "text": "Stefan Spiegel",
+        "label": "PERSON",
+        "start": 810,
+        "end": 824
+      },
+      {
+        "text": "Finance",
+        "label": "ORG",
+        "start": 845,
+        "end": 852
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Stefan Spiegel"
+      ],
+      "ORG": [
+        "ETH Executive Board",
+        "Finance",
+        "MFP",
+        "the Central Administrative Units",
+        "the Executive Board"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "each year",
+        "fourth quarter",
+        "one year",
+        "the following year",
+        "the fourth quarter",
+        "the next few months",
+        "the subsequent years"
+      ],
+      "MISC": [
+        "Processes For Eth Financial Planning",
+        "only one",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "second": 2,
+      "Processes For Eth Financial Planning": 1,
+      "MFP": 1,
+      "the next few months": 1,
+      "ETH Executive Board": 1,
+      "ETH Zurich": 1,
+      "one year": 1,
+      "the Central Administrative Units": 1,
+      "fourth quarter": 1,
+      "only one": 1,
+      "the subsequent years": 1,
+      "the Executive Board": 1,
+      "the following year": 1,
+      "the fourth quarter": 1,
+      "each year": 1,
+      "Stefan Spiegel": 1,
+      "Finance": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 17
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "optimised-processes-for-eth-financial-planning.md",
+      "title": "En Internal/2024/02/optimised Processes For Eth Financial Planning",
+      "language": "en",
+      "source_path": "en_internal/2024/02/optimised-processes-for-eth-financial-planning.html"
+    },
+    "temporal": {
+      "publication_date": "2024-02",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Stefan Spiegel"
+      ],
+      "people_with_roles": {
+        "Stefan Spiegel": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Processes For Eth Financial Planning",
+        "only one",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Central",
+        "Planning A",
+        "Vice President",
+        "Central Administrative",
+        "Stefan Spiegel",
+        "Executive Board",
+        "En Internal",
+        "Processes For",
+        "Eth Financial",
+        "Administrative Units",
+        "ETH Zurich",
+        "ETH Executive"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Executive Board",
+        "Finance",
+        "MFP",
+        "the Central Administrative Units",
+        "the Executive Board"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "second",
+        "Processes For Eth Financial Planning",
+        "MFP",
+        "the next few months",
+        "ETH Executive Board",
+        "ETH Zurich",
+        "one year",
+        "the Central Administrative Units",
+        "fourth quarter",
+        "only one"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Financial planning that can respond to changes",
+          "Financial planning that can respond to changes"
+        ],
+        "content_length": 2994
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH Executive Board",
+        "Stefan Spiegel",
+        "MFP",
+        "the Executive Board",
+        "Finance",
+        "the Central Administrative Units",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Processes For Eth Financial Planning",
+        "what",
+        "second",
+        "how",
+        "only one",
+        "computer_science",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Stefan Spiegel_has_role_president",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

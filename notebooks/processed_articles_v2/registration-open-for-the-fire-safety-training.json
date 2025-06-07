@@ -1,0 +1,176 @@
+{
+  "filename": "registration-open-for-the-fire-safety-training.md",
+  "original_filename": "registration-open-for-the-fire-safety-training.html",
+  "source_path": "en_internal/2016/09/registration-open-for-the-fire-safety-training.html",
+  "date": "2016-09",
+  "title": "Registration Open For The Fire Safety Training",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The safety, security, health and environment (SSHE) administrative department offers fire safety training this year again. In the theoretical part, participants will be taught how to prevent fires from breaking out. In the practical part, the participants will learn how to behave in case of a fire. Each student will have the opportunity to fight a fire with a portable fire extinguisher and a fire blanket under expert guidance.\n\nThe course is free for all interested members of ETH. For some undergraduate students engaging in certain fields of study, participation is mandatory in the first semester. They will be informed by e-mail.\n\nThe courses will last just over one hour. They will start on 21 September and will be carried out up to 21 October 2016. The participants can travel by public transport to the station \"ETH Hönggerberg\". From there, the course area can be reached by a short walk (about 10 minutes). There are no parking lots at the course site.\n\nThe course will take place outdoor and in all weather conditions. Therefore robust clothing and sturdy boots are essential.\n\nIf you are interested, please register on the website www.ethz.ch/firesafetytraining\n\nFor further information, please contact the section SGU Training via e-mail: ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 480,
+        "end": 483
+      },
+      {
+        "text": "the first semester",
+        "label": "DATE",
+        "start": 584,
+        "end": 602
+      },
+      {
+        "text": "just over one hour",
+        "label": "TIME",
+        "start": 659,
+        "end": 677
+      },
+      {
+        "text": "21 September",
+        "label": "DATE",
+        "start": 698,
+        "end": 710
+      },
+      {
+        "text": "October 2016",
+        "label": "DATE",
+        "start": 744,
+        "end": 756
+      },
+      {
+        "text": "about 10 minutes",
+        "label": "TIME",
+        "start": 900,
+        "end": 916
+      },
+      {
+        "text": "SGU Training",
+        "label": "ORG",
+        "start": 1226,
+        "end": 1238
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "SGU Training"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "21 September",
+        "October 2016",
+        "about 10 minutes",
+        "just over one hour",
+        "the first semester"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 1,
+      "the first semester": 1,
+      "just over one hour": 1,
+      "21 September": 1,
+      "October 2016": 1,
+      "about 10 minutes": 1,
+      "SGU Training": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "registration-open-for-the-fire-safety-training.md",
+      "title": "En Internal/2016/09/registration Open For The Fire Safety Training",
+      "language": "en",
+      "source_path": "en_internal/2016/09/registration-open-for-the-fire-safety-training.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "SGU Training",
+        "En Internal",
+        "Open For",
+        "Safety Training",
+        "The Fire"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "SGU Training"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "the first semester",
+        "just over one hour",
+        "21 September",
+        "October 2016",
+        "about 10 minutes",
+        "SGU Training"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1324
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "SGU Training",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

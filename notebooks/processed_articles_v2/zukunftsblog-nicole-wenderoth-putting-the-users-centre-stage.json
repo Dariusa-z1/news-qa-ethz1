@@ -1,0 +1,246 @@
+{
+  "filename": "zukunftsblog-nicole-wenderoth-putting-the-users-centre-stage.md",
+  "original_filename": "zukunftsblog-nicole-wenderoth-putting-the-users-centre-stage.html",
+  "source_path": "en_news_events/2020/08/zukunftsblog-nicole-wenderoth-putting-the-users-centre-stage.html",
+  "date": "2020-08",
+  "title": "Zukunftsblog Nicole Wenderoth Putting The Users Centre Stage",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Of sensors, data and robots",
+      "text": "(Photograph: ETH Zurich)\n\nBy 2050, the over-60s will make up 34 percent of the population in Switzerland. This will push up the incidence of chronic diseases, and the rising costs and demands on manpower will put the healthcare services under yet more pressure. We can only meet these challenges if healthcare services are provided more efficiently, while maintaining high-quality care for each individual.\n\nMobile digital technologies, such as those being developed at ETH Zurich and at the Future Health Technologies programme as part of the Singapore-ETH-Centre, are an important lever for boosting efficiency. They make it possible to bring medical expertise from the hospital to the patient’s home. Such technologies can be used on demand at any time of the day for a range of applications – from disease prevention to patient management and rehabilitation."
+    },
+    {
+      "heading": "Of sensors, data and robots",
+      "text": "Wearable sensors and data analysis systems, for example, allow users to predict the risk of falling and suffering a fracture and to act upon it before an accident happens. And robotic systems that provide therapy, monitor the patient’s progress and communicate with healthcare experts could play a key role in stroke rehabilitation at home.\n\nThese systems will never replace the interaction with physicians and therapists, but they can complement it. Chatbots in smartphone apps for example, remind users to pursue healthy habits in everyday life, even when their nutritionist or personal trainer is not present.\n\nIn developing such technologies, it is crucial that the health technology delivers the relevant health service to patients, but also is well accepted by the patients and their families. In practice, the effectiveness of such technologies hinges on whether they meet the needs of users and earn their trust. This can only be achieved by considering the culture and social norms of the users and by involving them early on in the process."
+    },
+    {
+      "heading": "A delicate balance",
+      "text": "The challenges for digital health technologies are in line with those of smart technologies in other areas and smart cities. What they all have in common is that they analyse huge quantities of personal data. And as we’ve seen for the COVID apps that track the contacts of infected persons, privacy and data security are critical issues that need to be carefully considered and properly addressed.\n\nIt’s important to bear in mind the trade-off between maximum privacy and maximum medical benefit for patients and society. Drawing on different data from the same patient might potentially enable more personalised healthcare delivery to that individual and, in the long run, help to fine tune health technologies to benefit the wider public. However, given that health data is sensitive, it is crucial that each individual can decide which of the data from medical records, wearable devices, fitness apps, social media and other sources may be collected and used for medical diagnosis and treatment.\n\nIf we succeed in winning the users’ trust in this way, we’ll be well on the way to meeting one of the biggest challenges for the healthcare system.\n\nNicole Wenderoth Professor for Neural Control of Movement ETH Zurich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Nicole Wenderoth",
+        "label": "PERSON",
+        "start": 36,
+        "end": 52
+      },
+      {
+        "text": "The Users Centre Stage",
+        "label": "ORG",
+        "start": 61,
+        "end": 83
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "text": "34 percent",
+        "label": "PERCENT",
+        "start": 60,
+        "end": 70
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 92,
+        "end": 103
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 468,
+        "end": 478
+      },
+      {
+        "text": "the Future Health Technologies",
+        "label": "ORG",
+        "start": 486,
+        "end": 516
+      },
+      {
+        "text": "COVID",
+        "label": "PERSON",
+        "start": 235,
+        "end": 240
+      },
+      {
+        "text": "Neural Control of Movement",
+        "label": "ORG",
+        "start": 1177,
+        "end": 1203
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "COVID",
+        "ETH Zurich",
+        "Nicole Wenderoth"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Neural Control of Movement",
+        "The Users Centre Stage",
+        "the Future Health Technologies"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [],
+      "MISC": [
+        "34 percent"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Nicole Wenderoth": 1,
+      "The Users Centre Stage": 1,
+      "34 percent": 1,
+      "Switzerland": 1,
+      "the Future Health Technologies": 1,
+      "COVID": 1,
+      "Neural Control of Movement": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 8
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "zukunftsblog-nicole-wenderoth-putting-the-users-centre-stage.md",
+      "title": "En News Events/2020/08/zukunftsblog Nicole Wenderoth Putting The Users Centre Stage",
+      "language": "en",
+      "source_path": "en_news_events/2020/08/zukunftsblog-nicole-wenderoth-putting-the-users-centre-stage.html"
+    },
+    "temporal": {
+      "publication_date": "2020-08",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "COVID",
+        "ETH Zurich",
+        "Nicole Wenderoth"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Nicole Wenderoth": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "34 percent"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Future Health",
+        "Putting The",
+        "En News",
+        "ETH Zurich",
+        "Neural Control",
+        "Movement ETH",
+        "Nicole Wenderoth",
+        "Singapore-ETH",
+        "Users Centre"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Neural Control of Movement",
+        "The Users Centre Stage",
+        "the Future Health Technologies"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Nicole Wenderoth",
+        "The Users Centre Stage",
+        "34 percent",
+        "Switzerland",
+        "the Future Health Technologies",
+        "COVID",
+        "Neural Control of Movement"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Of sensors, data and robots",
+          "Of sensors, data and robots",
+          "A delicate balance"
+        ],
+        "content_length": 3215
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Nicole Wenderoth",
+        "COVID",
+        "the Future Health Technologies",
+        "EU",
+        "2020",
+        "Neural Control of Movement",
+        "ETH Zurich",
+        "ERC",
+        "The Users Centre Stage"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "34 percent",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "Nicole Wenderoth_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

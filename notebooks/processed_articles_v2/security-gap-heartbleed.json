@@ -1,0 +1,147 @@
+{
+  "filename": "security-gap-heartbleed.md",
+  "original_filename": "security-gap-heartbleed.html",
+  "source_path": "en_internal/2014/04/security-gap-heartbleed.html",
+  "date": "2014-04",
+  "title": "Security Gap Heartbleed",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A big issue in the last days was the vulnerability called «Heartbleed», which affects, for example, web stores, Internet banking or in general all web services accessed over SLL («https»).\n\nIT Services recommend to all members of ETH to change their passwords affiliated with an ETH account (nethz) using this webtool , if you haven’t changed this week. From that moment on they guarantee that the systems are secure.\n\nMore information on the ID-Blog ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the last days",
+        "label": "DATE",
+        "start": 15,
+        "end": 28
+      },
+      {
+        "text": "SLL",
+        "label": "ORG",
+        "start": 174,
+        "end": 177
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 229,
+        "end": 232
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 278,
+        "end": 281
+      },
+      {
+        "text": "n’t",
+        "label": "GPE",
+        "start": 330,
+        "end": 333
+      },
+      {
+        "text": "this week",
+        "label": "DATE",
+        "start": 342,
+        "end": 351
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH",
+        "SLL"
+      ],
+      "LOCATION": [
+        "n’t"
+      ],
+      "DATE": [
+        "the last days",
+        "this week"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "the last days": 1,
+      "SLL": 1,
+      "n’t": 1,
+      "this week": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "security-gap-heartbleed.md",
+      "title": "En Internal/2014/04/security Gap Heartbleed",
+      "language": "en",
+      "source_path": "en_internal/2014/04/security-gap-heartbleed.html"
+    },
+    "temporal": {
+      "publication_date": "2014-04",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "IT Services",
+        "ID-Blog",
+        "Gap Heartbleed",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "SLL"
+      ],
+      "locations": [
+        "n’t"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH",
+        "the last days",
+        "SLL",
+        "n’t",
+        "this week"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 496
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2014",
+        "SLL"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "filename": "entweder-oder-stefan-spiegel-im-video-interview.md",
+  "original_filename": "entweder-oder-stefan-spiegel-im-video-interview.html",
+  "source_path": "de_internal/2023/04/entweder-oder-stefan-spiegel-im-video-interview.html",
+  "date": "2023-04",
+  "title": "Entweder Oder Stefan Spiegel Im Video Interview",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Kontakt",
+      "text": "Stefan Spiegel trat die Nachfolge von Robert Perich an. Er studierte theoretische Physik an der Universität Zürich und erwarb ein Executive MBA der Wirtschaftsuniversität Wien und der Carlson School of Management der Universität von Minnesota. Er besitzt langjährige Führungserfahrung als Finanzchef sowie als Leiter Controlling und Projektleiter für Organisationsentwicklungen im Finanzbereich nationaler und internationaler Unternehmen. Zuletzt war Spiegel CFO und Mitglied der Geschäftsleitung der SBB Cargo AG."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2023/04/entweder",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Stefan Spiegel",
+        "label": "PER",
+        "start": 34,
+        "end": 48
+      },
+      {
+        "text": "Stefan Spiegel",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PER",
+        "start": 38,
+        "end": 51
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 96,
+        "end": 114
+      },
+      {
+        "text": "Carlson School of Management",
+        "label": "ORG",
+        "start": 184,
+        "end": 212
+      },
+      {
+        "text": "Universität von Minnesota",
+        "label": "ORG",
+        "start": 217,
+        "end": 242
+      },
+      {
+        "text": "Controlling",
+        "label": "PER",
+        "start": 317,
+        "end": 328
+      },
+      {
+        "text": "Organisationsentwicklungen",
+        "label": "ORG",
+        "start": 351,
+        "end": 377
+      },
+      {
+        "text": "Spiegel",
+        "label": "ORG",
+        "start": 451,
+        "end": 458
+      },
+      {
+        "text": "SBB Cargo AG",
+        "label": "ORG",
+        "start": 501,
+        "end": 513
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Controlling",
+        "Robert Perich",
+        "Stefan Spiegel"
+      ],
+      "ORG": [
+        "Carlson School of Management",
+        "Organisationsentwicklungen",
+        "SBB Cargo AG",
+        "Spiegel",
+        "Universität Zürich",
+        "Universität von Minnesota"
+      ],
+      "LOCATION": [
+        "De Internal/2023/04/entweder"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Stefan Spiegel": 2,
+      "De Internal/2023/04/entweder": 1,
+      "Robert Perich": 1,
+      "Universität Zürich": 1,
+      "Carlson School of Management": 1,
+      "Universität von Minnesota": 1,
+      "Controlling": 1,
+      "Organisationsentwicklungen": 1,
+      "Spiegel": 1,
+      "SBB Cargo AG": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "entweder-oder-stefan-spiegel-im-video-interview.md",
+      "title": "De Internal/2023/04/entweder oder Stefan Spiegel Im Video Interview",
+      "language": "de",
+      "source_path": "de_internal/2023/04/entweder-oder-stefan-spiegel-im-video-interview.html"
+    },
+    "temporal": {
+      "publication_date": "2023-04",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Controlling",
+        "Robert Perich",
+        "Stefan Spiegel"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Interview Stefan",
+        "Robert Perich",
+        "Carlson School",
+        "Stefan Spiegel",
+        "Im Video",
+        "De Internal",
+        "Executive MBA",
+        "Leiter Controlling",
+        "Spiegel CFO",
+        "SBB Cargo"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Carlson School of Management",
+        "Organisationsentwicklungen",
+        "SBB Cargo AG",
+        "Spiegel",
+        "Universität Zürich",
+        "Universität von Minnesota"
+      ],
+      "locations": [
+        "De Internal/2023/04/entweder"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Stefan Spiegel",
+        "De Internal/2023/04/entweder",
+        "Robert Perich",
+        "Universität Zürich",
+        "Carlson School of Management",
+        "Universität von Minnesota",
+        "Controlling",
+        "Organisationsentwicklungen",
+        "Spiegel",
+        "SBB Cargo AG"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Kontakt"
+        ],
+        "content_length": 582
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "SBB Cargo AG",
+        "Spiegel",
+        "Robert Perich",
+        "Stefan Spiegel",
+        "Carlson School of Management",
+        "Universität von Minnesota",
+        "Controlling",
+        "Organisationsentwicklungen",
+        "Universität Zürich",
+        "2023"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

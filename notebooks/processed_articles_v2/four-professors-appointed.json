@@ -1,0 +1,831 @@
+{
+  "filename": "four-professors-appointed.md",
+  "original_filename": "four-professors-appointed.html",
+  "source_path": "en_news_events/2022/09/four-professors-appointed.html",
+  "date": "2022-09",
+  "title": "Four Professors Appointed",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New appointments",
+      "text": "Dr Jordan Aaron (*1990), currently Scientist at WSL, as Tenure Track Assistant Professor of Engineering Geology in the Department of Earth Sciences. Jordan Aaron’s research is concerned with the basic mechanisms that control the deformation of geomaterials. He has a particular interest in major underground excavations and landslides. Jordan Aaron has won a number of awards for his research and teaching, including a Golden Owl 2019 from ETH Zurich. His appointment will strengthen the Department and help develop a strong programme of research and teaching. The chair of engineering geology is the only one of its kind in Switzerland, and acts as a focal point and interface for geological agencies and authorities"
+    },
+    {
+      "heading": "Promotions",
+      "text": "Professor Jonas Peters (*1984), currently Full Professor at the University of Copenhagen, Denmark, as Full Professor of Statistics in the Department of Mathematics. Jonas Peters conducts research in the field of statistical causality at the intersection of statistics and machine learning. His outstanding research findings have been published in the top specialist journals and are having a significant impact that goes far beyond statistics. He has also made important contributions to interdisciplinary projects, where his findings have been of special relevance to earth system sciences and biomedicine. Jonas Peters is an acclaimed researcher who has won numerous awards and is a brilliant communicator, as well as being very committed to popular science."
+    },
+    {
+      "heading": "Award of the title of “Professor of Practice”",
+      "text": "Professor Alexander Mathys (*1979), currently Tenure Track Assistant Professor at ETH Zurich, as Associate Professor of Sustainable Food Processing in the Department of Health Sciences and Technology. Alexander Mathys is head of the Sustainable Food Processing Laboratory at ETH Zurich. The main aim of his research is to develop a more sustainable food system that will help achieve the sustainable development targets of the United Nations. His main interest lies in processing microalgae and insects into food and animal feed. He has an impressive list of publications to his name and has won several awards. Alexander Mathys is currently setting up a Future Food Laboratory at the Singapore-ETH Centre for Global Environmental Sustainability.\n\nProfessor Melanie Zeilinger (*1982), currently Tenure Track Assistant Professor at ETH Zurich, as Associate Professor of Intelligent Control Systems in the Department of Mechanical and Process Engineering. Melanie Zeilinger’s research concerns model predictive control (MPC), with particular reference to the control of autonomous, security-critical systems. As a well-known researcher with an impressive list of publications to her name, she has received numerous awards and is regularly invited to speak at conferences. Through the appointment of Melanie Zeilinger, the Department is retaining an outstanding scientist and expert who has successfully built up an important and extensive network of national and international collaborations."
+    },
+    {
+      "heading": "Award of the title of “Professor of Practice”",
+      "text": "Dr Robert Perich (*1961), currently Vice President of ETH Zurich, as Professor of Practice at ETH Zurich. Robert Perich has been Vice President for Finance & Controlling since 1 October 2008. His duties include responsibility for the ETH-wide financial strategy, medium-term financial planning and risk management. He taught at the University of St. Gallen for many years. He has been a guest lecturer at the University of Zurich since 2016 and at ETH Zurich since 2017. The Department of Management, Technology and Economics intends to entrust Robert Perich with the direction of the Swiss School of Public Governance (SSPG) once he steps down as Vice President and takes voluntary partial retirement. He will also lead a small translational research group in the field of management of higher education institutions and non-profit organisations. He will take up the new roles at the start of April 2023 and will be awarded the title of Professor of Practice as of that date.\n\nProfessor Petros Koumoutsakos (*1963), formerly Full Professor of Computational Science in the Department of Mechanical and Process Engineering, left ETH Zurich at the end of August 2022. Petros Koumoutsakos is active in the fields of particle methods, machine learning, artificial intelligence, biomimetics and bio-inspired computing. His research has attracted a significant number of major awards. This internationally acclaimed, well-connected scientist has left ETH Zurich in order to pursue his career at Harvard University.\n\nProfessor Clara Sánchez Rodríguez (*1980), currently Assistant Professor of Plant Cell Biology in the Department of Biology, is to leave ETH Zurich at the end of January 2023. Clara Sánchez Rodríguez has carried out pioneering research in the fields of cell biology and plant-pathogen interactions. She has won numerous prizes and grants for her work and is now leaving ETH Zurich to take up a new post at the Centre for Plant Biotechnology and Genomics (CBGO) in Madrid."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Jordan Aaron",
+        "label": "PERSON",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "Engineering Geology",
+        "label": "ORG",
+        "start": 92,
+        "end": 111
+      },
+      {
+        "text": "the Department of Earth Sciences",
+        "label": "ORG",
+        "start": 115,
+        "end": 147
+      },
+      {
+        "text": "Jordan Aaron’s",
+        "label": "PERSON",
+        "start": 149,
+        "end": 163
+      },
+      {
+        "text": "Jordan Aaron",
+        "label": "PERSON",
+        "start": 336,
+        "end": 348
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 440,
+        "end": 450
+      },
+      {
+        "text": "Department",
+        "label": "ORG",
+        "start": 488,
+        "end": 498
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 625,
+        "end": 636
+      },
+      {
+        "text": "Jonas Peters",
+        "label": "PERSON",
+        "start": 10,
+        "end": 22
+      },
+      {
+        "text": "the University of Copenhagen",
+        "label": "ORG",
+        "start": 60,
+        "end": 88
+      },
+      {
+        "text": "Denmark",
+        "label": "GPE",
+        "start": 90,
+        "end": 97
+      },
+      {
+        "text": "the Department of Mathematics",
+        "label": "ORG",
+        "start": 134,
+        "end": 163
+      },
+      {
+        "text": "Jonas Peters",
+        "label": "PERSON",
+        "start": 165,
+        "end": 177
+      },
+      {
+        "text": "Jonas Peters",
+        "label": "PERSON",
+        "start": 608,
+        "end": 620
+      },
+      {
+        "text": "Alexander Mathys",
+        "label": "PERSON",
+        "start": 10,
+        "end": 26
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "Sustainable Food Processing",
+        "label": "ORG",
+        "start": 120,
+        "end": 147
+      },
+      {
+        "text": "the Department of Health Sciences and Technology",
+        "label": "ORG",
+        "start": 151,
+        "end": 199
+      },
+      {
+        "text": "Alexander Mathys",
+        "label": "PERSON",
+        "start": 201,
+        "end": 217
+      },
+      {
+        "text": "the Sustainable Food Processing Laboratory",
+        "label": "ORG",
+        "start": 229,
+        "end": 271
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 275,
+        "end": 285
+      },
+      {
+        "text": "the United Nations",
+        "label": "ORG",
+        "start": 423,
+        "end": 441
+      },
+      {
+        "text": "Alexander Mathys",
+        "label": "PERSON",
+        "start": 612,
+        "end": 628
+      },
+      {
+        "text": "Future Food Laboratory",
+        "label": "ORG",
+        "start": 655,
+        "end": 677
+      },
+      {
+        "text": "Global Environmental Sustainability",
+        "label": "ORG",
+        "start": 710,
+        "end": 745
+      },
+      {
+        "text": "Melanie Zeilinger",
+        "label": "PERSON",
+        "start": 757,
+        "end": 774
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 830,
+        "end": 840
+      },
+      {
+        "text": "Intelligent Control Systems",
+        "label": "ORG",
+        "start": 868,
+        "end": 895
+      },
+      {
+        "text": "the Department of Mechanical and Process Engineering",
+        "label": "ORG",
+        "start": 899,
+        "end": 951
+      },
+      {
+        "text": "Melanie Zeilinger",
+        "label": "PERSON",
+        "start": 953,
+        "end": 970
+      },
+      {
+        "text": "MPC",
+        "label": "ORG",
+        "start": 1017,
+        "end": 1020
+      },
+      {
+        "text": "Melanie Zeilinger",
+        "label": "PERSON",
+        "start": 1296,
+        "end": 1313
+      },
+      {
+        "text": "Department",
+        "label": "ORG",
+        "start": 1319,
+        "end": 1329
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PERSON",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 54,
+        "end": 64
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 94,
+        "end": 104
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PERSON",
+        "start": 106,
+        "end": 119
+      },
+      {
+        "text": "Finance & Controlling",
+        "label": "ORG",
+        "start": 148,
+        "end": 169
+      },
+      {
+        "text": "1 October 2008",
+        "label": "DATE",
+        "start": 176,
+        "end": 190
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 234,
+        "end": 237
+      },
+      {
+        "text": "the University of St. Gallen",
+        "label": "ORG",
+        "start": 328,
+        "end": 356
+      },
+      {
+        "text": "many years",
+        "label": "DATE",
+        "start": 361,
+        "end": 371
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 405,
+        "end": 429
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 448,
+        "end": 458
+      },
+      {
+        "text": "The Department of Management, Technology and Economics",
+        "label": "ORG",
+        "start": 471,
+        "end": 525
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PERSON",
+        "start": 545,
+        "end": 558
+      },
+      {
+        "text": "the Swiss School of Public Governance",
+        "label": "ORG",
+        "start": 581,
+        "end": 618
+      },
+      {
+        "text": "the start of April 2023",
+        "label": "DATE",
+        "start": 881,
+        "end": 904
+      },
+      {
+        "text": "Petros Koumoutsakos",
+        "label": "PERSON",
+        "start": 987,
+        "end": 1006
+      },
+      {
+        "text": "the Department of Mechanical and Process Engineering",
+        "label": "ORG",
+        "start": 1068,
+        "end": 1120
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1127,
+        "end": 1137
+      },
+      {
+        "text": "the end of August 2022",
+        "label": "DATE",
+        "start": 1141,
+        "end": 1163
+      },
+      {
+        "text": "Petros Koumoutsakos",
+        "label": "PERSON",
+        "start": 1165,
+        "end": 1184
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1444,
+        "end": 1454
+      },
+      {
+        "text": "Harvard University",
+        "label": "ORG",
+        "start": 1488,
+        "end": 1506
+      },
+      {
+        "text": "Clara Sánchez",
+        "label": "PERSON",
+        "start": 1518,
+        "end": 1531
+      },
+      {
+        "text": "Plant Cell Biology",
+        "label": "ORG",
+        "start": 1584,
+        "end": 1602
+      },
+      {
+        "text": "the Department of Biology",
+        "label": "ORG",
+        "start": 1606,
+        "end": 1631
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1645,
+        "end": 1655
+      },
+      {
+        "text": "the end of January 2023",
+        "label": "DATE",
+        "start": 1659,
+        "end": 1682
+      },
+      {
+        "text": "Clara Sánchez Rodríguez",
+        "label": "PERSON",
+        "start": 1684,
+        "end": 1707
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1878,
+        "end": 1888
+      },
+      {
+        "text": "the Centre for Plant Biotechnology and Genomics (CBGO",
+        "label": "FAC",
+        "start": 1914,
+        "end": 1967
+      },
+      {
+        "text": "Madrid",
+        "label": "GPE",
+        "start": 1972,
+        "end": 1978
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexander Mathys",
+        "Clara Sánchez",
+        "Clara Sánchez Rodríguez",
+        "ETH Zurich",
+        "Jonas Peters",
+        "Jordan Aaron",
+        "Jordan Aaron’s",
+        "Melanie Zeilinger",
+        "Petros Koumoutsakos",
+        "Robert Perich"
+      ],
+      "ORG": [
+        "Department",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Engineering Geology",
+        "Finance & Controlling",
+        "Future Food Laboratory",
+        "Global Environmental Sustainability",
+        "Harvard University",
+        "Intelligent Control Systems",
+        "MPC",
+        "Plant Cell Biology",
+        "Sustainable Food Processing",
+        "The Department of Management, Technology and Economics",
+        "the Department of Biology",
+        "the Department of Earth Sciences",
+        "the Department of Health Sciences and Technology",
+        "the Department of Mathematics",
+        "the Department of Mechanical and Process Engineering",
+        "the Sustainable Food Processing Laboratory",
+        "the Swiss School of Public Governance",
+        "the United Nations",
+        "the University of Copenhagen",
+        "the University of St. Gallen",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Denmark",
+        "ETH Zurich",
+        "Madrid",
+        "Switzerland",
+        "the Centre for Plant Biotechnology and Genomics (CBGO"
+      ],
+      "DATE": [
+        "1 October 2008",
+        "many years",
+        "the end of August 2022",
+        "the end of January 2023",
+        "the start of April 2023"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zurich": 11,
+      "Jonas Peters": 3,
+      "Alexander Mathys": 3,
+      "Melanie Zeilinger": 3,
+      "Robert Perich": 3,
+      "Jordan Aaron": 2,
+      "Department": 2,
+      "the Department of Mechanical and Process Engineering": 2,
+      "Petros Koumoutsakos": 2,
+      "En News": 1,
+      "Engineering Geology": 1,
+      "the Department of Earth Sciences": 1,
+      "Jordan Aaron’s": 1,
+      "Switzerland": 1,
+      "the University of Copenhagen": 1,
+      "Denmark": 1,
+      "the Department of Mathematics": 1,
+      "Sustainable Food Processing": 1,
+      "the Department of Health Sciences and Technology": 1,
+      "the Sustainable Food Processing Laboratory": 1
+    },
+    "total_entities": 65,
+    "unique_entities": 43
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "four-professors-appointed.md",
+      "title": "En News Events/2022/09/four Professors Appointed",
+      "language": "en",
+      "source_path": "en_news_events/2022/09/four-professors-appointed.html"
+    },
+    "temporal": {
+      "publication_date": "2022-09",
+      "mentioned_years": [
+        "1961",
+        "1963",
+        "1979",
+        "1980",
+        "1982",
+        "1984",
+        "1990",
+        "2008",
+        "2016",
+        "2017",
+        "2019",
+        "2022",
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexander Mathys",
+        "Clara Sánchez",
+        "Clara Sánchez Rodríguez",
+        "ETH Zurich",
+        "Jonas Peters",
+        "Jordan Aaron",
+        "Jordan Aaron’s",
+        "Melanie Zeilinger",
+        "Petros Koumoutsakos",
+        "Robert Perich"
+      ],
+      "people_with_roles": {
+        "Alexander Mathys": [
+          "Professor",
+          "head",
+          "professor"
+        ],
+        "Clara Sánchez": [
+          "Professor",
+          "professor"
+        ],
+        "Clara Sánchez Rodríguez": [
+          "Professor",
+          "professor"
+        ],
+        "ETH Zurich": [
+          "president",
+          "scientist",
+          "head",
+          "professor"
+        ],
+        "Jonas Peters": [
+          "Professor",
+          "chair",
+          "researcher",
+          "professor"
+        ],
+        "Jordan Aaron": [
+          "Dr",
+          "scientist",
+          "professor"
+        ],
+        "Melanie Zeilinger": [
+          "Professor",
+          "scientist",
+          "professor"
+        ],
+        "Petros Koumoutsakos": [
+          "Professor",
+          "professor"
+        ],
+        "Robert Perich": [
+          "Dr",
+          "president",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "chair",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology",
+        "engineering",
+        "biology",
+        "mathematics"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "grant"
+      ],
+      "projects": [
+        "Professors Appointed",
+        "Plant Biotechnology",
+        "Sustainable Food",
+        "Jordan Aaron",
+        "United Nations",
+        "Public Governance",
+        "Assistant Professor",
+        "Singapore-ETH",
+        "Associate Professor",
+        "Vice President",
+        "Professor Alexander",
+        "Intelligent Control",
+        "Earth Sciences",
+        "Golden Owl",
+        "Future Food",
+        "Health Sciences",
+        "Full Professor",
+        "Tenure Track",
+        "Dr Jordan",
+        "Professor Melanie",
+        "Global Environmental",
+        "Professor Clara",
+        "Dr Robert",
+        "Plant Cell",
+        "Melanie Zeilinger",
+        "Swiss School",
+        "Petros Koumoutsakos",
+        "Alexander Mathys",
+        "Professor Jonas",
+        "Computational Science",
+        "The Department",
+        "En News",
+        "Robert Perich",
+        "Process Engineering",
+        "Jonas Peters",
+        "Harvard University",
+        "ETH Zurich",
+        "Processing Laboratory",
+        "Engineering Geology",
+        "Professor Petros"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Earth Sciences",
+        "Mathematics",
+        "Health Sciences and Technology",
+        "Mechanical and Process Engineering",
+        "Management",
+        "Mechanical and Process Engineering",
+        "Biology"
+      ],
+      "institutions": [
+        "Department",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Engineering Geology",
+        "Finance & Controlling",
+        "Future Food Laboratory",
+        "Global Environmental Sustainability",
+        "Harvard University",
+        "Intelligent Control Systems",
+        "MPC",
+        "Plant Cell Biology",
+        "Sustainable Food Processing",
+        "The Department of Management, Technology and Economics",
+        "the Department of Biology",
+        "the Department of Earth Sciences",
+        "the Department of Health Sciences and Technology",
+        "the Department of Mathematics",
+        "the Department of Mechanical and Process Engineering",
+        "the Sustainable Food Processing Laboratory",
+        "the Swiss School of Public Governance",
+        "the United Nations",
+        "the University of Copenhagen",
+        "the University of St. Gallen",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Denmark",
+        "ETH Zurich",
+        "Madrid",
+        "Switzerland",
+        "the Centre for Plant Biotechnology and Genomics (CBGO"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Jonas Peters",
+        "Alexander Mathys",
+        "Melanie Zeilinger",
+        "Robert Perich",
+        "Jordan Aaron",
+        "Department",
+        "the Department of Mechanical and Process Engineering",
+        "Petros Koumoutsakos",
+        "En News"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "New appointments",
+          "Promotions",
+          "Award of the title of “Professor of Practice”",
+          "Award of the title of “Professor of Practice”"
+        ],
+        "content_length": 5000
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Clara Sánchez Rodríguez",
+        "ETH",
+        "grant",
+        "the University of Zurich",
+        "the Swiss School of Public Governance",
+        "Jordan Aaron",
+        "1979",
+        "2016",
+        "1990",
+        "the Sustainable Food Processing Laboratory",
+        "the Department of Biology",
+        "Future Food Laboratory",
+        "Plant Cell Biology",
+        "the Department of Mathematics",
+        "the University of St. Gallen",
+        "Intelligent Control Systems",
+        "2019",
+        "the Department of Earth Sciences",
+        "2008",
+        "Department",
+        "2022",
+        "Sustainable Food Processing",
+        "Finance & Controlling",
+        "Clara Sánchez",
+        "1982",
+        "MPC",
+        "1961",
+        "Jordan Aaron’s",
+        "Melanie Zeilinger",
+        "1980",
+        "the Department of Mechanical and Process Engineering",
+        "Petros Koumoutsakos",
+        "the University of Copenhagen",
+        "Alexander Mathys",
+        "the Department of Health Sciences and Technology",
+        "En News",
+        "Robert Perich",
+        "The Department of Management, Technology and Economics",
+        "the United Nations",
+        "Jonas Peters",
+        "1984",
+        "2017",
+        "Harvard University",
+        "Global Environmental Sustainability",
+        "1963",
+        "ETH Zurich",
+        "Engineering Geology",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "mathematics",
+        "who",
+        "where",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "climate_change",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Alexander Mathys_has_role_Professor",
+        "Alexander Mathys_has_role_head",
+        "Alexander Mathys_has_role_professor",
+        "Clara Sánchez_has_role_Professor",
+        "Clara Sánchez_has_role_professor",
+        "Clara Sánchez Rodríguez_has_role_Professor",
+        "Clara Sánchez Rodríguez_has_role_professor",
+        "ETH Zurich_has_role_president",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich_has_role_head",
+        "ETH Zurich_has_role_professor",
+        "Jonas Peters_has_role_Professor",
+        "Jonas Peters_has_role_chair",
+        "Jonas Peters_has_role_researcher",
+        "Jonas Peters_has_role_professor",
+        "Jordan Aaron_has_role_Dr",
+        "Jordan Aaron_has_role_scientist",
+        "Jordan Aaron_has_role_professor",
+        "Melanie Zeilinger_has_role_Professor",
+        "Melanie Zeilinger_has_role_scientist",
+        "Melanie Zeilinger_has_role_professor",
+        "Petros Koumoutsakos_has_role_Professor",
+        "Petros Koumoutsakos_has_role_professor",
+        "Robert Perich_has_role_Dr",
+        "Robert Perich_has_role_president",
+        "Robert Perich_has_role_professor",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

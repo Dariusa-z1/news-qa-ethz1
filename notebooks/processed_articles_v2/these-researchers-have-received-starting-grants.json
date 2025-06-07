@@ -1,0 +1,257 @@
+{
+  "filename": "these-researchers-have-received-starting-grants.md",
+  "original_filename": "these-researchers-have-received-starting-grants.html",
+  "source_path": "en_news_events/2022/11/these-researchers-have-received-starting-grants.html",
+  "date": "2022-11",
+  "title": "These Researchers Have Received Starting Grants",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Swiss National Science Foundation (SNSF) has awarded nine SNSF Starting Grants to researchers who plan to carry out their projects at ETH Zurich starting next year. A total of 15.8 million Swiss francs is expected to flow to ETH Zurich.\n\nThe SNSF Starting Grants are a Swiss transitional measure awarded on behalf of the federal government because researchers at Swiss universities are currently not eligible for Starting Grants from the European Research Council (ERC). Starting Grants aim to support promising young scientists at the beginning of their careers. This financial support – a maximum of 1.8 million Swiss francs per project over a period of five years – enables the recipients to manage the project and their own research team.\n\nThe following researchers have received an SNSF Starting Grant in 2022:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 57,
+        "end": 61
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 138,
+        "end": 148
+      },
+      {
+        "text": "next year",
+        "label": "DATE",
+        "start": 158,
+        "end": 167
+      },
+      {
+        "text": "15.8 million Swiss francs",
+        "label": "MONEY",
+        "start": 180,
+        "end": 205
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 229,
+        "end": 239
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 272,
+        "end": 277
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 366,
+        "end": 371
+      },
+      {
+        "text": "Starting Grants",
+        "label": "WORK_OF_ART",
+        "start": 416,
+        "end": 431
+      },
+      {
+        "text": "the European Research Council",
+        "label": "ORG",
+        "start": 437,
+        "end": 466
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 468,
+        "end": 471
+      },
+      {
+        "text": "1.8 million Swiss francs",
+        "label": "MONEY",
+        "start": 605,
+        "end": 629
+      },
+      {
+        "text": "five years",
+        "label": "DATE",
+        "start": 659,
+        "end": 669
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich"
+      ],
+      "ORG": [
+        "ERC",
+        "ETH Zurich",
+        "The Swiss National Science Foundation",
+        "the European Research Council"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "five years",
+        "next year"
+      ],
+      "MISC": [
+        "1.8 million Swiss francs",
+        "15.8 million Swiss francs",
+        "Starting Grants",
+        "Swiss",
+        "nine"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "Swiss": 2,
+      "The Swiss National Science Foundation": 1,
+      "nine": 1,
+      "next year": 1,
+      "15.8 million Swiss francs": 1,
+      "Starting Grants": 1,
+      "the European Research Council": 1,
+      "ERC": 1,
+      "1.8 million Swiss francs": 1,
+      "five years": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "these-researchers-have-received-starting-grants.md",
+      "title": "En News Events/2022/11/these Researchers Have Received Starting Grants",
+      "language": "en",
+      "source_path": "en_news_events/2022/11/these-researchers-have-received-starting-grants.html"
+    },
+    "temporal": {
+      "publication_date": "2022-11",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "1.8 million Swiss francs",
+        "15.8 million Swiss francs",
+        "Starting Grants",
+        "Swiss",
+        "nine"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "Researchers Have",
+        "European Research",
+        "En News",
+        "Received Starting",
+        "Swiss National",
+        "Science Foundation",
+        "The SNSF",
+        "ETH Zurich",
+        "Grants The",
+        "Starting Grants",
+        "SNSF Starting"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ERC",
+        "ETH Zurich",
+        "The Swiss National Science Foundation",
+        "the European Research Council"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "Swiss",
+        "The Swiss National Science Foundation",
+        "nine",
+        "next year",
+        "15.8 million Swiss francs",
+        "Starting Grants",
+        "the European Research Council",
+        "ERC",
+        "1.8 million Swiss francs"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 890
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "grant",
+        "EU",
+        "2022",
+        "the European Research Council",
+        "ETH Zurich",
+        "The Swiss National Science Foundation",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "nine",
+        "who",
+        "Swiss",
+        "when",
+        "1.8 million Swiss francs",
+        "what",
+        "Starting Grants",
+        "15.8 million Swiss francs"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

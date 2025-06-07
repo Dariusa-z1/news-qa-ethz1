@@ -1,0 +1,1247 @@
+{
+  "filename": "researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.md",
+  "original_filename": "researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html",
+  "source_path": "en_news_events/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html",
+  "date": "2024-06",
+  "title": "Researchers At Eth Zurich Develop The Fastest Possible Flow Algorithm",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Computer scientists at ETH Zurich have written a network flow algorithm that computes almost as fast as is mathematically possible.\n\n- This algorithm computes the maximum traffic flow with minimum transport costs for any type of network. It thus solves a key question in theoretical computer science.\n\n- The superfast algorithm also lays the foundation for efficiently computing very large and dynamically changing networks in the future."
+    },
+    {
+      "heading": "Computations as fast as a network is big",
+      "text": "In a breakthrough that brings to mind Lucky Luke – the man who shoots faster than his shadow – Rasmus Kyng and his team have developed a superfast algorithm that looks set to transform an entire field of research. The groundbreaking work by Kyng’s team involves what is known as a network flow algorithm, which tackles the question of how to achieve the maximum flow in a network while simultaneously minimising transport costs.\n\nImagine you are using the European transportation network and looking for the fastest and cheapest route to move as many goods as possible from Copenhagen to Milan. Kyng’s algorithm can be applied in such cases to calculate the optimal, lowest-cost traffic flow for any kind of network – be it rail, road, water or the internet. His algorithm performs these computations so fast that it can deliver the solution at the very moment a computer reads the data that describes the network."
+    },
+    {
+      "heading": "Computations as fast as a network is big",
+      "text": "Before Kyng, no one had ever managed to do that – even though researchers have been working on this problem for some 90 years. Previously, it took significantly longer to compute the optimal flow than to process the network data. And as the network became larger and more complex, the required computing time increased much faster, comparatively speaking, than the actual size of the computing problem. This is why we also see flow problems in networks that are too large for a computer to even calculate.\n\nKyng’s approach eliminates this problem: using his algorithm, computing time and network size increase at the same rate – a bit like going on a hike and constantly keeping up the same pace however steep the path gets. A glance at the raw figures shows just how far we have come: until the turn of the millennium, no algorithm managed to compute faster than m 1.5 , where m stands for the number of connections in a network that the computer has to calculate, and just reading the network data once takes m time. In 2004, the computing speed required to solve the problem was successfully reduced to m 1.33 . Using Kyng’s algorithm, the “additional” computing time required to reach the solution after reading the network data is now negligible."
+    },
+    {
+      "heading": "Like a Porsche racing a horse-drawn carriage",
+      "text": "The ETH Zurich researchers have thus developed what is, in theory, the fastest possible network flow algorithm. Two years ago, Kyng and his team presented mathematical proof of their concept in a groundbreaking paper. Scientists refer to these novel, almost optimally fast algorithms as “almost-linear-time algorithms”, and the community of theoretical computer scientists responded to Kyng’s breakthrough with a mixture of amazement and enthusiasm.\n\nKyng’s doctoral supervisor, Daniel A. Spielman, Professor of Applied Mathematics and Computer Science at Yale and himself a pioneer and doyen in this field, compared the “absurdly fast” algorithm to a Porsche overtaking horse-drawn carriages. As well as winning the 2022 Best Paper Award at the IEEE Annual Symposium on Foundations of Computer Science (FOCS), their paper was also highlighted in the computing journal Communications of the ACM , and the editors of popular science magazine Quanta named Kyng’s algorithm one of the ten biggest discoveries in computer science in 2022 .\n\nThe ETH Zurich researchers have since refined their approach and developed further almost-linear-time algorithms. For example, the first algorithm was still focused on fixed, static networks whose connections are directed, meaning they function like one-way streets in urban road networks. The algorithms published this year are now also able to compute optimal flows for networks that incrementally change over time. Lightning-fast computation is an important step in tackling highly complex and data-rich networks that change dynamically and very quickly, such as molecules or the brain in biology, or human friendships."
+    },
+    {
+      "heading": "Lightning-fast algorithms for changing networks",
+      "text": "On Thursday, Simon Meierhans – a member of Kyng’s team – presented a new almost-linear-time algorithm at the Annual ACM Symposium on Theory of Computing (STOC) in Vancouver. This algorithm solves the minimum-cost maximum-flow problem for networks that incrementally change as new connections are added. Furthermore, in a second paper accepted by the IEEE Symposium on Foundations of Computer Science (FOCS) in October, the ETH researchers have developed another algorithm that also handles connections being removed.\n\nSpecifically, these algorithms identify the shortest routes in networks where connections are added or deleted. In real-world traffic networks, examples of such changes in Switzerland include the complete closure and then partial reopening of the Gotthard Base Tunnel in the months since summer 2023, or the recent landslide that destroyed part of the A13 motorway, which is the main alternative route to the Gotthard Road Tunnel.\n\nConfronted with such changes, how does a computer, an online map service or a route planner calculate the lowest-cost and fastest connection between Milan and Copenhagen? Kyng’s new algorithms also compute the optimal route for these incrementally or decrementally changing networks in almost-linear time – so quickly that the computing time for each new connection, whether added through rerouting or the creation of new routes, is again negligible."
+    },
+    {
+      "heading": "Fast and wide-ranging",
+      "text": "But what exactly is it that makes Kyng’s approach to computations so much faster than any other network flow algorithm? In principle, all computational methods are faced with the challenge of having to analyse the network in multiple iterations in order to find the optimal flow and the minimum-cost route. In doing so, they run through each of the different variants of which connections are open, closed or congested because they have reached their capacity limit."
+    },
+    {
+      "heading": "Compute the whole? Or its parts?",
+      "text": "Prior to Kyng, computer scientists tended to choose between two key strategies for solving this problem. One of these was modelled on the railway network and involved computing a whole section of the network with a modified flow of traffic in each iteration. The second strategy – inspired by power flows in the electricity grid – computed the entire network in each iteration but used statistical mean values for the modified flow of each section of the network in order to make the computation faster."
+    },
+    {
+      "heading": "A turning point in theoretical principles",
+      "text": "Kyng’s team has now tied together the respective advantages of these two strategies in order to create a radical new combined approach. “Our approach is based on many small, efficient and low-cost computational steps, which – taken together – are much faster than a few large ones,” says Maximilian Probst Gutenberg, a lecturer and member of Kyng’s group, who played a key role in developing the almost-linear-time algorithms.\n\nA brief look at the history of this discipline adds an additional dimension to the significance of Kyng’s breakthrough: flow problems in networks were among the first to be solved systematically with the help of algorithms in the 1950s, and flow algorithms played an important role in establishing theoretical computer science as a field of research in its own right. The well-known algorithm developed by mathematicians Lester R. Ford Jr. and Delbert R. Fulkerson also stems from this period. Their algorithm efficiently solves the maximum-flow problem, which seeks to determine how to transport as many goods through a network as possible without exceeding the capacity of the individual routes."
+    },
+    {
+      "heading": "Fast and wide-ranging",
+      "text": "These advances showed researchers that the maximum-flow problem, the minimum-cost problem (transshipment or transportation problem) and many other important network-flow problems can all be viewed as special cases of the general minimum-cost flow problem. Prior to Kyng’s research, most algorithms were only able to solve one of these problems efficiently, though they could not do even this particularly quickly, nor could they be extended to the broader minimum-cost flow problem. The same applies to the pioneering flow algorithms of the 1970s, for which the theoretical computer scientists John Edward Hopcroft, Richard Manning Karp and Robert Endre Tarjan each received a Turing Award, regarded as the “Nobel Prize” of computer science. Karp received his in 1985; Hopcroft and Tarjan won theirs in 1986.\n\nIt wasn’t until 2004 that mathematicians and computer scientists Daniel Spielman and Shang-Hua Teng – and later Samuel Daitch – succeeded in writing algorithms that also provided a fast and efficient solution to the minimum-cost flow problem. It was this group that shifted the focus to power flows in the electricity grid. Their switch in perspective from railways to electricity led to a key mathematical distinction: if a train is rerouted on the railway network because a line is out of service, the next best route according to the timetable may already be occupied by a different train. In the electricity grid, it is possible for the electrons that make up a power flow to be partially diverted to a network connection through which other current is already flowing. Thus, unlike trains, the electrical current can, in mathematical terms, be “partially” moved to a new connection.\n\nThis partial rerouting enabled Spielman and his colleagues to compute such route changes much faster and, at the same time, to recalculate the entire network after each change. “We rejected Spielman’s approach of creating the most powerful algorithms we could for the entire network,” says Kyng. “Instead, we applied his idea of partial route computation to the earlier approaches of Hopcroft and Karp.” This computation of partial routes in each iteration played a major role in speeding up the overall flow computation.\n\nMuch of the ETH Zurich researchers’ progress comes down to the decision to extend their work beyond the development of new algorithms. The team also uses and designs new mathematical tools that speed up their algorithms even more. In particular, they have developed a new data structure for organising network data; this makes it possible to identify any change to a network connection extremely quickly; this, in turn, helps make the algorithmic solution so amazingly fast. With so many applications lined up for the almost-linear-time algorithms and for tools such as the new data structure, the overall innovation spiral could soon be turning much faster than before.\n\nYet laying the foundations for solving very large problems that couldn’t previously be computed efficiently is only one benefit of these significantly faster flow algorithms – because they also change the way in which computers calculate complex tasks in the first place. “Over the past decade, there has been a revolution in the theoretical foundations for obtaining provably fast algorithms for foundational problems in theoretical computer science,” writes an international group of researchers from University of California, Berkeley, which includes among its members Rasmus Kyng and Deeksha Adil, a researcher at the Institute for Theoretical Studies at ETH Zurich.\n\nvan den Brand, J, Chen, L, Kyng, R, Liu, YP, Meierhans, S, Probst Gutenberg, M, Sachdeva, S. Almost-Linear Time Algorithms for Decremental Graphs: Min-Cost Flow and More via Duality. 65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024. https://focs.computer.org/2024/accepted-papers-for-focs-2024/\n\nChen, L, Kyng, R, Liu, YP, Meierhans, S, Probst Gutenberg, M. Almost-Linear Time Algorithms for Incremental Graphs: Cycle Detection, SCCs, s-t Shortest Path, and Minimum-Cost Flow. Proceedings of the 56th Annual ACM Symposium on Theory of Computing, June 2024 (STOC 2024). doi: https://doi.org/10.1145/3618260.3649745 .\n\nChen, L, Kyng, R, Liu, YP, Peng, R, Probst Gutenberg, M, Sachdeva, S, Kyng, R. Maximum Flow and Minimum-Cost Flow in Almost-Linear Time. 2022 IEEE 63rd Annual Symposium on Foundations of Computer Science (FOCS), Denver, CO, USA, 2022. doi: 10.1109/FOCS54457.2022.00064 ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Zurich Develop",
+        "label": "ORG",
+        "start": 38,
+        "end": 56
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 25,
+        "end": 35
+      },
+      {
+        "text": "Lucky Luke",
+        "label": "PERSON",
+        "start": 38,
+        "end": 48
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "PERSON",
+        "start": 95,
+        "end": 106
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 241,
+        "end": 245
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 455,
+        "end": 463
+      },
+      {
+        "text": "Copenhagen",
+        "label": "ORG",
+        "start": 573,
+        "end": 583
+      },
+      {
+        "text": "Milan",
+        "label": "GPE",
+        "start": 587,
+        "end": 592
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 594,
+        "end": 598
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "text": "some 90 years",
+        "label": "DATE",
+        "start": 112,
+        "end": 125
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 506,
+        "end": 510
+      },
+      {
+        "text": "the turn of the millennium",
+        "label": "DATE",
+        "start": 791,
+        "end": 817
+      },
+      {
+        "text": "1.33",
+        "label": "CARDINAL",
+        "start": 1107,
+        "end": 1111
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 1120,
+        "end": 1124
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 4,
+        "end": 14
+      },
+      {
+        "text": "Two years ago",
+        "label": "DATE",
+        "start": 112,
+        "end": 125
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 127,
+        "end": 131
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 386,
+        "end": 390
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 450,
+        "end": 454
+      },
+      {
+        "text": "Daniel A. Spielman",
+        "label": "PERSON",
+        "start": 478,
+        "end": 496
+      },
+      {
+        "text": "Applied Mathematics and Computer Science",
+        "label": "ORG",
+        "start": 511,
+        "end": 551
+      },
+      {
+        "text": "Yale",
+        "label": "ORG",
+        "start": 555,
+        "end": 559
+      },
+      {
+        "text": "Porsche",
+        "label": "ORG",
+        "start": 651,
+        "end": 658
+      },
+      {
+        "text": "ACM",
+        "label": "ORG",
+        "start": 890,
+        "end": 893
+      },
+      {
+        "text": "Quanta",
+        "label": "ORG",
+        "start": 940,
+        "end": 946
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 953,
+        "end": 957
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 970,
+        "end": 973
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 981,
+        "end": 984
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1039,
+        "end": 1049
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1166,
+        "end": 1171
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1285,
+        "end": 1288
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 1350,
+        "end": 1359
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 3,
+        "end": 11
+      },
+      {
+        "text": "Simon Meierhans",
+        "label": "PERSON",
+        "start": 13,
+        "end": 28
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 43,
+        "end": 47
+      },
+      {
+        "text": "the Annual ACM Symposium on Theory of Computing (STOC",
+        "label": "ORG",
+        "start": 105,
+        "end": 158
+      },
+      {
+        "text": "Vancouver",
+        "label": "GPE",
+        "start": 163,
+        "end": 172
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 321,
+        "end": 327
+      },
+      {
+        "text": "the IEEE Symposium on Foundations of Computer Science (FOCS",
+        "label": "ORG",
+        "start": 346,
+        "end": 405
+      },
+      {
+        "text": "October",
+        "label": "DATE",
+        "start": 410,
+        "end": 417
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 423,
+        "end": 426
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 689,
+        "end": 700
+      },
+      {
+        "text": "the Gotthard Base Tunnel",
+        "label": "ORG",
+        "start": 760,
+        "end": 784
+      },
+      {
+        "text": "the months",
+        "label": "DATE",
+        "start": 788,
+        "end": 798
+      },
+      {
+        "text": "summer 2023",
+        "label": "DATE",
+        "start": 805,
+        "end": 816
+      },
+      {
+        "text": "A13",
+        "label": "PRODUCT",
+        "start": 869,
+        "end": 872
+      },
+      {
+        "text": "the Gotthard Road Tunnel",
+        "label": "ORG",
+        "start": 922,
+        "end": 946
+      },
+      {
+        "text": "Milan",
+        "label": "GPE",
+        "start": 1097,
+        "end": 1102
+      },
+      {
+        "text": "Copenhagen",
+        "label": "ORG",
+        "start": 1107,
+        "end": 1117
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 1119,
+        "end": 1123
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 34,
+        "end": 38
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 105,
+        "end": 108
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 263,
+        "end": 269
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 69,
+        "end": 72
+      },
+      {
+        "text": "Maximilian Probst Gutenberg",
+        "label": "PERSON",
+        "start": 288,
+        "end": 315
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 342,
+        "end": 346
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 526,
+        "end": 530
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 588,
+        "end": 593
+      },
+      {
+        "text": "the 1950s",
+        "label": "DATE",
+        "start": 653,
+        "end": 662
+      },
+      {
+        "text": "Lester R. Ford Jr.",
+        "label": "PERSON",
+        "start": 848,
+        "end": 866
+      },
+      {
+        "text": "Delbert R. Fulkerson",
+        "label": "PERSON",
+        "start": 871,
+        "end": 891
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 265,
+        "end": 269
+      },
+      {
+        "text": "the 1970s",
+        "label": "DATE",
+        "start": 537,
+        "end": 546
+      },
+      {
+        "text": "John Edward Hopcroft",
+        "label": "PERSON",
+        "start": 594,
+        "end": 614
+      },
+      {
+        "text": "Richard Manning Karp",
+        "label": "PERSON",
+        "start": 616,
+        "end": 636
+      },
+      {
+        "text": "Robert Endre Tarjan",
+        "label": "PERSON",
+        "start": 641,
+        "end": 660
+      },
+      {
+        "text": "Nobel Prize",
+        "label": "WORK_OF_ART",
+        "start": 708,
+        "end": 719
+      },
+      {
+        "text": "Karp",
+        "label": "PERSON",
+        "start": 742,
+        "end": 746
+      },
+      {
+        "text": "Hopcroft",
+        "label": "PERSON",
+        "start": 769,
+        "end": 777
+      },
+      {
+        "text": "Tarjan",
+        "label": "GPE",
+        "start": 782,
+        "end": 788
+      },
+      {
+        "text": "Daniel Spielman",
+        "label": "PERSON",
+        "start": 874,
+        "end": 889
+      },
+      {
+        "text": "Shang-Hua Teng",
+        "label": "PERSON",
+        "start": 894,
+        "end": 908
+      },
+      {
+        "text": "Samuel Daitch",
+        "label": "PERSON",
+        "start": 921,
+        "end": 934
+      },
+      {
+        "text": "Spielman",
+        "label": "PRODUCT",
+        "start": 1728,
+        "end": 1736
+      },
+      {
+        "text": "Spielman",
+        "label": "PRODUCT",
+        "start": 1887,
+        "end": 1895
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 1987,
+        "end": 1991
+      },
+      {
+        "text": "Hopcroft",
+        "label": "PERSON",
+        "start": 2081,
+        "end": 2089
+      },
+      {
+        "text": "Karp",
+        "label": "PERSON",
+        "start": 2094,
+        "end": 2098
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 2231,
+        "end": 2241
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 3001,
+        "end": 3009
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3149,
+        "end": 3154
+      },
+      {
+        "text": "the past decade",
+        "label": "DATE",
+        "start": 3168,
+        "end": 3183
+      },
+      {
+        "text": "University of California,",
+        "label": "ORG",
+        "start": 3393,
+        "end": 3418
+      },
+      {
+        "text": "Berkeley",
+        "label": "GPE",
+        "start": 3419,
+        "end": 3427
+      },
+      {
+        "text": "Rasmus Kyng",
+        "label": "PERSON",
+        "start": 3462,
+        "end": 3473
+      },
+      {
+        "text": "Deeksha Adil",
+        "label": "PERSON",
+        "start": 3478,
+        "end": 3490
+      },
+      {
+        "text": "the Institute for Theoretical Studies",
+        "label": "ORG",
+        "start": 3508,
+        "end": 3545
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 3549,
+        "end": 3559
+      },
+      {
+        "text": "van den Brand",
+        "label": "PERSON",
+        "start": 3561,
+        "end": 3574
+      },
+      {
+        "text": "Chen",
+        "label": "PERSON",
+        "start": 3579,
+        "end": 3583
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 3588,
+        "end": 3592
+      },
+      {
+        "text": "Liu",
+        "label": "PERSON",
+        "start": 3597,
+        "end": 3600
+      },
+      {
+        "text": "YP",
+        "label": "ORG",
+        "start": 3602,
+        "end": 3604
+      },
+      {
+        "text": "Meierhans",
+        "label": "NORP",
+        "start": 3606,
+        "end": 3615
+      },
+      {
+        "text": "Probst Gutenberg",
+        "label": "PERSON",
+        "start": 3620,
+        "end": 3636
+      },
+      {
+        "text": "Sachdeva",
+        "label": "GPE",
+        "start": 3641,
+        "end": 3649
+      },
+      {
+        "text": "S. Almost-Linear Time Algorithms",
+        "label": "PERSON",
+        "start": 3651,
+        "end": 3683
+      },
+      {
+        "text": "65th",
+        "label": "ORDINAL",
+        "start": 3744,
+        "end": 3748
+      },
+      {
+        "text": "https://focs.computer.org/2024/accepted-papers-for-focs-2024/ Chen",
+        "label": "PERSON",
+        "start": 3812,
+        "end": 3878
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 3883,
+        "end": 3887
+      },
+      {
+        "text": "Liu",
+        "label": "PERSON",
+        "start": 3892,
+        "end": 3895
+      },
+      {
+        "text": "YP",
+        "label": "ORG",
+        "start": 3897,
+        "end": 3899
+      },
+      {
+        "text": "Meierhans",
+        "label": "NORP",
+        "start": 3901,
+        "end": 3910
+      },
+      {
+        "text": "Probst Gutenberg",
+        "label": "PERSON",
+        "start": 3915,
+        "end": 3931
+      },
+      {
+        "text": "M. Almost-Linear Time Algorithms",
+        "label": "ORG",
+        "start": 3933,
+        "end": 3965
+      },
+      {
+        "text": "Shortest Path",
+        "label": "FAC",
+        "start": 4017,
+        "end": 4030
+      },
+      {
+        "text": "56th",
+        "label": "ORDINAL",
+        "start": 4074,
+        "end": 4078
+      },
+      {
+        "text": "Annual",
+        "label": "DATE",
+        "start": 4079,
+        "end": 4085
+      },
+      {
+        "text": "June 2024",
+        "label": "DATE",
+        "start": 4124,
+        "end": 4133
+      },
+      {
+        "text": "Chen",
+        "label": "PERSON",
+        "start": 4194,
+        "end": 4198
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 4203,
+        "end": 4207
+      },
+      {
+        "text": "Liu",
+        "label": "PERSON",
+        "start": 4212,
+        "end": 4215
+      },
+      {
+        "text": "YP",
+        "label": "ORG",
+        "start": 4217,
+        "end": 4219
+      },
+      {
+        "text": "Peng",
+        "label": "PERSON",
+        "start": 4221,
+        "end": 4225
+      },
+      {
+        "text": "Probst Gutenberg",
+        "label": "PERSON",
+        "start": 4230,
+        "end": 4246
+      },
+      {
+        "text": "Sachdeva",
+        "label": "GPE",
+        "start": 4251,
+        "end": 4259
+      },
+      {
+        "text": "Kyng",
+        "label": "PERSON",
+        "start": 4264,
+        "end": 4268
+      },
+      {
+        "text": "63rd Annual",
+        "label": "DATE",
+        "start": 4341,
+        "end": 4352
+      },
+      {
+        "text": "Denver",
+        "label": "GPE",
+        "start": 4406,
+        "end": 4412
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 4418,
+        "end": 4421
+      },
+      {
+        "text": "10.1109/FOCS54457.2022.00064",
+        "label": "CARDINAL",
+        "start": 4434,
+        "end": 4462
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Chen",
+        "Daniel A. Spielman",
+        "Daniel Spielman",
+        "Deeksha Adil",
+        "Delbert R. Fulkerson",
+        "Hopcroft",
+        "John Edward Hopcroft",
+        "Karp",
+        "Kyng",
+        "Lester R. Ford Jr.",
+        "Liu",
+        "Lucky Luke",
+        "Maximilian Probst Gutenberg",
+        "Peng",
+        "Probst Gutenberg",
+        "Rasmus Kyng",
+        "Richard Manning Karp",
+        "Robert Endre Tarjan",
+        "S. Almost-Linear Time Algorithms",
+        "Samuel Daitch",
+        "Shang-Hua Teng",
+        "Simon Meierhans",
+        "https://focs.computer.org/2024/accepted-papers-for-focs-2024/ Chen",
+        "van den Brand"
+      ],
+      "ORG": [
+        "ACM",
+        "Applied Mathematics and Computer Science",
+        "Copenhagen",
+        "ETH",
+        "ETH Zurich",
+        "Eth Zurich Develop",
+        "M. Almost-Linear Time Algorithms",
+        "Porsche",
+        "Quanta",
+        "University of California,",
+        "YP",
+        "Yale",
+        "the Annual ACM Symposium on Theory of Computing (STOC",
+        "the Gotthard Base Tunnel",
+        "the Gotthard Road Tunnel",
+        "the IEEE Symposium on Foundations of Computer Science (FOCS",
+        "the Institute for Theoretical Studies"
+      ],
+      "LOCATION": [
+        "Berkeley",
+        "Denver",
+        "ETH Zurich",
+        "Milan",
+        "Sachdeva",
+        "Shortest Path",
+        "Switzerland",
+        "Tarjan",
+        "USA",
+        "Vancouver"
+      ],
+      "DATE": [
+        "63rd Annual",
+        "Annual",
+        "June 2024",
+        "October",
+        "Thursday",
+        "Two years ago",
+        "some 90 years",
+        "summer 2023",
+        "the 1950s",
+        "the 1970s",
+        "the months",
+        "the past decade",
+        "the turn of the millennium",
+        "this year"
+      ],
+      "MISC": [
+        "1.33",
+        "10.1109/FOCS54457.2022.00064",
+        "56th",
+        "65th",
+        "A13",
+        "European",
+        "Meierhans",
+        "Nobel Prize",
+        "One",
+        "Spielman",
+        "first",
+        "one",
+        "only one",
+        "second",
+        "ten",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Kyng": 22,
+      "ETH Zurich": 5,
+      "first": 3,
+      "Liu": 3,
+      "YP": 3,
+      "Probst Gutenberg": 3,
+      "Rasmus Kyng": 2,
+      "Copenhagen": 2,
+      "Milan": 2,
+      "one": 2,
+      "second": 2,
+      "two": 2,
+      "Karp": 2,
+      "Hopcroft": 2,
+      "Spielman": 2,
+      "Chen": 2,
+      "Meierhans": 2,
+      "Sachdeva": 2,
+      "Eth Zurich Develop": 1,
+      "Lucky Luke": 1
+    },
+    "total_entities": 125,
+    "unique_entities": 80
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.md",
+      "title": "En News Events/2024/06/researchers At Eth Zurich Develop The Fastest Possible Flow Algorithm",
+      "language": "en",
+      "source_path": "en_news_events/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html"
+    },
+    "temporal": {
+      "publication_date": "2024-06",
+      "mentioned_years": [
+        "1985",
+        "1986",
+        "2004",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Chen",
+        "Daniel A. Spielman",
+        "Daniel Spielman",
+        "Deeksha Adil",
+        "Delbert R. Fulkerson",
+        "Hopcroft",
+        "John Edward Hopcroft",
+        "Karp",
+        "Kyng",
+        "Lester R. Ford Jr.",
+        "Liu",
+        "Lucky Luke",
+        "Maximilian Probst Gutenberg",
+        "Peng",
+        "Probst Gutenberg",
+        "Rasmus Kyng",
+        "Richard Manning Karp",
+        "Robert Endre Tarjan",
+        "S. Almost-Linear Time Algorithms",
+        "Samuel Daitch",
+        "Shang-Hua Teng",
+        "Simon Meierhans",
+        "https://focs.computer.org/2024/accepted-papers-for-focs-2024/ Chen",
+        "van den Brand"
+      ],
+      "people_with_roles": {
+        "Daniel Spielman": [
+          "scientist"
+        ],
+        "Deeksha Adil": [
+          "researcher"
+        ],
+        "Hopcroft": [
+          "scientist"
+        ],
+        "John Edward Hopcroft": [
+          "scientist"
+        ],
+        "Karp": [
+          "scientist"
+        ],
+        "Kyng": [
+          "scientist",
+          "researcher"
+        ],
+        "Rasmus Kyng": [
+          "researcher"
+        ],
+        "Richard Manning Karp": [
+          "scientist"
+        ],
+        "Robert Endre Tarjan": [
+          "scientist"
+        ],
+        "Samuel Daitch": [
+          "scientist"
+        ],
+        "Shang-Hua Teng": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "1.33",
+        "10.1109/FOCS54457.2022.00064",
+        "56th",
+        "65th",
+        "European",
+        "Meierhans",
+        "Nobel Prize",
+        "Spielman",
+        "first",
+        "only one",
+        "second"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Min-Cost",
+        "Lucky Luke",
+        "Zurich Develop",
+        "Turing Award",
+        "Theoretical Studies",
+        "Lester R",
+        "Rasmus Kyng",
+        "Delbert R",
+        "Annual ACM",
+        "Almost-Linear",
+        "Richard Manning",
+        "Gotthard Road",
+        "Time Algorithms",
+        "Shortest Path",
+        "Shang-Hua",
+        "Best Paper",
+        "The ETH",
+        "Maximum Flow",
+        "Decremental Graphs",
+        "Daniel A",
+        "Probst Gutenberg",
+        "Simon Meierhans",
+        "IEEE Symposium",
+        "Applied Mathematics",
+        "The Fastest",
+        "Maximilian Probst",
+        "Ford Jr",
+        "Cycle Detection",
+        "Computer Science",
+        "Before Kyng",
+        "Minimum-Cost",
+        "Incremental Graphs",
+        "Deeksha Adil",
+        "Nobel Prize",
+        "En News",
+        "John Edward",
+        "Annual Symposium",
+        "Possible Flow",
+        "Robert Endre",
+        "Samuel Daitch",
+        "At Eth",
+        "Gotthard Base",
+        "ETH Zurich",
+        "IEEE Annual",
+        "Daniel Spielman",
+        "On Thursday",
+        "Using Kyng"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Theoretical Studies at ETH Zurich"
+      ],
+      "institutions": [
+        "ACM",
+        "Applied Mathematics and Computer Science",
+        "Copenhagen",
+        "ETH",
+        "ETH Zurich",
+        "Eth Zurich Develop",
+        "M. Almost-Linear Time Algorithms",
+        "Porsche",
+        "Quanta",
+        "University of California,",
+        "YP",
+        "Yale",
+        "the Annual ACM Symposium on Theory of Computing (STOC",
+        "the Gotthard Base Tunnel",
+        "the Gotthard Road Tunnel",
+        "the IEEE Symposium on Foundations of Computer Science (FOCS",
+        "the Institute for Theoretical Studies"
+      ],
+      "locations": [
+        "Berkeley",
+        "Denver",
+        "ETH Zurich",
+        "Milan",
+        "Sachdeva",
+        "Shortest Path",
+        "Switzerland",
+        "Tarjan",
+        "USA",
+        "Vancouver"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Kyng",
+        "ETH Zurich",
+        "first",
+        "Liu",
+        "YP",
+        "Probst Gutenberg",
+        "Rasmus Kyng",
+        "Copenhagen",
+        "Milan",
+        "one"
+      ],
+      "document_structure": {
+        "total_sections": 9,
+        "section_titles": [
+          "In brief",
+          "Computations as fast as a network is big",
+          "Computations as fast as a network is big",
+          "Like a Porsche racing a horse-drawn carriage",
+          "Lightning-fast algorithms for changing networks",
+          "Fast and wide-ranging",
+          "Compute the whole? Or its parts?",
+          "A turning point in theoretical principles",
+          "Fast and wide-ranging"
+        ],
+        "content_length": 12330
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Chen",
+        "Liu",
+        "Daniel A. Spielman",
+        "Lucky Luke",
+        "the Institute for Theoretical Studies",
+        "2004",
+        "Karp",
+        "Kyng",
+        "van den Brand",
+        "Quanta",
+        "Rasmus Kyng",
+        "https://focs.computer.org/2024/accepted-papers-for-focs-2024/ Chen",
+        "1985",
+        "2022",
+        "the IEEE Symposium on Foundations of Computer Science (FOCS",
+        "the Annual ACM Symposium on Theory of Computing (STOC",
+        "the Gotthard Road Tunnel",
+        "Hopcroft",
+        "Richard Manning Karp",
+        "Porsche",
+        "1986",
+        "Maximilian Probst Gutenberg",
+        "John Edward Hopcroft",
+        "Probst Gutenberg",
+        "S. Almost-Linear Time Algorithms",
+        "Simon Meierhans",
+        "EU",
+        "the Gotthard Base Tunnel",
+        "Peng",
+        "M. Almost-Linear Time Algorithms",
+        "Applied Mathematics and Computer Science",
+        "Delbert R. Fulkerson",
+        "Shang-Hua Teng",
+        "ACM",
+        "YP",
+        "2024",
+        "Deeksha Adil",
+        "Eth Zurich Develop",
+        "Copenhagen",
+        "Samuel Daitch",
+        "Robert Endre Tarjan",
+        "Yale",
+        "University of California,",
+        "Lester R. Ford Jr.",
+        "ETH Zurich",
+        "Daniel Spielman",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "1.33",
+        "when",
+        "engineering",
+        "Meierhans",
+        "10.1109/FOCS54457.2022.00064",
+        "mathematics",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "first",
+        "56th",
+        "Nobel Prize",
+        "65th",
+        "second",
+        "only one",
+        "European",
+        "Spielman",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Daniel Spielman_has_role_scientist",
+        "Deeksha Adil_has_role_researcher",
+        "Hopcroft_has_role_scientist",
+        "John Edward Hopcroft_has_role_scientist",
+        "Karp_has_role_scientist",
+        "Kyng_has_role_scientist",
+        "Kyng_has_role_researcher",
+        "Rasmus Kyng_has_role_researcher",
+        "Richard Manning Karp_has_role_scientist",
+        "Robert Endre Tarjan_has_role_scientist",
+        "Samuel Daitch_has_role_scientist",
+        "Shang-Hua Teng_has_role_scientist",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

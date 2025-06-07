@@ -1,0 +1,385 @@
+{
+  "filename": "63-people-successfully-complete-their-apprenticeships.md",
+  "original_filename": "63-people-successfully-complete-their-apprenticeships.html",
+  "source_path": "en_internal/2015/07/63-people-successfully-complete-their-apprenticeships.html",
+  "date": "2015-07",
+  "title": "63 People Successfully Complete Their Apprenticeships",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Just like last year, all the apprentices and trainees who completed the apprenticeship examination ('LAP') at ETH Zurich passed the exam in 2015. This means that 63 newly qualified apprentices in commercial and technical fields have now successfully completed their apprenticeship at ETH Zurich. At the 2015 LAP Celebration on 8 July, Dieter Schorno, Head of Vocational Education and Training at ETH Zurich, noted that half of the apprentices had gained a vocational matriculation certificate ('Berufsmatur').\n\n\"The apprenticeships at ETH Zurich are great\", said Fabio Bazzi, newly qualified physics laboratory technician, in his speech: \"the students get a lot of support.\" Highlights of Bazzi's apprenticeship included an internship at the Swiss Federal Institute of Technology in Lausanne (EPFL) and a visit from the Italian Minister of Education , Stefania Giannini.\n\nThe apprentices each received a torch engraved with their name and profession as a gift from Lukas Vonesch, Head of Human Resources. These were made by trainees in electronics and polymechanics (metalwork) in the workshop at the Department of Physics .\n\nThe best mark (a 5.8) was achieved by Samuel Schneider, an apprentice in biology. At least nine apprentices achieved an overall mark above 5.3 (some of the final marks were still to be confirmed at the time of the celebration).\n\nA total of 26 women and 37 men completed their apprenticeship at ETH Zurich. Grouped by apprenticeship type, in 2015 there were:\n\nETH Zurich is currently training more than 170 apprentices in 13 vocational fields."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 10,
+        "end": 19
+      },
+      {
+        "text": "LAP",
+        "label": "ORG",
+        "start": 101,
+        "end": 104
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 110,
+        "end": 120
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 284,
+        "end": 294
+      },
+      {
+        "text": "8 July",
+        "label": "DATE",
+        "start": 327,
+        "end": 333
+      },
+      {
+        "text": "Dieter Schorno",
+        "label": "PERSON",
+        "start": 335,
+        "end": 349
+      },
+      {
+        "text": "Vocational Education",
+        "label": "ORG",
+        "start": 359,
+        "end": 379
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 396,
+        "end": 406
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 419,
+        "end": 423
+      },
+      {
+        "text": "Berufsmatur",
+        "label": "GPE",
+        "start": 495,
+        "end": 506
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 534,
+        "end": 544
+      },
+      {
+        "text": "Fabio Bazzi",
+        "label": "PERSON",
+        "start": 562,
+        "end": 573
+      },
+      {
+        "text": "Highlights of Bazzi's",
+        "label": "WORK_OF_ART",
+        "start": 674,
+        "end": 695
+      },
+      {
+        "text": "the Swiss Federal Institute of Technology",
+        "label": "ORG",
+        "start": 737,
+        "end": 778
+      },
+      {
+        "text": "Lausanne",
+        "label": "GPE",
+        "start": 782,
+        "end": 790
+      },
+      {
+        "text": "Italian",
+        "label": "NORP",
+        "start": 819,
+        "end": 826
+      },
+      {
+        "text": "Stefania Giannini",
+        "label": "PERSON",
+        "start": 851,
+        "end": 868
+      },
+      {
+        "text": "Lukas Vonesch",
+        "label": "ORG",
+        "start": 963,
+        "end": 976
+      },
+      {
+        "text": "the Department of Physics",
+        "label": "ORG",
+        "start": 1095,
+        "end": 1120
+      },
+      {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 1140,
+        "end": 1143
+      },
+      {
+        "text": "Samuel Schneider",
+        "label": "PERSON",
+        "start": 1161,
+        "end": 1177
+      },
+      {
+        "text": "At least nine",
+        "label": "CARDINAL",
+        "start": 1205,
+        "end": 1218
+      },
+      {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 1262,
+        "end": 1265
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1416,
+        "end": 1426
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1480,
+        "end": 1490
+      },
+      {
+        "text": "more than 170",
+        "label": "CARDINAL",
+        "start": 1513,
+        "end": 1526
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Dieter Schorno",
+        "ETH Zurich",
+        "Fabio Bazzi",
+        "Samuel Schneider",
+        "Stefania Giannini"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "LAP",
+        "Lukas Vonesch",
+        "Vocational Education",
+        "the Department of Physics",
+        "the Swiss Federal Institute of Technology"
+      ],
+      "LOCATION": [
+        "Berufsmatur",
+        "ETH Zurich",
+        "Lausanne"
+      ],
+      "DATE": [
+        "8 July",
+        "last year"
+      ],
+      "MISC": [
+        "5.3",
+        "5.8",
+        "At least nine",
+        "Highlights of Bazzi's",
+        "Italian",
+        "half",
+        "more than 170"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 6,
+      "last year": 1,
+      "LAP": 1,
+      "8 July": 1,
+      "Dieter Schorno": 1,
+      "Vocational Education": 1,
+      "half": 1,
+      "Berufsmatur": 1,
+      "Fabio Bazzi": 1,
+      "Highlights of Bazzi's": 1,
+      "the Swiss Federal Institute of Technology": 1,
+      "Lausanne": 1,
+      "Italian": 1,
+      "Stefania Giannini": 1,
+      "Lukas Vonesch": 1,
+      "the Department of Physics": 1,
+      "5.8": 1,
+      "Samuel Schneider": 1,
+      "At least nine": 1,
+      "5.3": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "63-people-successfully-complete-their-apprenticeships.md",
+      "title": "En Internal/2015/07/63 People Successfully Complete Their Apprenticeships",
+      "language": "en",
+      "source_path": "en_internal/2015/07/63-people-successfully-complete-their-apprenticeships.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Dieter Schorno",
+        "ETH Zurich",
+        "Fabio Bazzi",
+        "Samuel Schneider",
+        "Stefania Giannini"
+      ],
+      "people_with_roles": {
+        "Dieter Schorno": [
+          "head"
+        ],
+        "ETH Zurich": [
+          "student",
+          "head"
+        ],
+        "Fabio Bazzi": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "At least nine",
+        "Highlights of Bazzi's",
+        "Italian",
+        "half",
+        "more than 170"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Swiss Federal",
+        "People Successfully",
+        "Fabio Bazzi",
+        "Complete Their",
+        "En Internal",
+        "Italian Minister",
+        "Vocational Education",
+        "Lukas Vonesch",
+        "Human Resources",
+        "Samuel Schneider",
+        "ETH Zurich",
+        "Stefania Giannini",
+        "Dieter Schorno",
+        "Apprenticeships Just",
+        "LAP Celebration"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Physics "
+      ],
+      "institutions": [
+        "ETH Zurich",
+        "LAP",
+        "Lukas Vonesch",
+        "Vocational Education",
+        "the Department of Physics",
+        "the Swiss Federal Institute of Technology"
+      ],
+      "locations": [
+        "Berufsmatur",
+        "ETH Zurich",
+        "Lausanne"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "last year",
+        "LAP",
+        "8 July",
+        "Dieter Schorno",
+        "Vocational Education",
+        "half",
+        "Berufsmatur",
+        "Fabio Bazzi",
+        "Highlights of Bazzi's"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1642
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "LAP",
+        "Fabio Bazzi",
+        "the Department of Physics",
+        "ERC",
+        "the Swiss Federal Institute of Technology",
+        "Samuel Schneider",
+        "Lukas Vonesch",
+        "ETH Zurich",
+        "Stefania Giannini",
+        "Dieter Schorno",
+        "Vocational Education"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Highlights of Bazzi's",
+        "half",
+        "At least nine",
+        "Italian",
+        "more than 170",
+        "who",
+        "what",
+        "when"
+      ],
+      "graph_relations": [
+        "Dieter Schorno_has_role_head",
+        "ETH Zurich_has_role_student",
+        "ETH Zurich_has_role_head",
+        "Fabio Bazzi_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

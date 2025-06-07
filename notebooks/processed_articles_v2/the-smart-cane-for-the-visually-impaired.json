@@ -1,0 +1,171 @@
+{
+  "filename": "the-smart-cane-for-the-visually-impaired.md",
+  "original_filename": "the-smart-cane-for-the-visually-impaired.html",
+  "source_path": "en_news_events/2023/05/the-smart-cane-for-the-visually-impaired.html",
+  "date": "2023-05",
+  "title": "The Smart Cane For The Visually Impaired",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH student Alexander Bayer was inspired to upgrade the traditional white cane by a blind classmate in high school. Together with three other ETH students, he is working in the Student Project House on the “NextGuide” project, a smart cane for the blind and visually impaired equipped with an integrated camera and the ability to provide haptic feedback. The cane not only indicates the direction in which an individual should walk to avoid obstacles but also communicates via vibrations whether they are standing in front of a door, pedestrian crossing or staircase."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Alexander Bayer",
+        "label": "PERSON",
+        "start": 12,
+        "end": 27
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 130,
+        "end": 135
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 142,
+        "end": 145
+      },
+      {
+        "text": "the Student Project House",
+        "label": "ORG",
+        "start": 173,
+        "end": 198
+      },
+      {
+        "text": "NextGuide",
+        "label": "ORG",
+        "start": 207,
+        "end": 216
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alexander Bayer"
+      ],
+      "ORG": [
+        "ETH",
+        "NextGuide",
+        "the Student Project House"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Alexander Bayer": 1,
+      "three": 1,
+      "the Student Project House": 1,
+      "NextGuide": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-smart-cane-for-the-visually-impaired.md",
+      "title": "En News Events/2023/05/the Smart Cane For The Visually Impaired",
+      "language": "en",
+      "source_path": "en_news_events/2023/05/the-smart-cane-for-the-visually-impaired.html"
+    },
+    "temporal": {
+      "publication_date": "2023-05",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Alexander Bayer"
+      ],
+      "people_with_roles": {
+        "Alexander Bayer": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "three"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Student Project",
+        "En News",
+        "Visually Impaired",
+        "Alexander Bayer",
+        "Smart Cane",
+        "For The"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "NextGuide",
+        "the Student Project House"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Alexander Bayer",
+        "three",
+        "the Student Project House",
+        "NextGuide"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 631
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "NextGuide",
+        "Alexander Bayer",
+        "the Student Project House",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "three"
+      ],
+      "graph_relations": [
+        "Alexander Bayer_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

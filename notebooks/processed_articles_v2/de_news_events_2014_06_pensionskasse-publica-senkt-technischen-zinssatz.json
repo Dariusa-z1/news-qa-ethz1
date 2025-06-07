@@ -1,0 +1,201 @@
+{
+  "filename": "de_news_events_2014_06_pensionskasse-publica-senkt-technischen-zinssatz.md",
+  "original_filename": "de_news_events_2014_06_pensionskasse-publica-senkt-technischen-zinssatz.html",
+  "source_path": "de_news_events/2014/06/pensionskasse-publica-senkt-technischen-zinssatz.html",
+  "date": "2014-06",
+  "title": "Pensionskasse Publica Senkt Technischen Zinssatz",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Mitglieder erhalten Einmalausgleich",
+      "text": "Per 1. Januar 2015 wird der technische Zinssatz von heute 3,5 Prozent auf 2,75 Prozent gesenkt. Das hat die Kassenkommission externe Seite «Publica» entschieden. Der Entscheid hat auch eine Anpassung des Umwandlungssatzes zur Folge. Das aktuelle Vorsorgeniveau soll aber durch die Vermehrung von Rückstellungen und durch weitere flankierende Massnahmen möglichst beibehalten werden.\n\nDie Publica begründet die Massnahmen mit dem anhaltend tiefen Zinsniveau: Ihre zentrale Aufgabe sei es, die Renten langfristig zu sichern. «Obwohl Publica in den letzten Jahren an den Finanzmärkten vergleichsweise gute Renditen realisieren konnte, reichen diese im Mehrjahresdurchschnitt bald nicht mehr für eine Stabilisierung des Deckungsgrades aus», teilt sie mit. Deshalb müsse sie den technischen Zinssatz senken, um auch mit einer tieferen Anlagerendite den Deckungsgrad stabilisieren zu können. Die Massnahme sei «leider unumgänglich»."
+    },
+    {
+      "heading": "Mitglieder erhalten Einmalausgleich",
+      "text": "Der technische Zinssatz dient dazu, den heutigen Wert von in Zukunft anfallenden Rentenansprüchen zu ermitteln. Er beeinflusst zudem den Umwandlungssatz, mit dem die Höhe der Rente berechnet wird. Ist der technische Zinssatz zu hoch, ist es auch der Umwandlungssatz und somit die Rente. Aus diesem Grund wird der Umwandlungssatz von bisher 6,15 Prozent auf neu 5,65 Prozent gesenkt. Daraus ergibt sich ein Mehrbedarf an Sparbeiträgen von 8,85 Prozent, um vergleichbare Renten wie bisher zu erzielen.\n\nUm einer Senkung der Renten entgegenzuwirken, werden bis 31. Dezember 2014 erhebliche Rückstellungen gebildet. Daraus wird per 1. Januar 2015 den individuellen Konti der versicherten Personen eine zusätzliche Einlage gutgeschrieben.\n\nDie Kassenkommission hat beschlossen, dass Rentenkassenmitglieder, die am 1. Januar 2015 bei der ETH angestellt sind, einen Einmalausgleich von 8,85 Prozent ihrer Einlagen erhalten werden. Dies allerdings nur, sofern sie der Publica vor dem 1. Juli 2014 beigetreten sind.\n\nPer 1. Januar 2015 gelten neue, nach oben angepasste Beiträge für Arbeitgeber und Arbeitnehmer. Die Beitragserhöhung liegt je nach Alter zwischen 0,35 und 0,9 Prozent.\n\nRentenzahlungen, die bereits vor dem 1. Januar 2015 laufen, sind von der Senkung des technischen Zinssatzes nicht betroffen. Die Höhe dieser Renten bleiben unverändert."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Publica",
+        "label": "LOC",
+        "start": 140,
+        "end": 147
+      },
+      {
+        "text": "Rückstellungen",
+        "label": "LOC",
+        "start": 296,
+        "end": 310
+      },
+      {
+        "text": "Publica",
+        "label": "LOC",
+        "start": 387,
+        "end": 394
+      },
+      {
+        "text": "Publica",
+        "label": "LOC",
+        "start": 530,
+        "end": 537
+      },
+      {
+        "text": "Deckungsgrad",
+        "label": "MISC",
+        "start": 847,
+        "end": 859
+      },
+      {
+        "text": "Rentenansprüchen",
+        "label": "MISC",
+        "start": 81,
+        "end": 97
+      },
+      {
+        "text": "Umwandlungssatz",
+        "label": "LOC",
+        "start": 250,
+        "end": 265
+      },
+      {
+        "text": "Rentenkassenmitglieder",
+        "label": "LOC",
+        "start": 776,
+        "end": 798
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 830,
+        "end": 833
+      },
+      {
+        "text": "Publica",
+        "label": "LOC",
+        "start": 958,
+        "end": 965
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "Publica",
+        "Rentenkassenmitglieder",
+        "Rückstellungen",
+        "Umwandlungssatz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Deckungsgrad",
+        "Rentenansprüchen"
+      ]
+    },
+    "entity_counts": {
+      "Publica": 4,
+      "Rückstellungen": 1,
+      "Deckungsgrad": 1,
+      "Rentenansprüchen": 1,
+      "Umwandlungssatz": 1,
+      "Rentenkassenmitglieder": 1,
+      "ETH": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2014_06_pensionskasse-publica-senkt-technischen-zinssatz.md",
+      "title": "De News Events/2014/06/pensionskasse Publica Senkt Technischen Zinssatz",
+      "language": "de",
+      "source_path": "de_news_events/2014/06/pensionskasse-publica-senkt-technischen-zinssatz.html"
+    },
+    "temporal": {
+      "publication_date": "2014-06",
+      "mentioned_years": [
+        "2014",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Deckungsgrad",
+        "Rentenansprüchen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Publica",
+        "Die Massnahme",
+        "Die Kassenkommission",
+        "De News",
+        "Publica Senkt",
+        "Technischen Zinssatz",
+        "Der Entscheid",
+        "Obwohl Publica"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "Publica",
+        "Rentenkassenmitglieder",
+        "Rückstellungen",
+        "Umwandlungssatz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "Publica",
+        "Rückstellungen",
+        "Deckungsgrad",
+        "Rentenansprüchen",
+        "Umwandlungssatz",
+        "Rentenkassenmitglieder",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Mitglieder erhalten Einmalausgleich",
+          "Mitglieder erhalten Einmalausgleich"
+        ],
+        "content_length": 2344
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "EU",
+        "2015",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Deckungsgrad",
+        "Rentenansprüchen"
+      ],
+      "graph_relations": []
+    }
+  }
+}

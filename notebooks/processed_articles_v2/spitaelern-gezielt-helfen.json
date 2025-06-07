@@ -1,0 +1,452 @@
+{
+  "filename": "spitaelern-gezielt-helfen.md",
+  "original_filename": "spitaelern-gezielt-helfen.html",
+  "source_path": "en_news_events/2020/03/spitaelern-gezielt-helfen.html",
+  "date": "2020-03",
+  "title": "Spitaelern Gezielt Helfen",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Matching demand and supply",
+      "text": "As the coronavirus continues to spread rapidly, experts expect a sharp rise over the coming weeks in the number of patients who need to be hospitalised. Swiss hospital capacity is therefore likely to be stretched to the limit."
+    },
+    {
+      "heading": "Matching demand and supply",
+      "text": "Equipment and consumable materials are currently standing around in Swiss universities and research institutes which are barely being used now that laboratory work has been run down to a bare minimum. These materials are badly needed in hospitals, however. Researchers in the ETH domain eager to pool their efforts to defeat the epidemic have therefore been working under intense pressure to create a platform that coordinates demand from the medical sector with the resources of Swiss research. The platform is open to all members of institutions in the extended Switch Community, in other words all Swiss universities and related organisations.\n\nAs of 22 March, scientists can access the Sharepoint site ”Academic Resources for COVID” to offer not just equipment, consumables and resources, but also specialist staff. The webpage displays an up-to-date list of requests from healthcare bodies showing exactly what is needed and where. The platform is coordinated by Roman Stocker, ETH Professor at the Environmental Engineering Institute. This is just of the initiatives launched by the Swiss Scientific COVID-19 Task Force of the ETH Domain, a team led by ETH Professor Martin Ackermann, head of the Environmental Microbiology department at the Swiss Federal Institute of Aquatic Science and Technology, EAWAG."
+    },
+    {
+      "heading": "Time is precious",
+      "text": "“In this crisis, everyone realises how essential it is to get the right resources to where they are needed as quickly as possible,” says Roman Stocker. “So we’re glad to be able to do our bit by launching this platform for the entire Swiss research sector and get it up and running.” Hospitals are being asked to direct their requests to the Coordinated Care Service . These requests will then be coordinated by Spiez Laboratory, also a federal institution and a specialist in NBC protection. They are then forwarded to the platform and processed immediately by a team of ETH doctoral assistants and postdocs who are working flat out, seven days a week.\n\nInitial impressions are very promising. “The feedback from both the healthcare and research sectors is very positive; the platform meets an urgent need. We have already managed to arrange several transfers of resources,” says Sebastian Bonhoeffer, ETH Professor for Theoretical Biology and one of the scientists who helped to get the platform off the ground.\n\nIt’s worth noting that demand is not only for specialist equipment: hospitals are currently also glad to receive basic consumables, such as centrifuge tubes. “This is just one of the ways that we scientists can make an immediate and direct contribution,” says Sebastian Bonhoeffer. “We therefore encourage every researcher and manager in Swiss laboratories to think about what they can contribute – and to use the platform as much as possible over the coming weeks.”"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Gezielt Helfen",
+        "label": "PERSON",
+        "start": 34,
+        "end": 48
+      },
+      {
+        "text": "the coming weeks",
+        "label": "DATE",
+        "start": 81,
+        "end": 97
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 153,
+        "end": 158
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 68,
+        "end": 73
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 276,
+        "end": 279
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 480,
+        "end": 485
+      },
+      {
+        "text": "Switch Community",
+        "label": "ORG",
+        "start": 564,
+        "end": 580
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 601,
+        "end": 606
+      },
+      {
+        "text": "22 March",
+        "label": "DATE",
+        "start": 653,
+        "end": 661
+      },
+      {
+        "text": "Sharepoint",
+        "label": "NORP",
+        "start": 689,
+        "end": 699
+      },
+      {
+        "text": "Roman Stocker",
+        "label": "PERSON",
+        "start": 967,
+        "end": 980
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 982,
+        "end": 995
+      },
+      {
+        "text": "the Environmental Engineering Institute",
+        "label": "ORG",
+        "start": 999,
+        "end": 1038
+      },
+      {
+        "text": "the Swiss Scientific COVID-19 Task Force of the ETH Domain",
+        "label": "ORG",
+        "start": 1084,
+        "end": 1142
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1158,
+        "end": 1161
+      },
+      {
+        "text": "Martin Ackermann",
+        "label": "PERSON",
+        "start": 1172,
+        "end": 1188
+      },
+      {
+        "text": "the Environmental Microbiology",
+        "label": "ORG",
+        "start": 1198,
+        "end": 1228
+      },
+      {
+        "text": "the Swiss Federal Institute of Aquatic Science and Technology",
+        "label": "ORG",
+        "start": 1243,
+        "end": 1304
+      },
+      {
+        "text": "Roman Stocker",
+        "label": "PERSON",
+        "start": 137,
+        "end": 150
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 234,
+        "end": 239
+      },
+      {
+        "text": "the Coordinated Care Service",
+        "label": "ORG",
+        "start": 338,
+        "end": 366
+      },
+      {
+        "text": "Spiez Laboratory",
+        "label": "ORG",
+        "start": 412,
+        "end": 428
+      },
+      {
+        "text": "NBC",
+        "label": "ORG",
+        "start": 477,
+        "end": 480
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 572,
+        "end": 575
+      },
+      {
+        "text": "seven days",
+        "label": "DATE",
+        "start": 635,
+        "end": 645
+      },
+      {
+        "text": "Sebastian Bonhoeffer",
+        "label": "PERSON",
+        "start": 880,
+        "end": 900
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 902,
+        "end": 905
+      },
+      {
+        "text": "Theoretical Biology",
+        "label": "ORG",
+        "start": 920,
+        "end": 939
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 944,
+        "end": 947
+      },
+      {
+        "text": "Sebastian Bonhoeffer",
+        "label": "PERSON",
+        "start": 1273,
+        "end": 1293
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1351,
+        "end": 1356
+      },
+      {
+        "text": "the coming weeks",
+        "label": "DATE",
+        "start": 1461,
+        "end": 1477
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gezielt Helfen",
+        "Martin Ackermann",
+        "Roman Stocker",
+        "Sebastian Bonhoeffer"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Professor",
+        "En News",
+        "NBC",
+        "Spiez Laboratory",
+        "Switch Community",
+        "Theoretical Biology",
+        "the Coordinated Care Service",
+        "the Environmental Engineering Institute",
+        "the Environmental Microbiology",
+        "the Swiss Federal Institute of Aquatic Science and Technology",
+        "the Swiss Scientific COVID-19 Task Force of the ETH Domain"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "22 March",
+        "seven days",
+        "the coming weeks"
+      ],
+      "MISC": [
+        "Sharepoint",
+        "Swiss",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Swiss": 6,
+      "ETH": 4,
+      "the coming weeks": 2,
+      "Roman Stocker": 2,
+      "Sebastian Bonhoeffer": 2,
+      "En News": 1,
+      "Gezielt Helfen": 1,
+      "Switch Community": 1,
+      "22 March": 1,
+      "Sharepoint": 1,
+      "ETH Professor": 1,
+      "the Environmental Engineering Institute": 1,
+      "the Swiss Scientific COVID-19 Task Force of the ETH Domain": 1,
+      "Martin Ackermann": 1,
+      "the Environmental Microbiology": 1,
+      "the Swiss Federal Institute of Aquatic Science and Technology": 1,
+      "the Coordinated Care Service": 1,
+      "Spiez Laboratory": 1,
+      "NBC": 1,
+      "seven days": 1
+    },
+    "total_entities": 33,
+    "unique_entities": 22
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "spitaelern-gezielt-helfen.md",
+      "title": "En News Events/2020/03/spitaelern Gezielt Helfen",
+      "language": "en",
+      "source_path": "en_news_events/2020/03/spitaelern-gezielt-helfen.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Gezielt Helfen",
+        "Martin Ackermann",
+        "Roman Stocker",
+        "Sebastian Bonhoeffer"
+      ],
+      "people_with_roles": {
+        "Martin Ackermann": [
+          "Professor",
+          "head",
+          "professor"
+        ],
+        "Roman Stocker": [
+          "professor"
+        ],
+        "Sebastian Bonhoeffer": [
+          "scientist",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "Sharepoint",
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Swiss Federal",
+        "Coordinated Care",
+        "Academic Resources",
+        "Martin Ackermann",
+        "Environmental Microbiology",
+        "En News",
+        "Aquatic Science",
+        "Gezielt Helfen",
+        "Switch Community",
+        "Roman Stocker",
+        "ETH Domain",
+        "Spiez Laboratory",
+        "Theoretical Biology",
+        "Sebastian Bonhoeffer",
+        "ETH Professor",
+        "Swiss Scientific",
+        "Task Force",
+        "Environmental Engineering"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Professor",
+        "En News",
+        "NBC",
+        "Spiez Laboratory",
+        "Switch Community",
+        "Theoretical Biology",
+        "the Coordinated Care Service",
+        "the Environmental Engineering Institute",
+        "the Environmental Microbiology",
+        "the Swiss Federal Institute of Aquatic Science and Technology",
+        "the Swiss Scientific COVID-19 Task Force of the ETH Domain"
+      ],
+      "locations": [],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Swiss",
+        "ETH",
+        "the coming weeks",
+        "Roman Stocker",
+        "Sebastian Bonhoeffer",
+        "En News",
+        "Gezielt Helfen",
+        "Switch Community",
+        "22 March",
+        "Sharepoint"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Matching demand and supply",
+          "Matching demand and supply",
+          "Time is precious"
+        ],
+        "content_length": 3071
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Environmental Microbiology",
+        "ETH",
+        "Martin Ackermann",
+        "En News",
+        "Spiez Laboratory",
+        "Gezielt Helfen",
+        "NBC",
+        "Roman Stocker",
+        "Switch Community",
+        "Theoretical Biology",
+        "the Coordinated Care Service",
+        "2020",
+        "Sebastian Bonhoeffer",
+        "ETH Professor",
+        "the Swiss Scientific COVID-19 Task Force of the ETH Domain",
+        "the Environmental Engineering Institute",
+        "the Swiss Federal Institute of Aquatic Science and Technology"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Sharepoint",
+        "who",
+        "Swiss",
+        "where",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Martin Ackermann_has_role_Professor",
+        "Martin Ackermann_has_role_head",
+        "Martin Ackermann_has_role_professor",
+        "Roman Stocker_has_role_professor",
+        "Sebastian Bonhoeffer_has_role_scientist",
+        "Sebastian Bonhoeffer_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

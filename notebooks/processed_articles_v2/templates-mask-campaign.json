@@ -1,0 +1,150 @@
+{
+  "filename": "templates-mask-campaign.md",
+  "original_filename": "templates-mask-campaign.html",
+  "source_path": "en_internal/2020/08/templates-mask-campaign.html",
+  "date": "2020-08",
+  "title": "Templates Mask Campaign",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "From Monday, August 24, it will be \"Mask on!\" for everyone who is on the move in ETH Zurich buildings. This is to keep the risk of infection on campus as low as possible in view of the continuing high number of cases.\n\nIn the last few days, the implementation of visual communication had to be carried out with corresponding speed. From Monday, August 24th, the compulsory wearing of masks will be unmissable: Everywhere on campus, posters and screens will inform ETH members and visitors about it."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Monday, August 24",
+        "label": "DATE",
+        "start": 5,
+        "end": 22
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "GPE",
+        "start": 81,
+        "end": 91
+      },
+      {
+        "text": "the last few days",
+        "label": "DATE",
+        "start": 221,
+        "end": 238
+      },
+      {
+        "text": "Monday, August 24th",
+        "label": "DATE",
+        "start": 336,
+        "end": 355
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 463,
+        "end": 466
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH"
+      ],
+      "LOCATION": [
+        "ETH Zurich"
+      ],
+      "DATE": [
+        "Monday, August 24",
+        "Monday, August 24th",
+        "the last few days"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Monday, August 24": 1,
+      "ETH Zurich": 1,
+      "the last few days": 1,
+      "Monday, August 24th": 1,
+      "ETH": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "templates-mask-campaign.md",
+      "title": "En Internal/2020/08/templates Mask Campaign",
+      "language": "en",
+      "source_path": "en_internal/2020/08/templates-mask-campaign.html"
+    },
+    "temporal": {
+      "publication_date": "2020-08",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "From Monday",
+        "Mask Campaign",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH"
+      ],
+      "locations": [
+        "ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where"
+      ],
+      "key_concepts": [
+        "Monday, August 24",
+        "ETH Zurich",
+        "the last few days",
+        "Monday, August 24th",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 542
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2020"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "where",
+        "who"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

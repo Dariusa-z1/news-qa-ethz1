@@ -1,0 +1,213 @@
+{
+  "filename": "neuer-co-learning-space-in-der-gruenen-bibliothek.md",
+  "original_filename": "neuer-co-learning-space-in-der-gruenen-bibliothek.html",
+  "source_path": "en_internal/2022/06/neuer-co-learning-space-in-der-gruenen-bibliothek.html",
+  "date": "2022-06",
+  "title": "Neuer Co Learning Space In Der Gruenen Bibliothek",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "A table, a bench, a stool, a stand or all at the same time. Since the beginning of June, the modular furniture system PIXEL has optimally complemented the learning environment in the Green Library on approx. 100 square metres. The handy wooden boxes can be converted in just a few steps. In this way, the room adapts to your current learning or teaching setting, whether for individual learning, group work or an event with up to 20 people. Visit us in the Green Library and get to know the new co-learning space!\n\nThis redesign represents a further step in the paradigm shift in how we view the requirements for spaces and furniture at the ETH Library. Learning environments that can accommodate different learning situations will become more and more important at ETH Zurich. Do you have any questions about the new co-learning space? The Learning Environments team will be happy to help you via e-mail at ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Co Learning Space",
+        "label": "ORG",
+        "start": 26,
+        "end": 43
+      },
+      {
+        "text": "Gruenen Bibliothek",
+        "label": "PERSON",
+        "start": 51,
+        "end": 69
+      },
+      {
+        "text": "the beginning of June",
+        "label": "DATE",
+        "start": 66,
+        "end": 87
+      },
+      {
+        "text": "the Green Library",
+        "label": "LOC",
+        "start": 179,
+        "end": 196
+      },
+      {
+        "text": "100 square metres",
+        "label": "QUANTITY",
+        "start": 208,
+        "end": 225
+      },
+      {
+        "text": "up to 20",
+        "label": "CARDINAL",
+        "start": 424,
+        "end": 432
+      },
+      {
+        "text": "the Green Library",
+        "label": "LOC",
+        "start": 453,
+        "end": 470
+      },
+      {
+        "text": "the ETH Library",
+        "label": "FAC",
+        "start": 636,
+        "end": 651
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 765,
+        "end": 775
+      },
+      {
+        "text": "The Learning Environments",
+        "label": "WORK_OF_ART",
+        "start": 836,
+        "end": 861
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Gruenen Bibliothek"
+      ],
+      "ORG": [
+        "Co Learning Space",
+        "ETH Zurich"
+      ],
+      "LOCATION": [
+        "the ETH Library",
+        "the Green Library"
+      ],
+      "DATE": [
+        "the beginning of June"
+      ],
+      "MISC": [
+        "100 square metres",
+        "The Learning Environments",
+        "up to 20"
+      ]
+    },
+    "entity_counts": {
+      "the Green Library": 2,
+      "Co Learning Space": 1,
+      "Gruenen Bibliothek": 1,
+      "the beginning of June": 1,
+      "100 square metres": 1,
+      "up to 20": 1,
+      "the ETH Library": 1,
+      "ETH Zurich": 1,
+      "The Learning Environments": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "neuer-co-learning-space-in-der-gruenen-bibliothek.md",
+      "title": "En Internal/2022/06/neuer Co Learning Space in der Gruenen Bibliothek",
+      "language": "en",
+      "source_path": "en_internal/2022/06/neuer-co-learning-space-in-der-gruenen-bibliothek.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "Gruenen Bibliothek"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "100 square metres",
+        "The Learning Environments",
+        "up to 20"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Gruenen Bibliothek",
+        "ETH Library",
+        "En Internal",
+        "The Learning",
+        "ETH Zurich",
+        "Green Library",
+        "Co Learning"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Co Learning Space",
+        "ETH Zurich"
+      ],
+      "locations": [
+        "the ETH Library",
+        "the Green Library"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "the Green Library",
+        "Co Learning Space",
+        "Gruenen Bibliothek",
+        "the beginning of June",
+        "100 square metres",
+        "up to 20",
+        "the ETH Library",
+        "ETH Zurich",
+        "The Learning Environments"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 979
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Gruenen Bibliothek",
+        "Co Learning Space",
+        "EU",
+        "2022",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "The Learning Environments",
+        "how",
+        "up to 20",
+        "when",
+        "100 square metres"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

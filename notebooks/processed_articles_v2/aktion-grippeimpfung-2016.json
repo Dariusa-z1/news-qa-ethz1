@@ -1,0 +1,251 @@
+{
+  "filename": "aktion-grippeimpfung-2016.md",
+  "original_filename": "aktion-grippeimpfung-2016.html",
+  "source_path": "de_internal/2016/09/aktion-grippeimpfung-2016.html",
+  "date": "2016-09",
+  "title": "Aktion Grippeimpfung 2016",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Alle Angehörigen der ETH Zürich können sich impfen lassen. Für die ETH-Mitarbeitenden und Studierenden ist die Impfung gratis. Die Impfung ist freiwillig.\n\nAnmeldung erforderlich Die Anmeldung zur Grippeimpfung ist unbedingt erforderlich. Das Anmeldeportal steht online zur Verfügung (Log-in nur für ETH-Angehörige möglich) und ist ab sofort auf der .\n\nETH Zürich, Zentrum, GEP Pavillon 20. Oktober 2016, 08.30–11.30 Uhr 15. November 2016, 08.30–11.30 Uhr ETH Zürich, Hönggerberg, Gebäude HIT, E 51 25. Oktober 2016, 13.30–16.30 Uhr 24. November 2016, 08.30–11.30 Uhr\n\nETH Zürich, D-BSSE, Basel 17. Oktober 2016, 15.00–17.00 Uhr"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/09/aktion Grippeimpfung",
+        "label": "LOC",
+        "start": 0,
+        "end": 40
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 21,
+        "end": 31
+      },
+      {
+        "text": "ETH-Mitarbeitenden",
+        "label": "ORG",
+        "start": 67,
+        "end": 85
+      },
+      {
+        "text": "Anmeldeportal",
+        "label": "LOC",
+        "start": 242,
+        "end": 255
+      },
+      {
+        "text": "Log-in",
+        "label": "PER",
+        "start": 284,
+        "end": 290
+      },
+      {
+        "text": "ETH-Angehörige",
+        "label": "MISC",
+        "start": 299,
+        "end": 313
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 351,
+        "end": 361
+      },
+      {
+        "text": "Zentrum",
+        "label": "ORG",
+        "start": 363,
+        "end": 370
+      },
+      {
+        "text": "GEP",
+        "label": "ORG",
+        "start": 372,
+        "end": 375
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 454,
+        "end": 464
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "LOC",
+        "start": 466,
+        "end": 477
+      },
+      {
+        "text": "Gebäude HIT",
+        "label": "LOC",
+        "start": 479,
+        "end": 490
+      },
+      {
+        "text": "E 51",
+        "label": "LOC",
+        "start": 492,
+        "end": 496
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 566,
+        "end": 576
+      },
+      {
+        "text": "D-BSSE",
+        "label": "ORG",
+        "start": 578,
+        "end": 584
+      },
+      {
+        "text": "Basel",
+        "label": "LOC",
+        "start": 586,
+        "end": 591
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Log-in"
+      ],
+      "ORG": [
+        "D-BSSE",
+        "ETH Zürich",
+        "ETH-Mitarbeitenden",
+        "GEP",
+        "Zentrum"
+      ],
+      "LOCATION": [
+        "Anmeldeportal",
+        "Basel",
+        "De Internal/2016/09/aktion Grippeimpfung",
+        "E 51",
+        "Gebäude HIT",
+        "Hönggerberg"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Angehörige"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 4,
+      "De Internal/2016/09/aktion Grippeimpfung": 1,
+      "ETH-Mitarbeitenden": 1,
+      "Anmeldeportal": 1,
+      "Log-in": 1,
+      "ETH-Angehörige": 1,
+      "Zentrum": 1,
+      "GEP": 1,
+      "Hönggerberg": 1,
+      "Gebäude HIT": 1,
+      "E 51": 1,
+      "D-BSSE": 1,
+      "Basel": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "aktion-grippeimpfung-2016.md",
+      "title": "De Internal/2016/09/aktion Grippeimpfung 2016",
+      "language": "de",
+      "source_path": "de_internal/2016/09/aktion-grippeimpfung-2016.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Log-in"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Angehörige"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Die Anmeldung",
+        "Die Impfung",
+        "De Internal",
+        "GEP Pavillon",
+        "ETH-Mitarbeitenden",
+        "Das Anmeldeportal",
+        "Uhr ETH",
+        "D-BSSE"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "D-BSSE",
+        "ETH Zürich",
+        "ETH-Mitarbeitenden",
+        "GEP",
+        "Zentrum"
+      ],
+      "locations": [
+        "Anmeldeportal",
+        "Basel",
+        "De Internal/2016/09/aktion Grippeimpfung",
+        "E 51",
+        "Gebäude HIT",
+        "Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2016/09/aktion Grippeimpfung",
+        "ETH-Mitarbeitenden",
+        "Anmeldeportal",
+        "Log-in",
+        "ETH-Angehörige",
+        "Zentrum",
+        "GEP",
+        "Hönggerberg",
+        "Gebäude HIT"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 674
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "GEP",
+        "Log-in",
+        "2016",
+        "ETH-Mitarbeitenden",
+        "ETH Zürich",
+        "Zentrum",
+        "D-BSSE"
+      ],
+      "semantic_concepts": [
+        "ETH-Angehörige"
+      ],
+      "graph_relations": []
+    }
+  }
+}

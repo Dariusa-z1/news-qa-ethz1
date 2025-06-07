@@ -1,0 +1,188 @@
+{
+  "filename": "open-access-foerderung-wird-erweitert.md",
+  "original_filename": "open-access-foerderung-wird-erweitert.html",
+  "source_path": "en_internal/2021/02/open-access-foerderung-wird-erweitert.html",
+  "date": "2021-02",
+  "title": "Open Access Foerderung Wird Erweitert",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "This new regulation applies to all articles submitted to a publisher for publication in a scientific journal from 01.01.2021 onwards. You can request funding via a protected page web form lock that can be accessed with your ETH login. Please only apply for funding after you have received the invoice by the respective publisher, and send the invoice to the ETH Library via the web form. After reviewing the application, the invoice will be paid directly by the ETH Library.\n\nPlease mind the eligibility criteria for the funding of open-access articles before you apply for funding. The retroactive change of subscription articles to open access is possible from 2021 onwards. However, this has to be done no later than six months after the initial publication of an article. Article processing charges of up to USD 5000 can be funded. It is not possible to split the costs for articles where the fees are higher.\n\nPlease also note: The ETH Library will cover the article processing charges only in cases where no other funding (e.g. SNSF, EU Grants) is available. This information is requested in the application. Gold open-access articles are funded exclusively in journals listed in DOAJ .\n\nPlease contact us if you have any questions about the new offer or if you want to check if your article can be funded before submitting the application. The of the ETH Library will be happy to help you.\n\nMore than just data – Benefit from know-how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "01.01.2021",
+        "label": "ORG",
+        "start": 114,
+        "end": 124
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 458,
+        "end": 473
+      },
+      {
+        "text": "no later than six months",
+        "label": "DATE",
+        "start": 705,
+        "end": 729
+      },
+      {
+        "text": "The ETH Library",
+        "label": "ORG",
+        "start": 931,
+        "end": 946
+      },
+      {
+        "text": "EU Grants",
+        "label": "PERSON",
+        "start": 1038,
+        "end": 1047
+      },
+      {
+        "text": "DOAJ",
+        "label": "ORG",
+        "start": 1184,
+        "end": 1188
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 1351,
+        "end": 1366
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "EU Grants"
+      ],
+      "ORG": [
+        "01.01.2021",
+        "DOAJ",
+        "The ETH Library",
+        "the ETH Library"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "no later than six months"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "the ETH Library": 2,
+      "01.01.2021": 1,
+      "no later than six months": 1,
+      "The ETH Library": 1,
+      "EU Grants": 1,
+      "DOAJ": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "open-access-foerderung-wird-erweitert.md",
+      "title": "En Internal/2021/02/open Access Foerderung Wird Erweitert",
+      "language": "en",
+      "source_path": "en_internal/2021/02/open-access-foerderung-wird-erweitert.html"
+    },
+    "temporal": {
+      "publication_date": "2021-02",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "EU Grants"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU",
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "The ETH",
+        "ETH Library",
+        "En Internal",
+        "Wird Erweitert",
+        "EU Grants",
+        "Access Foerderung"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "01.01.2021",
+        "DOAJ",
+        "The ETH Library",
+        "the ETH Library"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "the ETH Library",
+        "01.01.2021",
+        "no later than six months",
+        "The ETH Library",
+        "EU Grants",
+        "DOAJ"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1577
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "DOAJ",
+        "grant",
+        "EU",
+        "01.01.2021",
+        "funding",
+        "The ETH Library",
+        "2021",
+        "EU Grants",
+        "the ETH Library"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "how",
+        "engineering",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

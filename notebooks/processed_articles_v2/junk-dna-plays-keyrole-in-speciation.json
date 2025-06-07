@@ -1,0 +1,592 @@
+{
+  "filename": "junk-dna-plays-keyrole-in-speciation.md",
+  "original_filename": "junk-dna-plays-keyrole-in-speciation.html",
+  "source_path": "en_news_events/2021/08/junk-dna-plays-keyrole-in-speciation.html",
+  "date": "2021-08",
+  "title": "Junk Dna Plays Keyrole In Speciation",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The origin of species: DNA edition",
+      "text": "More than 10 percent of our genome is made up of repetitive, seemingly nonsensical stretches of genetic material called satellite DNA that does not code for any proteins. In the past, some scientists have referred to this DNA as “genomic junk.”\n\nOver a series of papers spanning several years, however, Madhav Jagannathan, currently an assistant professor in the department of biology at ETH Zurich, and his postdoctoral mentor, Yukiko Yamashita from the Whitehead Institute at MIT, have made the case that satellite DNA is not junk, but instead has an essential role in the cell: it works with cellular proteins to keep all of a cell’s individual chromosomes together in a single nucleus.\n\nNow, in the latest installment of their work, published in the journal Molecular Biology and Evolution, Jagannathan and Yamashita take these studies a step further, proposing that the system of chromosomal organization made possible by satellite DNA is one reason that organisms from different species cannot produce viable offspring."
+    },
+    {
+      "heading": "The origin of species: DNA edition",
+      "text": "Researchers have known for years that satellite DNA is highly variable between species. “If you look at the chimpanzee genome and the human genome, the protein coding regions are, like, 98 percent, 99 percent identical,” Yamashita says. “But the junk DNA part is very, very different.”\n\nThese are about the most rapidly evolving sequences in the genome, but the prior perspective has been, ‘Well, these are junk sequences, who cares if your junk is different from mine?’” says Jagannathan.\n\nBut as they were investigating the importance of satellite DNA for fertility and survival in pure species, Jagannathan and Yamashita had their first hint that these repetitive sequences might play a role in speciation.\n\nWhen the researchers deleted a protein called Prod that binds to a specific satellite DNA sequence in the fruit fly Drosophila melanogaster, the flies’ chromosomes scattered outside of the nucleus into tiny globs of cellular material called micronuclei, and the flies died. “But we realized at this point that this piece of satellite DNA that was bound by the Prod protein was completely missing in the nearest relatives of Drosophila melanogaster ,” Jagannathan says.\n\nIf that piece of satellite DNA was essential for survival in one species but missing from another, it could imply that the two species of flies had evolved different satellite DNA sequences for the same role over time. And since satellite DNA played a role in keeping all the chromosomes together, the researchers and their colleagues wondered whether these evolved differences could be one reason different species are reproductively incompatible."
+    },
+    {
+      "heading": "A tale of two fruit fly species",
+      "text": "To study how satellite DNA differences might underlie reproductive incompatibility, the researchers decided to focus on two branches of the fruit fly family tree: the classic lab model Drosophila melanogaster, and its closest relative, Drosophila simulans. These two species diverged from each other two to three million years ago.\n\nResearchers can breed a Drosophila melanogaster female to a Drosophila simulans male, “but the cross generates very unhappy offspring,” Yamashita says. “Either they're sterile or they die.”\n\nJagannathan and Yamashita studied the tissues of the offspring to see what was leading these hybrids to drop like flies. Right away they noticed something interesting: “When we looked at those hybrid tissues, it was very clear that their phenotype was exactly the same as if you had disrupted the satellite DNA-mediated chromosomal organization of a pure species,” Yamashita says. “The chromosomes were scattered, and not encapsulated in a single nucleus.”\n\nFurthermore, the researchers could create a healthy hybrid fly by mutating certain genes in the parent flies called “hybrid incompatibility genes,” which have been shown to localize to satellite DNA in the cells of pure species. Via these experiments, the researchers were able to demonstrate how these genes affect chromosomal packaging in hybrids, and pinpoint the cellular phenotypes associated with them for the first time.\n\nTaken together, these findings suggest that because satellite DNA mutates relatively frequently, the proteins that bind the satellite DNA and keep chromosomes together must evolve to keep up, leading each species to develop their own “strategy” for working with the satellite DNA. When two organisms with different strategies interbreed, a clash occurs, leading the chromosomes to scatter outside of the nucleus.\n\nIn future studies, Jagannathan and Yamashita hope to put their model to the ultimate test: if they can design a protein that can bind the satellite DNA of two different species and hold the chromosomes together, they could theoretically ‘rescue’ a doomed hybrid, allowing it to survive and produce viable offspring. This feat of bioengineering is likely years off. “Right now it’s just a pure conceptual thing,” Yamashita says.\n\nThis article is based on a story by Eva Frederick, Whitehead Institute.\n\nJagannathan M, Yamashita Y. Defective satellite DNA clustering into chromocenters underlies hybrid incompatibility in Drosophila. Molecular Biology and Evolution, msab221. Published 24 July 2021. DOI: 10.1093/molbev/msab221"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "More than 10 percent",
+        "label": "PERCENT",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "several years",
+        "label": "DATE",
+        "start": 278,
+        "end": 291
+      },
+      {
+        "text": "Madhav Jagannathan",
+        "label": "PERSON",
+        "start": 302,
+        "end": 320
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 387,
+        "end": 397
+      },
+      {
+        "text": "Yukiko Yamashita",
+        "label": "PERSON",
+        "start": 428,
+        "end": 444
+      },
+      {
+        "text": "the Whitehead Institute",
+        "label": "ORG",
+        "start": 450,
+        "end": 473
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 477,
+        "end": 480
+      },
+      {
+        "text": "Molecular Biology and Evolution",
+        "label": "ORG",
+        "start": 760,
+        "end": 791
+      },
+      {
+        "text": "Jagannathan",
+        "label": "PERSON",
+        "start": 793,
+        "end": 804
+      },
+      {
+        "text": "Yamashita",
+        "label": "PERSON",
+        "start": 809,
+        "end": 818
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 942,
+        "end": 945
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 27,
+        "end": 32
+      },
+      {
+        "text": "98 percent",
+        "label": "PERCENT",
+        "start": 186,
+        "end": 196
+      },
+      {
+        "text": "99 percent",
+        "label": "PERCENT",
+        "start": 198,
+        "end": 208
+      },
+      {
+        "text": "Yamashita",
+        "label": "PERSON",
+        "start": 221,
+        "end": 230
+      },
+      {
+        "text": "Jagannathan",
+        "label": "PERSON",
+        "start": 476,
+        "end": 487
+      },
+      {
+        "text": "Jagannathan",
+        "label": "PERSON",
+        "start": 596,
+        "end": 607
+      },
+      {
+        "text": "Yamashita",
+        "label": "PERSON",
+        "start": 612,
+        "end": 621
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 632,
+        "end": 637
+      },
+      {
+        "text": "Prod",
+        "label": "WORK_OF_ART",
+        "start": 754,
+        "end": 758
+      },
+      {
+        "text": "Drosophila",
+        "label": "ORG",
+        "start": 824,
+        "end": 834
+      },
+      {
+        "text": "Prod",
+        "label": "EVENT",
+        "start": 1068,
+        "end": 1072
+      },
+      {
+        "text": "Drosophila",
+        "label": "ORG",
+        "start": 1132,
+        "end": 1142
+      },
+      {
+        "text": "Jagannathan",
+        "label": "PERSON",
+        "start": 1159,
+        "end": 1170
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1238,
+        "end": 1241
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1300,
+        "end": 1303
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1564,
+        "end": 1567
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 120,
+        "end": 123
+      },
+      {
+        "text": "Drosophila",
+        "label": "ORG",
+        "start": 185,
+        "end": 195
+      },
+      {
+        "text": "Drosophila",
+        "label": "ORG",
+        "start": 236,
+        "end": 246
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 263,
+        "end": 266
+      },
+      {
+        "text": "Drosophila",
+        "label": "ORG",
+        "start": 356,
+        "end": 366
+      },
+      {
+        "text": "Drosophila",
+        "label": "ORG",
+        "start": 392,
+        "end": 402
+      },
+      {
+        "text": "simulans",
+        "label": "NORP",
+        "start": 403,
+        "end": 411
+      },
+      {
+        "text": "Yamashita",
+        "label": "PERSON",
+        "start": 468,
+        "end": 477
+      },
+      {
+        "text": "Jagannathan",
+        "label": "PERSON",
+        "start": 522,
+        "end": 533
+      },
+      {
+        "text": "Yamashita",
+        "label": "PERSON",
+        "start": 538,
+        "end": 547
+      },
+      {
+        "text": "Yamashita",
+        "label": "PERSON",
+        "start": 887,
+        "end": 896
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1395,
+        "end": 1400
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1693,
+        "end": 1696
+      },
+      {
+        "text": "Jagannathan",
+        "label": "PERSON",
+        "start": 1839,
+        "end": 1850
+      },
+      {
+        "text": "Yamashita",
+        "label": "PERSON",
+        "start": 1855,
+        "end": 1864
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1975,
+        "end": 1978
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 2174,
+        "end": 2179
+      },
+      {
+        "text": "Yamashita",
+        "label": "PERSON",
+        "start": 2232,
+        "end": 2241
+      },
+      {
+        "text": "Eva Frederick",
+        "label": "PERSON",
+        "start": 2284,
+        "end": 2297
+      },
+      {
+        "text": "Whitehead Institute",
+        "label": "ORG",
+        "start": 2299,
+        "end": 2318
+      },
+      {
+        "text": "Jagannathan M",
+        "label": "PERSON",
+        "start": 2320,
+        "end": 2333
+      },
+      {
+        "text": "Yamashita Y. Defective",
+        "label": "PERSON",
+        "start": 2335,
+        "end": 2357
+      },
+      {
+        "text": "Drosophila",
+        "label": "ORG",
+        "start": 2438,
+        "end": 2448
+      },
+      {
+        "text": "Molecular Biology and Evolution",
+        "label": "ORG",
+        "start": 2450,
+        "end": 2481
+      },
+      {
+        "text": "24 July 2021",
+        "label": "DATE",
+        "start": 2502,
+        "end": 2514
+      },
+      {
+        "text": "10.1093",
+        "label": "CARDINAL",
+        "start": 2521,
+        "end": 2528
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eva Frederick",
+        "Jagannathan",
+        "Jagannathan M",
+        "Madhav Jagannathan",
+        "Yamashita",
+        "Yamashita Y. Defective",
+        "Yukiko Yamashita"
+      ],
+      "ORG": [
+        "Drosophila",
+        "ETH Zurich",
+        "MIT",
+        "Molecular Biology and Evolution",
+        "Whitehead Institute",
+        "the Whitehead Institute"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "24 July 2021",
+        "several years",
+        "years"
+      ],
+      "MISC": [
+        "10.1093",
+        "98 percent",
+        "99 percent",
+        "More than 10 percent",
+        "Prod",
+        "first",
+        "one",
+        "simulans",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Yamashita": 8,
+      "Drosophila": 7,
+      "Jagannathan": 6,
+      "two": 5,
+      "one": 3,
+      "Molecular Biology and Evolution": 2,
+      "years": 2,
+      "first": 2,
+      "Prod": 2,
+      "More than 10 percent": 1,
+      "several years": 1,
+      "Madhav Jagannathan": 1,
+      "ETH Zurich": 1,
+      "Yukiko Yamashita": 1,
+      "the Whitehead Institute": 1,
+      "MIT": 1,
+      "98 percent": 1,
+      "99 percent": 1,
+      "simulans": 1,
+      "Eva Frederick": 1
+    },
+    "total_entities": 53,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "junk-dna-plays-keyrole-in-speciation.md",
+      "title": "En News Events/2021/08/junk Dna Plays Keyrole in Speciation",
+      "language": "en",
+      "source_path": "en_news_events/2021/08/junk-dna-plays-keyrole-in-speciation.html"
+    },
+    "temporal": {
+      "publication_date": "2021-08",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Eva Frederick",
+        "Jagannathan",
+        "Jagannathan M",
+        "Madhav Jagannathan",
+        "Yamashita",
+        "Yamashita Y. Defective",
+        "Yukiko Yamashita"
+      ],
+      "people_with_roles": {
+        "Eva Frederick": [
+          "head"
+        ],
+        "Jagannathan": [
+          "head",
+          "professor"
+        ],
+        "Madhav Jagannathan": [
+          "head",
+          "professor"
+        ],
+        "Yamashita": [
+          "researcher",
+          "head",
+          "professor"
+        ],
+        "Yukiko Yamashita": [
+          "head",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1093",
+        "98 percent",
+        "99 percent",
+        "More than 10 percent",
+        "Prod",
+        "first",
+        "simulans"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Eva Frederick",
+        "Madhav Jagannathan",
+        "Speciation More",
+        "En News",
+        "Yamashita Y",
+        "Dna Plays",
+        "Whitehead Institute",
+        "Molecular Biology",
+        "Yukiko Yamashita",
+        "Jagannathan M",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "biology at ETH Zurich"
+      ],
+      "institutions": [
+        "Drosophila",
+        "ETH Zurich",
+        "MIT",
+        "Molecular Biology and Evolution",
+        "Whitehead Institute",
+        "the Whitehead Institute"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Yamashita",
+        "Drosophila",
+        "Jagannathan",
+        "two",
+        "one",
+        "Molecular Biology and Evolution",
+        "years",
+        "first",
+        "Prod",
+        "More than 10 percent"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "The origin of species: DNA edition",
+          "The origin of species: DNA edition",
+          "A tale of two fruit fly species"
+        ],
+        "content_length": 5266
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Eva Frederick",
+        "Jagannathan",
+        "Yamashita",
+        "Madhav Jagannathan",
+        "EU",
+        "Whitehead Institute",
+        "the Whitehead Institute",
+        "ETH Zurich",
+        "Molecular Biology and Evolution",
+        "Yamashita Y. Defective",
+        "Drosophila",
+        "Jagannathan M",
+        "MIT",
+        "Yukiko Yamashita",
+        "2021",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Prod",
+        "first",
+        "who",
+        "More than 10 percent",
+        "chemistry",
+        "10.1093",
+        "biology",
+        "98 percent",
+        "what",
+        "how",
+        "simulans",
+        "medical_research",
+        "99 percent",
+        "why",
+        "when"
+      ],
+      "graph_relations": [
+        "Eva Frederick_has_role_head",
+        "Jagannathan_has_role_head",
+        "Jagannathan_has_role_professor",
+        "Madhav Jagannathan_has_role_head",
+        "Madhav Jagannathan_has_role_professor",
+        "Yamashita_has_role_researcher",
+        "Yamashita_has_role_head",
+        "Yamashita_has_role_professor",
+        "Yukiko Yamashita_has_role_head",
+        "Yukiko Yamashita_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

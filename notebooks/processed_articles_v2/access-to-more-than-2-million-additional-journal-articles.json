@@ -1,0 +1,257 @@
+{
+  "filename": "access-to-more-than-2-million-additional-journal-articles.md",
+  "original_filename": "access-to-more-than-2-million-additional-journal-articles.html",
+  "source_path": "en_internal/2016/10/access-to-more-than-2-million-additional-journal-articles.html",
+  "date": "2016-10",
+  "title": "Access To More Than 2 Million Additional Journal Articles",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The following complete archives with journal articles from the following years are now available:\n\nAs a result, the holdings of the aforementioned publishers accessible at ETH Zurich are supplemented with diverse years and journals. Every year, new contents are added. For instance, 2016 will be activated in two years (De Gruyter), three years (Oxford University Press) and five years (Cambridge University Press).\n\nThe national licences enable access to articles at Swiss universities, federal research facilities and libraries. The expansion of the user circle to include any private individuals who reside in Switzerland is in the pipeline.\n\nThe purchase of national licences is funded by the programme \"Scientific Information: Access, Processing and Safeguarding\" implemented by swissuniversities.\n\nFurther information to National licences"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the following years",
+        "label": "DATE",
+        "start": 59,
+        "end": 78
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 171,
+        "end": 181
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 212,
+        "end": 217
+      },
+      {
+        "text": "Every year",
+        "label": "DATE",
+        "start": 232,
+        "end": 242
+      },
+      {
+        "text": "two years",
+        "label": "DATE",
+        "start": 308,
+        "end": 317
+      },
+      {
+        "text": "De Gruyter",
+        "label": "PERSON",
+        "start": 319,
+        "end": 329
+      },
+      {
+        "text": "three years",
+        "label": "DATE",
+        "start": 332,
+        "end": 343
+      },
+      {
+        "text": "Oxford University Press",
+        "label": "ORG",
+        "start": 345,
+        "end": 368
+      },
+      {
+        "text": "five years",
+        "label": "DATE",
+        "start": 374,
+        "end": 384
+      },
+      {
+        "text": "Cambridge University Press",
+        "label": "ORG",
+        "start": 386,
+        "end": 412
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 466,
+        "end": 471
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 611,
+        "end": 622
+      },
+      {
+        "text": "Scientific Information: Access, Processing and Safeguarding",
+        "label": "WORK_OF_ART",
+        "start": 705,
+        "end": 764
+      },
+      {
+        "text": "National",
+        "label": "ORG",
+        "start": 823,
+        "end": 831
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De Gruyter"
+      ],
+      "ORG": [
+        "Cambridge University Press",
+        "ETH Zurich",
+        "National",
+        "Oxford University Press"
+      ],
+      "LOCATION": [
+        "Switzerland"
+      ],
+      "DATE": [
+        "Every year",
+        "five years",
+        "the following years",
+        "three years",
+        "two years",
+        "years"
+      ],
+      "MISC": [
+        "Scientific Information: Access, Processing and Safeguarding",
+        "Swiss"
+      ]
+    },
+    "entity_counts": {
+      "the following years": 1,
+      "ETH Zurich": 1,
+      "years": 1,
+      "Every year": 1,
+      "two years": 1,
+      "De Gruyter": 1,
+      "three years": 1,
+      "Oxford University Press": 1,
+      "five years": 1,
+      "Cambridge University Press": 1,
+      "Swiss": 1,
+      "Switzerland": 1,
+      "Scientific Information: Access, Processing and Safeguarding": 1,
+      "National": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "access-to-more-than-2-million-additional-journal-articles.md",
+      "title": "En Internal/2016/10/access To More Than 2 Million Additional Journal Articles",
+      "language": "en",
+      "source_path": "en_internal/2016/10/access-to-more-than-2-million-additional-journal-articles.html"
+    },
+    "temporal": {
+      "publication_date": "2016-10",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "De Gruyter"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Scientific Information: Access, Processing and Safeguarding",
+        "Swiss"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Journal Articles",
+        "Oxford University",
+        "Scientific Information",
+        "Cambridge University",
+        "En Internal",
+        "To More",
+        "Million Additional",
+        "ETH Zurich",
+        "De Gruyter"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cambridge University Press",
+        "ETH Zurich",
+        "National",
+        "Oxford University Press"
+      ],
+      "locations": [
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "the following years",
+        "ETH Zurich",
+        "years",
+        "Every year",
+        "two years",
+        "De Gruyter",
+        "three years",
+        "Oxford University Press",
+        "five years",
+        "Cambridge University Press"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 922
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "National",
+        "Oxford University Press",
+        "2016",
+        "ETH Zurich",
+        "Cambridge University Press",
+        "De Gruyter"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Scientific Information: Access, Processing and Safeguarding",
+        "who",
+        "Swiss",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

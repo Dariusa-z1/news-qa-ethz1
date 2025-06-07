@@ -1,0 +1,250 @@
+{
+  "filename": "de_internal_2020_05_digitale-recherche-nach-fachgebiet.md",
+  "original_filename": "de_internal_2020_05_digitale-recherche-nach-fachgebiet.html",
+  "source_path": "de_internal/2020/05/digitale-recherche-nach-fachgebiet.html",
+  "date": "2020-05",
+  "title": "Digitale Recherche Nach Fachgebiet",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Wussten Sie, dass die ETH-Bibliothek einen nach Fachgebieten geordneten Zugang zu elektronischen Ressourcen anbietet?\n\nMit wenigen Klicks erhalten Sie Zugriff auf elektronische Zeitschriften, Lehrbücher, Neuerscheinungen sowie Verknüpfungen zu externen Datenbanken wie Web of Science und Scopus. Zu folgenden Fachgebieten, entsprechend der Forschung und Lehre an der ETH Zürich, stehen Ihnen umfangreiche Informationen zur Verfügung:\n\nAgrar- und Lebensmittelwissenschaften , Architektur und Stadtplanung , Bauingenieurwissenschaften , Biologie , Chemie , Elektro- und Energietechnik , Geistes- und Sozialwissenschaften , Geowissenschaften , Informatik , Maschinenbau , Materialwissenschaften , Mathematik , Medizin und Pharmazie , Physik und Astronomie , Umwelt, Verkehr und Geographie , Wirtschaft Recht und Politik sowie Allgemeines und Fachübergreifendes .\n\nNutzen Sie die Möglichkeit, von einem groben Überblick zügig zur Detailsuche und den gewünschten Resultaten zu gelangen! Falls Sie eine Beratung in Ihrem Fachgebiet wünschen, nehmen Sie bitte mit der zuständigen Fachreferentin oder dem Fachreferenten Kontakt auf.\n\nDie ETH-Bibliothek ist die grösste öffentliche naturwissenschaftliche und technische Bibliothek der Schweiz.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.\n\n#ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/05/digitale Recherche",
+        "label": "LOC",
+        "start": 0,
+        "end": 38
+      },
+      {
+        "text": "Wussten",
+        "label": "MISC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 22,
+        "end": 36
+      },
+      {
+        "text": "Web of Science",
+        "label": "MISC",
+        "start": 268,
+        "end": 282
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 366,
+        "end": 376
+      },
+      {
+        "text": "Allgemeines",
+        "label": "ORG",
+        "start": 821,
+        "end": 832
+      },
+      {
+        "text": "Fachübergreifendes",
+        "label": "LOC",
+        "start": 837,
+        "end": 855
+      },
+      {
+        "text": "Kontakt",
+        "label": "PER",
+        "start": 1109,
+        "end": 1116
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 1126,
+        "end": 1140
+      },
+      {
+        "text": "der Schweiz",
+        "label": "LOC",
+        "start": 1218,
+        "end": 1229
+      },
+      {
+        "text": "GewusstWie",
+        "label": "MISC",
+        "start": 1231,
+        "end": 1241
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 1280,
+        "end": 1294
+      },
+      {
+        "text": "ETHBibliothekDigital",
+        "label": "LOC",
+        "start": 1321,
+        "end": 1341
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 1348,
+        "end": 1362
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Kontakt"
+      ],
+      "ORG": [
+        "Allgemeines",
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2020/05/digitale Recherche",
+        "ETHBibliothekDigital",
+        "Fachübergreifendes",
+        "der Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "Web of Science",
+        "Wussten"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 4,
+      "De Internal/2020/05/digitale Recherche": 1,
+      "Wussten": 1,
+      "Web of Science": 1,
+      "ETH Zürich": 1,
+      "Allgemeines": 1,
+      "Fachübergreifendes": 1,
+      "Kontakt": 1,
+      "der Schweiz": 1,
+      "GewusstWie": 1,
+      "ETHBibliothekDigital": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2020_05_digitale-recherche-nach-fachgebiet.md",
+      "title": "De Internal/2020/05/digitale Recherche nach Fachgebiet",
+      "language": "de",
+      "source_path": "de_internal/2020/05/digitale-recherche-nach-fachgebiet.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Kontakt"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "GewusstWie",
+        "Web of Science",
+        "Wussten"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Ihrem Fachgebiet",
+        "Nutzen Sie",
+        "Die Infrastruktur",
+        "De Internal",
+        "Wirtschaft Recht",
+        "Sie Zugriff",
+        "Falls Sie",
+        "Die ETH",
+        "Fachgebiet Wussten",
+        "Ihrem Ziel",
+        "Fachreferenten Kontakt"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Allgemeines",
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2020/05/digitale Recherche",
+        "ETHBibliothekDigital",
+        "Fachübergreifendes",
+        "der Schweiz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2020/05/digitale Recherche",
+        "Wussten",
+        "Web of Science",
+        "ETH Zürich",
+        "Allgemeines",
+        "Fachübergreifendes",
+        "Kontakt",
+        "der Schweiz",
+        "GewusstWie"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1546
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Kontakt",
+        "EU",
+        "2020",
+        "Allgemeines",
+        "ETH Zürich",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "ETH-Bibliothek",
+        "Web of Science",
+        "Wussten",
+        "GewusstWie",
+        "when"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

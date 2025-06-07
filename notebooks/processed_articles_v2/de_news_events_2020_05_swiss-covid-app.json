@@ -1,0 +1,694 @@
+{
+  "filename": "de_news_events_2020_05_swiss-covid-app.md",
+  "original_filename": "de_news_events_2020_05_swiss-covid-app.html",
+  "source_path": "de_news_events/2020/05/swiss-covid-app.html",
+  "date": "2020-05",
+  "title": "Swiss Covid App",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Viele folgen der Schweizer Idee",
+      "text": "Die Menschen in der Schweiz kehren nach der Corona-Krise allmählich wieder zu ihrem Alltag und ihrer Arbeit zurück. Mit den Lockerungen des Lockdowns steigt aber auch die Angst vor einer zweiten Infektionswelle. Gesundheits- und Sicherheitsvorschriften bleiben die beste Strategie, um sich gegen eine COVID-19-Infektion zu schützen. Zusätzlich plant der Bund, der Schweizer Bevölkerung möglichst bald eine Tracing App zur Verfügung zu stellen, die dazu beitragen kann, die Verbreitung des Virus einzudämmen. Die App wird im Rahmen des Projekts DP-3T von der ETH Zürich und Lausanne gemeinsam mit internationalen Forschenden entwickelt.\n\nForschende der ETH Zürich sind unter anderem am Design, der Evaluation der Sicherheit, des Datenschutzes und der Leistungsfähigkeit der App in Bezug auf die Bluetooth-Messungen beteiligt. Srdjan Čapkun, Professor für System- und Netzwerksicherheit, der die SwissCovid App mitentwickelt, betont: «Es handelt sich nicht 'nur' um eine Smartphone-App – es ist vielmehr ein komplexes Kontaktverfolgungssystem. Es soll in erster Linie die Menschen darüber informieren, wenn sie einer positiv getesteten Person zu nahe waren. Die SwissCovid App schützt aber auch ihre Privatsphäre, ermöglicht Roaming zwischen Ländern und erweitert die bestehende Soft- und Hardware von Smartphones.»"
+    },
+    {
+      "heading": "Viele folgen der Schweizer Idee",
+      "text": "Auf der ganzen Welt werden fieberhaft Tracing Apps entwickelt – die Idee dahinter ist überall die gleiche: Smartphones, die wir ohnehin ständig mit uns herumtragen, sollen zu Werkzeugen werden, mit deren Hilfe Infektionsketten unterbrochen werden können. Doch wie funktioniert das am besten? «Es gibt vor allem viele schlechte Wege, wie man dies tun kann», erklärt Čapkun. Schlecht sind für den ETH-Professoren alle Lösungen, die es Akteuren ermöglichen, die Interaktionen von Menschen zu verfolgen und selektive oder diskriminierende Quarantäne zu verhängen. «Die Leistung von DP-3T besteht darin, dass wir eine Reihe von Mechanismen entwickelt haben, die dazu dienen, das Contact Tracing einfach und sicher zu gestalten. Einige dieser Funktionen werden nun auch in die Betriebssysteme Android und iOS übernommen», so der ETH-Professor.\n\nTatsache ist, dass viele Projekte und Länder den gleichen Weg bei der Entwicklung der Tracing App eingeschlagen haben. Einige verwenden Teile des DP-3T-Codes, andere implementieren ihn komplett und passen ihn an die jeweiligen Länder an. Das zugrunde liegende Konzept ist dasselbe. «Dies ist ein Experiment für uns alle. So etwas ist bisher noch nie gemacht worden», führt Čapkun aus."
+    },
+    {
+      "heading": "Zusammenarbeit mit Google und Apple",
+      "text": "Einige Personen könnten sich Sorgen um den Datenschutz machen, wenn mit Google und Apple zwei Techgiganten mit an Bord sind. Čapkun, der selber grössten Wert auf Datenschutz legt, beruhigt: «Im Falle der SwissCovid App werden Informationen lokal verarbeitet, alle Daten werden nach 21 Tagen automatisch gelöscht und persönliche Daten nirgends zentral gespeichert. Die Datensicherheit ist immer garantiert.» Design und Implementierung der SwissCovid App sind zudem Open Source.\n\nČapkun gibt zu bedenken: «Wir alle versuchen, eine Tracing App auf Software und Hardware aufzubauen, die nicht für diesen Zweck konzipiert wurde. Bluetooth wurde nicht für diese Art der gross angelegten Entfernungsmessung entwickelt. Um sicherzustellen, dass wir es auf diese Weise nutzen können, ist viel Technik und die Zusammenarbeit nötig – Apple und Google können da helfen.» Die Schweiz ist denn auch das erste Land der Welt, dass die Schnittstellen von Google und Apple in der App verwendet. «Es bedeutet auch, dass wir die Ersten sind, die mit den Kinderkrankheiten des Programms fertig werden müssen. Wir brauchen deshalb das Feedback der Nutzenden, bevor wir im Juni mit der nationalen Einführung starten», so Čapkun."
+    },
+    {
+      "heading": "Wie funktioniert die App?",
+      "text": "Die App nutzt Bluetooth-Beaconing-Technologie: Per Bluetooth sucht die App nach anderen Smartphones in der Nähe, auf denen die App ebenfalls installiert ist. Finden sich zwei solche Geräte, tauschen diese zufällige Beacons – eine Art privater Schlüssel – aus, sofern sie während mehr als 15 Minuten weniger als zwei Meter voneinander entfernt waren. Diese Parameter wurden von den Epidemiologen so festgelegt und könnten innerhalb der App auch noch angepasst werden, falls neue Informationen über das Virus das nötig machen würden.\n\nWird ein Nutzer oder eine Nutzerin der App positiv auf Corona getestet, erhält er oder sie vom Kantonsarzt einen Code. Entscheidet sich die infizierte Person, den Code in der App einzugeben, werden andere Nutzende benachrichtigt, dass sie durch den Kontakt mit einer infizierten Person einem Ansteckungsrisiko ausgesetzt waren. Die Benachrichtigung erfolgt automatisiert und anonym, ohne dass Rückschlüsse auf eine Person oder den Ort der möglichen Ansteckung gezogen werden können. Da das Projekt viele rechtliche und ethische Dimensionen hat, arbeiten die Forschenden eng mit den Bundesämtern, dem BAG und dem BIT zusammenarbeiten.\n\nIn der Pilotphase geht es vor allem darum, die Funktionsfähigkeit aller Komponenten des Systems zu testen und natürlich auch deren Zusammenspiel. Eine der Herausforderungen besteht darin, sicherzustellen, dass die App die Nähe zwischen Menschen aufgrund der Bluetooth-Signale genau erkennen kann. Es liegt auf der Hand, dass die Wahrscheinlichkeit einer Infektion nicht nur von der Entfernung, sondern auch von vielen anderen Faktoren abhängt. «In Zusammenarbeit mit den Epidemiologen haben wir deshalb einen Bewertungsraster festgelegt, das darauf abzielt, falsche Ergebnisse zu reduzieren», sagt Čapkun.\n\nUnd was, wenn Bugs bei der SwissCovid App entdeckt werden? «Das ist Sinn und Zweck einer solchen Pilotphase – alles, was wir heute verbessern und korrigieren können, läuft nachher besser», so Čapkun, und hält fest: «Zwei Mitglieder meiner Gruppe, Marc Roschlin und Patrick Leu, haben viele Stunden an diesen Messungen und deren Analyse gearbeitet. Wir sind alle froh, dass die Pilotphase nun beginnt.»\n\nDie Pilotphase wurde vom Bund durch eine Verordnung geregelt und läuft spätestens Ende Juni aus. Das Entwicklungsteam hofft jedoch, dass der Pilot deutlich schneller gute Ergebnisse liefert und dass das Parlament in der nächsten Session Anfang Juni einen Gesetzesentwurf verabschiedet, der eine schnelle Implementierung für die ganze Schweizer Bevölkerung ermöglicht."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "text": "Corona-Krise",
+        "label": "MISC",
+        "start": 44,
+        "end": 56
+      },
+      {
+        "text": "Lockdowns",
+        "label": "ORG",
+        "start": 140,
+        "end": 149
+      },
+      {
+        "text": "Bund",
+        "label": "LOC",
+        "start": 354,
+        "end": 358
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 364,
+        "end": 373
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 489,
+        "end": 494
+      },
+      {
+        "text": "DP-3T",
+        "label": "MISC",
+        "start": 544,
+        "end": 549
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 558,
+        "end": 568
+      },
+      {
+        "text": "Lausanne",
+        "label": "ORG",
+        "start": 573,
+        "end": 581
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 651,
+        "end": 661
+      },
+      {
+        "text": "Bluetooth-Messungen",
+        "label": "LOC",
+        "start": 793,
+        "end": 812
+      },
+      {
+        "text": "Srdjan Čapkun",
+        "label": "PER",
+        "start": 824,
+        "end": 837
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 893,
+        "end": 903
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 1159,
+        "end": 1169
+      },
+      {
+        "text": "Roaming",
+        "label": "PER",
+        "start": 1222,
+        "end": 1229
+      },
+      {
+        "text": "Tracing Apps",
+        "label": "MISC",
+        "start": 38,
+        "end": 50
+      },
+      {
+        "text": "Smartphones",
+        "label": "PER",
+        "start": 107,
+        "end": 118
+      },
+      {
+        "text": "Čapkun",
+        "label": "LOC",
+        "start": 365,
+        "end": 371
+      },
+      {
+        "text": "Schlecht",
+        "label": "PER",
+        "start": 373,
+        "end": 381
+      },
+      {
+        "text": "ETH-Professoren",
+        "label": "ORG",
+        "start": 395,
+        "end": 410
+      },
+      {
+        "text": "Akteuren",
+        "label": "LOC",
+        "start": 433,
+        "end": 441
+      },
+      {
+        "text": "DP-3T",
+        "label": "MISC",
+        "start": 578,
+        "end": 583
+      },
+      {
+        "text": "Android",
+        "label": "MISC",
+        "start": 787,
+        "end": 794
+      },
+      {
+        "text": "iOS",
+        "label": "ORG",
+        "start": 799,
+        "end": 802
+      },
+      {
+        "text": "ETH-Professor",
+        "label": "MISC",
+        "start": 823,
+        "end": 836
+      },
+      {
+        "text": "Tracing App",
+        "label": "MISC",
+        "start": 924,
+        "end": 935
+      },
+      {
+        "text": "DP-3T-Codes",
+        "label": "MISC",
+        "start": 984,
+        "end": 995
+      },
+      {
+        "text": "Čapkun",
+        "label": "LOC",
+        "start": 1211,
+        "end": 1217
+      },
+      {
+        "text": "Sorgen",
+        "label": "LOC",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 72,
+        "end": 78
+      },
+      {
+        "text": "Apple",
+        "label": "ORG",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "Čapkun",
+        "label": "LOC",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 204,
+        "end": 214
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 438,
+        "end": 448
+      },
+      {
+        "text": "Čapkun",
+        "label": "LOC",
+        "start": 477,
+        "end": 483
+      },
+      {
+        "text": "Tracing App",
+        "label": "MISC",
+        "start": 528,
+        "end": 539
+      },
+      {
+        "text": "Bluetooth",
+        "label": "PER",
+        "start": 623,
+        "end": 632
+      },
+      {
+        "text": "Apple",
+        "label": "MISC",
+        "start": 822,
+        "end": 827
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 832,
+        "end": 838
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 862,
+        "end": 869
+      },
+      {
+        "text": "Google",
+        "label": "MISC",
+        "start": 937,
+        "end": 943
+      },
+      {
+        "text": "Apple",
+        "label": "MISC",
+        "start": 948,
+        "end": 953
+      },
+      {
+        "text": "Ersten",
+        "label": "MISC",
+        "start": 1008,
+        "end": 1014
+      },
+      {
+        "text": "Čapkun",
+        "label": "LOC",
+        "start": 1197,
+        "end": 1203
+      },
+      {
+        "text": "Per Bluetooth",
+        "label": "PER",
+        "start": 47,
+        "end": 60
+      },
+      {
+        "text": "Virus",
+        "label": "MISC",
+        "start": 501,
+        "end": 506
+      },
+      {
+        "text": "Corona",
+        "label": "LOC",
+        "start": 587,
+        "end": 593
+      },
+      {
+        "text": "Entscheidet",
+        "label": "PER",
+        "start": 651,
+        "end": 662
+      },
+      {
+        "text": "Person",
+        "label": "PER",
+        "start": 683,
+        "end": 689
+      },
+      {
+        "text": "Person",
+        "label": "PER",
+        "start": 811,
+        "end": 817
+      },
+      {
+        "text": "BAG",
+        "label": "ORG",
+        "start": 1132,
+        "end": 1135
+      },
+      {
+        "text": "BIT",
+        "label": "ORG",
+        "start": 1144,
+        "end": 1147
+      },
+      {
+        "text": "Systems",
+        "label": "MISC",
+        "start": 1254,
+        "end": 1261
+      },
+      {
+        "text": "Bluetooth-Signale",
+        "label": "LOC",
+        "start": 1424,
+        "end": 1441
+      },
+      {
+        "text": "Čapkun",
+        "label": "LOC",
+        "start": 1764,
+        "end": 1770
+      },
+      {
+        "text": "Bugs",
+        "label": "PER",
+        "start": 1786,
+        "end": 1790
+      },
+      {
+        "text": "SwissCovid",
+        "label": "ORG",
+        "start": 1799,
+        "end": 1809
+      },
+      {
+        "text": "Čapkun",
+        "label": "LOC",
+        "start": 1964,
+        "end": 1970
+      },
+      {
+        "text": "Marc Roschlin",
+        "label": "PER",
+        "start": 2019,
+        "end": 2032
+      },
+      {
+        "text": "Patrick Leu",
+        "label": "PER",
+        "start": 2037,
+        "end": 2048
+      },
+      {
+        "text": "Bund",
+        "label": "LOC",
+        "start": 2199,
+        "end": 2203
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 2508,
+        "end": 2517
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bluetooth",
+        "Bugs",
+        "De News",
+        "Entscheidet",
+        "Marc Roschlin",
+        "Patrick Leu",
+        "Per Bluetooth",
+        "Person",
+        "Roaming",
+        "Schlecht",
+        "Smartphones",
+        "Srdjan Čapkun"
+      ],
+      "ORG": [
+        "Apple",
+        "BAG",
+        "BIT",
+        "ETH Zürich",
+        "ETH-Professoren",
+        "Lausanne",
+        "Lockdowns",
+        "SwissCovid",
+        "iOS"
+      ],
+      "LOCATION": [
+        "Akteuren",
+        "Bluetooth-Messungen",
+        "Bluetooth-Signale",
+        "Bund",
+        "Corona",
+        "Schweiz",
+        "Sorgen",
+        "Čapkun"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Android",
+        "Apple",
+        "Corona-Krise",
+        "DP-3T",
+        "DP-3T-Codes",
+        "ETH-Professor",
+        "Ersten",
+        "Google",
+        "Schweizer",
+        "Systems",
+        "Tracing App",
+        "Tracing Apps",
+        "Virus"
+      ]
+    },
+    "entity_counts": {
+      "Čapkun": 7,
+      "SwissCovid": 5,
+      "Google": 3,
+      "Apple": 3,
+      "Schweiz": 2,
+      "Bund": 2,
+      "Schweizer": 2,
+      "Virus": 2,
+      "DP-3T": 2,
+      "ETH Zürich": 2,
+      "Tracing App": 2,
+      "Person": 2,
+      "De News": 1,
+      "Corona-Krise": 1,
+      "Lockdowns": 1,
+      "Lausanne": 1,
+      "Bluetooth-Messungen": 1,
+      "Srdjan Čapkun": 1,
+      "Roaming": 1,
+      "Tracing Apps": 1
+    },
+    "total_entities": 63,
+    "unique_entities": 41
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_news_events_2020_05_swiss-covid-app.md",
+      "title": "De News Events/2020/05/swiss Covid App",
+      "language": "de",
+      "source_path": "de_news_events/2020/05/swiss-covid-app.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Bluetooth",
+        "Bugs",
+        "De News",
+        "Entscheidet",
+        "Marc Roschlin",
+        "Patrick Leu",
+        "Per Bluetooth",
+        "Person",
+        "Roaming",
+        "Schlecht",
+        "Smartphones",
+        "Srdjan Čapkun"
+      ],
+      "people_with_roles": {
+        "Schlecht": [
+          "professor"
+        ],
+        "Srdjan Čapkun": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Android",
+        "Apple",
+        "Corona-Krise",
+        "DP-3T",
+        "DP-3T-Codes",
+        "ETH-Professor",
+        "Ersten",
+        "Google",
+        "Schweizer",
+        "Systems",
+        "Tracing App",
+        "Tracing Apps",
+        "Virus"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Covid App",
+        "Per Bluetooth",
+        "Die Leistung",
+        "Die Schweiz",
+        "Zwei Mitglieder",
+        "Ende Juni",
+        "Corona-Krise",
+        "Smartphone-App",
+        "Die SwissCovid",
+        "Die Benachrichtigung",
+        "ETH-Professor",
+        "Bluetooth-Messungen",
+        "Contact Tracing",
+        "Hilfe Infektionsketten",
+        "Die Menschen",
+        "Open Source",
+        "Marc Roschlin",
+        "Session Anfang",
+        "In Zusammenarbeit",
+        "Die Pilotphase",
+        "Projekts DP",
+        "Bluetooth-Signale",
+        "Die App",
+        "Einige Personen",
+        "Tracing App",
+        "Bluetooth-Beaconing",
+        "Patrick Leu",
+        "Das Entwicklungsteam",
+        "Die Datensicherheit",
+        "ETH-Professoren",
+        "Betriebssysteme Android",
+        "SwissCovid App",
+        "Diese Parameter",
+        "De News",
+        "Tracing Apps",
+        "Im Falle"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Apple",
+        "BAG",
+        "BIT",
+        "ETH Zürich",
+        "ETH-Professoren",
+        "Lausanne",
+        "Lockdowns",
+        "SwissCovid",
+        "iOS"
+      ],
+      "locations": [
+        "Akteuren",
+        "Bluetooth-Messungen",
+        "Bluetooth-Signale",
+        "Bund",
+        "Corona",
+        "Schweiz",
+        "Sorgen",
+        "Čapkun"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when"
+      ],
+      "key_concepts": [
+        "Čapkun",
+        "SwissCovid",
+        "Google",
+        "Apple",
+        "Schweiz",
+        "Bund",
+        "Schweizer",
+        "Virus",
+        "DP-3T",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Viele folgen der Schweizer Idee",
+          "Viele folgen der Schweizer Idee",
+          "Zusammenarbeit mit Google und Apple",
+          "Wie funktioniert die App?"
+        ],
+        "content_length": 6328
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Per Bluetooth",
+        "iOS",
+        "2020",
+        "Person",
+        "Marc Roschlin",
+        "SwissCovid",
+        "Lockdowns",
+        "ETH Zürich",
+        "Roaming",
+        "BIT",
+        "Entscheidet",
+        "Bugs",
+        "EU",
+        "Patrick Leu",
+        "ETH-Professoren",
+        "Srdjan Čapkun",
+        "Schlecht",
+        "BAG",
+        "Smartphones",
+        "De News",
+        "Bluetooth",
+        "Apple",
+        "Lausanne"
+      ],
+      "semantic_concepts": [
+        "Google",
+        "Corona-Krise",
+        "Schweizer",
+        "Android",
+        "who",
+        "Tracing App",
+        "when",
+        "Tracing Apps",
+        "ETH-Professor",
+        "Apple",
+        "DP-3T-Codes",
+        "computer_science",
+        "Systems",
+        "Virus",
+        "Ersten",
+        "DP-3T"
+      ],
+      "graph_relations": [
+        "Schlecht_has_role_professor",
+        "Srdjan Čapkun_has_role_professor",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

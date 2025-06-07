@@ -1,0 +1,415 @@
+{
+  "filename": "replacing-toxic-chlorine-and-bromine.md",
+  "original_filename": "replacing-toxic-chlorine-and-bromine.html",
+  "source_path": "en_news_events/2021/01/replacing-toxic-chlorine-and-bromine.html",
+  "date": "2021-01",
+  "title": "Replacing Toxic Chlorine And Bromine",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Shuttle system with electricity",
+      "text": "Chlorine and bromine in their molecular form (as Cl 2 and Br 2 molecules) are notoriously toxic and corrosive chemicals. This has been tragically illustrated, for example, in the use of chlorine as a chemical weapon, from the First World War to recent attacks in Iraq and Syria. Additionally, these highly unstable chemicals containing chlorine and bromine have been implicated in thousands of reported chemical accidents. And yet they are still among the most widely used industrial chemicals to produce valuable flame retardants, pest control agents, polymers and pharmaceuticals.\n\nResearchers at ETH Zurich and the University of Mainz have now developed a method to avoid the use of molecular chlorine and bromine in the manufacture of these products. Instead, they use alternative chemical compounds that also contain the elements chlorine and bromine, but are less toxic and less reactive. These compounds – which include dichloroethane and dibromoethane – can therefore be handled and transported more easily. The safety of industrial processes could thus be increased."
+    },
+    {
+      "heading": "Shuttle system with electricity",
+      "text": "In order to use these alternative compounds in chemical synthesis, the scientists developed a shuttle system that works with electricity: Similar to how a shuttle bus transports people from A to B, electricity helps in this reaction to transfer chlorine and bromine from the starting materials dichloroethane and dibromoethane to other chemical compounds.\n\nThe method has another advantage: while conventional reactions with molecular chlorine and bromine only proceed in one direction, the new shuttle reaction works in both directions. \"We can therefore also use the reaction to convert certain toxic compounds containing chlorine and bromine into less harmful compounds,\" says Bill Morandi, Professor of Synthetic Organic Chemistry at ETH Zurich and one of the lead authors of the study."
+    },
+    {
+      "heading": "Solving environmental problems",
+      "text": "One example of such a toxic compound is Lindane, which contains chlorine and was used as an insecticide in agriculture for decades. In 2009, it was banned because of its high toxicity and environmental persistence. However, in many European countries, including Switzerland, there are still large dumpsites containing Lindane. These sites are considered an environmental risk, which is why authorities and scientists are looking for solutions to remove the compound. \"Our method is suitable for remediating soil contaminated with Lindane,\" says Morandi.\n\nThe chemist sees the new method not only as a good example of how chemical processes can be made more sustainable and safer, but also as a contribution to a future circular economy. \"Resources on earth are limited. The new method offers a pathway to valorize waste materials according to the 'waste to value' concept so that we can use them again as raw materials,\" says Morandi.\n\nDong X, Roeckl JL, Waldvogel SR, Morandi B: Merging shuttle reactions and paired electrolysis for reversible vicinal dihalogenations. Science, 28 January 2021, doi: 10.1126/science.abf2974"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bromine",
+        "label": "PERSON",
+        "start": 52,
+        "end": 59
+      },
+      {
+        "text": "Chlorine",
+        "label": "GPE",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "the First World War",
+        "label": "EVENT",
+        "start": 222,
+        "end": 241
+      },
+      {
+        "text": "Iraq",
+        "label": "GPE",
+        "start": 263,
+        "end": 267
+      },
+      {
+        "text": "Syria",
+        "label": "GPE",
+        "start": 272,
+        "end": 277
+      },
+      {
+        "text": "bromine",
+        "label": "ORG",
+        "start": 349,
+        "end": 356
+      },
+      {
+        "text": "thousands",
+        "label": "CARDINAL",
+        "start": 381,
+        "end": 390
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 598,
+        "end": 608
+      },
+      {
+        "text": "the University of Mainz",
+        "label": "ORG",
+        "start": 613,
+        "end": 636
+      },
+      {
+        "text": "Bill Morandi",
+        "label": "PERSON",
+        "start": 679,
+        "end": 691
+      },
+      {
+        "text": "Synthetic Organic Chemistry",
+        "label": "ORG",
+        "start": 706,
+        "end": 733
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 737,
+        "end": 747
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 752,
+        "end": 755
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Lindane",
+        "label": "ORG",
+        "start": 40,
+        "end": 47
+      },
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 123,
+        "end": 130
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 232,
+        "end": 240
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 262,
+        "end": 273
+      },
+      {
+        "text": "Lindane",
+        "label": "ORG",
+        "start": 318,
+        "end": 325
+      },
+      {
+        "text": "Lindane",
+        "label": "PERSON",
+        "start": 530,
+        "end": 537
+      },
+      {
+        "text": "Morandi",
+        "label": "PERSON",
+        "start": 545,
+        "end": 552
+      },
+      {
+        "text": "Morandi",
+        "label": "PERSON",
+        "start": 925,
+        "end": 932
+      },
+      {
+        "text": "Dong X",
+        "label": "PERSON",
+        "start": 934,
+        "end": 940
+      },
+      {
+        "text": "Waldvogel SR",
+        "label": "ORG",
+        "start": 953,
+        "end": 965
+      },
+      {
+        "text": "Morandi B",
+        "label": "PERSON",
+        "start": 967,
+        "end": 976
+      },
+      {
+        "text": "28 January 2021",
+        "label": "DATE",
+        "start": 1077,
+        "end": 1092
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 1099,
+        "end": 1106
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bill Morandi",
+        "Bromine",
+        "Dong X",
+        "Lindane",
+        "Morandi",
+        "Morandi B"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Lindane",
+        "Synthetic Organic Chemistry",
+        "Waldvogel SR",
+        "bromine",
+        "the University of Mainz"
+      ],
+      "LOCATION": [
+        "Chlorine",
+        "Iraq",
+        "Switzerland",
+        "Syria"
+      ],
+      "DATE": [
+        "28 January 2021",
+        "decades"
+      ],
+      "MISC": [
+        "10.1126",
+        "European",
+        "One",
+        "one",
+        "the First World War",
+        "thousands"
+      ]
+    },
+    "entity_counts": {
+      "Lindane": 3,
+      "ETH Zurich": 2,
+      "Morandi": 2,
+      "Bromine": 1,
+      "Chlorine": 1,
+      "the First World War": 1,
+      "Iraq": 1,
+      "Syria": 1,
+      "bromine": 1,
+      "thousands": 1,
+      "the University of Mainz": 1,
+      "Bill Morandi": 1,
+      "Synthetic Organic Chemistry": 1,
+      "one": 1,
+      "One": 1,
+      "decades": 1,
+      "European": 1,
+      "Switzerland": 1,
+      "Dong X": 1,
+      "Waldvogel SR": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "replacing-toxic-chlorine-and-bromine.md",
+      "title": "En News Events/2021/01/replacing Toxic Chlorine And Bromine",
+      "language": "en",
+      "source_path": "en_news_events/2021/01/replacing-toxic-chlorine-and-bromine.html"
+    },
+    "temporal": {
+      "publication_date": "2021-01",
+      "mentioned_years": [
+        "2009",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bill Morandi",
+        "Bromine",
+        "Dong X",
+        "Lindane",
+        "Morandi",
+        "Morandi B"
+      ],
+      "people_with_roles": {
+        "Bill Morandi": [
+          "professor"
+        ],
+        "Bromine": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "Morandi": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1126",
+        "European",
+        "the First World War",
+        "thousands"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Dong X",
+        "En News",
+        "Synthetic Organic",
+        "Waldvogel SR",
+        "First World",
+        "Toxic Chlorine",
+        "Morandi B",
+        "ETH Zurich",
+        "And Bromine",
+        "Bill Morandi",
+        "Roeckl JL"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Lindane",
+        "Synthetic Organic Chemistry",
+        "Waldvogel SR",
+        "bromine",
+        "the University of Mainz"
+      ],
+      "locations": [
+        "Chlorine",
+        "Iraq",
+        "Switzerland",
+        "Syria"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Lindane",
+        "ETH Zurich",
+        "Morandi",
+        "Bromine",
+        "Chlorine",
+        "the First World War",
+        "Iraq",
+        "Syria",
+        "bromine",
+        "thousands"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Shuttle system with electricity",
+          "Shuttle system with electricity",
+          "Solving environmental problems"
+        ],
+        "content_length": 3051
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Dong X",
+        "Synthetic Organic Chemistry",
+        "2009",
+        "the University of Mainz",
+        "EU",
+        "Lindane",
+        "bromine",
+        "Morandi",
+        "Waldvogel SR",
+        "Morandi B",
+        "2021",
+        "ETH Zurich",
+        "Bromine",
+        "Bill Morandi"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "the First World War",
+        "who",
+        "thousands",
+        "chemistry",
+        "10.1126",
+        "where",
+        "biology",
+        "what",
+        "how",
+        "European",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Bill Morandi_has_role_professor",
+        "Bromine_has_role_scientist",
+        "Bromine_has_role_researcher",
+        "Bromine_has_role_professor",
+        "Morandi_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

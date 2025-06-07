@@ -1,0 +1,243 @@
+{
+  "filename": "Congressi%20stefano-franscini-opens-call-for-proposals-for-conferences.md",
+  "original_filename": "Congressi%20stefano-franscini-opens-call-for-proposals-for-conferences.html",
+  "source_path": "en_internal/2016/08/Congressi%20stefano-franscini-opens-call-for-proposals-for-conferences.html",
+  "date": "2016-08",
+  "title": "Congressi%20Stefano Franscini Opens Call For Proposals For Conferences",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Congressi Stefano Franscini, ETH Zurich's conference platform since 1989, gives the possibility to organise research conferences at Monte Verità, a hilltop over Ascona and Lake Maggiore. All researchers and university professors working in Switzerland are invited to submit their proposal for a meeting to be held in 2018; international collaborations are welcome.\n\nFurthermore, the CSF gives ETH Zurich researchers or professors the possibility to organise a Winter School for doctoral students at Monte Verità, a hilltop over Ascona and Lake Maggiore. The aim is to provide participants with in depth knowledge on a specific research topic and insight into its leading edge research."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Congressi Stefano Franscini",
+        "label": "ORG",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 33,
+        "end": 45
+      },
+      {
+        "text": "Monte Verità",
+        "label": "GPE",
+        "start": 136,
+        "end": 148
+      },
+      {
+        "text": "Ascona",
+        "label": "GPE",
+        "start": 165,
+        "end": 171
+      },
+      {
+        "text": "Lake Maggiore",
+        "label": "LOC",
+        "start": 176,
+        "end": 189
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 244,
+        "end": 255
+      },
+      {
+        "text": "CSF",
+        "label": "ORG",
+        "start": 386,
+        "end": 389
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 396,
+        "end": 406
+      },
+      {
+        "text": "a Winter School",
+        "label": "ORG",
+        "start": 461,
+        "end": 476
+      },
+      {
+        "text": "Monte Verità",
+        "label": "PERSON",
+        "start": 502,
+        "end": 514
+      },
+      {
+        "text": "Ascona",
+        "label": "GPE",
+        "start": 531,
+        "end": 537
+      },
+      {
+        "text": "Lake Maggiore",
+        "label": "LOC",
+        "start": 542,
+        "end": 555
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich's",
+        "Monte Verità"
+      ],
+      "ORG": [
+        "CSF",
+        "ETH Zurich",
+        "The Congressi Stefano Franscini",
+        "a Winter School"
+      ],
+      "LOCATION": [
+        "Ascona",
+        "Lake Maggiore",
+        "Monte Verità",
+        "Switzerland"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Monte Verità": 2,
+      "Ascona": 2,
+      "Lake Maggiore": 2,
+      "The Congressi Stefano Franscini": 1,
+      "ETH Zurich's": 1,
+      "Switzerland": 1,
+      "CSF": 1,
+      "ETH Zurich": 1,
+      "a Winter School": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "Congressi%20stefano-franscini-opens-call-for-proposals-for-conferences.md",
+      "title": "En Internal/2016/08/congressi%20stefano Franscini Opens Call For Proposals For Conferences",
+      "language": "en",
+      "source_path": "en_internal/2016/08/Congressi%20stefano-franscini-opens-call-for-proposals-for-conferences.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "1989",
+        "2016",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich's",
+        "Monte Verità"
+      ],
+      "people_with_roles": {
+        "Monte Verità": [
+          "researcher",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Conferences The",
+        "Proposals For",
+        "Call For",
+        "Lake Maggiore",
+        "En Internal",
+        "ETH Zurich",
+        "Winter School",
+        "Franscini Opens",
+        "Congressi Stefano"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSF",
+        "ETH Zurich",
+        "The Congressi Stefano Franscini",
+        "a Winter School"
+      ],
+      "locations": [
+        "Ascona",
+        "Lake Maggiore",
+        "Monte Verità",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "Monte Verità",
+        "Ascona",
+        "Lake Maggiore",
+        "The Congressi Stefano Franscini",
+        "ETH Zurich's",
+        "Switzerland",
+        "CSF",
+        "ETH Zurich",
+        "a Winter School"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 780
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Monte Verità",
+        "2018",
+        "CSF",
+        "The Congressi Stefano Franscini",
+        "a Winter School",
+        "2016",
+        "ETH Zurich",
+        "1989",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "where",
+        "who"
+      ],
+      "graph_relations": [
+        "Monte Verità_has_role_researcher",
+        "Monte Verità_has_role_student",
+        "Monte Verità_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

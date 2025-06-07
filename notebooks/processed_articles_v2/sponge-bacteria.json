@@ -1,0 +1,429 @@
+{
+  "filename": "sponge-bacteria.md",
+  "original_filename": "sponge-bacteria.html",
+  "source_path": "en_news_events/2014/01/sponge-bacteria.html",
+  "date": "2014-01",
+  "title": "Sponge Bacteria",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Centrifugalising sponge",
+      "text": "Sponges are unique beings: they are invertebrates that live in symbiosis with sometimes hundreds of different types of bacteria; similar to lichens which are a biocoenosis of algae and fungi. \"Put simply, many sponges are lumps of bacteria in which some sponge cells are found,\" says Jörn Piel, Professor of Microbiology at the ETH Zurich.\n\nMany sponges have it in them: the bacteria they contain produce many, partly toxic natural products that may be interesting candidates for medical use. The stony sponge Theonella swinhoei is a particularly rich and well-investigated source of such natural products. There are various chemotypes of this sponge, i.e. organisms of the same kind that contain various metabolic products. From the yellow variant, Theonella swinhoei Y, which is found in waters surrounding Hachijo Island on Japan’s east coast, more than 40 different bioactive substances have been isolated to date – most of these being polyketides or peptides. Until now, however, it was not known which of the sponge’s bacteria produced these substances.\n\nA team of researchers from several higher education institutions in Germany, Japan, USA and Switzerland led by Jörn Piel has now been able to track down the initiator: a bacterium from the candidate genus Entotheonella is the producer of these substances. In a study that has just been published in Nature, the scientists also describe Entotheonella bacteria as representative of a new, subordinate systematic unit (phylum) within the bacteria kingdom that have been named \" Tectomicrobia \"."
+    },
+    {
+      "heading": "Reference",
+      "text": "Filamentous colonies of Entotheonella under the electron microscope. (Photo: Tetsushi Mori)\n\nIn order to find the substance producers, the researchers had to separate the sponge collected in the sea into its individual parts and examine the individual cells. After they had centrifuged the sponge components, the researchers noticed a threadlike bacterium under the microscope, which – after they examined it with a UV light – fluoresced. A closer inspection revealed two closely related Entotheonella bacteria that colonized the sponge. The association of the bioactive substances to the genome of both bacteria was ultimately indicative that only one of the two microorganisms manufactures the natural products obtained from the sponge.\n\nEntotheonella bacteria – with their chemically diverse metabolism – are so-called \"talented producers\". These include only a few groups of microorganisms, such as actinomycetes or Bacillus , that are able to produce metabolic products of medical interest. Until now, almost all of these substances could only be obtained from cultivated strains. Entotheonella are the first talented producers that belong to bacteria unable to be cultivated to date. The latter make up by far the largest proportion of all bacteria and have hardly been researched thus far. Current research is aiming to bring the substance producers from sponges to pure culture with the findings obtained from this study.\n\nIsolating the interesting substances from sponges would indeed be possible but not sustainable, because large amounts of sponge are needed for greater substance quantities. The substances should therefore be produced in a lab, either by cultivating corresponding strains of bacteria or by synthesis in a test tube. In several countries, a cancer treatment based on a sponge agent is already on the market. \"But in order to synthetically produce the agent, more than 60 work steps are required,\" says Piel, stressing the complexity of the endeavour.\n\nThe ETH professor sees another possibility in transferring the genes that code the agent production to an organism that is easy to cultivate and then producing the desired substance (or a precursor) in sufficient quantities. However, there is still a long way to go to reach this stage.\n\nWilson MC et al. An environmental bacterial taxon with a large and distinct metabolic repertoire. Nature, published online 29 th January 2014. DOI: 10.1038/nature12959"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Bacteria",
+        "label": "PRODUCT",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 88,
+        "end": 96
+      },
+      {
+        "text": "algae",
+        "label": "GPE",
+        "start": 175,
+        "end": 180
+      },
+      {
+        "text": "Jörn Piel",
+        "label": "PERSON",
+        "start": 284,
+        "end": 293
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "FAC",
+        "start": 324,
+        "end": 338
+      },
+      {
+        "text": "Theonella",
+        "label": "ORG",
+        "start": 509,
+        "end": 518
+      },
+      {
+        "text": "Theonella",
+        "label": "PERSON",
+        "start": 749,
+        "end": 758
+      },
+      {
+        "text": "Hachijo Island",
+        "label": "LOC",
+        "start": 808,
+        "end": 822
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 826,
+        "end": 831
+      },
+      {
+        "text": "more than 40",
+        "label": "CARDINAL",
+        "start": 846,
+        "end": 858
+      },
+      {
+        "text": "Germany",
+        "label": "GPE",
+        "start": 1127,
+        "end": 1134
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 1136,
+        "end": 1141
+      },
+      {
+        "text": "USA",
+        "label": "GPE",
+        "start": 1143,
+        "end": 1146
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1151,
+        "end": 1162
+      },
+      {
+        "text": "Jörn Piel",
+        "label": "PERSON",
+        "start": 1170,
+        "end": 1179
+      },
+      {
+        "text": "Nature",
+        "label": "GPE",
+        "start": 1358,
+        "end": 1364
+      },
+      {
+        "text": "Tectomicrobia",
+        "label": "WORK_OF_ART",
+        "start": 1534,
+        "end": 1547
+      },
+      {
+        "text": "Tetsushi Mori",
+        "label": "PERSON",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 467,
+        "end": 470
+      },
+      {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 643,
+        "end": 651
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 659,
+        "end": 662
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1106,
+        "end": 1111
+      },
+      {
+        "text": "more than 60",
+        "label": "CARDINAL",
+        "start": 1884,
+        "end": 1896
+      },
+      {
+        "text": "Piel",
+        "label": "PERSON",
+        "start": 1928,
+        "end": 1932
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1981,
+        "end": 1984
+      },
+      {
+        "text": "Wilson MC",
+        "label": "PERSON",
+        "start": 2264,
+        "end": 2273
+      },
+      {
+        "text": "al",
+        "label": "PERSON",
+        "start": 2277,
+        "end": 2279
+      },
+      {
+        "text": "January 2014",
+        "label": "DATE",
+        "start": 2393,
+        "end": 2405
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2412,
+        "end": 2419
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Jörn Piel",
+        "Piel",
+        "Tetsushi Mori",
+        "Theonella",
+        "Wilson MC",
+        "al"
+      ],
+      "ORG": [
+        "ETH",
+        "Theonella"
+      ],
+      "LOCATION": [
+        "Germany",
+        "Hachijo Island",
+        "Japan",
+        "Nature",
+        "Switzerland",
+        "USA",
+        "algae",
+        "the ETH Zurich"
+      ],
+      "DATE": [
+        "January 2014"
+      ],
+      "MISC": [
+        "10.1038",
+        "Bacteria",
+        "Tectomicrobia",
+        "first",
+        "hundreds",
+        "more than 40",
+        "more than 60",
+        "only one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Jörn Piel": 2,
+      "Theonella": 2,
+      "Japan": 2,
+      "two": 2,
+      "Bacteria": 1,
+      "hundreds": 1,
+      "algae": 1,
+      "the ETH Zurich": 1,
+      "Hachijo Island": 1,
+      "more than 40": 1,
+      "Germany": 1,
+      "USA": 1,
+      "Switzerland": 1,
+      "Nature": 1,
+      "Tectomicrobia": 1,
+      "Tetsushi Mori": 1,
+      "only one": 1,
+      "first": 1,
+      "more than 60": 1,
+      "Piel": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 25
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "sponge-bacteria.md",
+      "title": "En News Events/2014/01/sponge Bacteria",
+      "language": "en",
+      "source_path": "en_news_events/2014/01/sponge-bacteria.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Jörn Piel",
+        "Piel",
+        "Tetsushi Mori",
+        "Theonella",
+        "Wilson MC",
+        "al"
+      ],
+      "people_with_roles": {
+        "Jörn Piel": [
+          "researcher",
+          "professor"
+        ],
+        "Piel": [
+          "researcher",
+          "professor"
+        ],
+        "Tetsushi Mori": [
+          "researcher"
+        ],
+        "Theonella": [
+          "scientist",
+          "researcher"
+        ],
+        "al": [
+          "scientist",
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Bacteria",
+        "Tectomicrobia",
+        "first",
+        "hundreds",
+        "more than 40",
+        "more than 60",
+        "only one"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Hachijo Island",
+        "En News",
+        "Wilson MC",
+        "ETH Zurich",
+        "The ETH",
+        "Tetsushi Mori",
+        "Bacteria Sponges"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Theonella"
+      ],
+      "locations": [
+        "Germany",
+        "Hachijo Island",
+        "Japan",
+        "Nature",
+        "Switzerland",
+        "USA",
+        "algae",
+        "the ETH Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Jörn Piel",
+        "Theonella",
+        "Japan",
+        "two",
+        "Bacteria",
+        "hundreds",
+        "algae",
+        "the ETH Zurich",
+        "Hachijo Island",
+        "more than 40"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Centrifugalising sponge",
+          "Reference"
+        ],
+        "content_length": 4028
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Theonella",
+        "Wilson MC",
+        "al",
+        "Jörn Piel",
+        "Tetsushi Mori",
+        "2014",
+        "Piel"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Bacteria",
+        "first",
+        "who",
+        "Tectomicrobia",
+        "10.1038",
+        "more than 40",
+        "chemistry",
+        "hundreds",
+        "biology",
+        "what",
+        "how",
+        "only one",
+        "medical_research",
+        "when",
+        "more than 60"
+      ],
+      "graph_relations": [
+        "Jörn Piel_has_role_researcher",
+        "Jörn Piel_has_role_professor",
+        "Piel_has_role_researcher",
+        "Piel_has_role_professor",
+        "Tetsushi Mori_has_role_researcher",
+        "Theonella_has_role_scientist",
+        "Theonella_has_role_researcher",
+        "al_has_role_scientist",
+        "al_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

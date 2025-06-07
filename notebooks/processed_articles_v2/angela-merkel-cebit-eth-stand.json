@@ -1,0 +1,423 @@
+{
+  "filename": "angela-merkel-cebit-eth-stand.md",
+  "original_filename": "angela-merkel-cebit-eth-stand.html",
+  "source_path": "de_news_events/2016/03/angela-merkel-cebit-eth-stand.html",
+  "date": "2016-03",
+  "title": "Angela Merkel Cebit Eth Stand",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Für die deutsche Bundeskanzlerin Angela Merkel steht der alljährliche Besuch der in Hannover stattfindenden CeBIT so fest im Terminkalender, wie für den Schweizer Bundespräsidenten hierzulande die Olma. Kein Wunder, handelt es sich bei der CeBIT doch um die bedeutendste und grösste Computermesse der Welt. Wer hier ausstellt, zeigt, was morgen die Gesellschaft und Wirtschaft digital prägen könnte. Die Schweiz ist dieses Jahr Partnerland der CeBIT und kann auf rund 2700 Quadratmetern präsentieren, wie innovativ sie auf dem Gebiet der ICT ist.\n\nDie ETH Zürich ist mit einem Ausstellungstand, verschiedenen Projekten, sowie vier ETH-Spin-offs auf der Messe vertreten. Aufgrund der attraktiven Forschungsprojekte war schnell klar, dass die Kanzlerin und der Schweizer Bundespräsident auf ihrem Rundgang den Stand der ETH Zürich besuchen würden. «Dass ich Bundeskanzlerin Angela Merkel die ETH vorstellen darf, ist eine grosse Ehre. Es zeigt, welchen Stellenwert die ETH Zürich im ICT-Bereich einnimmt», so der ETH-Präsident.\n\nLino Guzzella zeigte den interessierten Gästen zum einen das Modell von In-situ-Fabricator, einem mobilen und kooperierenden Bauroboter, welcher die digitale Fabrikation direkt auf die Baustelle bringen soll. Zum andern präsentierte er eine neue App des Game Technology Center, dank welcher unbewegte, zweidimensionale Figuren eines Malbuchs plötzlich zu dreidimensionalem Leben erwachen, sobald sie ausgemalt werden. Zum grossen Vergnügen aller griff auch Angela Merkel zum Farbstift und bewunderte ihre Figur auf dem Screen.\n\nDer ETH-Präsident nahm aber auch die Gelegenheit war, um Angela Merkel zu erläutern, wie eng die Verbindungen zwischen Deutschland und der ETH sind. Stammen doch gegen 30 Prozent der Professorinnen und Professoren und rund 25 Prozent der Doktorierenden an der ETH aus Deutschland. Zudem pflege die ETH in rund 1‘500 gemeinsamen Projekten intensive Kontakte mit deutschen Universitäten und Forschungsinstitutionen. «Die ETH ist mit ihrem Land so eng verflochten wie die Schweiz mit Europa – zu unserem beidseitigen Vorteil», spielte der ETH-Präsident auf die aktuellen politischen Debatten an. Zum Abschluss des Besuchs überreichte Lino Guzzella der Bundeskanzlerin einen Magneten über dem ein Graphit-Plättchen schwebt – eine kleine Aufmerksamkeit an die promovierte Physikerin."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "angela Merkel",
+        "label": "PER",
+        "start": 23,
+        "end": 36
+      },
+      {
+        "text": "deutsche",
+        "label": "MISC",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "Angela Merkel",
+        "label": "PER",
+        "start": 33,
+        "end": 46
+      },
+      {
+        "text": "Hannover",
+        "label": "LOC",
+        "start": 84,
+        "end": 92
+      },
+      {
+        "text": "CeBIT",
+        "label": "LOC",
+        "start": 108,
+        "end": 113
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 153,
+        "end": 162
+      },
+      {
+        "text": "Olma",
+        "label": "ORG",
+        "start": 197,
+        "end": 201
+      },
+      {
+        "text": "CeBIT",
+        "label": "LOC",
+        "start": 240,
+        "end": 245
+      },
+      {
+        "text": "Gesellschaft und Wirtschaft digital prägen",
+        "label": "ORG",
+        "start": 349,
+        "end": 391
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 404,
+        "end": 411
+      },
+      {
+        "text": "Jahr Partnerland",
+        "label": "MISC",
+        "start": 423,
+        "end": 439
+      },
+      {
+        "text": "CeBIT",
+        "label": "LOC",
+        "start": 444,
+        "end": 449
+      },
+      {
+        "text": "Quadratmetern",
+        "label": "MISC",
+        "start": 473,
+        "end": 486
+      },
+      {
+        "text": "ICT",
+        "label": "MISC",
+        "start": 538,
+        "end": 541
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 551,
+        "end": 561
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 758,
+        "end": 767
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 817,
+        "end": 827
+      },
+      {
+        "text": "Angela Merkel",
+        "label": "PER",
+        "start": 871,
+        "end": 884
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 889,
+        "end": 892
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 966,
+        "end": 976
+      },
+      {
+        "text": "ETH-Präsident",
+        "label": "MISC",
+        "start": 1010,
+        "end": 1023
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 1025,
+        "end": 1038
+      },
+      {
+        "text": "Baustelle",
+        "label": "LOC",
+        "start": 1210,
+        "end": 1219
+      },
+      {
+        "text": "Angela Merkel",
+        "label": "PER",
+        "start": 1482,
+        "end": 1495
+      },
+      {
+        "text": "Screen",
+        "label": "MISC",
+        "start": 1544,
+        "end": 1550
+      },
+      {
+        "text": "ETH-Präsident",
+        "label": "MISC",
+        "start": 1556,
+        "end": 1569
+      },
+      {
+        "text": "Angela Merkel",
+        "label": "PER",
+        "start": 1609,
+        "end": 1622
+      },
+      {
+        "text": "Deutschland",
+        "label": "LOC",
+        "start": 1671,
+        "end": 1682
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1691,
+        "end": 1694
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1812,
+        "end": 1815
+      },
+      {
+        "text": "Deutschland",
+        "label": "LOC",
+        "start": 1820,
+        "end": 1831
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1850,
+        "end": 1853
+      },
+      {
+        "text": "deutschen",
+        "label": "MISC",
+        "start": 1913,
+        "end": 1922
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1971,
+        "end": 1974
+      },
+      {
+        "text": "Schweiz",
+        "label": "LOC",
+        "start": 2021,
+        "end": 2028
+      },
+      {
+        "text": "Europa",
+        "label": "LOC",
+        "start": 2033,
+        "end": 2039
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PER",
+        "start": 2183,
+        "end": 2196
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Angela Merkel",
+        "Lino Guzzella",
+        "angela Merkel"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zürich",
+        "Gesellschaft und Wirtschaft digital prägen",
+        "Olma"
+      ],
+      "LOCATION": [
+        "Baustelle",
+        "CeBIT",
+        "Deutschland",
+        "Europa",
+        "Hannover",
+        "Schweiz"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Präsident",
+        "ICT",
+        "Jahr Partnerland",
+        "Quadratmetern",
+        "Schweizer",
+        "Screen",
+        "deutsche",
+        "deutschen"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Angela Merkel": 4,
+      "CeBIT": 3,
+      "ETH Zürich": 3,
+      "Schweizer": 2,
+      "Schweiz": 2,
+      "ETH-Präsident": 2,
+      "Lino Guzzella": 2,
+      "Deutschland": 2,
+      "angela Merkel": 1,
+      "deutsche": 1,
+      "Hannover": 1,
+      "Olma": 1,
+      "Gesellschaft und Wirtschaft digital prägen": 1,
+      "Jahr Partnerland": 1,
+      "Quadratmetern": 1,
+      "ICT": 1,
+      "Baustelle": 1,
+      "Screen": 1,
+      "deutschen": 1
+    },
+    "total_entities": 37,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "angela-merkel-cebit-eth-stand.md",
+      "title": "De News Events/2016/03/angela Merkel Cebit Eth Stand",
+      "language": "de",
+      "source_path": "de_news_events/2016/03/angela-merkel-cebit-eth-stand.html"
+    },
+    "temporal": {
+      "publication_date": "2016-03",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Angela Merkel",
+        "Lino Guzzella",
+        "angela Merkel"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Präsident",
+        "Jahr Partnerland",
+        "Quadratmetern",
+        "Schweizer",
+        "Screen",
+        "deutsche",
+        "deutschen"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Merkel Cebit",
+        "ETH-Spin",
+        "Die Schweiz",
+        "ICT-Bereich",
+        "Jahr Partnerland",
+        "Zum Abschluss",
+        "Angela Merkel",
+        "De News",
+        "Die ETH",
+        "Kein Wunder",
+        "Game Technology",
+        "Lino Guzzella",
+        "Der ETH",
+        "Bundeskanzlerin Angela",
+        "Eth Stand"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zürich",
+        "Gesellschaft und Wirtschaft digital prägen",
+        "Olma"
+      ],
+      "locations": [
+        "Baustelle",
+        "CeBIT",
+        "Deutschland",
+        "Europa",
+        "Hannover",
+        "Schweiz"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Angela Merkel",
+        "CeBIT",
+        "ETH Zürich",
+        "Schweizer",
+        "Schweiz",
+        "ETH-Präsident",
+        "Lino Guzzella",
+        "Deutschland",
+        "angela Merkel"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2386
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Olma",
+        "angela Merkel",
+        "EU",
+        "Gesellschaft und Wirtschaft digital prägen",
+        "2016",
+        "Angela Merkel",
+        "ETH Zürich",
+        "Lino Guzzella"
+      ],
+      "semantic_concepts": [
+        "deutschen",
+        "Schweizer",
+        "who",
+        "Jahr Partnerland",
+        "deutsche",
+        "Quadratmetern",
+        "what",
+        "Screen",
+        "ETH-Präsident"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "filename": "ai-designs-new-drugs-based-on-protein-structures.md",
+  "original_filename": "ai-designs-new-drugs-based-on-protein-structures.html",
+  "source_path": "en_news_events/2024/04/ai-designs-new-drugs-based-on-protein-structures.html",
+  "date": "2024-04",
+  "title": "Ai Designs New Drugs Based On Protein Structures",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "In brief",
+      "text": "- Researchers at ETH Zurich have created a generative artificial intelligence (AI) for developing drug molecules based on the three-dimensional surface of proteins with which the molecules are to interact.\n\n- The new computer process ensures right from the start that the molecules can also be chemically synthesised.\n\n- The scientists have made their new software available to researchers worldwide, who can now use the method for their own projects."
+    },
+    {
+      "heading": "Excluding side effects from the outset",
+      "text": "“It’s a real breakthrough for drug discovery,” says Gisbert Schneider, Professor at ETH Zurich’s Department of Chemistry and Applied Biosciences. Together with his former doctoral student Kenneth Atz, he has developed an algorithm that uses artificial intelligence (AI) to design new active pharmaceutical ingredients. For any protein with a known three-dimensional shape, the algorithm generates the blueprints for potential drug molecules that increase or inhibit the activity of the protein. Chemists can then synthesise and test these molecules in the laboratory.\n\nAll the algorithm needs is a protein’s three-dimensional surface structure. Based on that, it designs molecules that bind specifically to the protein according to the lock-and-key principle so they can interact with it."
+    },
+    {
+      "heading": "Excluding side effects from the outset",
+      "text": "The new method builds on the decades-long efforts of chemists to elucidate the three-dimensional structure of proteins and to use computers to search for suitable potential drug molecules. Until now, this has often involved laborious manual work, and in many cases the search yielded molecules that were very difficult or impossible to synthesise. If researchers used AI in this process at all in recent years, it was primarily to improve existing molecules.\n\nNow, without human intervention, a generative AI is able to develop drug molecules from scratch that match a protein structure. This groundbreaking new process ensures right from the start that the molecules can be chemically synthesised. In addition, the algorithm suggests only molecules that interact with the specified protein at the desired location and hardly at all with any other proteins. “This means that when designing a drug molecule, we can be sure that it has as few side effects as possible,” Atz says.\n\nTo create the algorithm, the scientists trained an AI model with information from hundreds of thousands of known interactions between chemical molecules and the corresponding three-dimensional protein structures."
+    },
+    {
+      "heading": "Successful tests with industry",
+      "text": "Together with researchers from the pharmaceutical company Roche and other cooperation partners, the ETH team tested the new process and demonstrated what it is capable of. The scientists searched for molecules that interact with proteins in the PPAR class – proteins that regulate sugar and fatty acid metabolism in the body. Several diabetes drugs used today increase the activity of PPARs, which causes the cells to absorb more sugar from the blood and the blood sugar level to fall.\n\nStraightaway the AI designed new molecules that also increase the activity of PPARs, like the drugs currently available, but without a lengthy discovery process. After the ETH researchers had produced these molecules in the lab, colleagues at Roche subjected them to a variety of tests. These showed that the new substances are indeed stable and non-toxic right from the start."
+    },
+    {
+      "heading": "Reference",
+      "text": "The researchers aren’t now pursuing these molecules any further with a view to bringing drugs based on them to the market. Instead, the purpose of the molecules was to subject the new AI process to an initial rigorous test. Schneider says, however, that the algorithm is already being used for similar studies at ETH Zurich and in industry. One of these is a project with the Children’s Hospital Zurich for the treatment of medulloblastomas, the most common malignant brain tumours in children. Moreover, the researchers have published the algorithm and its software so that researchers worldwide can now use them for their own projects.\n\n“Our work has made the world of proteins accessible for generative AI in drug research,” Schneider says. “The new algorithm has enormous potential.” This is especially true for all medically relevant proteins in the human body that don’t interact with any known chemical compounds.\n\nArtificial intelligence (AI) is having an impact on every aspect of our lives – research included. Machine learning methods are being used in projects across all disciplines. ETH Zurich also conducts fundamental research in this field, however. Working in collaboration with EPFL, it has launched the Swiss AI Initiative. This aims to position Switzerland as a leading global location in which to develop and use transparent and trustworthy AI. In this series, we use specific examples to show how ETH is working on joint projects with industry, NGOs and the authorities to harness AI for Switzerland, thereby creating added value for our country.\n\nFeatured topic “Artificial intelligence at ETH Zurich”\n\nAtz K, Cotos L, Isert C, Håkansson M, Focht D, Hilleke M, Nippa DF, Iff M, Ledergerber J, Schiebroek CCG, Romeo V, Hiss JA, Merk D, Schneider P, Kuhn B, Grether U, Schneider G: Prospective de novo drug design with deep interactome learning. Nature Communications, 22 April 2024, doi: 10.1038/s41467-024-47613-w"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 17,
+        "end": 27
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 126,
+        "end": 131
+      },
+      {
+        "text": "Gisbert Schneider",
+        "label": "PERSON",
+        "start": 52,
+        "end": 69
+      },
+      {
+        "text": "ETH Zurich’s Department of Chemistry and Applied Biosciences",
+        "label": "ORG",
+        "start": 84,
+        "end": 144
+      },
+      {
+        "text": "Kenneth Atz",
+        "label": "PERSON",
+        "start": 188,
+        "end": 199
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 348,
+        "end": 353
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 607,
+        "end": 612
+      },
+      {
+        "text": "decades",
+        "label": "DATE",
+        "start": 29,
+        "end": 36
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 79,
+        "end": 84
+      },
+      {
+        "text": "AI",
+        "label": "ORG",
+        "start": 368,
+        "end": 370
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 397,
+        "end": 409
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 505,
+        "end": 507
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 1028,
+        "end": 1030
+      },
+      {
+        "text": "hundreds of thousands",
+        "label": "CARDINAL",
+        "start": 1059,
+        "end": 1080
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1152,
+        "end": 1157
+      },
+      {
+        "text": "Roche",
+        "label": "ORG",
+        "start": 58,
+        "end": 63
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 100,
+        "end": 103
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 354,
+        "end": 359
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 503,
+        "end": 505
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 658,
+        "end": 661
+      },
+      {
+        "text": "Roche",
+        "label": "ORG",
+        "start": 729,
+        "end": 734
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 184,
+        "end": 186
+      },
+      {
+        "text": "Schneider",
+        "label": "PERSON",
+        "start": 224,
+        "end": 233
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 313,
+        "end": 323
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 341,
+        "end": 344
+      },
+      {
+        "text": "the Children’s Hospital Zurich",
+        "label": "ORG",
+        "start": 372,
+        "end": 402
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 705,
+        "end": 707
+      },
+      {
+        "text": "Schneider",
+        "label": "PERSON",
+        "start": 727,
+        "end": 736
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1095,
+        "end": 1105
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1221,
+        "end": 1226
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1264,
+        "end": 1275
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 1361,
+        "end": 1363
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1418,
+        "end": 1421
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 1502,
+        "end": 1504
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1509,
+        "end": 1520
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1611,
+        "end": 1621
+      },
+      {
+        "text": "Cotos L",
+        "label": "PERSON",
+        "start": 1630,
+        "end": 1637
+      },
+      {
+        "text": "Håkansson M",
+        "label": "ORG",
+        "start": 1648,
+        "end": 1659
+      },
+      {
+        "text": "Hilleke M",
+        "label": "PERSON",
+        "start": 1670,
+        "end": 1679
+      },
+      {
+        "text": "Iff M",
+        "label": "ORG",
+        "start": 1691,
+        "end": 1696
+      },
+      {
+        "text": "Schiebroek CCG",
+        "label": "PERSON",
+        "start": 1713,
+        "end": 1727
+      },
+      {
+        "text": "Grether U",
+        "label": "PERSON",
+        "start": 1776,
+        "end": 1785
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1864,
+        "end": 1885
+      },
+      {
+        "text": "22 April 2024",
+        "label": "DATE",
+        "start": 1887,
+        "end": 1900
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1907,
+        "end": 1914
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cotos L",
+        "ETH Zurich",
+        "Gisbert Schneider",
+        "Grether U",
+        "Hilleke M",
+        "Kenneth Atz",
+        "Schiebroek CCG",
+        "Schneider"
+      ],
+      "ORG": [
+        "AI",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Department of Chemistry and Applied Biosciences",
+        "Håkansson M",
+        "Iff M",
+        "Nature Communications",
+        "Roche",
+        "the Children’s Hospital Zurich"
+      ],
+      "LOCATION": [
+        "AI",
+        "ETH Zurich",
+        "Switzerland"
+      ],
+      "DATE": [
+        "22 April 2024",
+        "decades",
+        "recent years",
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "One",
+        "Swiss",
+        "hundreds of thousands",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "AI": 8,
+      "three": 5,
+      "ETH Zurich": 4,
+      "ETH": 3,
+      "Roche": 2,
+      "Schneider": 2,
+      "Switzerland": 2,
+      "Gisbert Schneider": 1,
+      "ETH Zurich’s Department of Chemistry and Applied Biosciences": 1,
+      "Kenneth Atz": 1,
+      "decades": 1,
+      "recent years": 1,
+      "hundreds of thousands": 1,
+      "today": 1,
+      "One": 1,
+      "the Children’s Hospital Zurich": 1,
+      "Swiss": 1,
+      "Cotos L": 1,
+      "Håkansson M": 1,
+      "Hilleke M": 1
+    },
+    "total_entities": 45,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "ai-designs-new-drugs-based-on-protein-structures.md",
+      "title": "En News Events/2024/04/ai Designs New Drugs Based On Protein Structures",
+      "language": "en",
+      "source_path": "en_news_events/2024/04/ai-designs-new-drugs-based-on-protein-structures.html"
+    },
+    "temporal": {
+      "publication_date": "2024-04",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Cotos L",
+        "ETH Zurich",
+        "Gisbert Schneider",
+        "Grether U",
+        "Hilleke M",
+        "Kenneth Atz",
+        "Schiebroek CCG",
+        "Schneider"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "researcher",
+          "professor"
+        ],
+        "Gisbert Schneider": [
+          "professor"
+        ],
+        "Kenneth Atz": [
+          "student"
+        ],
+        "Schneider": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry",
+        "computer_science"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Swiss",
+        "hundreds of thousands",
+        "three"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Kuhn B",
+        "Schneider P",
+        "Hospital Zurich",
+        "Romeo V",
+        "Focht D",
+        "Drugs Based",
+        "Gisbert Schneider",
+        "Applied Biosciences",
+        "Hiss JA",
+        "Isert C",
+        "Schneider G",
+        "Designs New",
+        "Atz K",
+        "Iff M",
+        "Nippa DF",
+        "Grether U",
+        "Merk D",
+        "Nature Communications",
+        "Swiss AI",
+        "En News",
+        "Cotos L",
+        "Schiebroek CCG",
+        "Ledergerber J",
+        "ETH Zurich",
+        "Kenneth Atz",
+        "On Protein",
+        "Hilleke M"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Chemistry and Applied Biosciences"
+      ],
+      "institutions": [
+        "AI",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Department of Chemistry and Applied Biosciences",
+        "Håkansson M",
+        "Iff M",
+        "Nature Communications",
+        "Roche",
+        "the Children’s Hospital Zurich"
+      ],
+      "locations": [
+        "AI",
+        "ETH Zurich",
+        "Switzerland"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "AI",
+        "three",
+        "ETH Zurich",
+        "ETH",
+        "Roche",
+        "Schneider",
+        "Switzerland",
+        "Gisbert Schneider",
+        "ETH Zurich’s Department of Chemistry and Applied Biosciences",
+        "Kenneth Atz"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "In brief",
+          "Excluding side effects from the outset",
+          "Excluding side effects from the outset",
+          "Successful tests with industry",
+          "Reference"
+        ],
+        "content_length": 5307
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "ETH",
+        "Roche",
+        "Håkansson M",
+        "Cotos L",
+        "Grether U",
+        "Schiebroek CCG",
+        "EU",
+        "AI",
+        "Schneider",
+        "Nature Communications",
+        "ETH Zurich",
+        "Gisbert Schneider",
+        "Kenneth Atz",
+        "Iff M",
+        "the Children’s Hospital Zurich",
+        "ETH Zurich’s Department of Chemistry and Applied Biosciences",
+        "Hilleke M"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "computer_science",
+        "three",
+        "who",
+        "hundreds of thousands",
+        "10.1038",
+        "Swiss",
+        "chemistry",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_professor",
+        "Gisbert Schneider_has_role_professor",
+        "Kenneth Atz_has_role_student",
+        "Schneider_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

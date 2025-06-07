@@ -1,0 +1,526 @@
+{
+  "filename": "spark-award-2018.md",
+  "original_filename": "spark-award-2018.html",
+  "source_path": "en_news_events/2018/03/spark-award-2018.html",
+  "date": "2018-03",
+  "title": "Spark Award 2018",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Multidisciplinary team",
+      "text": "How can inventions from such different areas as medicine, biology and computer science be compared with each other? After intensive discussion, the Spark Award jury chose the standardised bacterial mix developed by Tomas de Wouters and a group of fellow researchers to stabilise the intestinal ecosystem. “This discovery shows the success of multidisciplinary collaboration,” said Detlef Günther, ETH Vice President Research and Corporate Relations, yesterday during his speech in front of some 200 guests in the Audimax. “Their application has great market potential and can be further developed in the near future.”\n\nThe analysis and production of complex intestinal flora is very challenging, as most of the bacteria can only be examined in an anaerobic environment. Unlike with bacteria that are advertised to sell yoghurt, for example, de Wouters and his colleagues not only want to strengthen healthy intestinal flora, but also to treat severe diarrhoea or chronic bowel disease.\n\nTo ensure the success of the move from academia to the market, the team of bioinformaticians, micro and molecular biologists, and doctors from ETH and University Hospital Zurich founded the spin-off Pharmabiome. They are currently raising funds for the pre-clinical phase. If everything goes to plan, they hope to be able to conduct the first clinical tests as early as 2020.\n\nFive inventions made it through to the final round of the Spark Award 2018, which this year was awarded for the seventh time by ETH Zurich for a promising invention. During the last year, 191 inventions were created and 84 patents applied for at the university. The number of innovations has remained at a consistently high level for the last few years."
+    },
+    {
+      "heading": "Pace of inventions is increasing",
+      "text": "Guest of honour and keynote speaker Fritz Fahrni.\n\nGuest speaker Fritz Fahrni emphasised how much the pace of inventions has been accelerating for centuries, even millennia. Fahrni, who is Chairman of the Board of Directors at u-blox and ETH Professor Emeritus for Technology Management and Entrepreneurship, described an arc from the beginning of human civilisation to the innovations of the future. “The thinking human will increasingly be replaced by data networks and one day perhaps by artificial intelligence,” he predicted, citing the consistent availability of energy as an important basis for the increasing pace of inventions."
+    },
+    {
+      "heading": "The winner project",
+      "text": "Bacterial mix for a healthy intestine : when intestinal flora is out of balance, it can trigger diseases such as asthma and diabetes. Tomas de Wouters, a microbiologist and CEO of Pharmabiome, worked with researchers from University Hospital Zurich and the University of Zurich to develop a method of identifying a minimal mix of bacteria to re-stabilise the intestine’s ecosystem. The bacterial mix is tailored to the individual and the disease; in future, it may be able to help people with infections or chronic intestinal diseases."
+    },
+    {
+      "heading": "Other finalists",
+      "text": "A new kind of mechanism for portable radar reflectors: Cornelius Senn has developed a reflector for radar measurements; its individual components are held together with a soon-to-be-patented system of interlinked brackets. This makes the reflector easy to transport and assemble. Such reflectors are used, for example, as reference points for elevation models in snow and ice, and to improve radar focus.\n\nStrengthening weak hearts: when the heart receives too little oxygen during heart failure, it starts to burn sugar rather than fat. This means that fat starts to be deposited in the heart instead, further damaging the weakened organ. The group led by Ursula Quitterer has identified the enzyme that is responsible for the transition from burning fat to burning sugar. They developed a drug that influences the enzyme’s function and that could help patients with heart failure in future.\n\nTouch to turn on: devices use power even in stand-by mode, because they are waiting for an activation signal. Michele Magno has developed a zero-energy receiver that gets its energy from the activation signal. To unlock a car or switch on a TV, the user has to wear a special wristband with a transmitter. If the user touches the device, it will switch on. In future, this touch communication may also be coded and used for payments or to switch on a phone.\n\nAlgorithm for action scenes: Tobias Nägeli and Otmar Hilliges have developed an algorithm that could allow drones to independently film dynamic scenes in future. Directors will soon only have to specify the desired image composition and a few parameters, such as which actor to focus on or crane and tracking shots. The drone will then independently implement these during filming. The technology is currently being refined for use on film sets."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Spark Award",
+        "label": "ORG",
+        "start": 144,
+        "end": 159
+      },
+      {
+        "text": "Tomas de Wouters",
+        "label": "PERSON",
+        "start": 215,
+        "end": 231
+      },
+      {
+        "text": "Detlef Günther",
+        "label": "PERSON",
+        "start": 381,
+        "end": 395
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 397,
+        "end": 400
+      },
+      {
+        "text": "Corporate Relations",
+        "label": "ORG",
+        "start": 429,
+        "end": 448
+      },
+      {
+        "text": "yesterday",
+        "label": "DATE",
+        "start": 450,
+        "end": 459
+      },
+      {
+        "text": "some 200",
+        "label": "CARDINAL",
+        "start": 490,
+        "end": 498
+      },
+      {
+        "text": "Audimax",
+        "label": "ORG",
+        "start": 513,
+        "end": 520
+      },
+      {
+        "text": "de Wouters",
+        "label": "PERSON",
+        "start": 840,
+        "end": 850
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1128,
+        "end": 1131
+      },
+      {
+        "text": "University Hospital Zurich",
+        "label": "ORG",
+        "start": 1136,
+        "end": 1162
+      },
+      {
+        "text": "Pharmabiome",
+        "label": "GPE",
+        "start": 1184,
+        "end": 1195
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1322,
+        "end": 1327
+      },
+      {
+        "text": "Five",
+        "label": "CARDINAL",
+        "start": 1361,
+        "end": 1365
+      },
+      {
+        "text": "the Spark Award 2018",
+        "label": "ORG",
+        "start": 1415,
+        "end": 1435
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 1443,
+        "end": 1452
+      },
+      {
+        "text": "seventh",
+        "label": "ORDINAL",
+        "start": 1473,
+        "end": 1480
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1489,
+        "end": 1499
+      },
+      {
+        "text": "the last year",
+        "label": "DATE",
+        "start": 1534,
+        "end": 1547
+      },
+      {
+        "text": "the last few years",
+        "label": "DATE",
+        "start": 1695,
+        "end": 1713
+      },
+      {
+        "text": "Fritz Fahrni",
+        "label": "PERSON",
+        "start": 36,
+        "end": 48
+      },
+      {
+        "text": "Guest",
+        "label": "ORG",
+        "start": 50,
+        "end": 55
+      },
+      {
+        "text": "Fritz Fahrni",
+        "label": "PERSON",
+        "start": 64,
+        "end": 76
+      },
+      {
+        "text": "centuries",
+        "label": "DATE",
+        "start": 146,
+        "end": 155
+      },
+      {
+        "text": "the Board of Directors",
+        "label": "ORG",
+        "start": 200,
+        "end": 222
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 237,
+        "end": 250
+      },
+      {
+        "text": "Emeritus for Technology Management and Entrepreneurship",
+        "label": "ORG",
+        "start": 251,
+        "end": 306
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 471,
+        "end": 478
+      },
+      {
+        "text": "Tomas de Wouters",
+        "label": "PERSON",
+        "start": 134,
+        "end": 150
+      },
+      {
+        "text": "Pharmabiome",
+        "label": "GPE",
+        "start": 180,
+        "end": 191
+      },
+      {
+        "text": "University Hospital Zurich",
+        "label": "ORG",
+        "start": 222,
+        "end": 248
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 253,
+        "end": 277
+      },
+      {
+        "text": "Cornelius Senn",
+        "label": "PERSON",
+        "start": 55,
+        "end": 69
+      },
+      {
+        "text": "Ursula Quitterer",
+        "label": "PERSON",
+        "start": 656,
+        "end": 672
+      },
+      {
+        "text": "Michele Magno",
+        "label": "PERSON",
+        "start": 1002,
+        "end": 1015
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 1032,
+        "end": 1036
+      },
+      {
+        "text": "Algorithm",
+        "label": "GPE",
+        "start": 1350,
+        "end": 1359
+      },
+      {
+        "text": "Tobias Nägeli",
+        "label": "PERSON",
+        "start": 1379,
+        "end": 1392
+      },
+      {
+        "text": "Otmar Hilliges",
+        "label": "PERSON",
+        "start": 1397,
+        "end": 1411
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cornelius Senn",
+        "Detlef Günther",
+        "ETH Zurich",
+        "Fritz Fahrni",
+        "Michele Magno",
+        "Otmar Hilliges",
+        "Tobias Nägeli",
+        "Tomas de Wouters",
+        "Ursula Quitterer",
+        "de Wouters"
+      ],
+      "ORG": [
+        "Audimax",
+        "Corporate Relations",
+        "ETH",
+        "ETH Professor",
+        "Emeritus for Technology Management and Entrepreneurship",
+        "Guest",
+        "University Hospital Zurich",
+        "the Board of Directors",
+        "the Spark Award",
+        "the Spark Award 2018",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Algorithm",
+        "Pharmabiome"
+      ],
+      "DATE": [
+        "centuries",
+        "one day",
+        "the last few years",
+        "the last year",
+        "this year",
+        "yesterday"
+      ],
+      "MISC": [
+        "Five",
+        "first",
+        "seventh",
+        "some 200",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "Tomas de Wouters": 2,
+      "ETH": 2,
+      "University Hospital Zurich": 2,
+      "Pharmabiome": 2,
+      "Fritz Fahrni": 2,
+      "the Spark Award": 1,
+      "Detlef Günther": 1,
+      "Corporate Relations": 1,
+      "yesterday": 1,
+      "some 200": 1,
+      "Audimax": 1,
+      "de Wouters": 1,
+      "first": 1,
+      "Five": 1,
+      "the Spark Award 2018": 1,
+      "this year": 1,
+      "seventh": 1,
+      "ETH Zurich": 1,
+      "the last year": 1,
+      "the last few years": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "spark-award-2018.md",
+      "title": "En News Events/2018/03/spark Award 2018",
+      "language": "en",
+      "source_path": "en_news_events/2018/03/spark-award-2018.html"
+    },
+    "temporal": {
+      "publication_date": "2018-03",
+      "mentioned_years": [
+        "2018",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Cornelius Senn",
+        "Detlef Günther",
+        "ETH Zurich",
+        "Fritz Fahrni",
+        "Michele Magno",
+        "Otmar Hilliges",
+        "Tobias Nägeli",
+        "Tomas de Wouters",
+        "Ursula Quitterer",
+        "de Wouters"
+      ],
+      "people_with_roles": {
+        "Detlef Günther": [
+          "president"
+        ],
+        "Tomas de Wouters": [
+          "researcher"
+        ],
+        "de Wouters": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "professor",
+        "director",
+        "chair",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "Five",
+        "first",
+        "seventh",
+        "some 200",
+        "zero"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Cornelius Senn",
+        "Spark Award",
+        "Michele Magno",
+        "En News",
+        "President Research",
+        "ETH Vice",
+        "Corporate Relations",
+        "University Hospital",
+        "Fritz Fahrni",
+        "ETH Professor",
+        "Ursula Quitterer",
+        "Otmar Hilliges",
+        "ETH Zurich",
+        "Technology Management"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Audimax",
+        "Corporate Relations",
+        "ETH",
+        "ETH Professor",
+        "Emeritus for Technology Management and Entrepreneurship",
+        "Guest",
+        "University Hospital Zurich",
+        "the Board of Directors",
+        "the Spark Award",
+        "the Spark Award 2018",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Algorithm",
+        "Pharmabiome"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Tomas de Wouters",
+        "ETH",
+        "University Hospital Zurich",
+        "Pharmabiome",
+        "Fritz Fahrni",
+        "the Spark Award",
+        "Detlef Günther",
+        "Corporate Relations",
+        "yesterday",
+        "some 200"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Multidisciplinary team",
+          "Pace of inventions is increasing",
+          "The winner project",
+          "Other finalists"
+        ],
+        "content_length": 4729
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Cornelius Senn",
+        "2020",
+        "the University of Zurich",
+        "Guest",
+        "2018",
+        "Tobias Nägeli",
+        "Fritz Fahrni",
+        "ETH Professor",
+        "the Board of Directors",
+        "EU",
+        "Otmar Hilliges",
+        "de Wouters",
+        "Tomas de Wouters",
+        "Detlef Günther",
+        "Michele Magno",
+        "Corporate Relations",
+        "the Spark Award 2018",
+        "the Spark Award",
+        "ETH Zurich",
+        "University Hospital Zurich",
+        "Ursula Quitterer",
+        "Audimax",
+        "Emeritus for Technology Management and Entrepreneurship"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "some 200",
+        "zero",
+        "who",
+        "seventh",
+        "chemistry",
+        "biology",
+        "what",
+        "how",
+        "Five",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Detlef Günther_has_role_president",
+        "Tomas de Wouters_has_role_researcher",
+        "de Wouters_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

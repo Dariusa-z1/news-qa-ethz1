@@ -1,0 +1,155 @@
+{
+  "filename": "how-to-publish-your-research-data-in-the-research-collection.md",
+  "original_filename": "how-to-publish-your-research-data-in-the-research-collection.html",
+  "source_path": "en_internal/2019/11/how-to-publish-your-research-data-in-the-research-collection.html",
+  "date": "2019-11",
+  "title": "How To Publish Your Research Data In The Research Collection",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The Research Collection is ETH Zurich’s publication platform, where members of the university can publish academic full texts open access and archive research data or make them publicly accessible.\n\nAnswers to further questions can be found in the Research Collection manual .\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Research Collection",
+        "label": "ORG",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 27,
+        "end": 39
+      },
+      {
+        "text": "the Research Collection",
+        "label": "ORG",
+        "start": 243,
+        "end": 266
+      },
+      {
+        "text": "ETH Library’s",
+        "label": "PERSON",
+        "start": 286,
+        "end": 299
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Library’s",
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "The Research Collection",
+        "the Research Collection"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "The Research Collection": 1,
+      "ETH Zurich’s": 1,
+      "the Research Collection": 1,
+      "ETH Library’s": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "how-to-publish-your-research-data-in-the-research-collection.md",
+      "title": "En Internal/2019/11/how To Publish Your Research Data in The Research Collection",
+      "language": "en",
+      "source_path": "en_internal/2019/11/how-to-publish-your-research-data-in-the-research-collection.html"
+    },
+    "temporal": {
+      "publication_date": "2019-11",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Library’s",
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "The Research",
+        "To Publish",
+        "ETH Library",
+        "Your Research",
+        "En Internal",
+        "Research Collection",
+        "Collection The",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "The Research Collection",
+        "the Research Collection"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "The Research Collection",
+        "ETH Zurich’s",
+        "the Research Collection",
+        "ETH Library’s"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 431
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2019",
+        "The Research Collection",
+        "the Research Collection",
+        "ETH Zurich’s",
+        "ETH Library’s"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "how",
+        "engineering",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

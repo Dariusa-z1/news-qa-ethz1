@@ -1,0 +1,651 @@
+{
+  "filename": "innovative-itsolution-to-tackle-cyber-crime.md",
+  "original_filename": "innovative-itsolution-to-tackle-cyber-crime.html",
+  "source_path": "en_news_events/2016/08/innovative-itsolution-to-tackle-cyber-crime.html",
+  "date": "2016-08",
+  "title": "Innovative Itsolution To Tackle Cyber Crime",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Acute sensitivity to normal activity",
+      "text": "As a young company with just five employees, a strong sense of conviction is essential in order to challenge the technological dominance of the big players in the field of IT security such as IBM, Intel Security and Cisco. And that’s exactly what Antonio Barresi (CEO), Matthias Ganz (CTO) and Marco Nembrini (COO) from xorlab plan to do. Founded in July 2015, the ETH spin-off has developed a system that aspires to be far more reliable and cheaper than conventional solutions in protecting companies and governments from hacker attacks."
+    },
+    {
+      "heading": "Acute sensitivity to normal activity",
+      "text": "“Like real criminals, cyber criminals constantly adapt their behaviour to suit a changing environment”, explains Antonio Barresi, xorlab’s CEO. “That makes it difficult to detect an intruder in the system.” Most conventional security solutions watch for “suspicious activity” within an IT system that could point to unauthorised intrusion. By contrast, xorlab concentrates on screening the normal behaviour of applications. It performs this task so meticulously that it can spot any suspicious activity immediately. In this way, it is able to isolate malicious files and websites before they can compromise a company’s IT infrastructure.\n\nThe hardware developed by xorlab, a mini-server weighing 31 kilos, stands before the company’s actual server infrastructure as a front line of defence against potential hacker attacks via emails, PDFs, Word or Excel documents, or websites in general. If the system detects a PDF attachment attempting to smuggle in spyware, for example, it will open the attachment on another computer isolated from the main corporate network, and then scan it for threats. If a threat is detected, the file is immediately destroyed.\n\n“During the first proof of concept a year ago, we managed to detect all the attacks made on a protected system – without triggering a single error message”, recalls Barresi. This last aspect is very attractive for companies, as every error message and suspicious activity report generates substantial extra costs. So does the software solution developed by xorlab represent a type of Holy Grail in the fight against hackers? Barresi puts it into perspective: “Our device is certainly a key component within the overall IT security infrastructure. But obviously we are not able to block every possible type of threat.”"
+    },
+    {
+      "heading": "From Venture Challenge to start-up capital",
+      "text": "xorlab benefits from the exceptional know-how and expertise of the company’s founders. Barresi studied computer science at ETH and then worked as an IT risk manager at one of Switzerland’s leading banks, with spells as a security consultant and software developer as well. In 2013 he came back to work at ETH as scientific assistant at the Laboratory for Software Technology. Together with another computer scientist at ETH, Matthias Ganz, and the ETH mathematician Marco Nembrini, he took part in the Venture Challenge start-up course in 2014 and drafted a preliminary business plan. “We had this intuitive feeling that we were on to a good idea: something that none of us had approached before in this way”, explains Barresi when asked about the motivation for setting up the company. At the start of the year the company eventually won the start-up competition organised by Venture Kick , pocketing the prize money of 130,000 Swiss francs.\n\nxorlab’s innovative product might soon be in great demand: in recent years there has been a massive increase in the number of cyber attacks on companies and governments. The most recent victims include the German parliament, the U.S. Department of State, the bank HSBC and (just a few weeks ago) the Swiss technology company Ruag. Such attacks often cause damage running into millions. A study by Frost & Sullivan estimated that the market for IT security network applications, to which xorlab’s system also belongs, was worth more than 500 million US dollars in 2014, and is set to grow to around 3.5 billion US dollars by 2019. The first trials in a real-life business environment are now critical for deciding whether xorlab will soon become a partner for big multinationals and governments, as well as an investors’ favourite. According to Barresi, xorlab is already in talks with banks, financial institutions and educational establishments. Swisscom has also recently announced it is thinking about setting up a pilot system with xorlab. The first practical experiences with the system will decide whether the young company will actually be in a position to compete with the IT industry giants."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 29,
+        "end": 33
+      },
+      {
+        "text": "IBM",
+        "label": "ORG",
+        "start": 192,
+        "end": 195
+      },
+      {
+        "text": "Intel Security",
+        "label": "ORG",
+        "start": 197,
+        "end": 211
+      },
+      {
+        "text": "Cisco",
+        "label": "GPE",
+        "start": 216,
+        "end": 221
+      },
+      {
+        "text": "Antonio Barresi",
+        "label": "PERSON",
+        "start": 247,
+        "end": 262
+      },
+      {
+        "text": "Matthias Ganz",
+        "label": "PERSON",
+        "start": 270,
+        "end": 283
+      },
+      {
+        "text": "CTO",
+        "label": "ORG",
+        "start": 285,
+        "end": 288
+      },
+      {
+        "text": "Marco Nembrini",
+        "label": "PERSON",
+        "start": 294,
+        "end": 308
+      },
+      {
+        "text": "COO",
+        "label": "ORG",
+        "start": 310,
+        "end": 313
+      },
+      {
+        "text": "July 2015",
+        "label": "DATE",
+        "start": 350,
+        "end": 359
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 365,
+        "end": 368
+      },
+      {
+        "text": "Antonio Barresi",
+        "label": "PERSON",
+        "start": 113,
+        "end": 128
+      },
+      {
+        "text": "xorlab’s",
+        "label": "ORG",
+        "start": 130,
+        "end": 138
+      },
+      {
+        "text": "xorlab",
+        "label": "ORG",
+        "start": 353,
+        "end": 359
+      },
+      {
+        "text": "xorlab",
+        "label": "ORG",
+        "start": 664,
+        "end": 670
+      },
+      {
+        "text": "31 kilos",
+        "label": "QUANTITY",
+        "start": 695,
+        "end": 703
+      },
+      {
+        "text": "Excel",
+        "label": "PRODUCT",
+        "start": 848,
+        "end": 853
+      },
+      {
+        "text": "PDF",
+        "label": "ORG",
+        "start": 913,
+        "end": 916
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1167,
+        "end": 1172
+      },
+      {
+        "text": "a year ago",
+        "label": "DATE",
+        "start": 1190,
+        "end": 1200
+      },
+      {
+        "text": "Barresi",
+        "label": "GPE",
+        "start": 1320,
+        "end": 1327
+      },
+      {
+        "text": "xorlab",
+        "label": "ORG",
+        "start": 1512,
+        "end": 1518
+      },
+      {
+        "text": "Holy Grail",
+        "label": "GPE",
+        "start": 1539,
+        "end": 1549
+      },
+      {
+        "text": "Barresi",
+        "label": "PERSON",
+        "start": 1580,
+        "end": 1587
+      },
+      {
+        "text": "xorlab",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Barresi",
+        "label": "PERSON",
+        "start": 87,
+        "end": 94
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 123,
+        "end": 126
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 168,
+        "end": 171
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 175,
+        "end": 186
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 305,
+        "end": 308
+      },
+      {
+        "text": "the Laboratory for Software Technology",
+        "label": "ORG",
+        "start": 336,
+        "end": 374
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 420,
+        "end": 423
+      },
+      {
+        "text": "Matthias Ganz",
+        "label": "PERSON",
+        "start": 425,
+        "end": 438
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 448,
+        "end": 451
+      },
+      {
+        "text": "Marco Nembrini",
+        "label": "PERSON",
+        "start": 466,
+        "end": 480
+      },
+      {
+        "text": "the Venture Challenge",
+        "label": "ORG",
+        "start": 498,
+        "end": 519
+      },
+      {
+        "text": "Barresi",
+        "label": "GPE",
+        "start": 719,
+        "end": 726
+      },
+      {
+        "text": "the start of the year",
+        "label": "DATE",
+        "start": 790,
+        "end": 811
+      },
+      {
+        "text": "Venture Kick",
+        "label": "PERSON",
+        "start": 877,
+        "end": 889
+      },
+      {
+        "text": "130,000 Swiss francs",
+        "label": "MONEY",
+        "start": 921,
+        "end": 941
+      },
+      {
+        "text": "xorlab",
+        "label": "ORG",
+        "start": 943,
+        "end": 949
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 1005,
+        "end": 1017
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1149,
+        "end": 1155
+      },
+      {
+        "text": "the U.S. Department of State",
+        "label": "ORG",
+        "start": 1168,
+        "end": 1196
+      },
+      {
+        "text": "HSBC",
+        "label": "ORG",
+        "start": 1207,
+        "end": 1211
+      },
+      {
+        "text": "just a few weeks ago",
+        "label": "DATE",
+        "start": 1217,
+        "end": 1237
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1243,
+        "end": 1248
+      },
+      {
+        "text": "Ruag",
+        "label": "PERSON",
+        "start": 1268,
+        "end": 1272
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 1319,
+        "end": 1327
+      },
+      {
+        "text": "Frost & Sullivan",
+        "label": "ORG",
+        "start": 1340,
+        "end": 1356
+      },
+      {
+        "text": "xorlab",
+        "label": "ORG",
+        "start": 1430,
+        "end": 1436
+      },
+      {
+        "text": "more than 500 million US dollars",
+        "label": "CARDINAL",
+        "start": 1470,
+        "end": 1502
+      },
+      {
+        "text": "around 3.5 billion US dollars",
+        "label": "MONEY",
+        "start": 1534,
+        "end": 1563
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1577,
+        "end": 1582
+      },
+      {
+        "text": "xorlab",
+        "label": "ORG",
+        "start": 1664,
+        "end": 1670
+      },
+      {
+        "text": "Barresi",
+        "label": "GPE",
+        "start": 1787,
+        "end": 1794
+      },
+      {
+        "text": "xorlab",
+        "label": "ORG",
+        "start": 1796,
+        "end": 1802
+      },
+      {
+        "text": "Swisscom",
+        "label": "ORG",
+        "start": 1890,
+        "end": 1898
+      },
+      {
+        "text": "xorlab",
+        "label": "ORG",
+        "start": 1979,
+        "end": 1985
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1991,
+        "end": 1996
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Antonio Barresi",
+        "Barresi",
+        "Marco Nembrini",
+        "Matthias Ganz",
+        "Ruag",
+        "Venture Kick"
+      ],
+      "ORG": [
+        "COO",
+        "CTO",
+        "ETH",
+        "Frost & Sullivan",
+        "HSBC",
+        "IBM",
+        "Intel Security",
+        "PDF",
+        "Swisscom",
+        "the Laboratory for Software Technology",
+        "the U.S. Department of State",
+        "the Venture Challenge",
+        "xorlab",
+        "xorlab’s"
+      ],
+      "LOCATION": [
+        "Barresi",
+        "Cisco",
+        "Holy Grail",
+        "Switzerland"
+      ],
+      "DATE": [
+        "July 2015",
+        "a year ago",
+        "just a few weeks ago",
+        "recent years",
+        "the start of the year"
+      ],
+      "MISC": [
+        "130,000 Swiss francs",
+        "31 kilos",
+        "Excel",
+        "German",
+        "Swiss",
+        "around 3.5 billion US dollars",
+        "first",
+        "five",
+        "millions",
+        "more than 500 million US dollars",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "xorlab": 9,
+      "ETH": 5,
+      "Barresi": 5,
+      "first": 3,
+      "Antonio Barresi": 2,
+      "Matthias Ganz": 2,
+      "Marco Nembrini": 2,
+      "five": 1,
+      "IBM": 1,
+      "Intel Security": 1,
+      "Cisco": 1,
+      "CTO": 1,
+      "COO": 1,
+      "July 2015": 1,
+      "xorlab’s": 1,
+      "31 kilos": 1,
+      "Excel": 1,
+      "PDF": 1,
+      "a year ago": 1,
+      "Holy Grail": 1
+    },
+    "total_entities": 60,
+    "unique_entities": 39
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "innovative-itsolution-to-tackle-cyber-crime.md",
+      "title": "En News Events/2016/08/innovative Itsolution To Tackle Cyber Crime",
+      "language": "en",
+      "source_path": "en_news_events/2016/08/innovative-itsolution-to-tackle-cyber-crime.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Antonio Barresi",
+        "Barresi",
+        "Marco Nembrini",
+        "Matthias Ganz",
+        "Ruag",
+        "Venture Kick"
+      ],
+      "people_with_roles": {
+        "Marco Nembrini": [
+          "scientist"
+        ],
+        "Matthias Ganz": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "130,000 Swiss francs",
+        "31 kilos",
+        "Excel",
+        "German",
+        "Swiss",
+        "around 3.5 billion US dollars",
+        "first",
+        "five",
+        "millions",
+        "more than 500 million US dollars"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Intel Security",
+        "Matthias Ganz",
+        "Crime As",
+        "En News",
+        "Holy Grail",
+        "Software Technology",
+        "Venture Kick",
+        "Tackle Cyber",
+        "Marco Nembrini",
+        "Venture Challenge",
+        "Antonio Barresi",
+        "Itsolution To"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "State"
+      ],
+      "institutions": [
+        "COO",
+        "CTO",
+        "ETH",
+        "Frost & Sullivan",
+        "HSBC",
+        "IBM",
+        "Intel Security",
+        "PDF",
+        "Swisscom",
+        "the Laboratory for Software Technology",
+        "the U.S. Department of State",
+        "the Venture Challenge",
+        "xorlab",
+        "xorlab’s"
+      ],
+      "locations": [
+        "Barresi",
+        "Cisco",
+        "Holy Grail",
+        "Switzerland"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "xorlab",
+        "ETH",
+        "Barresi",
+        "first",
+        "Antonio Barresi",
+        "Matthias Ganz",
+        "Marco Nembrini",
+        "five",
+        "IBM",
+        "Intel Security"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Acute sensitivity to normal activity",
+          "Acute sensitivity to normal activity",
+          "From Venture Challenge to start-up capital"
+        ],
+        "content_length": 4525
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Matthias Ganz",
+        "Frost & Sullivan",
+        "2016",
+        "Antonio Barresi",
+        "2019",
+        "IBM",
+        "PDF",
+        "the Laboratory for Software Technology",
+        "Ruag",
+        "CTO",
+        "Marco Nembrini",
+        "COO",
+        "2014",
+        "the Venture Challenge",
+        "2015",
+        "Barresi",
+        "the U.S. Department of State",
+        "Venture Kick",
+        "Swisscom",
+        "xorlab’s",
+        "Intel Security",
+        "HSBC",
+        "2013",
+        "xorlab"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "130,000 Swiss francs",
+        "around 3.5 billion US dollars",
+        "who",
+        "Swiss",
+        "millions",
+        "what",
+        "how",
+        "German",
+        "computer_science",
+        "five",
+        "Excel",
+        "31 kilos",
+        "when",
+        "engineering",
+        "more than 500 million US dollars"
+      ],
+      "graph_relations": [
+        "Marco Nembrini_has_role_scientist",
+        "Matthias Ganz_has_role_scientist",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

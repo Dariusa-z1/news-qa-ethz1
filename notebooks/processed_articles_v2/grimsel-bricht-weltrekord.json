@@ -1,0 +1,404 @@
+{
+  "filename": "grimsel-bricht-weltrekord.md",
+  "original_filename": "grimsel-bricht-weltrekord.html",
+  "source_path": "de_news_events/2016/06/grimsel-bricht-weltrekord.html",
+  "date": "2016-06",
+  "title": "Grimsel Bricht Weltrekord",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Erfolgreichstes Fahrzeug des AMZ",
+      "text": "Das Formula Student Team des Akademischen Motorsportvereins Zürich (AMZ) hat es heute geschafft: Ihr Elektrorennwagen «grimsel» beschleunigte in nur 1,513 Sekunden von 0 auf 100 km/h und stellte damit einen neuen Weltrekord auf. Die Geschwindigkeit von 100 Stundenkilometern erreichte das Fahrzeug innerhalb von weniger als 30 Metern auf dem Militärflugplatz Dübendorf bei Zürich. Der bisherige Weltrekord betrug 1,779 Sekunden und wurde im vergangenen Jahr von einem Team der Universität Stuttgart aufgestellt.\n\nBeim Rekordfahrzeug handelt es sich um ein «Formula Student»-Elektroauto, welches von 30 Studenten der ETH Zürich und der Hochschule Luzern innerhalb eines Jahres entwickelt und gebaut wurde. «grimsel» ist das fünfte Elektroauto des AMZ und setzt neue Massstäbe im Leichtbau und beim elektrischen Antrieb. Dank Einsatz von Kohlefaser-Werkstoffen wiegt «grimsel» gerade einmal 168 Kilogramm. Der Elektro-Renner verfügt über vier selbst entwickelte Radnabenmotoren, welche per Allradantrieb 200 PS Leistung und 1700 Newtonmeter Drehmoment auf die Strasse bringen. Eine ausgeklügelte Traktionskontrolle regelt die Leistungsabgabe an jedes Rad individuell, wodurch die Beschleunigung des Fahrzeugs weiter gesteigert werden kann. Kein Serienfahrzeug, auch keines mit Verbrennungsmotor, erreicht eine mit «grimsel» vergleichbare Beschleunigung."
+    },
+    {
+      "heading": "Erfolgreichstes Fahrzeug des AMZ",
+      "text": "Bereits im Sommer 2014 konnte «grimsel» zahlreiche Erfolge im internationalen Wettbewerb der Formula Student feiern. Die Formula Student ist mit über 500 Teams der weltweit grösste Wettbewerb für Ingenieurstudierende und wird jährlich auf verschiedenen Rennstrecken der Welt ausgetragen. Mit drei Gesamtsiegen und einem Punkteschnitt von 920 von möglichen 1000 Punkten ist «grimsel» das erfolgreichste Fahrzeug in der Geschichte des AMZ. Der grosse Erfolg von «grimsel» konnte auch dazu beitragen, den ersten Rang in der Formula Student Weltrangliste, welchen der AMZ seit 2013 innehat, zu verteidigen."
+    },
+    {
+      "heading": "Akademischer Motorsportverein Zürich",
+      "text": "Der Akademische Motorsportverein Zürich (AMZ) wurde 2006 von Studierenden der ETH Zürich gegründet und entwickelt jährlich einen Prototypen für verschiedene «Formula Student»-Wettbewerbe in Europa. Nach drei Fahrzeugen mit Verbrennungsmotoren baut der AMZ seit 2010 rein elektrisch angetriebene Rennwagen. Der Verein ist finanziell unabhängig und wird von zahlreichen Finanz-, Fertigungs- und Sachsponsoren sowie Instituten verschiedener Schweizer Hochschulen unterstützt. Der AMZ war das erste Schweizer Team in der «Formula Student». Weitere Informationen unter externe Seite www.amzracing.ch\n\nAkademischer Motorsportverein Zürich Lucien Segessemann ETH Formula Student Project Telefon: +41 79 205 22 63\n\nAkademischer Motorsportverein Zürich Jonas Abeken ETH Formula Student Project Telefon: +41 44 632 94 05\n\nETH Zürich Medienstelle Telefon: +41 44 632 41 41"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Formula Student Team",
+        "label": "MISC",
+        "start": 4,
+        "end": 24
+      },
+      {
+        "text": "Akademischen Motorsportvereins Zürich",
+        "label": "ORG",
+        "start": 29,
+        "end": 66
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 68,
+        "end": 71
+      },
+      {
+        "text": "Militärflugplatz Dübendorf",
+        "label": "LOC",
+        "start": 342,
+        "end": 368
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 373,
+        "end": 379
+      },
+      {
+        "text": "Universität Stuttgart",
+        "label": "ORG",
+        "start": 477,
+        "end": 498
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 615,
+        "end": 625
+      },
+      {
+        "text": "Hochschule Luzern",
+        "label": "ORG",
+        "start": 634,
+        "end": 651
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 745,
+        "end": 748
+      },
+      {
+        "text": "Kohlefaser-Werkstoffen",
+        "label": "LOC",
+        "start": 835,
+        "end": 857
+      },
+      {
+        "text": "Elektro-Renner",
+        "label": "LOC",
+        "start": 907,
+        "end": 921
+      },
+      {
+        "text": "Formula Student",
+        "label": "MISC",
+        "start": 93,
+        "end": 108
+      },
+      {
+        "text": "Formula Student",
+        "label": "MISC",
+        "start": 121,
+        "end": 136
+      },
+      {
+        "text": "AMZ",
+        "label": "MISC",
+        "start": 433,
+        "end": 436
+      },
+      {
+        "text": "Weltrangliste",
+        "label": "MISC",
+        "start": 537,
+        "end": 550
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 564,
+        "end": 567
+      },
+      {
+        "text": "Akademische Motorsportverein Zürich",
+        "label": "ORG",
+        "start": 4,
+        "end": 39
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 78,
+        "end": 88
+      },
+      {
+        "text": "Europa",
+        "label": "LOC",
+        "start": 190,
+        "end": 196
+      },
+      {
+        "text": "AMZ",
+        "label": "ORG",
+        "start": 252,
+        "end": 255
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 438,
+        "end": 447
+      },
+      {
+        "text": "AMZ",
+        "label": "MISC",
+        "start": 477,
+        "end": 480
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 495,
+        "end": 504
+      },
+      {
+        "text": "Formula Student",
+        "label": "MISC",
+        "start": 518,
+        "end": 533
+      },
+      {
+        "text": "ETH Formula Student",
+        "label": "MISC",
+        "start": 651,
+        "end": 670
+      },
+      {
+        "text": "Project Telefon",
+        "label": "PER",
+        "start": 671,
+        "end": 686
+      },
+      {
+        "text": "Zürich Jonas Abeken",
+        "label": "ORG",
+        "start": 735,
+        "end": 754
+      },
+      {
+        "text": "Project Telefon",
+        "label": "PER",
+        "start": 775,
+        "end": 790
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Project Telefon"
+      ],
+      "ORG": [
+        "AMZ",
+        "Akademische Motorsportverein Zürich",
+        "Akademischen Motorsportvereins Zürich",
+        "ETH Zürich",
+        "Hochschule Luzern",
+        "Universität Stuttgart",
+        "Zürich Jonas Abeken"
+      ],
+      "LOCATION": [
+        "Elektro-Renner",
+        "Europa",
+        "Kohlefaser-Werkstoffen",
+        "Militärflugplatz Dübendorf",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "AMZ",
+        "ETH Formula Student",
+        "Formula Student",
+        "Formula Student Team",
+        "Schweizer",
+        "Weltrangliste"
+      ]
+    },
+    "entity_counts": {
+      "AMZ": 7,
+      "Formula Student": 3,
+      "ETH Zürich": 2,
+      "Schweizer": 2,
+      "Project Telefon": 2,
+      "Formula Student Team": 1,
+      "Akademischen Motorsportvereins Zürich": 1,
+      "Militärflugplatz Dübendorf": 1,
+      "Zürich": 1,
+      "Universität Stuttgart": 1,
+      "Hochschule Luzern": 1,
+      "Kohlefaser-Werkstoffen": 1,
+      "Elektro-Renner": 1,
+      "Weltrangliste": 1,
+      "Akademische Motorsportverein Zürich": 1,
+      "Europa": 1,
+      "ETH Formula Student": 1,
+      "Zürich Jonas Abeken": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 18
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "grimsel-bricht-weltrekord.md",
+      "title": "De News Events/2016/06/grimsel Bricht Weltrekord",
+      "language": "de",
+      "source_path": "de_news_events/2016/06/grimsel-bricht-weltrekord.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2006",
+        "2010",
+        "2013",
+        "2014",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Project Telefon"
+      ],
+      "people_with_roles": {
+        "Project Telefon": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH Formula Student",
+        "Formula Student",
+        "Formula Student Team",
+        "Schweizer",
+        "Weltrangliste"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Dank Einsatz",
+        "Schweizer Hochschulen",
+        "Akademischer Motorsportverein",
+        "Lucien Segessemann",
+        "Akademischen Motorsportvereins",
+        "Jonas Abeken",
+        "Schweizer Team",
+        "ETH Formula",
+        "Der Akademische",
+        "Hochschule Luzern",
+        "Kohlefaser-Werkstoffen",
+        "Student Team",
+        "PS Leistung",
+        "Das Formula",
+        "Student Project",
+        "Medienstelle Telefon",
+        "Ihr Elektrorennwagen",
+        "Die Formula",
+        "Beim Rekordfahrzeug",
+        "Die Geschwindigkeit",
+        "Newtonmeter Drehmoment",
+        "Der Verein",
+        "Bricht Weltrekord",
+        "Kein Serienfahrzeug",
+        "Der AMZ",
+        "Formula Student",
+        "De News",
+        "Weitere Informationen",
+        "Der Elektro"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "AMZ",
+        "Akademische Motorsportverein Zürich",
+        "Akademischen Motorsportvereins Zürich",
+        "ETH Zürich",
+        "Hochschule Luzern",
+        "Universität Stuttgart",
+        "Zürich Jonas Abeken"
+      ],
+      "locations": [
+        "Elektro-Renner",
+        "Europa",
+        "Kohlefaser-Werkstoffen",
+        "Militärflugplatz Dübendorf",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "AMZ",
+        "Formula Student",
+        "ETH Zürich",
+        "Schweizer",
+        "Project Telefon",
+        "Formula Student Team",
+        "Akademischen Motorsportvereins Zürich",
+        "Militärflugplatz Dübendorf",
+        "Zürich",
+        "Universität Stuttgart"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Erfolgreichstes Fahrzeug des AMZ",
+          "Erfolgreichstes Fahrzeug des AMZ",
+          "Akademischer Motorsportverein Zürich"
+        ],
+        "content_length": 2865
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2013",
+        "Project Telefon",
+        "EU",
+        "Universität Stuttgart",
+        "2010",
+        "2016",
+        "ETH Zürich",
+        "Akademische Motorsportverein Zürich",
+        "Akademischen Motorsportvereins Zürich",
+        "Zürich Jonas Abeken",
+        "2006",
+        "AMZ",
+        "2014",
+        "Hochschule Luzern"
+      ],
+      "semantic_concepts": [
+        "Formula Student",
+        "Schweizer",
+        "Formula Student Team",
+        "ETH Formula Student",
+        "what",
+        "Weltrangliste"
+      ],
+      "graph_relations": [
+        "Project Telefon_has_role_student"
+      ]
+    }
+  }
+}

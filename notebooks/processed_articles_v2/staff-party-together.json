@@ -1,0 +1,110 @@
+{
+  "filename": "staff-party-together.md",
+  "original_filename": "staff-party-together.html",
+  "source_path": "en_internal/2018/09/staff-party-together.html",
+  "date": "2018-09",
+  "title": "Staff Party Together",
+  "language": "it",
+  "paragraphs": [
+    {
+      "heading": "Impressions of the event",
+      "text": "Photographs: ETH Zurich / Alessandro Della Bella"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Party Together",
+        "label": "PERSON",
+        "start": 26,
+        "end": 40
+      },
+      {
+        "text": "ETH Zurich /",
+        "label": "PERSON",
+        "start": 13,
+        "end": 25
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich /",
+        "Party Together"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Party Together": 1,
+      "ETH Zurich /": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "staff-party-together.md",
+      "title": "En Internal/2018/09/staff Party Together",
+      "language": "it",
+      "source_path": "en_internal/2018/09/staff-party-together.html"
+    },
+    "temporal": {
+      "publication_date": "2018-09",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich /",
+        "Party Together"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "ETH Zurich",
+        "Alessandro Della",
+        "Party Together",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Party Together",
+        "ETH Zurich /"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Impressions of the event"
+        ],
+        "content_length": 89
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Party Together",
+        "ETH Zurich /"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

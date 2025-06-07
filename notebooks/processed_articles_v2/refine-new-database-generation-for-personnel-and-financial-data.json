@@ -1,0 +1,391 @@
+{
+  "filename": "refine-new-database-generation-for-personnel-and-financial-data.md",
+  "original_filename": "refine-new-database-generation-for-personnel-and-financial-data.html",
+  "source_path": "en_internal/2016/04/refine-new-database-generation-for-personnel-and-financial-data.html",
+  "date": "2016-04",
+  "title": "Refine New Database Generation For Personnel And Financial Data",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "“With a future-oriented technology such as HANA, we have laid the technical foundation for refine, says Robert Perich, Vice President Finance and Controlling. He particularly commends the work of the Competence Center SAP ( CCSAP ) and the ETH Zurich IT services ( ID ). “They have seen this assignment through without a hitch. It demonstrates the high standard of expertise we can count on in our administrative colleagues at ETH.”\n\n\"Road to HANA\" T-shirt (Photo: Simone Roggenbuck)\n\nSince November 2015, around 50 people have been involved in the construction of the new database and the migration of data from Oracle to the new HANA database, from SAP specialists through to testers – of whom only one was external. For André Hunziker (ID BD), Adrian Fischer and Sara Russo (CCSAP), who worked on the operation, the challenge lay primarily in the quantity of data involved.\n\n“The data migration routine was quite familiar – we have a lot of experience in that area,” they explain, “but the scale of it was new to us.” It comprised 27 databases, 33 million accounting records and 10,200 user profiles. As the SAP-HANA database does not require index data for searches and sorting, the volume of data was able to be reduced from the 400 GB of the previous database to 180 GB.\n\nETH Zurich is one of the first universities in Europe to employ the new SAP-HANA technology. However, “the primary motivation was not to save storage space”, explain Markus Knaus, Head of Controlling and the refine project, and Adrian Fischer. ETH Zurich was looking to secure a future-proof solution and also a database and application from a single source. The new solution marks a significant step forward in both those goals."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Financial Data",
+        "label": "ORG",
+        "start": 69,
+        "end": 83
+      },
+      {
+        "text": "HANA",
+        "label": "ORG",
+        "start": 43,
+        "end": 47
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PERSON",
+        "start": 104,
+        "end": 117
+      },
+      {
+        "text": "the Competence Center SAP",
+        "label": "ORG",
+        "start": 196,
+        "end": 221
+      },
+      {
+        "text": "CCSAP",
+        "label": "ORG",
+        "start": 224,
+        "end": 229
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 244,
+        "end": 250
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 427,
+        "end": 430
+      },
+      {
+        "text": "November 2015",
+        "label": "DATE",
+        "start": 489,
+        "end": 502
+      },
+      {
+        "text": "around 50",
+        "label": "CARDINAL",
+        "start": 504,
+        "end": 513
+      },
+      {
+        "text": "Oracle",
+        "label": "ORG",
+        "start": 611,
+        "end": 617
+      },
+      {
+        "text": "SAP",
+        "label": "ORG",
+        "start": 649,
+        "end": 652
+      },
+      {
+        "text": "André Hunziker",
+        "label": "PERSON",
+        "start": 721,
+        "end": 735
+      },
+      {
+        "text": "Adrian Fischer",
+        "label": "ORG",
+        "start": 745,
+        "end": 759
+      },
+      {
+        "text": "Sara Russo",
+        "label": "PERSON",
+        "start": 764,
+        "end": 774
+      },
+      {
+        "text": "CCSAP",
+        "label": "ORG",
+        "start": 776,
+        "end": 781
+      },
+      {
+        "text": "33 million",
+        "label": "CARDINAL",
+        "start": 1045,
+        "end": 1055
+      },
+      {
+        "text": "10,200",
+        "label": "CARDINAL",
+        "start": 1079,
+        "end": 1085
+      },
+      {
+        "text": "SAP",
+        "label": "ORG",
+        "start": 1108,
+        "end": 1111
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1274,
+        "end": 1284
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1288,
+        "end": 1291
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1299,
+        "end": 1304
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1321,
+        "end": 1327
+      },
+      {
+        "text": "SAP",
+        "label": "ORG",
+        "start": 1346,
+        "end": 1349
+      },
+      {
+        "text": "Markus Knaus",
+        "label": "PERSON",
+        "start": 1440,
+        "end": 1452
+      },
+      {
+        "text": "Adrian Fischer",
+        "label": "PERSON",
+        "start": 1502,
+        "end": 1516
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1518,
+        "end": 1528
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Adrian Fischer",
+        "André Hunziker",
+        "ETH Zurich",
+        "Markus Knaus",
+        "Robert Perich",
+        "Sara Russo"
+      ],
+      "ORG": [
+        "Adrian Fischer",
+        "CCSAP",
+        "ETH",
+        "Financial Data",
+        "HANA",
+        "Oracle",
+        "SAP",
+        "the Competence Center SAP"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Zurich"
+      ],
+      "DATE": [
+        "November 2015"
+      ],
+      "MISC": [
+        "10,200",
+        "33 million",
+        "around 50",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "SAP": 3,
+      "CCSAP": 2,
+      "Adrian Fischer": 2,
+      "ETH Zurich": 2,
+      "Financial Data": 1,
+      "HANA": 1,
+      "Robert Perich": 1,
+      "the Competence Center SAP": 1,
+      "Zurich": 1,
+      "ETH": 1,
+      "November 2015": 1,
+      "around 50": 1,
+      "Oracle": 1,
+      "André Hunziker": 1,
+      "Sara Russo": 1,
+      "33 million": 1,
+      "10,200": 1,
+      "one": 1,
+      "first": 1,
+      "Europe": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "refine-new-database-generation-for-personnel-and-financial-data.md",
+      "title": "En Internal/2016/04/refine New Database Generation For Personnel And Financial Data",
+      "language": "en",
+      "source_path": "en_internal/2016/04/refine-new-database-generation-for-personnel-and-financial-data.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2015",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Adrian Fischer",
+        "André Hunziker",
+        "ETH Zurich",
+        "Markus Knaus",
+        "Robert Perich",
+        "Sara Russo"
+      ],
+      "people_with_roles": {
+        "Adrian Fischer": [
+          "head"
+        ],
+        "Markus Knaus": [
+          "head"
+        ],
+        "Robert Perich": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10,200",
+        "33 million",
+        "around 50",
+        "first"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ID BD",
+        "New Database",
+        "Vice President",
+        "Since November",
+        "Robert Perich",
+        "Financial Data",
+        "Personnel And",
+        "Simone Roggenbuck",
+        "En Internal",
+        "Sara Russo",
+        "SAP-HANA",
+        "Markus Knaus",
+        "Adrian Fischer",
+        "ETH Zurich",
+        "Competence Center",
+        "Generation For"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Adrian Fischer",
+        "CCSAP",
+        "ETH",
+        "Financial Data",
+        "HANA",
+        "Oracle",
+        "SAP",
+        "the Competence Center SAP"
+      ],
+      "locations": [
+        "Europe",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "SAP",
+        "CCSAP",
+        "Adrian Fischer",
+        "ETH Zurich",
+        "Financial Data",
+        "HANA",
+        "Robert Perich",
+        "the Competence Center SAP",
+        "Zurich",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1791
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "2015",
+        "André Hunziker",
+        "Oracle",
+        "Robert Perich",
+        "Financial Data",
+        "HANA",
+        "EU",
+        "SAP",
+        "the Competence Center SAP",
+        "2016",
+        "Sara Russo",
+        "Markus Knaus",
+        "Adrian Fischer",
+        "ETH Zurich",
+        "CCSAP"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "10,200",
+        "who",
+        "33 million",
+        "what",
+        "how",
+        "around 50",
+        "why",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Adrian Fischer_has_role_head",
+        "Markus Knaus_has_role_head",
+        "Robert Perich_has_role_president",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

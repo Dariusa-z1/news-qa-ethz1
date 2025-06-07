@@ -1,0 +1,181 @@
+{
+  "filename": "fulbright-grant-webinar.md",
+  "original_filename": "fulbright-grant-webinar.html",
+  "source_path": "en_internal/2023/09/fulbright-grant-webinar.html",
+  "date": "2023-09",
+  "title": "Fulbright Grant Webinar",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Fulbright webinar,Monday, 30 October 2023, 16.00–17.00.",
+      "text": "- develop curricula and workforce\n\n- engage in strategic or institutional planning\n\n- give lectures and workshops\n\n- Grants for studying or doing research in the U.S. for 4 to 10 months\n\n- Any university and faculty in the United States.\n\n- Support with your university application and J1 visa\n\n- Become part of the global alumni network"
+    },
+    {
+      "heading": "Fulbright Specialist Program",
+      "text": "Invite a U.S. academic or professional for 2 to 6 weeks to your institute to:\n\nhttps://fulbrightspecialist.worldlearning.org"
+    },
+    {
+      "heading": "Fulbright Student & Scholar Grant",
+      "text": "https://ch.usembassy.gov/education-culture/fulbright/\n\nTo register, please e-mail to request the webinar link."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Grant Webinar",
+        "label": "PERSON",
+        "start": 30,
+        "end": 43
+      },
+      {
+        "text": "U.S.",
+        "label": "GPE",
+        "start": 159,
+        "end": 163
+      },
+      {
+        "text": "4 to 10 months -",
+        "label": "DATE",
+        "start": 168,
+        "end": 184
+      },
+      {
+        "text": "the United States",
+        "label": "GPE",
+        "start": 215,
+        "end": 232
+      },
+      {
+        "text": "J1",
+        "label": "CARDINAL",
+        "start": 281,
+        "end": 283
+      },
+      {
+        "text": "U.S.",
+        "label": "GPE",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "2 to 6 weeks",
+        "label": "DATE",
+        "start": 43,
+        "end": 55
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Grant Webinar"
+      ],
+      "ORG": [],
+      "LOCATION": [
+        "U.S.",
+        "the United States"
+      ],
+      "DATE": [
+        "2 to 6 weeks",
+        "4 to 10 months -"
+      ],
+      "MISC": [
+        "J1"
+      ]
+    },
+    "entity_counts": {
+      "U.S.": 2,
+      "Grant Webinar": 1,
+      "4 to 10 months -": 1,
+      "the United States": 1,
+      "J1": 1,
+      "2 to 6 weeks": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "fulbright-grant-webinar.md",
+      "title": "En Internal/2023/09/fulbright Grant Webinar",
+      "language": "en",
+      "source_path": "en_internal/2023/09/fulbright-grant-webinar.html"
+    },
+    "temporal": {
+      "publication_date": "2023-09",
+      "mentioned_years": [
+        "2023"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Grant Webinar"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "alumni"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "grant"
+      ],
+      "projects": [
+        "Grant Webinar",
+        "United States",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "U.S.",
+        "the United States"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "U.S.",
+        "Grant Webinar",
+        "4 to 10 months -",
+        "the United States",
+        "J1",
+        "2 to 6 weeks"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Fulbright webinar,Monday, 30 October 2023, 16.00–17.00.",
+          "Fulbright Specialist Program",
+          "Fulbright Student & Scholar Grant"
+        ],
+        "content_length": 617
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2023",
+        "grant",
+        "Grant Webinar"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

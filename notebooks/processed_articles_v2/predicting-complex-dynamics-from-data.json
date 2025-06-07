@@ -1,0 +1,441 @@
+{
+  "filename": "predicting-complex-dynamics-from-data.md",
+  "original_filename": "predicting-complex-dynamics-from-data.html",
+  "source_path": "en_news_events/2022/02/predicting-complex-dynamics-from-data.html",
+  "date": "2022-02",
+  "title": "Predicting Complex Dynamics From Data",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The limits of static machine learning",
+      "text": "Modelling dynamically evolving physical systems is at the core of science and technology. Engineers need to know how the wings of a new airplane model will vibrate under particular flight conditions, and climate scientists are trying to predict how global temperatures and weather patterns will develop in the future. Those tasks are difficult because the underlying systems, by their very nature, do not behave linearly. This means that, for instance, applying twice as much force to an airplane wing will not necessarily cause it to bend twice as far (it could bend either more or less than that).\n\nScientists manage to model such nonlinear dynamical systems either by making linear approximations or by assuming specific nonlinear equations and then matching the model to observed data. However, both approaches lead to models that are often only valid over a limited range of the system’s motions. A group of scientists led by George Haller, Professor of Nonlinear Dynamics at ETH Zurich, together with researchers at the University of Bremen, have now found a new way to get computers to extract, directly from experimental data, nonlinear dynamical models that can make substantially more accurate predictions than previous algorithms."
+    },
+    {
+      "heading": "The limits of static machine learning",
+      "text": "In recent years, researchers have made tremendous progress in teaching computers how to recognize patterns, faces and even human speech. “Those are incredible achievements”, says Haller, “but such machine learning approaches are designed for fundamentally static problems. By contrast, getting computers to learn the behaviour of dynamical systems, even of apparently simple ones like water sloshing in a tank, is significantly harder.” A complete physical model for sloshing water would have to include not just the bulk flow of fluid, but also other phenomena, such as waves breaking on the surface. Conventional simulations that include all those features are extremely time consuming even on modern supercomputers.\n\n“Our new approach relies on the realization that one doesn’t need to reproduce all the details of the dynamics, but only its key structures”, says Mattia Cenedese, a postdoc in Haller’s group and first author of the study just published in the scientific journal Nature Communications ."
+    },
+    {
+      "heading": "Getting the big picture",
+      "text": "Taking the analogy of facial recognition, rather than considering the details of a human face down to tiny wrinkles or even individual pores in the skin, the computer algorithm developed by the ETH researchers looks the big picture – say, the general shape of the eyes and nose. Applied to dynamical systems, this corresponds to finding combinations, for instance, of the position and velocity of a part of the system rather than particular trajectories under specific circumstances. As a result, the time needed for the calculations can be reduced from several hours or even days to just a few minutes.\n\nTo demonstrate the strength of their algorithm, Haller and his co-workers used the results of a water-tank experiment performed by their German colleagues. In that experiment, a transparent tank filled with water was initially shaken back and forth until the water started sloshing periodically. The shaking of the tank was suddenly stopped, and the water was filmed as the sloshing slowly subsided. From that footage the motion of the centre of mass of the water was calculated and fed into a computer. The algorithm then produced a simple but still nonlinear mathematical model that captured the observed sloshing motion with high accuracy."
+    },
+    {
+      "heading": "Reference",
+      "text": "“We expect a good model to be able to predict the dynamics not only under the conditions that prevailed during the training experiment, but also under completely different conditions”, explains Haller. And that is precisely what the model was able to do. In a second round of experiments, the rhythmical shaking of the tank continued while the water was filmed, leading to substantially different sloshing dynamics. The mathematical model accurately predicted the resulting motion of the water for different frequencies of the shaking although it had never seen such an experiment before.\n\nHaller and his group have also applied their approach to other systems, such as the simulated vibrations of an airplane wing and the flow of a viscous fluid between two moving surfaces. Their computer code is openly available. “We want the research community to be able to apply our approach to their own problems and thus contribute to a better understanding of dynamical systems arising in practice”, says Haller and adds: “Many outstanding physical problems of interest to humanity involve nonlinear dynamics, and black-box methods using pure machine learning just don’t perform well on those”.\n\nTo tackle such problems, he stresses, mathematical insight that can only be created by humans – such as that used in the new algorithm - is needed. He hopes that in the future this approach will allow researchers to solve dynamical problems that involve so-called tipping points, which cause a dynamical system to suddenly and drastically change its behaviour. Such problems include the onset of turbulence, which is relevant in aircraft design and many other applications, as well as points of no return in the Earth’s climate.\n\nCenedese M, Axås J, Bäuerlein, Avila K, Haller G: Data-driven modeling and prediction of non-linearizable dynamics via spectral submanifolds, Nature Communication, 15. Februar 2022, doi: 10.1038/s41467-022-28518-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Complex Dynamics From Data",
+        "label": "ORG",
+        "start": 34,
+        "end": 60
+      },
+      {
+        "text": "linear",
+        "label": "ORG",
+        "start": 677,
+        "end": 683
+      },
+      {
+        "text": "George Haller",
+        "label": "PERSON",
+        "start": 930,
+        "end": 943
+      },
+      {
+        "text": "Nonlinear Dynamics",
+        "label": "ORG",
+        "start": 958,
+        "end": 976
+      },
+      {
+        "text": "the University of Bremen",
+        "label": "ORG",
+        "start": 1021,
+        "end": 1045
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "Haller",
+        "label": "PERSON",
+        "start": 179,
+        "end": 185
+      },
+      {
+        "text": "Mattia Cenedese",
+        "label": "PERSON",
+        "start": 866,
+        "end": 881
+      },
+      {
+        "text": "Haller",
+        "label": "ORG",
+        "start": 896,
+        "end": 902
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 915,
+        "end": 920
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 982,
+        "end": 1003
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 194,
+        "end": 197
+      },
+      {
+        "text": "several hours",
+        "label": "TIME",
+        "start": 554,
+        "end": 567
+      },
+      {
+        "text": "days",
+        "label": "DATE",
+        "start": 576,
+        "end": 580
+      },
+      {
+        "text": "just a few minutes",
+        "label": "TIME",
+        "start": 584,
+        "end": 602
+      },
+      {
+        "text": "Haller",
+        "label": "PERSON",
+        "start": 652,
+        "end": 658
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 741,
+        "end": 747
+      },
+      {
+        "text": "fed",
+        "label": "ORG",
+        "start": 1087,
+        "end": 1090
+      },
+      {
+        "text": "Haller",
+        "label": "PERSON",
+        "start": 194,
+        "end": 200
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 260,
+        "end": 266
+      },
+      {
+        "text": "Haller",
+        "label": "PERSON",
+        "start": 589,
+        "end": 595
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 754,
+        "end": 757
+      },
+      {
+        "text": "Haller",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1003
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1699,
+        "end": 1704
+      },
+      {
+        "text": "Cenedese M",
+        "label": "ORG",
+        "start": 1716,
+        "end": 1726
+      },
+      {
+        "text": "Bäuerlein",
+        "label": "PERSON",
+        "start": 1736,
+        "end": 1745
+      },
+      {
+        "text": "Avila K",
+        "label": "PERSON",
+        "start": 1747,
+        "end": 1754
+      },
+      {
+        "text": "Haller",
+        "label": "PERSON",
+        "start": 1756,
+        "end": 1762
+      },
+      {
+        "text": "Nature Communication",
+        "label": "ORG",
+        "start": 1858,
+        "end": 1878
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1903,
+        "end": 1910
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Avila K",
+        "Bäuerlein",
+        "George Haller",
+        "Haller",
+        "Mattia Cenedese"
+      ],
+      "ORG": [
+        "Cenedese M",
+        "Complex Dynamics From Data",
+        "ETH",
+        "Haller",
+        "Nature Communication",
+        "Nature Communications",
+        "Nonlinear Dynamics",
+        "fed",
+        "linear",
+        "the University of Bremen"
+      ],
+      "LOCATION": [
+        "Earth"
+      ],
+      "DATE": [
+        "days",
+        "just a few minutes",
+        "recent years",
+        "several hours"
+      ],
+      "MISC": [
+        "10.1038",
+        "German",
+        "first",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Haller": 7,
+      "Complex Dynamics From Data": 1,
+      "linear": 1,
+      "George Haller": 1,
+      "Nonlinear Dynamics": 1,
+      "the University of Bremen": 1,
+      "recent years": 1,
+      "Mattia Cenedese": 1,
+      "first": 1,
+      "Nature Communications": 1,
+      "ETH": 1,
+      "several hours": 1,
+      "days": 1,
+      "just a few minutes": 1,
+      "German": 1,
+      "fed": 1,
+      "second": 1,
+      "two": 1,
+      "Earth": 1,
+      "Cenedese M": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "predicting-complex-dynamics-from-data.md",
+      "title": "En News Events/2022/02/predicting Complex Dynamics From Data",
+      "language": "en",
+      "source_path": "en_news_events/2022/02/predicting-complex-dynamics-from-data.html"
+    },
+    "temporal": {
+      "publication_date": "2022-02",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Avila K",
+        "Bäuerlein",
+        "George Haller",
+        "Haller",
+        "Mattia Cenedese"
+      ],
+      "people_with_roles": {
+        "George Haller": [
+          "scientist",
+          "researcher",
+          "professor"
+        ],
+        "Haller": [
+          "scientist",
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "German",
+        "first",
+        "second"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Avila K",
+        "Cenedese M",
+        "Nature Communication",
+        "En News",
+        "Complex Dynamics",
+        "Mattia Cenedese",
+        "Nature Communications",
+        "ETH Zurich",
+        "Nonlinear Dynamics",
+        "Haller G",
+        "George Haller",
+        "From Data"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cenedese M",
+        "Complex Dynamics From Data",
+        "ETH",
+        "Haller",
+        "Nature Communication",
+        "Nature Communications",
+        "Nonlinear Dynamics",
+        "fed",
+        "linear",
+        "the University of Bremen"
+      ],
+      "locations": [
+        "Earth"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Haller",
+        "Complex Dynamics From Data",
+        "linear",
+        "George Haller",
+        "Nonlinear Dynamics",
+        "the University of Bremen",
+        "recent years",
+        "Mattia Cenedese",
+        "first",
+        "Nature Communications"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "The limits of static machine learning",
+          "The limits of static machine learning",
+          "Getting the big picture",
+          "Reference"
+        ],
+        "content_length": 5490
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Avila K",
+        "ETH",
+        "Cenedese M",
+        "Nature Communication",
+        "the University of Bremen",
+        "Bäuerlein",
+        "Mattia Cenedese",
+        "ERC",
+        "fed",
+        "2022",
+        "Nature Communications",
+        "linear",
+        "Nonlinear Dynamics",
+        "Haller",
+        "Complex Dynamics From Data",
+        "George Haller"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "first",
+        "who",
+        "10.1038",
+        "what",
+        "second",
+        "German",
+        "how",
+        "computer_science",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "George Haller_has_role_scientist",
+        "George Haller_has_role_researcher",
+        "George Haller_has_role_professor",
+        "Haller_has_role_scientist",
+        "Haller_has_role_researcher",
+        "Haller_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

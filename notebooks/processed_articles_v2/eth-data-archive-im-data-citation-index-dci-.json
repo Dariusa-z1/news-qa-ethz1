@@ -1,0 +1,171 @@
+{
+  "filename": "eth-data-archive-im-data-citation-index-dci-.md",
+  "original_filename": "eth-data-archive-im-data-citation-index-dci-.html",
+  "source_path": "en_internal/2016/05/eth-data-archive-im-data-citation-index-dci-.html",
+  "date": "2016-05",
+  "title": "Eth Data Archive Im Data Citation Index Dci",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Moreover, the ETH Data Archive's metadata is integrated in the Web of Science Data Citation Index (DCI). The DCI receives notification following the registration of a DOI (Digital Object Identifier) for research data.\n\nThe Digital Curation office advises members of ETH Zurich on all aspects of research data management."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Data Archive",
+        "label": "ORG",
+        "start": 24,
+        "end": 36
+      },
+      {
+        "text": "the ETH Data Archive's",
+        "label": "ORG",
+        "start": 10,
+        "end": 32
+      },
+      {
+        "text": "DCI",
+        "label": "ORG",
+        "start": 99,
+        "end": 102
+      },
+      {
+        "text": "DCI",
+        "label": "ORG",
+        "start": 109,
+        "end": 112
+      },
+      {
+        "text": "Digital Object Identifier",
+        "label": "ORG",
+        "start": 172,
+        "end": 197
+      },
+      {
+        "text": "Digital Curation",
+        "label": "ORG",
+        "start": 222,
+        "end": 238
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 265,
+        "end": 275
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "DCI",
+        "Data Archive",
+        "Digital Curation",
+        "Digital Object Identifier",
+        "ETH Zurich",
+        "the ETH Data Archive's"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "DCI": 2,
+      "Data Archive": 1,
+      "the ETH Data Archive's": 1,
+      "Digital Object Identifier": 1,
+      "Digital Curation": 1,
+      "ETH Zurich": 1
+    },
+    "total_entities": 7,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-data-archive-im-data-citation-index-dci-.md",
+      "title": "En Internal/2016/05/eth Data Archive Im Data Citation Index Dci",
+      "language": "en",
+      "source_path": "en_internal/2016/05/eth-data-archive-im-data-citation-index-dci-.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Dci Moreover",
+        "The Digital",
+        "Citation Index",
+        "Science Data",
+        "Data Archive",
+        "En Internal",
+        "ETH Data",
+        "Digital Object",
+        "The DCI",
+        "ETH Zurich",
+        "Im Data"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DCI",
+        "Data Archive",
+        "Digital Curation",
+        "Digital Object Identifier",
+        "ETH Zurich",
+        "the ETH Data Archive's"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "DCI",
+        "Data Archive",
+        "the ETH Data Archive's",
+        "Digital Object Identifier",
+        "Digital Curation",
+        "ETH Zurich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 384
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the ETH Data Archive's",
+        "Digital Object Identifier",
+        "Digital Curation",
+        "2016",
+        "Data Archive",
+        "DCI",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "what"
+      ],
+      "graph_relations": []
+    }
+  }
+}

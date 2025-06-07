@@ -1,0 +1,183 @@
+{
+  "filename": "de_internal_2020_06_erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.md",
+  "original_filename": "de_internal_2020_06_erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.html",
+  "source_path": "de_internal/2020/06/erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.html",
+  "date": "2020-06",
+  "title": "Erlebniswelt Forschung Auf Explora Werden Geschichten Ueber Bestaende Der Eth Bibliothek Erzaehlt",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Die Bilder stammen aus den E-Pics-Bildkatalogen:\n\nDas Suchportal ist der zentrale Einstieg in die Recherche und Nutzung der Ressourcen der ETH-Bibliothek. Diese umfassen gedruckte oder elektronische Bücher, Zeitschriften, Fachartikel, Fotografien, Karten, Videos und vieles mehr.\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.\n\n#ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/06/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Eth Bibliothek",
+        "label": "LOC",
+        "start": 94,
+        "end": 108
+      },
+      {
+        "text": "E-Pics-Bildkatalogen",
+        "label": "LOC",
+        "start": 27,
+        "end": 47
+      },
+      {
+        "text": "Suchportal",
+        "label": "LOC",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 138,
+        "end": 152
+      },
+      {
+        "text": "Videos",
+        "label": "MISC",
+        "start": 255,
+        "end": 261
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 322,
+        "end": 336
+      },
+      {
+        "text": "ETHBibliothekDigital",
+        "label": "LOC",
+        "start": 393,
+        "end": 413
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 420,
+        "end": 434
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [
+        "De Internal/2020/06/",
+        "E-Pics-Bildkatalogen",
+        "ETHBibliothekDigital",
+        "Eth Bibliothek",
+        "Suchportal"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek",
+        "Videos"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 3,
+      "De Internal/2020/06/": 1,
+      "Eth Bibliothek": 1,
+      "E-Pics-Bildkatalogen": 1,
+      "Suchportal": 1,
+      "Videos": 1,
+      "ETHBibliothekDigital": 1
+    },
+    "total_entities": 9,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2020_06_erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.md",
+      "title": "De Internal/2020/06/erlebniswelt Forschung auf Explora Werden Geschichten Ueber Bestaende der Eth Bibliothek Erzaehlt",
+      "language": "de",
+      "source_path": "de_internal/2020/06/erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.html"
+    },
+    "temporal": {
+      "publication_date": "2020-06",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek",
+        "Videos"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Erzaehlt Die",
+        "ETH-Bibliothek",
+        "Das Suchportal",
+        "Geschichten Ueber",
+        "De Internal",
+        "Die ETH",
+        "Explora Werden",
+        "E-Pics",
+        "Eth Bibliothek"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [
+        "De Internal/2020/06/",
+        "E-Pics-Bildkatalogen",
+        "ETHBibliothekDigital",
+        "Eth Bibliothek",
+        "Suchportal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2020/06/",
+        "Eth Bibliothek",
+        "E-Pics-Bildkatalogen",
+        "Suchportal",
+        "Videos",
+        "ETHBibliothekDigital"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 678
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2020",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "Videos",
+        "ETH-Bibliothek"
+      ],
+      "graph_relations": []
+    }
+  }
+}

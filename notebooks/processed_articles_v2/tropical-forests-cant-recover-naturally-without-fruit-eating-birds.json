@@ -1,0 +1,306 @@
+{
+  "filename": "tropical-forests-cant-recover-naturally-without-fruit-eating-birds.md",
+  "original_filename": "tropical-forests-cant-recover-naturally-without-fruit-eating-birds.html",
+  "source_path": "en_news_events/2024/04/tropical-forests-cant-recover-naturally-without-fruit-eating-birds.html",
+  "date": "2024-04",
+  "title": "Tropical Forests Cant Recover Naturally Without Fruit Eating Birds",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Based on current data, this study advances the research from previous ground studies conducted by the authors in the Atlantic Forest in Brazil. The forest is one of the most biologically diverse regions in the world, but it is also one of the most fragmented with only 12 percent of the original forest remaining and mainly in small areas. The forest is also one of the most important regions on the planet for large-scale ecological restoration, with 12 million hectares of land targeted for restoration and natural recovery under the Atlantic Forest Restoration Pact. The research shows that increasing forest cover beyond 40 percent may be critical not only to maintain species diversity, as previously evidenced, but also to maintain and restore the functioning of ecosystem services, such as seed dispersal and carbon storage, to maximise the success of the massive-scale restoration initiative in this region.\n\n“We have always known that birds are essential, but it is remarkable to discover the scale of those effects,” says Thomas Crowther, Professor of Ecology at ETH Zurich, and the senior co-author of the study. “If we can recover the complexity of life within these forests, their carbon storage potential would increase significantly.”\n\nEarlier research suggests that recovering forests could capture more than 2.3 billion tonnes of carbon in the Atlantic Forest region, and that natural regeneration is likely to be more cost-effective – as much as 77 percent less in implementation costs - than active planting.\n\nResearchers note that a range of strategies, such as planting fruit trees and preventing poaching, could enhance animal movement in tropical areas where passive restoration is more likely. Active restoration is necessary in highly fragmented landscapes.\n\n\"By identifying the thresholds of forest cover in the surrounding landscape that allow seed dispersal, we can identify areas where natural regeneration is possible, as well as areas where we need to actively plant trees, allowing us to maximize the cost-effectiveness of forest restoration,” says Danielle Ramos, a co-author of the paper affiliated with the University of Exeter, UK and Universidade Estadual Paulista, Rio Claro, São Paulo, Brazil."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Forests",
+        "label": "NORP",
+        "start": 32,
+        "end": 39
+      },
+      {
+        "text": "the Atlantic Forest",
+        "label": "ORG",
+        "start": 113,
+        "end": 132
+      },
+      {
+        "text": "Brazil",
+        "label": "GPE",
+        "start": 136,
+        "end": 142
+      },
+      {
+        "text": "only 12 percent",
+        "label": "PERCENT",
+        "start": 264,
+        "end": 279
+      },
+      {
+        "text": "12 million",
+        "label": "CARDINAL",
+        "start": 452,
+        "end": 462
+      },
+      {
+        "text": "the Atlantic Forest Restoration Pact",
+        "label": "ORG",
+        "start": 532,
+        "end": 568
+      },
+      {
+        "text": "40 percent",
+        "label": "PERCENT",
+        "start": 625,
+        "end": 635
+      },
+      {
+        "text": "Thomas Crowther",
+        "label": "PERSON",
+        "start": 1031,
+        "end": 1046
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1072,
+        "end": 1082
+      },
+      {
+        "text": "Atlantic Forest",
+        "label": "GPE",
+        "start": 1359,
+        "end": 1374
+      },
+      {
+        "text": "as much as 77 percent",
+        "label": "PERCENT",
+        "start": 1451,
+        "end": 1472
+      },
+      {
+        "text": "Danielle Ramos",
+        "label": "PERSON",
+        "start": 2077,
+        "end": 2091
+      },
+      {
+        "text": "the University of Exeter",
+        "label": "ORG",
+        "start": 2134,
+        "end": 2158
+      },
+      {
+        "text": "UK",
+        "label": "GPE",
+        "start": 2160,
+        "end": 2162
+      },
+      {
+        "text": "Rio Claro",
+        "label": "PERSON",
+        "start": 2199,
+        "end": 2208
+      },
+      {
+        "text": "São Paulo",
+        "label": "PERSON",
+        "start": 2210,
+        "end": 2219
+      },
+      {
+        "text": "Brazil",
+        "label": "GPE",
+        "start": 2221,
+        "end": 2227
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Danielle Ramos",
+        "Rio Claro",
+        "São Paulo",
+        "Thomas Crowther"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "the Atlantic Forest",
+        "the Atlantic Forest Restoration Pact",
+        "the University of Exeter"
+      ],
+      "LOCATION": [
+        "Atlantic Forest",
+        "Brazil",
+        "UK"
+      ],
+      "DATE": [],
+      "MISC": [
+        "12 million",
+        "40 percent",
+        "Forests",
+        "as much as 77 percent",
+        "only 12 percent"
+      ]
+    },
+    "entity_counts": {
+      "Brazil": 2,
+      "Forests": 1,
+      "the Atlantic Forest": 1,
+      "only 12 percent": 1,
+      "12 million": 1,
+      "the Atlantic Forest Restoration Pact": 1,
+      "40 percent": 1,
+      "Thomas Crowther": 1,
+      "ETH Zurich": 1,
+      "Atlantic Forest": 1,
+      "as much as 77 percent": 1,
+      "Danielle Ramos": 1,
+      "the University of Exeter": 1,
+      "UK": 1,
+      "Rio Claro": 1,
+      "São Paulo": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "tropical-forests-cant-recover-naturally-without-fruit-eating-birds.md",
+      "title": "En News Events/2024/04/tropical Forests Cant Recover Naturally Without Fruit Eating Birds",
+      "language": "en",
+      "source_path": "en_news_events/2024/04/tropical-forests-cant-recover-naturally-without-fruit-eating-birds.html"
+    },
+    "temporal": {
+      "publication_date": "2024-04",
+      "mentioned_years": [
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Danielle Ramos",
+        "Rio Claro",
+        "São Paulo",
+        "Thomas Crowther"
+      ],
+      "people_with_roles": {
+        "Thomas Crowther": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "biology"
+      ],
+      "research_topics": [
+        "12 million",
+        "40 percent",
+        "Forests",
+        "as much as 77 percent",
+        "only 12 percent"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Recover Naturally",
+        "En News",
+        "Danielle Ramos",
+        "Restoration Pact",
+        "ETH Zurich",
+        "Universidade Estadual",
+        "Forests Cant",
+        "Without Fruit",
+        "Eating Birds",
+        "Thomas Crowther",
+        "Atlantic Forest",
+        "Rio Claro"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "the Atlantic Forest",
+        "the Atlantic Forest Restoration Pact",
+        "the University of Exeter"
+      ],
+      "locations": [
+        "Atlantic Forest",
+        "Brazil",
+        "UK"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Brazil",
+        "Forests",
+        "the Atlantic Forest",
+        "only 12 percent",
+        "12 million",
+        "the Atlantic Forest Restoration Pact",
+        "40 percent",
+        "Thomas Crowther",
+        "ETH Zurich",
+        "Atlantic Forest"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 2322
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "the Atlantic Forest",
+        "the University of Exeter",
+        "the Atlantic Forest Restoration Pact",
+        "Danielle Ramos",
+        "ETH Zurich",
+        "São Paulo",
+        "Thomas Crowther",
+        "ERC",
+        "Rio Claro"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "only 12 percent",
+        "who",
+        "Forests",
+        "12 million",
+        "biology",
+        "what",
+        "how",
+        "40 percent",
+        "as much as 77 percent",
+        "where"
+      ],
+      "graph_relations": [
+        "Thomas Crowther_has_role_professor",
+        "research_domain_technology",
+        "research_domain_biology"
+      ]
+    }
+  }
+}

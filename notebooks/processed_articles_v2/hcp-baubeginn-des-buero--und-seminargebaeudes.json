@@ -1,0 +1,278 @@
+{
+  "filename": "hcp-baubeginn-des-buero--und-seminargebaeudes.md",
+  "original_filename": "hcp-baubeginn-des-buero--und-seminargebaeudes.html",
+  "source_path": "de_news_events/2013/11/hcp-baubeginn-des-buero--und-seminargebaeudes.html",
+  "date": "2013-11",
+  "title": "Hcp Baubeginn Des Buero Und Seminargebaeudes",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Im treppenartigen Neubau vor dem HCI entstehen 155 Räume, die 260 Personen Platz bieten. Darüber hinaus verfügt das 200 Meter lange Gebäude über Sitzungszimmer und Seminarräume für 190 Personen. Für Studierende stehen zwei Arbeitsräume mit 50 Arbeitsplatzen mit Aufwärmküche, Kaffee-Ecke und Aussensitzplätzen zur Verfügung. Bereits im Herbst 2015 zieht das Departement Materialwissenschaft (D-MATL) in den Neubau. Die Zufahrt zur Baustelle erfolgt über den Leopold-Ruzicka-Weg entlang des HCI. Später dient sie als Anlieferweg für das HCP. Mit dem HCP schafft die ETH für Lehre und Forschung dringend benötigten Raum. Nach der Fertigstellung können auch viele Laboratorien (PDF, 411 KB) im HCI, die heute als Büro dienen, wieder für die Forschung freigegeben werden."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Buero",
+        "label": "LOC",
+        "start": 41,
+        "end": 46
+      },
+      {
+        "text": "Seminargebaeudes",
+        "label": "LOC",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "HCI",
+        "label": "ORG",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "Aufwärmküche",
+        "label": "LOC",
+        "start": 262,
+        "end": 274
+      },
+      {
+        "text": "Kaffee-Ecke",
+        "label": "LOC",
+        "start": 276,
+        "end": 287
+      },
+      {
+        "text": "Aussensitzplätzen",
+        "label": "LOC",
+        "start": 292,
+        "end": 309
+      },
+      {
+        "text": "Herbst 2015",
+        "label": "MISC",
+        "start": 336,
+        "end": 347
+      },
+      {
+        "text": "Departement Materialwissenschaft",
+        "label": "ORG",
+        "start": 358,
+        "end": 390
+      },
+      {
+        "text": "D-MATL",
+        "label": "ORG",
+        "start": 392,
+        "end": 398
+      },
+      {
+        "text": "Baustelle",
+        "label": "LOC",
+        "start": 431,
+        "end": 440
+      },
+      {
+        "text": "Leopold-Ruzicka-Weg",
+        "label": "LOC",
+        "start": 458,
+        "end": 477
+      },
+      {
+        "text": "HCI",
+        "label": "ORG",
+        "start": 490,
+        "end": 493
+      },
+      {
+        "text": "HCP",
+        "label": "ORG",
+        "start": 536,
+        "end": 539
+      },
+      {
+        "text": "HCP",
+        "label": "MISC",
+        "start": 549,
+        "end": 552
+      },
+      {
+        "text": "ETH für Lehre und Forschung",
+        "label": "ORG",
+        "start": 565,
+        "end": 592
+      },
+      {
+        "text": "PDF",
+        "label": "MISC",
+        "start": 675,
+        "end": 678
+      },
+      {
+        "text": "HCI",
+        "label": "MISC",
+        "start": 691,
+        "end": 694
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "D-MATL",
+        "Departement Materialwissenschaft",
+        "ETH für Lehre und Forschung",
+        "HCI",
+        "HCP"
+      ],
+      "LOCATION": [
+        "Aufwärmküche",
+        "Aussensitzplätzen",
+        "Baustelle",
+        "Buero",
+        "Kaffee-Ecke",
+        "Leopold-Ruzicka-Weg",
+        "Seminargebaeudes"
+      ],
+      "DATE": [],
+      "MISC": [
+        "HCI",
+        "HCP",
+        "Herbst 2015",
+        "PDF"
+      ]
+    },
+    "entity_counts": {
+      "HCI": 3,
+      "HCP": 2,
+      "De News": 1,
+      "Buero": 1,
+      "Seminargebaeudes": 1,
+      "Aufwärmküche": 1,
+      "Kaffee-Ecke": 1,
+      "Aussensitzplätzen": 1,
+      "Herbst 2015": 1,
+      "Departement Materialwissenschaft": 1,
+      "D-MATL": 1,
+      "Baustelle": 1,
+      "Leopold-Ruzicka-Weg": 1,
+      "ETH für Lehre und Forschung": 1,
+      "PDF": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "hcp-baubeginn-des-buero--und-seminargebaeudes.md",
+      "title": "De News Events/2013/11/hcp Baubeginn des Buero und Seminargebaeudes",
+      "language": "de",
+      "source_path": "de_news_events/2013/11/hcp-baubeginn-des-buero--und-seminargebaeudes.html"
+    },
+    "temporal": {
+      "publication_date": "2013-11",
+      "mentioned_years": [
+        "2013",
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Herbst 2015"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Seminargebaeudes Im",
+        "Departement Materialwissenschaft",
+        "D-MATL",
+        "De News",
+        "Leopold-Ruzicka",
+        "Personen Platz",
+        "Die Zufahrt",
+        "Kaffee-Ecke"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "D-MATL",
+        "Departement Materialwissenschaft",
+        "ETH für Lehre und Forschung",
+        "HCI",
+        "HCP"
+      ],
+      "locations": [
+        "Aufwärmküche",
+        "Aussensitzplätzen",
+        "Baustelle",
+        "Buero",
+        "Kaffee-Ecke",
+        "Leopold-Ruzicka-Weg",
+        "Seminargebaeudes"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "HCI",
+        "HCP",
+        "De News",
+        "Buero",
+        "Seminargebaeudes",
+        "Aufwärmküche",
+        "Kaffee-Ecke",
+        "Aussensitzplätzen",
+        "Herbst 2015",
+        "Departement Materialwissenschaft"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 835
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "HCP",
+        "2015",
+        "Departement Materialwissenschaft",
+        "2013",
+        "EU",
+        "D-MATL",
+        "De News",
+        "HCI",
+        "ETH für Lehre und Forschung"
+      ],
+      "semantic_concepts": [
+        "who",
+        "Herbst 2015"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "filename": "spin-trio-for-strong-coupling.md",
+  "original_filename": "spin-trio-for-strong-coupling.html",
+  "source_path": "en_news_events/2018/07/spin-trio-for-strong-coupling.html",
+  "date": "2018-07",
+  "title": "Spin Trio For Strong Coupling",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Qubits with charge or spin",
+      "text": "Quantum computers use quantum bits or “qubits” to do their calculations – quantum states, that is, of atoms or electrons that can take on the logical values “0” and “1” at the same time. In order to wire up many such qubits to make a powerful quantum computer, one needs to couple them to each other over distances of millimetres or even several metres. One way of achieving this is by exploiting the charge displacement caused by an electromagnetic wave, which is the working principle of an antenna. Such a coupling, however, also exposes the qubit to disturbances due to unwanted electric fields, which severely limits the quality of the logical qubit operations.\n\nA team of scientists working in several research groups at ETH Zurich, assisted by theoretical physicists at Sherbrooke University in Canada, have now demonstrated how this problem can be avoided. To do so, they found a way to couple a microwave photon to a spin qubit in a quantum dot."
+    },
+    {
+      "heading": "Qubits with charge or spin",
+      "text": "In quantum dots, electrons are first trapped in semiconductor structures measuring just a few nanometres that are cooled to less than one degree above the absolute zero of the temperature scale. The logical values 0 and 1 can now be realized in two different ways. One either defines a qubit in terms of the position of the electron on the right or left side of a double quantum dot, or else by the spin of the electron, which can point up or down.\n\nThe first case is called a charge qubit, which couples strongly to electromagnetic waves through the displacement of electric charge. A spin qubit, on the other hand, can be visualized as a tiny compass needle that points up or down. Much like a compass needle, a spin is also magnetic and, therefore, does not couple to electric but rather to magnetic fields. The coupling of a spin qubit to the magnetic part of electromagnetic waves, however, is much weaker than that of a charge qubit to the electric part."
+    },
+    {
+      "heading": "Three spins for stronger coupling",
+      "text": "This means that, on the one hand, a spin qubit is less susceptible to noise and keeps its coherence (on which the action of a quantum computer is based) for a longer period of time. On the other hand, it is considerably more difficult to couple spin qubits to each other over long distances using photons. The research group of ETH professor Klaus Ensslin uses a trick to make such a coupling possible nevertheless, as the post-doc Jonne Koski explains: “By realising the qubit with not just a single spin, but rather three of them, we can combine the advantages of a spin qubit with those of a charge qubit.”\n\nIn practice, this is done by producing three quantum dots on a semiconductor chip that are close to each other and can be controlled by voltages that are applied through tiny wires. In each of the quantum dots, electrons with spins pointing up or down can be trapped. Additionally, one of the wires connects the spin trio to a microwave resonator. The voltages at the quantum dots are now adjusted in order to have a single electron in each quantum dot, with the spins of two of the electrons pointing in the same direction and the third spin pointing in the opposite direction."
+    },
+    {
+      "heading": "Charge displacement through tunnelling",
+      "text": "According to the rules of quantum mechanics, the electrons can also tunnel back and forth between the quantum dots with a certain probability. This means that two of the three electrons can temporarily happen to be in the same quantum dot, with one quantum dot remaining empty. In this constellation the electric charge is now unevenly distributed. This charge displacement, in turn, gives rise to an electric dipole that can couple strongly to the electric field of a microwave photon.\n\nThe scientists at ETH were able to clearly detect the strong coupling by measuring the resonance frequency of the microwave resonator. They observed how the resonance of the resonator split into two because of the coupling to the spin trio. From that data they could infer that the coherence of the spin qubit remained intact for more than 10 nanoseconds."
+    },
+    {
+      "heading": "Spin trios for a quantum bus",
+      "text": "The researchers are confident that it will soon be possible to realize a communication channel for quantum information between two spin qubits using this technology. “This will require us to put spin trios on either end of the microwave resonator and to show that the qubits are then coupled to each other through a microwave photon”, says Andreas Landig, first author of the article and PhD student in Ensslin’s group. This would be an important step towards a network of spatially distributed spin qubits. The researchers also emphasize that their method is very versatile and can straightforwardly be applied to other materials such as graphene.\n\nThis work was carried out in the framework of the National Centre of Competence in Research Quantum Science and Technology ( NCCR QSIT ). At ETH Zurich, scientists in the groups of Klaus Ensslin, Thomas Ihn, Werner Wegscheider and Andreas Wallraff were involved in the research.\n\nLandig AJ, Koski JV, Scarlino P, Mendes UC, Blais A, Reichl C, Wegscheider W, Wallraff A, Ensslin K, Ihn T: Coherent spin–photon coupling using a resonant exchange qubit. Nature, 25 July 2018, doi: 10.1038/s41586-018-0365-y"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "several metres",
+        "label": "QUANTITY",
+        "start": 338,
+        "end": 352
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 354,
+        "end": 357
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 726,
+        "end": 736
+      },
+      {
+        "text": "Sherbrooke University",
+        "label": "ORG",
+        "start": 776,
+        "end": 797
+      },
+      {
+        "text": "Canada",
+        "label": "GPE",
+        "start": 801,
+        "end": 807
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "less than one",
+        "label": "CARDINAL",
+        "start": 124,
+        "end": 137
+      },
+      {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 164,
+        "end": 168
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 245,
+        "end": 248
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 265,
+        "end": 268
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 453,
+        "end": 458
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 328,
+        "end": 331
+      },
+      {
+        "text": "Klaus Ensslin",
+        "label": "PERSON",
+        "start": 342,
+        "end": 355
+      },
+      {
+        "text": "Jonne Koski",
+        "label": "PERSON",
+        "start": 432,
+        "end": 443
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 518,
+        "end": 523
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 649,
+        "end": 654
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 892,
+        "end": 895
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1082,
+        "end": 1085
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 1142,
+        "end": 1147
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 159,
+        "end": 162
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 170,
+        "end": 175
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 245,
+        "end": 248
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 505,
+        "end": 508
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 682,
+        "end": 685
+      },
+      {
+        "text": "more than 10 nanoseconds",
+        "label": "TIME",
+        "start": 817,
+        "end": 841
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 127,
+        "end": 130
+      },
+      {
+        "text": "Andreas Landig",
+        "label": "PERSON",
+        "start": 340,
+        "end": 354
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 356,
+        "end": 361
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 388,
+        "end": 391
+      },
+      {
+        "text": "Ensslin",
+        "label": "ORG",
+        "start": 403,
+        "end": 410
+      },
+      {
+        "text": "the National Centre of Competence",
+        "label": "ORG",
+        "start": 695,
+        "end": 728
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 790,
+        "end": 800
+      },
+      {
+        "text": "Klaus Ensslin",
+        "label": "PERSON",
+        "start": 830,
+        "end": 843
+      },
+      {
+        "text": "Thomas Ihn",
+        "label": "PERSON",
+        "start": 845,
+        "end": 855
+      },
+      {
+        "text": "Werner Wegscheider",
+        "label": "PERSON",
+        "start": 857,
+        "end": 875
+      },
+      {
+        "text": "Andreas Wallraff",
+        "label": "PERSON",
+        "start": 880,
+        "end": 896
+      },
+      {
+        "text": "Landig AJ",
+        "label": "ORG",
+        "start": 928,
+        "end": 937
+      },
+      {
+        "text": "Koski JV",
+        "label": "ORG",
+        "start": 939,
+        "end": 947
+      },
+      {
+        "text": "Scarlino P",
+        "label": "PERSON",
+        "start": 949,
+        "end": 959
+      },
+      {
+        "text": "UC",
+        "label": "GPE",
+        "start": 968,
+        "end": 970
+      },
+      {
+        "text": "Blais A",
+        "label": "ORG",
+        "start": 972,
+        "end": 979
+      },
+      {
+        "text": "Reichl C",
+        "label": "PERSON",
+        "start": 981,
+        "end": 989
+      },
+      {
+        "text": "Wegscheider W",
+        "label": "PERSON",
+        "start": 991,
+        "end": 1004
+      },
+      {
+        "text": "Ensslin K",
+        "label": "PERSON",
+        "start": 1018,
+        "end": 1027
+      },
+      {
+        "text": "25 July 2018",
+        "label": "DATE",
+        "start": 1107,
+        "end": 1119
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1126,
+        "end": 1133
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Landig",
+        "Andreas Wallraff",
+        "Ensslin K",
+        "Jonne Koski",
+        "Klaus Ensslin",
+        "Reichl C",
+        "Scarlino P",
+        "Thomas Ihn",
+        "Wegscheider W",
+        "Werner Wegscheider"
+      ],
+      "ORG": [
+        "Blais A",
+        "ETH",
+        "ETH Zurich",
+        "Ensslin",
+        "Koski JV",
+        "Landig AJ",
+        "Quantum",
+        "Sherbrooke University",
+        "the National Centre of Competence"
+      ],
+      "LOCATION": [
+        "Canada",
+        "UC"
+      ],
+      "DATE": [
+        "25 July 2018",
+        "more than 10 nanoseconds"
+      ],
+      "MISC": [
+        "10.1038",
+        "One",
+        "PhD",
+        "first",
+        "less than one",
+        "one",
+        "several metres",
+        "third",
+        "three",
+        "two",
+        "zero"
+      ]
+    },
+    "entity_counts": {
+      "two": 5,
+      "first": 3,
+      "three": 3,
+      "One": 2,
+      "ETH Zurich": 2,
+      "ETH": 2,
+      "Klaus Ensslin": 2,
+      "one": 2,
+      "Quantum": 1,
+      "several metres": 1,
+      "Sherbrooke University": 1,
+      "Canada": 1,
+      "less than one": 1,
+      "zero": 1,
+      "Jonne Koski": 1,
+      "third": 1,
+      "more than 10 nanoseconds": 1,
+      "Andreas Landig": 1,
+      "PhD": 1,
+      "Ensslin": 1
+    },
+    "total_entities": 47,
+    "unique_entities": 34
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "spin-trio-for-strong-coupling.md",
+      "title": "En News Events/2018/07/spin Trio For Strong Coupling",
+      "language": "en",
+      "source_path": "en_news_events/2018/07/spin-trio-for-strong-coupling.html"
+    },
+    "temporal": {
+      "publication_date": "2018-07",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Landig",
+        "Andreas Wallraff",
+        "Ensslin K",
+        "Jonne Koski",
+        "Klaus Ensslin",
+        "Reichl C",
+        "Scarlino P",
+        "Thomas Ihn",
+        "Wegscheider W",
+        "Werner Wegscheider"
+      ],
+      "people_with_roles": {
+        "Andreas Landig": [
+          "student"
+        ],
+        "Andreas Wallraff": [
+          "scientist"
+        ],
+        "Jonne Koski": [
+          "professor"
+        ],
+        "Klaus Ensslin": [
+          "scientist",
+          "professor"
+        ],
+        "Thomas Ihn": [
+          "scientist"
+        ],
+        "Werner Wegscheider": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "first",
+        "less than one",
+        "several metres",
+        "third",
+        "three",
+        "zero"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Koski JV",
+        "NCCR QSIT",
+        "Wallraff A",
+        "Blais A",
+        "Wegscheider W",
+        "Research Quantum",
+        "Thomas Ihn",
+        "Sherbrooke University",
+        "Ihn T",
+        "Trio For",
+        "Scarlino P",
+        "Klaus Ensslin",
+        "Jonne Koski",
+        "Reichl C",
+        "Strong Coupling",
+        "Andreas Landig",
+        "National Centre",
+        "Mendes UC",
+        "Ensslin K",
+        "Landig AJ",
+        "At ETH",
+        "En News",
+        "Andreas Wallraff",
+        "Werner Wegscheider",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Blais A",
+        "ETH",
+        "ETH Zurich",
+        "Ensslin",
+        "Koski JV",
+        "Landig AJ",
+        "Quantum",
+        "Sherbrooke University",
+        "the National Centre of Competence"
+      ],
+      "locations": [
+        "Canada",
+        "UC"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "two",
+        "first",
+        "three",
+        "One",
+        "ETH Zurich",
+        "ETH",
+        "Klaus Ensslin",
+        "one",
+        "Quantum",
+        "several metres"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Qubits with charge or spin",
+          "Qubits with charge or spin",
+          "Three spins for stronger coupling",
+          "Charge displacement through tunnelling",
+          "Spin trios for a quantum bus"
+        ],
+        "content_length": 5156
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Koski JV",
+        "Blais A",
+        "2018",
+        "Wegscheider W",
+        "Thomas Ihn",
+        "Sherbrooke University",
+        "the National Centre of Competence",
+        "Ensslin",
+        "Scarlino P",
+        "Klaus Ensslin",
+        "Jonne Koski",
+        "Reichl C",
+        "Andreas Landig",
+        "Ensslin K",
+        "Quantum",
+        "Landig AJ",
+        "Andreas Wallraff",
+        "Werner Wegscheider",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "third",
+        "zero",
+        "less than one",
+        "three",
+        "who",
+        "10.1038",
+        "where",
+        "what",
+        "how",
+        "several metres",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Andreas Landig_has_role_student",
+        "Andreas Wallraff_has_role_scientist",
+        "Jonne Koski_has_role_professor",
+        "Klaus Ensslin_has_role_scientist",
+        "Klaus Ensslin_has_role_professor",
+        "Thomas Ihn_has_role_scientist",
+        "Werner Wegscheider_has_role_scientist",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

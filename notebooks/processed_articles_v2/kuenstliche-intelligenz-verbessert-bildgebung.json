@@ -1,0 +1,437 @@
+{
+  "filename": "kuenstliche-intelligenz-verbessert-bildgebung.md",
+  "original_filename": "kuenstliche-intelligenz-verbessert-bildgebung.html",
+  "source_path": "de_news_events/2019/09/kuenstliche-intelligenz-verbessert-bildgebung.html",
+  "date": "2019-09",
+  "title": "Kuenstliche Intelligenz Verbessert Bildgebung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Bildverzerrungen korrigiert",
+      "text": "Wissenschaftler der ETH Zürich und der Universität Zürich haben Methoden des maschinellen Lernens eingesetzt, um die optoakustische Bildgebung zu verbessern. Mit diesem relativ jungen Verfahren der medizinischen Bildgebung können zum Beispiel Blutgefässe im Körperinnern sichtbar gemacht, die Gehirnaktivität untersucht oder Brustkrebs und Hautkrankheiten diagnostiziert werden. Die Bildqualität, die ein Gerät liefert, hängt allerdings stark von seiner Anzahl Sensoren und ihrer Verteilung ab: Je mehr davon, desto besser die Bildqualität. Der neue Ansatz der ETH-Forschenden ermöglicht, die Zahl der Sensoren bei gleichbleibender Bildqualität deutlich zu reduzieren. Dadurch können die Gerätekosten reduziert, die Bildgebungsgeschwindigkeit erhöht oder die Diagnose verbessert werden.\n\nDie Optoakustik (siehe Kasten) hat gewisse Ähnlichkeiten zur Ultraschallbildgebung. Bei Letzterer sendet eine Sonde Ultraschallwellen in den Körper, die das Gewebe reflektiert. Sensoren in der Sonde detektieren die zurückgeworfenen Schallwellen, und aus diesen lässt sich ein Bild des Körperinneren erzeugen. Bei der optoakustischen Bildgebung hingegen werden extrem schnelle Laserpulse ins Gewebe geschickt, die dort absorbiert und in Ultraschallwellen umgewandelt werden. Diese werden dann ähnlich wie bei der Ultraschallbilgebung detektiert, um daraus ein Bild zu erstellen."
+    },
+    {
+      "heading": "Bildverzerrungen korrigiert",
+      "text": "Die Forschenden unter der Leitung von Daniel Razansky, Professor für biomedizinische Bildgebung an der Universität Zürich und der ETH Zürich, suchten nach einer Möglichkeit, die Bildqualität von kostengünstigen Optoakustik-Geräten, die nur wenige Ultraschallsensoren besitzen, zu erhöhen.\n\nSie nutzten dazu zunächst ein von ihnen selbst entwickeltes hochwertiges Optoakustik-Gerät mit 512 Sensoren, das qualitativ hochstehende Bilder lieferte. Diese liessen sie von einem sogenannten künstlichen neuronalen Netzwerk analysieren. Dabei lernte das Netzwerk die Merkmale der hochwertigen Bilder.\n\nAnschliessend schalteten die Forschenden einen Grossteil der Sensoren aus, so dass nur noch 128 beziehungsweise 32 Sensoren übrigblieben, mit entsprechend negativen Auswirkungen auf die Bildqualität: Weil es an Daten mangelte, durchzogen streifenartige Störsignale das Bild. Wie sich jedoch herausstellte, war das zuvor trainierte Machine-Learning-System mit seinem Algorithmus in der Lage, diese Verzerrungen zu korrigieren. Dadurch erhöhte sich die Bildqualität deutlich und war vergleichbar mit der Qualität einer Messung mit 512 Sensoren."
+    },
+    {
+      "heading": "Die Funktion des Gewebes sichtbar machen",
+      "text": "Bei der Optoakustik erhöht sich die Bildqualität nicht nur mit der Anzahl benutzter Sensoren, sondern auch, wenn das Untersuchungsobjekt aus möglichst vielen unterschiedlichen Richtungen erfasst wird: je grösser der Sektor, in dem die Sensoren rund um das Untersuchungsobjekt angeordnet sind, desto besser die Qualität. Der entwickelte Algorithmus war auch in der Lage, die Qualität von Bildern, die aus nur einem engumfassten Sektor aufgenommen wurden, deutlich zu verbessern. «Dies ist bei klinischen Anwendungen von Bedeutung, denn die benutzten Laserpulse durchdringen nicht den ganzen menschlichen Körper, und die meisten oberflächennahen Teile des menschlichen Körpers kann man nur aus einer Richtung erfassen», erklärt Razansky."
+    },
+    {
+      "heading": "Ärzten die Arbeit erleichtern",
+      "text": "Wie die Wissenschaftler betonen, ist ihr Ansatz nicht auf die optoakustische Bildgebung beschränkt. Weil die Technik nicht die Rohdaten analysiert, sondern die fertigen Bilder, eignet sie sich auch für andere Bildgebungsverfahren. «Generell kann man sie dazu verwenden, um mit weniger Rohdaten Bilder von guter Qualität herzustellen», sagt Razansky. Ärzte seien gelegentlich mit Bildgebungsdaten von schlechter Qualität konfrontiert, die sie interpretieren müssten. «Wir zeigen, dass sich mit Methoden der künstlichen Intelligenz solche Bilder verbessern lassen, wodurch sich die Interpretation vereinfacht.»\n\nFür Razansky ist diese Forschungsarbeit ein gutes Beispiel, wozu die derzeit existierenden Methoden der künstlichen Intelligenz angewandt werden können. «Viele Leute meinen, dass KI die menschliche Intelligenz ersetzen könnte. Dies wird meiner Meinung nach jedoch überschätzt, jedenfalls was heutige KI-Methoden angeht», sagt er. «Mit diesen kann man nicht die menschliche Kreativität ersetzen, aber sie eignen sich, um dem Menschen mühsame repetitive Arbeiten abzunehmen.»\n\nFür diese Forschungsarbeit nutzten die Wissenschaftler ein auf kleine Tiere zugeschnittenes Optoakustik-Tomographiegerät, und sie trainierten das Machine-Learning-System mit Bildern von Mäusen. Als nächstes gehe es darum, die Methode bei Optoaktustik-Bildern von Geweben des Menschen anzuwenden, sagt Razansky.\n\nAnders als die Optoakustik (oder Photoakustik) bilden viele Bildgebungsverfahren – darunter Ultraschall, Röntgen und MRI – nur die Strukturen des Körperinnern ab. Um zusätzlich funktionelle Informationen zu erhalten, zum Beispiel zum Stoffwechsel, müssen dem Patienten vor der Bildgebung Kontrastmittel oder radioaktive Tracer verabreicht werden. Die optoakustische Methode hingegen liefert auch ohne Kontrastmittel funktionelle und molekulare Informationen, etwa lokale Veränderungen der Blutsauerstoffkonzentration – eine wichtige Information bei der Früherkennung von Krebs – oder den Lipidgehalt von Blutgefässwänden, was der Diagnose von Herzkreislauferkrankungen dient.\n\nWeil die bei der optoakustischen Bildgebung genutzten Lichtwellen im Gegensatz zu anderen Wellen den Körper nicht vollständig durchdringen, eignet sich die Methode allerdings nur, um Gewebe bis in eine Tiefe von wenigen Zentimetern unter der Haut zu untersuchen.\n\nDavoudi N, Deán-Ben XL, Razansky D: Deep learning optoacoustic tomography with sparse data, Nature Machine Intelligence, 16. September 2019, doi: externe Seite 10.1038/s42256-019-0095-3"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Verbessert Bildgebung",
+        "label": "MISC",
+        "start": 47,
+        "end": 68
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 20,
+        "end": 30
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 39,
+        "end": 57
+      },
+      {
+        "text": "Blutgefässe",
+        "label": "LOC",
+        "start": 243,
+        "end": 254
+      },
+      {
+        "text": "ETH-Forschenden",
+        "label": "ORG",
+        "start": 561,
+        "end": 576
+      },
+      {
+        "text": "Optoakustik",
+        "label": "MISC",
+        "start": 791,
+        "end": 802
+      },
+      {
+        "text": "Ultraschallwellen",
+        "label": "LOC",
+        "start": 1223,
+        "end": 1240
+      },
+      {
+        "text": "Daniel Razansky",
+        "label": "PER",
+        "start": 38,
+        "end": 53
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 103,
+        "end": 121
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 130,
+        "end": 140
+      },
+      {
+        "text": "Optoakustik-Geräten",
+        "label": "MISC",
+        "start": 211,
+        "end": 230
+      },
+      {
+        "text": "Machine-Learning-System",
+        "label": "PER",
+        "start": 923,
+        "end": 946
+      },
+      {
+        "text": "Optoakustik",
+        "label": "MISC",
+        "start": 8,
+        "end": 19
+      },
+      {
+        "text": "Razansky",
+        "label": "PER",
+        "start": 613,
+        "end": 621
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 788,
+        "end": 790
+      },
+      {
+        "text": "KI-Methoden",
+        "label": "MISC",
+        "start": 909,
+        "end": 920
+      },
+      {
+        "text": "Optoakustik-Tomographiegerät",
+        "label": "MISC",
+        "start": 1175,
+        "end": 1203
+      },
+      {
+        "text": "Machine-Learning-System",
+        "label": "MISC",
+        "start": 1229,
+        "end": 1252
+      },
+      {
+        "text": "Mäusen",
+        "label": "LOC",
+        "start": 1269,
+        "end": 1275
+      },
+      {
+        "text": "Optoaktustik-Bildern",
+        "label": "MISC",
+        "start": 1321,
+        "end": 1341
+      },
+      {
+        "text": "Ultraschall",
+        "label": "LOC",
+        "start": 1486,
+        "end": 1497
+      },
+      {
+        "text": "Röntgen",
+        "label": "LOC",
+        "start": 1499,
+        "end": 1506
+      },
+      {
+        "text": "MRI",
+        "label": "LOC",
+        "start": 1511,
+        "end": 1514
+      },
+      {
+        "text": "Blutgefässwänden",
+        "label": "LOC",
+        "start": 1998,
+        "end": 2014
+      },
+      {
+        "text": "Herzkreislauferkrankungen",
+        "label": "LOC",
+        "start": 2037,
+        "end": 2062
+      },
+      {
+        "text": "Davoudi N",
+        "label": "PER",
+        "start": 2333,
+        "end": 2342
+      },
+      {
+        "text": "Deán-Ben XL",
+        "label": "PER",
+        "start": 2344,
+        "end": 2355
+      },
+      {
+        "text": "Razansky D",
+        "label": "ORG",
+        "start": 2357,
+        "end": 2367
+      },
+      {
+        "text": "Nature Machine Intelligence",
+        "label": "ORG",
+        "start": 2425,
+        "end": 2452
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Daniel Razansky",
+        "Davoudi N",
+        "De News",
+        "Deán-Ben XL",
+        "Machine-Learning-System",
+        "Razansky"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "KI",
+        "Nature Machine Intelligence",
+        "Razansky D",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Blutgefässe",
+        "Blutgefässwänden",
+        "Herzkreislauferkrankungen",
+        "MRI",
+        "Mäusen",
+        "Röntgen",
+        "Ultraschall",
+        "Ultraschallwellen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "KI-Methoden",
+        "Machine-Learning-System",
+        "Optoaktustik-Bildern",
+        "Optoakustik",
+        "Optoakustik-Geräten",
+        "Optoakustik-Tomographiegerät",
+        "Verbessert Bildgebung"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "Universität Zürich": 2,
+      "Optoakustik": 2,
+      "Machine-Learning-System": 2,
+      "De News": 1,
+      "Verbessert Bildgebung": 1,
+      "Blutgefässe": 1,
+      "ETH-Forschenden": 1,
+      "Ultraschallwellen": 1,
+      "Daniel Razansky": 1,
+      "Optoakustik-Geräten": 1,
+      "Razansky": 1,
+      "KI": 1,
+      "KI-Methoden": 1,
+      "Optoakustik-Tomographiegerät": 1,
+      "Mäusen": 1,
+      "Optoaktustik-Bildern": 1,
+      "Ultraschall": 1,
+      "Röntgen": 1,
+      "MRI": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 26
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kuenstliche-intelligenz-verbessert-bildgebung.md",
+      "title": "De News Events/2019/09/kuenstliche Intelligenz Verbessert Bildgebung",
+      "language": "de",
+      "source_path": "de_news_events/2019/09/kuenstliche-intelligenz-verbessert-bildgebung.html"
+    },
+    "temporal": {
+      "publication_date": "2019-09",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Daniel Razansky",
+        "Davoudi N",
+        "De News",
+        "Deán-Ben XL",
+        "Machine-Learning-System",
+        "Razansky"
+      ],
+      "people_with_roles": {
+        "Daniel Razansky": [
+          "professor"
+        ],
+        "Razansky": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "KI-Methoden",
+        "Machine-Learning-System",
+        "Optoaktustik-Bildern",
+        "Optoakustik",
+        "Optoakustik-Geräten",
+        "Optoakustik-Tomographiegerät",
+        "Verbessert Bildgebung"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Die Forschenden",
+        "Optoaktustik-Bildern",
+        "Bei Letzterer",
+        "Rohdaten Bilder",
+        "Sonde Ultraschallwellen",
+        "Ben XL",
+        "KI-Methoden",
+        "Machine-Learning",
+        "Nature Machine",
+        "Intelligenz Verbessert",
+        "Daniel Razansky",
+        "Bildgebung Kontrastmittel",
+        "Davoudi N",
+        "Die Optoakustik",
+        "Anzahl Sensoren",
+        "Bildgebung Wissenschaftler",
+        "ETH-Forschenden",
+        "Razansky D",
+        "De News",
+        "Viele Leute"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "KI",
+        "Nature Machine Intelligence",
+        "Razansky D",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Blutgefässe",
+        "Blutgefässwänden",
+        "Herzkreislauferkrankungen",
+        "MRI",
+        "Mäusen",
+        "Röntgen",
+        "Ultraschall",
+        "Ultraschallwellen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Universität Zürich",
+        "Optoakustik",
+        "Machine-Learning-System",
+        "De News",
+        "Verbessert Bildgebung",
+        "Blutgefässe",
+        "ETH-Forschenden",
+        "Ultraschallwellen",
+        "Daniel Razansky"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Bildverzerrungen korrigiert",
+          "Bildverzerrungen korrigiert",
+          "Die Funktion des Gewebes sichtbar machen",
+          "Ärzten die Arbeit erleichtern"
+        ],
+        "content_length": 5831
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Machine-Learning-System",
+        "Davoudi N",
+        "2019",
+        "Nature Machine Intelligence",
+        "EU",
+        "ETH Zürich",
+        "ETH-Forschenden",
+        "De News",
+        "Deán-Ben XL",
+        "Razansky D",
+        "KI",
+        "Razansky",
+        "Daniel Razansky",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Machine-Learning-System",
+        "KI-Methoden",
+        "who",
+        "Verbessert Bildgebung",
+        "what",
+        "how",
+        "Optoaktustik-Bildern",
+        "Optoakustik-Tomographiegerät",
+        "Optoakustik-Geräten",
+        "when",
+        "Optoakustik"
+      ],
+      "graph_relations": [
+        "Daniel Razansky_has_role_professor",
+        "Razansky_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

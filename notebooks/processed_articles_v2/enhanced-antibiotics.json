@@ -1,0 +1,504 @@
+{
+  "filename": "enhanced-antibiotics.md",
+  "original_filename": "enhanced-antibiotics.html",
+  "source_path": "en_news_events/2014/01/enhanced-antibiotics.html",
+  "date": "2014-01",
+  "title": "Enhanced Antibiotics",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Antibiotic is more selective",
+      "text": "More and more bacteria prove to be resistant to antibiotics. The search for new active substances proves to be difficult and resorting to earlier generations of antibiotics that are now hardly used is often not an option due to their often serious side effects. A research team including Andrea Vasella, Professor Emeritus at the Laboratory of Organic Chemistry at ETH Zurich, and Erik Böttger, Professor at the Institute of Medical Microbiology, University of Zurich, has now shown how the effect of older antibiotics can be considerably improved.\n\nThe improved antibiotics belong to the group of aminoglycosides which fight bacteria in a sensitive spot: their ribosomes. These are likewise constructors of the attacked pathogens as they produce proteins, important building blocks of the cells.\n\nHowever, human cells are also equipped with ribosomes that look deceptively similar to those of the bacteria. Which is why the aminoglycosides also sometimes latch onto them, leading to damage. So-called ototoxic side effects may cause loss of hearing or even deafness and may be traced back to irreversible damage of the sensory cells in the inner ear."
+    },
+    {
+      "heading": "Antibiotic is more selective",
+      "text": "“We have now modified the mode of action of antibiotics of this group so that they can distinguish between human and pathogenic ribosomes far better,” explains Böttger. Based on a number of compounds that were synthesised at the ETH, his research group identified the 4’-hydroxyl position in the molecular structure of the aminoglycosides as the point that needed to be adapted in order to prevent these from wrongly latching onto the human ribosome. Both working groups then developed a model for how the structure should be changed at this point.\n\nAn experimental test system developed by Böttger’s group proved to be crucial for the success. This enabled the relevant compounds to be identified from the hundreds of compounds synthesised by Vasella’s group. “The results are a good example of how fruitful a cooperation between chemists and biologists at the University of Zurich and ETH Zurich can be,” says Vasella. Other leading international research groups were also involved in the project, such as that of structural biologist Venkatraman Ramakrishnan at the MRC Laboratory of Molecular Biology in Cambridge, United Kingdom, who was awarded the Noble Prize for Chemistry in 2009 for his research into ribosomes.\n\nThe antibiotics that emerged in this project have a much more targeted effect than their predecessors: human auditory cells are now hardly damaged by the changed substance, while the antibiotic effect against pathogens is sustained, as shown in trials with mice infected with Staphylococcus aureus. Toxicological experiments shall follow as the next step, in which the effectiveness and the antibacterial potency are optimised, before the actual development of the medication can take place."
+    },
+    {
+      "heading": "Medication from the 1940s",
+      "text": "The antibiotic class of aminoglycosides was discovered in the 1940s and is very potent. Over the last few decades, however, it has somewhat receded into the background. This is not only to due the possible hearing damage and (reversible) damage to the kidneys that it may cause, but also the form of administration. When new antibiotics that could be easily swallowed in pill form came onto the market, these soon replaced the aminoglycosides that need to be intravenously injected or administered by infusion. Subsequently, further development on these stopped in the 1980s.\n\nIn the meantime, in the light of increasingly rampant resistance, experts now consider it necessary to again resort to this group of antibiotics. The World Health Organization has upgraded aminoglycosides into the group of drugs that are of crucial importance in fighting resistant and multi-resistant pathogens. Areas of application, for instance, are valvular inflammations or multi-resistant tuberculosis.\n\nThis is a slightly abbreviated version of an article by UZH News editor Thomas Müller, previously published on UZH News .\n\nPerez-Fernandez D et al.: 4‘-O-Ssubstitutions determine selectivity of aminoglycoside antibiotics. Nature Communications, Online publication 28 January 2014, doi: 10.1038/ncomms4112"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Antibiotics",
+        "label": "ORG",
+        "start": 32,
+        "end": 43
+      },
+      {
+        "text": "Andrea Vasella",
+        "label": "PERSON",
+        "start": 288,
+        "end": 302
+      },
+      {
+        "text": "Emeritus",
+        "label": "PERSON",
+        "start": 314,
+        "end": 322
+      },
+      {
+        "text": "the Laboratory of Organic Chemistry",
+        "label": "ORG",
+        "start": 326,
+        "end": 361
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 365,
+        "end": 375
+      },
+      {
+        "text": "Erik Böttger",
+        "label": "PERSON",
+        "start": 381,
+        "end": 393
+      },
+      {
+        "text": "the Institute of Medical Microbiology, University of Zurich",
+        "label": "ORG",
+        "start": 408,
+        "end": 467
+      },
+      {
+        "text": "Böttger",
+        "label": "ORG",
+        "start": 160,
+        "end": 167
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 229,
+        "end": 232
+      },
+      {
+        "text": "4’-hydroxyl",
+        "label": "CARDINAL",
+        "start": 268,
+        "end": 279
+      },
+      {
+        "text": "Böttger’s",
+        "label": "ORG",
+        "start": 590,
+        "end": 599
+      },
+      {
+        "text": "hundreds",
+        "label": "CARDINAL",
+        "start": 706,
+        "end": 714
+      },
+      {
+        "text": "Vasella’s",
+        "label": "ORG",
+        "start": 743,
+        "end": 752
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 857,
+        "end": 881
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 886,
+        "end": 896
+      },
+      {
+        "text": "Vasella",
+        "label": "PERSON",
+        "start": 911,
+        "end": 918
+      },
+      {
+        "text": "Venkatraman Ramakrishnan",
+        "label": "PERSON",
+        "start": 1036,
+        "end": 1060
+      },
+      {
+        "text": "the MRC Laboratory of Molecular Biology",
+        "label": "ORG",
+        "start": 1064,
+        "end": 1103
+      },
+      {
+        "text": "Cambridge",
+        "label": "GPE",
+        "start": 1107,
+        "end": 1116
+      },
+      {
+        "text": "United Kingdom",
+        "label": "GPE",
+        "start": 1118,
+        "end": 1132
+      },
+      {
+        "text": "the Noble Prize for Chemistry",
+        "label": "WORK_OF_ART",
+        "start": 1150,
+        "end": 1179
+      },
+      {
+        "text": "Staphylococcus",
+        "label": "ORG",
+        "start": 1497,
+        "end": 1511
+      },
+      {
+        "text": "the 1940s",
+        "label": "DATE",
+        "start": 58,
+        "end": 67
+      },
+      {
+        "text": "the last few decades",
+        "label": "DATE",
+        "start": 93,
+        "end": 113
+      },
+      {
+        "text": "the 1980s",
+        "label": "DATE",
+        "start": 565,
+        "end": 574
+      },
+      {
+        "text": "The World Health Organization",
+        "label": "ORG",
+        "start": 722,
+        "end": 751
+      },
+      {
+        "text": "UZH News",
+        "label": "ORG",
+        "start": 1041,
+        "end": 1049
+      },
+      {
+        "text": "Thomas Müller",
+        "label": "PERSON",
+        "start": 1057,
+        "end": 1070
+      },
+      {
+        "text": "UZH News",
+        "label": "ORG",
+        "start": 1096,
+        "end": 1104
+      },
+      {
+        "text": "Perez-Fernandez",
+        "label": "PERSON",
+        "start": 1107,
+        "end": 1122
+      },
+      {
+        "text": "4‘-O",
+        "label": "CARDINAL",
+        "start": 1133,
+        "end": 1137
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 1206,
+        "end": 1227
+      },
+      {
+        "text": "January 2014",
+        "label": "DATE",
+        "start": 1251,
+        "end": 1263
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1270,
+        "end": 1277
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andrea Vasella",
+        "ETH Zurich",
+        "Emeritus",
+        "Erik Böttger",
+        "Perez-Fernandez",
+        "Thomas Müller",
+        "Vasella",
+        "Venkatraman Ramakrishnan"
+      ],
+      "ORG": [
+        "Antibiotics",
+        "Böttger",
+        "Böttger’s",
+        "ETH",
+        "ETH Zurich",
+        "Nature Communications",
+        "Staphylococcus",
+        "The World Health Organization",
+        "UZH News",
+        "Vasella’s",
+        "the Institute of Medical Microbiology, University of Zurich",
+        "the Laboratory of Organic Chemistry",
+        "the MRC Laboratory of Molecular Biology",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Cambridge",
+        "United Kingdom"
+      ],
+      "DATE": [
+        "January 2014",
+        "the 1940s",
+        "the 1980s",
+        "the last few decades"
+      ],
+      "MISC": [
+        "10.1038",
+        "4‘-O",
+        "4’-hydroxyl",
+        "hundreds",
+        "the Noble Prize for Chemistry"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 2,
+      "UZH News": 2,
+      "Antibiotics": 1,
+      "Andrea Vasella": 1,
+      "Emeritus": 1,
+      "the Laboratory of Organic Chemistry": 1,
+      "Erik Böttger": 1,
+      "the Institute of Medical Microbiology, University of Zurich": 1,
+      "Böttger": 1,
+      "ETH": 1,
+      "4’-hydroxyl": 1,
+      "Böttger’s": 1,
+      "hundreds": 1,
+      "Vasella’s": 1,
+      "the University of Zurich": 1,
+      "Vasella": 1,
+      "Venkatraman Ramakrishnan": 1,
+      "the MRC Laboratory of Molecular Biology": 1,
+      "Cambridge": 1,
+      "United Kingdom": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "enhanced-antibiotics.md",
+      "title": "En News Events/2014/01/enhanced Antibiotics",
+      "language": "en",
+      "source_path": "en_news_events/2014/01/enhanced-antibiotics.html"
+    },
+    "temporal": {
+      "publication_date": "2014-01",
+      "mentioned_years": [
+        "2009",
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andrea Vasella",
+        "ETH Zurich",
+        "Emeritus",
+        "Erik Böttger",
+        "Perez-Fernandez",
+        "Thomas Müller",
+        "Vasella",
+        "Venkatraman Ramakrishnan"
+      ],
+      "people_with_roles": {
+        "Andrea Vasella": [
+          "professor"
+        ],
+        "ETH Zurich": [
+          "professor"
+        ],
+        "Emeritus": [
+          "Professor",
+          "professor"
+        ],
+        "Erik Böttger": [
+          "professor"
+        ],
+        "Vasella": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "4‘-O",
+        "4’-hydroxyl",
+        "hundreds",
+        "the Noble Prize for Chemistry"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Antibiotics More",
+        "Venkatraman Ramakrishnan",
+        "MRC Laboratory",
+        "Professor Emeritus",
+        "En News",
+        "Organic Chemistry",
+        "The World",
+        "UZH News",
+        "Noble Prize",
+        "Molecular Biology",
+        "United Kingdom",
+        "Perez-Fernandez",
+        "O-Ssubstitutions",
+        "Andrea Vasella",
+        "Medical Microbiology",
+        "Nature Communications",
+        "Health Organization",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Antibiotics",
+        "Böttger",
+        "Böttger’s",
+        "ETH",
+        "ETH Zurich",
+        "Nature Communications",
+        "Staphylococcus",
+        "The World Health Organization",
+        "UZH News",
+        "Vasella’s",
+        "the Institute of Medical Microbiology, University of Zurich",
+        "the Laboratory of Organic Chemistry",
+        "the MRC Laboratory of Molecular Biology",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Cambridge",
+        "United Kingdom"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "UZH News",
+        "Antibiotics",
+        "Andrea Vasella",
+        "Emeritus",
+        "the Laboratory of Organic Chemistry",
+        "Erik Böttger",
+        "the Institute of Medical Microbiology, University of Zurich",
+        "Böttger",
+        "ETH"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Antibiotic is more selective",
+          "Antibiotic is more selective",
+          "Medication from the 1940s"
+        ],
+        "content_length": 4202
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Vasella",
+        "ETH",
+        "the University of Zurich",
+        "Perez-Fernandez",
+        "Erik Böttger",
+        "Thomas Müller",
+        "the Institute of Medical Microbiology, University of Zurich",
+        "the MRC Laboratory of Molecular Biology",
+        "Böttger’s",
+        "ERC",
+        "2009",
+        "UZH News",
+        "Vasella’s",
+        "Böttger",
+        "the Laboratory of Organic Chemistry",
+        "2014",
+        "Staphylococcus",
+        "Venkatraman Ramakrishnan",
+        "EU",
+        "Nature Communications",
+        "Andrea Vasella",
+        "The World Health Organization",
+        "ETH Zurich",
+        "Antibiotics",
+        "Emeritus"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "4‘-O",
+        "who",
+        "10.1038",
+        "chemistry",
+        "4’-hydroxyl",
+        "hundreds",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where",
+        "the Noble Prize for Chemistry"
+      ],
+      "graph_relations": [
+        "Andrea Vasella_has_role_professor",
+        "ETH Zurich_has_role_professor",
+        "Emeritus_has_role_Professor",
+        "Emeritus_has_role_professor",
+        "Erik Böttger_has_role_professor",
+        "Vasella_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

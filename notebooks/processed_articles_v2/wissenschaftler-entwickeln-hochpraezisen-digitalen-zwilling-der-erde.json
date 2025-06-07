@@ -1,0 +1,644 @@
+{
+  "filename": "wissenschaftler-entwickeln-hochpraezisen-digitalen-zwilling-der-erde.md",
+  "original_filename": "wissenschaftler-entwickeln-hochpraezisen-digitalen-zwilling-der-erde.html",
+  "source_path": "de_news_events/2021/02/wissenschaftler-entwickeln-hochpraezisen-digitalen-zwilling-der-erde.html",
+  "date": "2021-02",
+  "title": "Wissenschaftler Entwickeln Hochpraezisen Digitalen Zwilling Der Erde",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Informationssystem zur Entscheidungsfindung",
+      "text": "Um bis 2050 klimaneutral zu werden, hat die Europäische Union zwei ehrgeizige Programme gestartet: « externe Seite Green Deal » und « externe Seite Digital Strategy ». Als eine Schlüsselkomponente für die erfolgreiche Umsetzung haben Klimawissenschaftler und Informatiker die Initiative « externe Seite Destination Earth » lanciert, die Mitte dieses Jahres starten wird und bis zu zehn Jahre laufen soll. Während dieses Zeitraums soll ein hochpräzises digitales Modell der Erde entstehen, ein digitaler Zwilling der Erde, um die Klimaentwicklung und Extremereignisse räumlich und zeitlich bestmöglich abzubilden.\n\nIn den digitalen Zwilling sollen kontinuierlich Beobachtungsdaten einfliessen, um das digitale Erdmodell zur Überwachung der Entwicklung und zur Vorhersage möglicher zukünftiger Trajektorien (Entwicklungspfade) fortlaufend zu präzisieren. Neben den herkömmlich für Wetter- und Klimasimulationen genutzten Beobachtungsdaten wollen die Forscher neue, auch für das Klimasystem relevante Daten menschlicher Aktivitäten in das Modell integrieren, so dass das virtuelle «Erdsystem-Modell» die gesamten Prozesse an der Erdoberfläche, den Einfluss des Menschen in Bezug auf das Wasser-, Nahrungs-, und Energie-Management, einschliesslich der Prozesse im physischen Erdsystem, möglichst realitätsnah abbildet."
+    },
+    {
+      "heading": "Informationssystem zur Entscheidungsfindung",
+      "text": "Mit dem digitalen Zwilling der Erde soll ein Informationssystem entstehen, das Szenarien entwickelt und testet, die eine nachhaltigere Entwicklung aufzeigen und damit die Politik besser informieren. «Wenn man in Holland beispielsweise einen zwei Meter hohen Deich plant, kann ich die Daten in meinem digitalen Zwilling durchspielen und überprüfen, ob der Deich aller Voraussicht nach auch im Jahr 2050 vor zu erwartenden Extremereignissen schützt», sagt Peter Bauer, stellvertretender Direktor für Forschung am externe Seite Europäischen Zentrum für mittelfristige Wettervorhersagen (ECMWF) und Mitinitiator von Destination Earth. Auch für die strategische Planung von Frischwasser- und Lebensmittelversorgung oder Windfarmen und Solaranlagen soll der digitale Zwilling genutzt werden.\n\nTreibende Kräfte hinter «Destination Earth» sind das ECMWF, die externe Seite Europäische Weltraumorganisation (ESA), und die externe Seite Europäische Organisation für die Nutzung meteorologischer Satelliten (EUMETSAT). Zusammen mit weiteren Klimawissenschaftlern treibt Bauer die klimawissenschaftlichen und meteorologischen Aspekte des digitalen Zwillings der Erde voran. Dabei setzen die Experten auf das Knowhow von Informatikern der ETH Zürich und des externe Seite Nationalen Hochleistungsrechenzentrums der Schweiz (CSCS), namentlich auf die ETH-Professoren Torsten Hoefler, vom Institut für Hochleistungsrechnersysteme und Thomas Schulthess, Direktor des CSCS.\n\nUm diesen grossen Schritt der digitalen Revolution zu schaffen, brauche es die Vermählung der Erdwissenschaften mit den Computerwissenschaften, betont Bauer. In einer soeben in Nature Computational Science erschienenen Publikation diskutiert nun das Team aus Forschern der Erd- und Computerwissenschaften, mit welchen konkreten Massnahmen sie diese «digitale Revolution der Erdsystemwissenschaften» voranbringen möchten, wo sie die Herausforderungen sehen und wo mögliche Lösungen zu finden sind."
+    },
+    {
+      "heading": "Wetter- und Klimamodelle als Grundlage",
+      "text": "In der Publikation blicken sie auf die seit den 1940er Jahren stetige Entwicklung der Wettermodelle zurück -eine Erfolgsgeschichte, die im Stillen stattfand. Die Meteorologen leisteten sozusagen Pionierarbeit bei Simulationen von physikalischen Prozessen auf Grossrechnern. Als Physiker und Computerwissenschaftler ist Schulthess deshalb davon überzeugt, dass die heutigen Wetter- und Klimamodelle sich ideal dafür eignen, auch anderen wissenschaftliche Disziplinen völlig neue Wege aufzuzeigen, wie man Supercomputer effizient nutzen kann.\n\nIn der Vergangenheit wurden in der Wetter- und Klimamodellierung unterschiedliche Ansätze verfolgt, um das Erdsystem zu simulieren. Während Klimamodelle eine sehr breite Palette physikalischer Prozesse abbilden, vernachlässigen sie typischerweise kleinräumige Prozesse, die jedoch für die Wettervorhersagen, die sich auf eine geringere Anzahl von Prozessen konzentrieren, unerlässlich sind. Der digitale Zwilling wird beide Bereiche zusammenführen und hochauflösenden Simulationen ermöglichen, die die komplexen Prozesse des Erdsystems abbilden. Doch um das zu erreichen, so die Wissenschaftler, gelte es die Codes der Simulationsprogramme auf die neuen Technologien, die eine wesentlich höhere Rechenleistung versprechen, anzupassen.\n\nDa die Code-Entwicklung aus Sicht der Informatik jahrzehntelang stagnierte, lassen sich mit den heute zur Verfügung stehenden Rechnern und Algorithmen die hochkomplexen Simulationen kaum in der geplanten extrem hohen Auflösung von einem Kilometer durchführen. Die Klimaforschung profitierte davon, dass sie durch neue Prozessorgenerationen mehr Leistung gewinnen konnte, ohne ihre Programme grundlegend ändern zu müssen. Dieser kostenlose Leistungsgewinn mit jeder neuen Prozessorgeneration kam vor etwa 10 Jahren ins Stocken. Die Folge ist, dass heutige Programme oft nur noch 5 Prozent der Leistung herkömmlicher Prozessoren (CPU) nutzen können.\n\nUm die notwendigen Verbesserungen zu erreichen, betonen die Autoren die Notwendigkeit des Co-Designs, das heisst, der gemeinsamen und gleichzeitigen Entwicklung von Hardware und Algorithmen, wie es das CSCS in den letzten zehn Jahren erfolgreich demonstriert hat. Sie schlagen vor, besonderes Augenmerk auf generische Datenstrukturen, optimierte räumliche Diskretisierung des zu berechnenden Gitters und Optimierung der Zeitschrittlängen zu legen. Weiterhin schlagen die Wissenschaftler vor, die Codes zur Lösung des wissenschaftlichen Problems von den Codes zu trennen, die die Berechnung auf der jeweiligen Systemarchitektur optimal durchführen. Diese flexiblere Programmstruktur würde einen schnelleren und effizienteren Wechsel auf zukünftige Architekturen ermöglichen."
+    },
+    {
+      "heading": "Profitieren von künstlicher Intelligenz",
+      "text": "Grosses Potential sehen die Autoren auch in der künstlichen Intelligenz (KI). Sie kann beispielsweise für die Datenassimilation oder die Verarbeitung der Beobachtungdaten und für die Darstellung von unsicheren physikalischen Prozessen in den Modellen oder zur Datenkomprimierung genutzt werden. KI ermöglicht somit, die Simulationen zu beschleunigen und die wichtigsten Informationen aus grossen Datenmengen herauszufiltern. Die Forscher gehen davon aus, dass der Einsatz von maschinellem Lernen jedoch nicht nur die Berechnungen effizienter macht, sondern auch die physikalischen Prozesse besser beschreiben kann.\n\nDie Wissenschaftler sehen ihr Strategiepapier als Ausgangspunkt für den Weg zu einem digitalen Zwilling der Erde. Unter den heute und in naher Zukunft zur Verfügung stehenden Rechnerarchitekturen identifizieren sie auf Graphikprozessoren (GPU) beruhende Supercomputer als die erfolgversprechendste Option. Sie schätzen, dass der Betrieb eines digitalen Zwillings in vollem Umfang ein System mit ca. 20'000 GPU erfordert, das schätzungsweise 20MW Stromleistung benötigt. Sowohl aus ökonomischer als auch aus ökologischen Gründen sollte ein solcher Rechner an einem Ort betrieben werden, an dem CO 2 -neutral erzeugter Strom in ausreichender Menge zur Verfügung steht.\n\nBauer P, Dueben PD, Hoefler T, Quintino T, Schulthess TC, Wedi NP: The digital revolution of Earth-system science. Nat. Comput. Sci. 1, 104–113 (2021). doi: externe Seite 10.1038/s43588-021-00023-0 .\n\nBauer, P, Stevens, B, Hazeleger, W. A digital twin of Earth for the green transition. Nat. Clim. Chang. 11, 80–83 (2021). doi: externe Seite 10.1038/s41558-021-00986-y ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 87,
+        "end": 91
+      },
+      {
+        "text": "Europäische Union",
+        "label": "ORG",
+        "start": 44,
+        "end": 61
+      },
+      {
+        "text": "Green Deal",
+        "label": "PER",
+        "start": 115,
+        "end": 125
+      },
+      {
+        "text": "Digital Strategy",
+        "label": "ORG",
+        "start": 148,
+        "end": 164
+      },
+      {
+        "text": "Destination Earth",
+        "label": "PER",
+        "start": 303,
+        "end": 320
+      },
+      {
+        "text": "Zeitraums",
+        "label": "LOC",
+        "start": 420,
+        "end": 429
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 473,
+        "end": 477
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 516,
+        "end": 520
+      },
+      {
+        "text": "Entwicklungspfade",
+        "label": "MISC",
+        "start": 805,
+        "end": 822
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "text": "Holland",
+        "label": "LOC",
+        "start": 212,
+        "end": 219
+      },
+      {
+        "text": "im Jahr 2050",
+        "label": "MISC",
+        "start": 389,
+        "end": 401
+      },
+      {
+        "text": "Peter Bauer",
+        "label": "PER",
+        "start": 454,
+        "end": 465
+      },
+      {
+        "text": "Europäischen Zentrum für mittelfristige Wettervorhersagen",
+        "label": "ORG",
+        "start": 525,
+        "end": 582
+      },
+      {
+        "text": "Destination Earth",
+        "label": "PER",
+        "start": 612,
+        "end": 629
+      },
+      {
+        "text": "Destination Earth",
+        "label": "PER",
+        "start": 811,
+        "end": 828
+      },
+      {
+        "text": "ECMWF",
+        "label": "ORG",
+        "start": 839,
+        "end": 844
+      },
+      {
+        "text": "Europäische Weltraumorganisation",
+        "label": "ORG",
+        "start": 864,
+        "end": 896
+      },
+      {
+        "text": "ESA",
+        "label": "ORG",
+        "start": 898,
+        "end": 901
+      },
+      {
+        "text": "Europäische Organisation",
+        "label": "ORG",
+        "start": 926,
+        "end": 950
+      },
+      {
+        "text": "EUMETSAT",
+        "label": "ORG",
+        "start": 996,
+        "end": 1004
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 1149,
+        "end": 1153
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 1225,
+        "end": 1235
+      },
+      {
+        "text": "Nationalen Hochleistungsrechenzentrums der Schweiz",
+        "label": "PER",
+        "start": 1258,
+        "end": 1308
+      },
+      {
+        "text": "CSCS",
+        "label": "ORG",
+        "start": 1310,
+        "end": 1314
+      },
+      {
+        "text": "ETH-Professoren",
+        "label": "ORG",
+        "start": 1336,
+        "end": 1351
+      },
+      {
+        "text": "Torsten Hoefler",
+        "label": "PER",
+        "start": 1352,
+        "end": 1367
+      },
+      {
+        "text": "Institut für Hochleistungsrechnersysteme",
+        "label": "ORG",
+        "start": 1373,
+        "end": 1413
+      },
+      {
+        "text": "Thomas Schulthess",
+        "label": "PER",
+        "start": 1418,
+        "end": 1435
+      },
+      {
+        "text": "CSCS",
+        "label": "LOC",
+        "start": 1450,
+        "end": 1454
+      },
+      {
+        "text": "Nature",
+        "label": "MISC",
+        "start": 1633,
+        "end": 1639
+      },
+      {
+        "text": "Klimamodelle",
+        "label": "PER",
+        "start": 681,
+        "end": 693
+      },
+      {
+        "text": "CPU",
+        "label": "MISC",
+        "start": 1904,
+        "end": 1907
+      },
+      {
+        "text": "CSCS",
+        "label": "LOC",
+        "start": 2126,
+        "end": 2130
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 73,
+        "end": 75
+      },
+      {
+        "text": "KI",
+        "label": "ORG",
+        "start": 295,
+        "end": 297
+      },
+      {
+        "text": "Erde",
+        "label": "LOC",
+        "start": 723,
+        "end": 727
+      },
+      {
+        "text": "GPU",
+        "label": "MISC",
+        "start": 854,
+        "end": 857
+      },
+      {
+        "text": "GPU",
+        "label": "MISC",
+        "start": 1021,
+        "end": 1024
+      },
+      {
+        "text": "CO 2",
+        "label": "MISC",
+        "start": 1208,
+        "end": 1212
+      },
+      {
+        "text": "Dueben PD",
+        "label": "PER",
+        "start": 1291,
+        "end": 1300
+      },
+      {
+        "text": "Hoefler T",
+        "label": "PER",
+        "start": 1302,
+        "end": 1311
+      },
+      {
+        "text": "Quintino T",
+        "label": "PER",
+        "start": 1313,
+        "end": 1323
+      },
+      {
+        "text": "Schulthess TC",
+        "label": "ORG",
+        "start": 1325,
+        "end": 1338
+      },
+      {
+        "text": "Wedi NP",
+        "label": "ORG",
+        "start": 1340,
+        "end": 1347
+      },
+      {
+        "text": "The digital revolution of Earth-system science",
+        "label": "MISC",
+        "start": 1349,
+        "end": 1395
+      },
+      {
+        "text": "Nat",
+        "label": "ORG",
+        "start": 1397,
+        "end": 1400
+      },
+      {
+        "text": "Sci",
+        "label": "PER",
+        "start": 1410,
+        "end": 1413
+      },
+      {
+        "text": "Stevens",
+        "label": "LOC",
+        "start": 1492,
+        "end": 1499
+      },
+      {
+        "text": "Hazeleger",
+        "label": "LOC",
+        "start": 1504,
+        "end": 1513
+      },
+      {
+        "text": "W. A digital twin of Earth for the green transition",
+        "label": "ORG",
+        "start": 1515,
+        "end": 1566
+      },
+      {
+        "text": "Nat",
+        "label": "ORG",
+        "start": 1568,
+        "end": 1571
+      },
+      {
+        "text": "Clim",
+        "label": "LOC",
+        "start": 1573,
+        "end": 1577
+      },
+      {
+        "text": "Chang",
+        "label": "LOC",
+        "start": 1579,
+        "end": 1584
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Destination Earth",
+        "Dueben PD",
+        "Green Deal",
+        "Hoefler T",
+        "Klimamodelle",
+        "Nationalen Hochleistungsrechenzentrums der Schweiz",
+        "Peter Bauer",
+        "Quintino T",
+        "Sci",
+        "Thomas Schulthess",
+        "Torsten Hoefler"
+      ],
+      "ORG": [
+        "CSCS",
+        "Digital Strategy",
+        "ECMWF",
+        "ESA",
+        "ETH Zürich",
+        "ETH-Professoren",
+        "EUMETSAT",
+        "Europäische Organisation",
+        "Europäische Union",
+        "Europäische Weltraumorganisation",
+        "Europäischen Zentrum für mittelfristige Wettervorhersagen",
+        "Institut für Hochleistungsrechnersysteme",
+        "KI",
+        "Nat",
+        "Schulthess TC",
+        "W. A digital twin of Earth for the green transition",
+        "Wedi NP"
+      ],
+      "LOCATION": [
+        "CSCS",
+        "Chang",
+        "Clim",
+        "Erde",
+        "Hazeleger",
+        "Holland",
+        "Stevens",
+        "Zeitraums"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CO 2",
+        "CPU",
+        "Entwicklungspfade",
+        "GPU",
+        "Nature",
+        "The digital revolution of Earth-system science",
+        "im Jahr 2050"
+      ]
+    },
+    "entity_counts": {
+      "Erde": 6,
+      "Destination Earth": 3,
+      "CSCS": 3,
+      "KI": 2,
+      "GPU": 2,
+      "Nat": 2,
+      "Europäische Union": 1,
+      "Green Deal": 1,
+      "Digital Strategy": 1,
+      "Zeitraums": 1,
+      "Entwicklungspfade": 1,
+      "Holland": 1,
+      "im Jahr 2050": 1,
+      "Peter Bauer": 1,
+      "Europäischen Zentrum für mittelfristige Wettervorhersagen": 1,
+      "ECMWF": 1,
+      "Europäische Weltraumorganisation": 1,
+      "ESA": 1,
+      "Europäische Organisation": 1,
+      "EUMETSAT": 1
+    },
+    "total_entities": 54,
+    "unique_entities": 42
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "wissenschaftler-entwickeln-hochpraezisen-digitalen-zwilling-der-erde.md",
+      "title": "De News Events/2021/02/wissenschaftler Entwickeln Hochpraezisen Digitalen Zwilling der Erde",
+      "language": "de",
+      "source_path": "de_news_events/2021/02/wissenschaftler-entwickeln-hochpraezisen-digitalen-zwilling-der-erde.html"
+    },
+    "temporal": {
+      "publication_date": "2021-02",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Destination Earth",
+        "Dueben PD",
+        "Green Deal",
+        "Hoefler T",
+        "Klimamodelle",
+        "Nationalen Hochleistungsrechenzentrums der Schweiz",
+        "Peter Bauer",
+        "Quintino T",
+        "Sci",
+        "Thomas Schulthess",
+        "Torsten Hoefler"
+      ],
+      "people_with_roles": {
+        "Nationalen Hochleistungsrechenzentrums der Schweiz": [
+          "professor"
+        ],
+        "Thomas Schulthess": [
+          "professor"
+        ],
+        "Torsten Hoefler": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "mathematics"
+      ],
+      "research_topics": [
+        "CO 2",
+        "Entwicklungspfade",
+        "Nature",
+        "The digital revolution of Earth-system science",
+        "im Jahr 2050"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Seite Digital",
+        "Die Folge",
+        "Grosses Potential",
+        "Peter Bauer",
+        "Seite Nationalen",
+        "Nature Computational",
+        "Destination Earth",
+        "Hoefler T",
+        "Erdsystem-Modell",
+        "Quintino T",
+        "Seite Green",
+        "Die Meteorologen",
+        "Code-Entwicklung",
+        "Thomas Schulthess",
+        "Die Wissenschaftler",
+        "Dueben PD",
+        "Wedi NP",
+        "Energie-Management",
+        "Als Physiker",
+        "Die Klimaforschung",
+        "Erde Um",
+        "ETH-Professoren",
+        "Co-Designs",
+        "Die Forscher",
+        "Bauer P",
+        "Digitalen Zwilling",
+        "De News",
+        "Entwickeln Hochpraezisen",
+        "Torsten Hoefler",
+        "Seite Destination",
+        "Schulthess TC"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CSCS",
+        "Digital Strategy",
+        "ECMWF",
+        "ESA",
+        "ETH Zürich",
+        "ETH-Professoren",
+        "EUMETSAT",
+        "Europäische Organisation",
+        "Europäische Union",
+        "Europäische Weltraumorganisation",
+        "Europäischen Zentrum für mittelfristige Wettervorhersagen",
+        "Institut für Hochleistungsrechnersysteme",
+        "KI",
+        "Nat",
+        "Schulthess TC",
+        "W. A digital twin of Earth for the green transition",
+        "Wedi NP"
+      ],
+      "locations": [
+        "CSCS",
+        "Chang",
+        "Clim",
+        "Erde",
+        "Hazeleger",
+        "Holland",
+        "Stevens",
+        "Zeitraums"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Erde",
+        "Destination Earth",
+        "CSCS",
+        "KI",
+        "GPU",
+        "Nat",
+        "Europäische Union",
+        "Green Deal",
+        "Digital Strategy",
+        "Zeitraums"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Informationssystem zur Entscheidungsfindung",
+          "Informationssystem zur Entscheidungsfindung",
+          "Wetter- und Klimamodelle als Grundlage",
+          "Profitieren von künstlicher Intelligenz"
+        ],
+        "content_length": 7717
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Institut für Hochleistungsrechnersysteme",
+        "Europäischen Zentrum für mittelfristige Wettervorhersagen",
+        "Peter Bauer",
+        "Digital Strategy",
+        "Europäische Weltraumorganisation",
+        "Europäische Union",
+        "ERC",
+        "Klimamodelle",
+        "Destination Earth",
+        "EUMETSAT",
+        "ESA",
+        "ETH Zürich",
+        "Hoefler T",
+        "Quintino T",
+        "ECMWF",
+        "Europäische Organisation",
+        "Thomas Schulthess",
+        "Nationalen Hochleistungsrechenzentrums der Schweiz",
+        "EU",
+        "Dueben PD",
+        "Wedi NP",
+        "Nat",
+        "ETH-Professoren",
+        "Sci",
+        "CSCS",
+        "Green Deal",
+        "W. A digital twin of Earth for the green transition",
+        "Torsten Hoefler",
+        "Schulthess TC",
+        "KI",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "mathematics",
+        "Nature",
+        "who",
+        "Entwicklungspfade",
+        "how",
+        "The digital revolution of Earth-system science",
+        "im Jahr 2050",
+        "when",
+        "CO 2"
+      ],
+      "graph_relations": [
+        "Nationalen Hochleistungsrechenzentrums der Schweiz_has_role_professor",
+        "Thomas Schulthess_has_role_professor",
+        "Torsten Hoefler_has_role_professor",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

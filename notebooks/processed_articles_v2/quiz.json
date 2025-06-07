@@ -1,0 +1,239 @@
+{
+  "filename": "quiz.md",
+  "original_filename": "quiz.html",
+  "source_path": "en_news_events/2021/04/quiz.html",
+  "date": "2021-04",
+  "title": "Quiz",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In our quiz series, we take you on journeys of discovery through research and teaching at ETH Zurich. This edition is dedicated to agricultural sciences, which are celebrating their 150th anniversary this year.\n\nThe Department of Environmental Systems Science (D-​USYS) starts their anniversary year with an online event on 4 May 2021, kicked off by a video featuring Guy Parmelin, President of the Swiss Confederation, together with ETH President Joël Mesot and representatives of the Department.\n\nFollowing the premiere of this anniversary film, various webinars on the important topics in agricultural sciences will be held in different languages on the virtual stages. Afterwards, the Institute of Agricultural Sciences invites you to a very special virtual aperitif. Participation in the conference is free of charge, no registration needed.\n\nOn the anniversary website you can already find a timeline with historical facts and selected stories from the past 150 years."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 90,
+        "end": 100
+      },
+      {
+        "text": "150th",
+        "label": "ORDINAL",
+        "start": 182,
+        "end": 187
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 200,
+        "end": 209
+      },
+      {
+        "text": "The Department of Environmental Systems Science",
+        "label": "ORG",
+        "start": 211,
+        "end": 258
+      },
+      {
+        "text": "anniversary year",
+        "label": "DATE",
+        "start": 282,
+        "end": 298
+      },
+      {
+        "text": "4 May 2021",
+        "label": "DATE",
+        "start": 323,
+        "end": 333
+      },
+      {
+        "text": "Guy Parmelin",
+        "label": "PERSON",
+        "start": 367,
+        "end": 379
+      },
+      {
+        "text": "the Swiss Confederation",
+        "label": "ORG",
+        "start": 394,
+        "end": 417
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 433,
+        "end": 436
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 447,
+        "end": 457
+      },
+      {
+        "text": "the Institute of Agricultural Sciences",
+        "label": "ORG",
+        "start": 683,
+        "end": 721
+      },
+      {
+        "text": "the past 150 years",
+        "label": "DATE",
+        "start": 952,
+        "end": 970
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Guy Parmelin",
+        "Joël Mesot"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "The Department of Environmental Systems Science",
+        "the Institute of Agricultural Sciences",
+        "the Swiss Confederation"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "4 May 2021",
+        "anniversary year",
+        "the past 150 years",
+        "this year"
+      ],
+      "MISC": [
+        "150th"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 1,
+      "150th": 1,
+      "this year": 1,
+      "The Department of Environmental Systems Science": 1,
+      "anniversary year": 1,
+      "4 May 2021": 1,
+      "Guy Parmelin": 1,
+      "the Swiss Confederation": 1,
+      "ETH": 1,
+      "Joël Mesot": 1,
+      "the Institute of Agricultural Sciences": 1,
+      "the past 150 years": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 12
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "quiz.md",
+      "title": "En News Events/2021/04/quiz",
+      "language": "en",
+      "source_path": "en_news_events/2021/04/quiz.html"
+    },
+    "temporal": {
+      "publication_date": "2021-04",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Guy Parmelin",
+        "Joël Mesot"
+      ],
+      "people_with_roles": {
+        "Guy Parmelin": [
+          "president"
+        ],
+        "Joël Mesot": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "150th"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "The Department",
+        "Environmental Systems",
+        "Guy Parmelin",
+        "En News",
+        "ETH President",
+        "Agricultural Sciences",
+        "ETH Zurich",
+        "Swiss Confederation"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Environmental Systems Science "
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "The Department of Environmental Systems Science",
+        "the Institute of Agricultural Sciences",
+        "the Swiss Confederation"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "150th",
+        "this year",
+        "The Department of Environmental Systems Science",
+        "anniversary year",
+        "4 May 2021",
+        "Guy Parmelin",
+        "the Swiss Confederation",
+        "ETH",
+        "Joël Mesot"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1002
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Joël Mesot",
+        "Guy Parmelin",
+        "The Department of Environmental Systems Science",
+        "ETH Zurich",
+        "2021",
+        "the Swiss Confederation",
+        "the Institute of Agricultural Sciences"
+      ],
+      "semantic_concepts": [
+        "when",
+        "150th",
+        "what"
+      ],
+      "graph_relations": [
+        "Guy Parmelin_has_role_president",
+        "Joël Mesot_has_role_president"
+      ]
+    }
+  }
+}

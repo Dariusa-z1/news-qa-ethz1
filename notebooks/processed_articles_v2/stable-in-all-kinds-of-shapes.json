@@ -1,0 +1,380 @@
+{
+  "filename": "stable-in-all-kinds-of-shapes.md",
+  "original_filename": "stable-in-all-kinds-of-shapes.html",
+  "source_path": "en_news_events/2022/10/stable-in-all-kinds-of-shapes.html",
+  "date": "2022-10",
+  "title": "Stable In All Kinds Of Shapes",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "A remarkably simple solution",
+      "text": "For a great many years, researchers have been trying to create structures that can assume different stable shapes as required. The goal of creating these multi-stable structures, as they are known, is to build three-dimensional objects that can switch between shapes again and again as needed. This would pave the way for realizing, say, adaptable elements or large objects that can change shape and take less space during transportation.\n\nBut the breakthrough has been a long time in coming. This is because previous solutions were either very complex to produce, could be reshaped only once, or required a continuous supply of energy to maintain their new shape.\n\nGiada Risso, a doctoral student in the Composite Materials and Adaptive Structures Group led by Paolo Ermanni, recently presented a new approach that overcomes these drawbacks in an article in the journal Advanced Science. “One of my main goals was to develop a flat, multi-stable structure that would be easy to manufacture,” she explains. And the solution is remarkably simple: it involves sticking a flat composite frame onto a pre-stretched, soft, thermoplastic film of polyurethane. “A flat surface and a clamp to pre-stretch the film – that’s essentially all that’s needed,” Risso explains.\n\nHolding a structure made this way in your hands, you can bend it from its original flat state into a shape that it will retain without any further assistance. You can then change its shape again and the structure will once again hold this new shape all by itself. Then you can restore the original shape in an equally simple manoeuvre."
+    },
+    {
+      "heading": "A frame of carbon fibres",
+      "text": "But how exactly is it possible to reshape this structure so flexibly into different stable states? Risso discovered that it all hinges on which material you select for the frame: “Our best results have been with a composite material made from carbon fibres. This allows us to produce a structure that can actually take on multiple stable states.” Making a frame out of glass fibres, however, results in far fewer stable shapes. Of all the frame materials tested, steel performed the worst, failing to produce a single other stable state.\n\nIn her paper, Risso describes the theory behind why the various materials lead to such different results. “Carbon fibres are highly anisotropic, which means they have very different properties along different axes. In other words, they will display differing degrees of rigidity depending on the direction you bend them. It’s this anisotropy that is fundamental in creating a multi-stable shape.” Unlike carbon fibres, steel is isotropic, which is why it is unsuitable for creating multi-stable shapes."
+    },
+    {
+      "heading": "Modeling caterpillars",
+      "text": "The fundamental component of the new structure is a square element, which can be augmented with other square elements as desired. Since each individual square can take on a variety of stable states, combining them results in a vast number of possible shapes.\n\nRisso’s next step was to equip a periodic structure comprising 16 squares with what are known as pneumatic actuators. These work in a similar way to a “one-sided” balloon, expanding only on one side when air is fed in. Forcing air into selected actuators bends the structure to create the desired shape. Through a series of experiments, Risso was able to show that this can recreate the undulating movements of a caterpillar."
+    },
+    {
+      "heading": "Endless variety",
+      "text": "Risso believes that there are many uses for such structures, such as in the manufacture of reconfigurable building facades, and robots. But she says that the biggest appeal is to the space industry: “This industry is already using lightweight composite materials and relies on having compact materials that are easily adapted.” The new approach could be used to build antennas or solar panels that can be unfolded and configured after arriving in space.\n\nWhat’s more, the principle can be applied to more than square base elements. In a different paper, Risso proved that it also works with any other polygon. This massively expands the range of potential applications. “Who knows, perhaps we will be using these structures to build cube-shaped figures that transform into exotic three-dimensional structures in the blink of an eye,” she says with a smile."
+    },
+    {
+      "heading": "Reference",
+      "text": "With its myriad of possibilities, there’s no denying that this new concept fires the imagination. “I will not be able to exhaust all the possibilities because I now have to focus on finishing my doctoral studies,” Risso says. She intends to use the remaining time to resolve a couple more research questions, for instance drawing on her background knowledge in applied mathematics to determine how stable a stable state actually is. Another crucial topic she wants to explore in greater detail is the speed at which the structures change shape. “In many applications, it’s important that the shape does not change too abruptly, but rather moves from one state to the next in a controlled way,” she says. “This is why we’re also investigating how to better control the reshaping process.”\n\nAnd, finally, there is also the question of scale: “We don’t yet know how small we’ll be able to make the individual elements. If we can reduce the size of these elements to within the millimetre range, I could imagine they might be useful for medical applications,” Risso says. “But that kind of thing is still a long way off.”\n\nRisso G, Sakovsky M, Ermanni P: A Highly Multi-Stable Meta-Structure via Anisotropy for Large and Reversible Shape Transformation. Advanced Science 21 July 2022. DOI: 10.1002/advs.202202740"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "All Kinds",
+        "label": "WORK_OF_ART",
+        "start": 33,
+        "end": 42
+      },
+      {
+        "text": "a great many years",
+        "label": "DATE",
+        "start": 4,
+        "end": 22
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 210,
+        "end": 215
+      },
+      {
+        "text": "Giada Risso",
+        "label": "PERSON",
+        "start": 664,
+        "end": 675
+      },
+      {
+        "text": "the Composite Materials",
+        "label": "ORG",
+        "start": 699,
+        "end": 722
+      },
+      {
+        "text": "Adaptive Structures Group",
+        "label": "ORG",
+        "start": 727,
+        "end": 752
+      },
+      {
+        "text": "Paolo Ermanni",
+        "label": "PERSON",
+        "start": 760,
+        "end": 773
+      },
+      {
+        "text": "Advanced Science",
+        "label": "WORK_OF_ART",
+        "start": 869,
+        "end": 885
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 888,
+        "end": 891
+      },
+      {
+        "text": "Risso",
+        "label": "PERSON",
+        "start": 1245,
+        "end": 1250
+      },
+      {
+        "text": "Risso",
+        "label": "PERSON",
+        "start": 99,
+        "end": 104
+      },
+      {
+        "text": "Risso",
+        "label": "PERSON",
+        "start": 552,
+        "end": 557
+      },
+      {
+        "text": "Risso",
+        "label": "PERSON",
+        "start": 259,
+        "end": 264
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 411,
+        "end": 414
+      },
+      {
+        "text": "Risso",
+        "label": "PERSON",
+        "start": 596,
+        "end": 601
+      },
+      {
+        "text": "Risso",
+        "label": "PERSON",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "antennas",
+        "label": "ORG",
+        "start": 368,
+        "end": 376
+      },
+      {
+        "text": "Risso",
+        "label": "PERSON",
+        "start": 553,
+        "end": 558
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 779,
+        "end": 784
+      },
+      {
+        "text": "Risso",
+        "label": "PERSON",
+        "start": 214,
+        "end": 219
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 650,
+        "end": 653
+      },
+      {
+        "text": "Risso",
+        "label": "PERSON",
+        "start": 1055,
+        "end": 1060
+      },
+      {
+        "text": "Risso G",
+        "label": "PERSON",
+        "start": 1117,
+        "end": 1124
+      },
+      {
+        "text": "21 July 2022",
+        "label": "DATE",
+        "start": 1265,
+        "end": 1277
+      },
+      {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 1284,
+        "end": 1291
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Giada Risso",
+        "Paolo Ermanni",
+        "Risso",
+        "Risso G"
+      ],
+      "ORG": [
+        "Adaptive Structures Group",
+        "antennas",
+        "the Composite Materials"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "21 July 2022",
+        "a great many years"
+      ],
+      "MISC": [
+        "10.1002",
+        "Advanced Science",
+        "All Kinds",
+        "One",
+        "one",
+        "three"
+      ]
+    },
+    "entity_counts": {
+      "Risso": 9,
+      "three": 2,
+      "one": 2,
+      "All Kinds": 1,
+      "a great many years": 1,
+      "Giada Risso": 1,
+      "the Composite Materials": 1,
+      "Adaptive Structures Group": 1,
+      "Paolo Ermanni": 1,
+      "Advanced Science": 1,
+      "One": 1,
+      "antennas": 1,
+      "Risso G": 1,
+      "21 July 2022": 1,
+      "10.1002": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "stable-in-all-kinds-of-shapes.md",
+      "title": "En News Events/2022/10/stable in All Kinds Of Shapes",
+      "language": "en",
+      "source_path": "en_news_events/2022/10/stable-in-all-kinds-of-shapes.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, during, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Giada Risso",
+        "Paolo Ermanni",
+        "Risso",
+        "Risso G"
+      ],
+      "people_with_roles": {
+        "Giada Risso": [
+          "student"
+        ],
+        "Paolo Ermanni": [
+          "student"
+        ],
+        "Risso": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "10.1002",
+        "Advanced Science",
+        "All Kinds",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Adaptive Structures",
+        "En News",
+        "Advanced Science",
+        "All Kinds",
+        "Sakovsky M",
+        "Reversible Shape",
+        "Risso G",
+        "Ermanni P",
+        "Paolo Ermanni",
+        "Composite Materials",
+        "Of Shapes",
+        "Giada Risso",
+        "Multi-Stable",
+        "Meta-Structure",
+        "A Highly"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Adaptive Structures Group",
+        "antennas",
+        "the Composite Materials"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Risso",
+        "three",
+        "one",
+        "All Kinds",
+        "a great many years",
+        "Giada Risso",
+        "the Composite Materials",
+        "Adaptive Structures Group",
+        "Paolo Ermanni",
+        "Advanced Science"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "A remarkably simple solution",
+          "A frame of carbon fibres",
+          "Modeling caterpillars",
+          "Endless variety",
+          "Reference"
+        ],
+        "content_length": 5546
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Risso",
+        "EU",
+        "2022",
+        "Risso G",
+        "the Composite Materials",
+        "Paolo Ermanni",
+        "Giada Risso",
+        "ERC",
+        "antennas",
+        "Adaptive Structures Group"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "who",
+        "Advanced Science",
+        "All Kinds",
+        "10.1002",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Giada Risso_has_role_student",
+        "Paolo Ermanni_has_role_student",
+        "Risso_has_role_student",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

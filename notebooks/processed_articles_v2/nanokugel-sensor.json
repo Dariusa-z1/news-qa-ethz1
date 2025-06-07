@@ -1,0 +1,497 @@
+{
+  "filename": "nanokugel-sensor.md",
+  "original_filename": "nanokugel-sensor.html",
+  "source_path": "de_news_events/2017/06/nanokugel-sensor.html",
+  "date": "2017-06",
+  "title": "Nanokugel Sensor",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Nanokügelchen im Laserstrahl",
+      "text": "Ein winziges Kügelchen und ein Laserstrahl, in dem es wie von Zauberhand gehalten schwebt – mit diesen einfachen Mitteln haben Martin Frimmer und seine Mitarbeitenden am Photonics Laboratory der ETH Zürich einen hochempfindlichen Sensor entwickelt. Das Gerät soll in Zukunft unter anderem extrem schwache Kräfte oder kleinste elektrische Felder präzise messen. Auf dem Weg dorthin sind die Forscher nun einen grossen Schritt weitergekommen, wie sie in einem kürzlich erschienenen Fachartikel schreiben."
+    },
+    {
+      "heading": "Nanokügelchen im Laserstrahl",
+      "text": "Das Grundprinzip eines Sensors erklärt Martin Frimmer, Postdoc in der Arbeitsgruppe von ETH-Professor Lukas Novotny, sehr einleuchtend: «Zunächst muss ich wissen, wie das Objekt, das als Sensor fungiert, mit seiner Umwelt in Kontakt steht. Wenn dann über diese Einflüsse hinaus etwas mit ihm passiert, dann weiss ich: Aha, da ist eine Kraft am Werk.»\n\nIn der Praxis bedeutet dies meistens, dass man die Wechselwirkungen mit der Umgebung möglichst gering halten will, um die Empfindlichkeit des Sensors auf die zu messenden Kräfte zu maximieren. Genau dies erreichten die Wissenschaftler, indem sie ein kugelförmiges Nanopartikel aus Siliziumdioxid, dessen Durchmesser etwa hundert Mal kleiner ist als ein menschliches Haar, mit Hilfe eines gebündelten Laserstrahls einfangen. Dieser bildet eine so genannte «optische Pinzette», in der das Nanokügelchen durch Lichtkräfte im Brennpunkt des Strahls festgehalten wird. Wirkt nun eine weitere Kraft auf das Kügelchen, so wird es aus seiner Ruheposition verschoben, was man wiederum mit Hilfe eines Laserstrahls messen kann."
+    },
+    {
+      "heading": "Entladen mit Hochspannung",
+      "text": "Da die optische Pinzette das Nanokügelchen ohne jeglichen mechanischen Kontakt in der Schwebe hält, kann der Einfluss der Umwelt leicht auf ein Minimum reduziert werden. Um dies zu erreichen, platzierten Frimmer und sein Team die optische Pinzette in eine Vakuumapparatur, so dass es praktisch keine Zusammenstösse mit Luftmolekülen mehr gibt. Das einzige, was jetzt noch stören kann, ist eine eventuelle elektrische Ladung auf dem Nanopartikel. Durch diese könnten nicht ausreichend abgeschirmte elektrische Felder das Kügelchen beeinflussen und damit eine mögliche Messung stören.\n\nDeshalb entwickelten die ETH-Forscher nun eine simple, aber sehr wirkungsvolle Methode, mit der die Ladung auf dem Kügelchen neutralisiert werden kann. Sie montierten dazu in der Vakuumapparatur einen Draht, an den eine Hochspannung von 7000 Volt angeschlossen wird. Die Hochspannung führt dazu, dass Luftmoleküle ionisiert, also in negativ geladene Elektronen und positiv geladene Ionen aufgespalten werden. Diese können nun auf das Nanokügelchen überspringen und dessen Ladung stärker negativ oder positiv werden lassen.\n\nUm zu messen, welche Ladung es in einem bestimmten Moment trägt, setzten die Physiker das Kügelchen einem oszillierenden elektrischen Feld aus und beobachteten, wie stark es darauf reagiert. So konnten sie nachweisen, dass die Ladung des Kügelchens sich in Schritten von genau einer Elementarladung (das heisst der Ladung eines Elektrons) zum Positiven oder zum Negativen ändert. Wird die Hochspannung abgeschaltet, so bleibt seine Ladung über Tage hinweg konstant."
+    },
+    {
+      "heading": "Gravitation und Quantenmechanik",
+      "text": "Diese perfekte Kontrolle erlaubt es den Wissenschaftlern, das Nanopartikel elektrisch komplett zu neutralisieren. Elektrische Felder haben somit keine Wirkung mehr auf das Kügelchen, wodurch es möglich wird, andere, sehr schwache Kräfte sehr genau zu messen. Eine solche Kraft ist die Gravitation. Martin Frimmer spekuliert, wenn auch vorsichtig, dass es mit dem von ihm entwickelten Nano-Sensor in Zukunft möglich sein sollte, die Schwerkraft im Zusammenhang mit der Quantenmechanik zu studieren.\n\nSchon jetzt können die Forscher das Kügelchen durch geschicktes Manipulieren der optischen Pinzette auf weniger als ein Zehntausendstel Grad über dem absoluten Nullpunkt abkühlen. Bei noch niedrigeren Temperaturen sollte das Nanopartikel beginnen, sich quantenmechanisch zu verhalten, so dass an ihm Phänomene wie die Quanten-Überlagerungen und deren Abhängigkeit von der Gravitation beobachtet werden könnten.\n\nInteressante Anwendungen für den Sensor der ETH-Forscher bieten sich aber auch in alltäglicheren Bereichen, etwa bei der Messung von Beschleunigungen. Da die Ladung des Nanokügelchens nicht nur neutralisiert, sondern wahlweise auf einen genau bestimmbaren Wert eingestellt werden kann, eignet sich der Sensor ebenso zur Präzisionsmessung elektrischer Felder.\n\nFrimmer M, Luszcz K, Ferreiro S, Jain V, Hebestreit E, Novotny L: Controlling the net charge on a nanoparticle optically levitated in vacuum. Physical Review A 2017, 95, 061801(R), doi: externe Seite 10.1103/PhysRevA.95.061801"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Kügelchen",
+        "label": "MISC",
+        "start": 13,
+        "end": 22
+      },
+      {
+        "text": "Zauberhand",
+        "label": "ORG",
+        "start": 62,
+        "end": 72
+      },
+      {
+        "text": "Martin Frimmer",
+        "label": "PER",
+        "start": 127,
+        "end": 141
+      },
+      {
+        "text": "Photonics Laboratory",
+        "label": "LOC",
+        "start": 170,
+        "end": 190
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 195,
+        "end": 205
+      },
+      {
+        "text": "Martin Frimmer",
+        "label": "PER",
+        "start": 39,
+        "end": 53
+      },
+      {
+        "text": "Postdoc",
+        "label": "PER",
+        "start": 55,
+        "end": 62
+      },
+      {
+        "text": "ETH-Professor Lukas Novotny",
+        "label": "PER",
+        "start": 88,
+        "end": 115
+      },
+      {
+        "text": "weiss ich:",
+        "label": "MISC",
+        "start": 307,
+        "end": 317
+      },
+      {
+        "text": "Wechselwirkungen",
+        "label": "LOC",
+        "start": 402,
+        "end": 418
+      },
+      {
+        "text": "Nanokügelchen",
+        "label": "LOC",
+        "start": 838,
+        "end": 851
+      },
+      {
+        "text": "Wirkt",
+        "label": "LOC",
+        "start": 915,
+        "end": 920
+      },
+      {
+        "text": "Kügelchen",
+        "label": "MISC",
+        "start": 952,
+        "end": 961
+      },
+      {
+        "text": "Schwebe",
+        "label": "MISC",
+        "start": 86,
+        "end": 93
+      },
+      {
+        "text": "Kügelchen",
+        "label": "MISC",
+        "start": 520,
+        "end": 529
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 608,
+        "end": 620
+      },
+      {
+        "text": "Kügelchen",
+        "label": "MISC",
+        "start": 698,
+        "end": 707
+      },
+      {
+        "text": "Volt",
+        "label": "LOC",
+        "start": 825,
+        "end": 829
+      },
+      {
+        "text": "Luftmoleküle",
+        "label": "LOC",
+        "start": 884,
+        "end": 896
+      },
+      {
+        "text": "Kügelchen",
+        "label": "MISC",
+        "start": 1196,
+        "end": 1205
+      },
+      {
+        "text": "Kügelchens",
+        "label": "LOC",
+        "start": 1344,
+        "end": 1354
+      },
+      {
+        "text": "Wissenschaftlern",
+        "label": "LOC",
+        "start": 40,
+        "end": 56
+      },
+      {
+        "text": "Kügelchen",
+        "label": "MISC",
+        "start": 172,
+        "end": 181
+      },
+      {
+        "text": "Martin Frimmer",
+        "label": "PER",
+        "start": 298,
+        "end": 312
+      },
+      {
+        "text": "Kügelchen",
+        "label": "MISC",
+        "start": 534,
+        "end": 543
+      },
+      {
+        "text": "quantenmechanisch",
+        "label": "PER",
+        "start": 751,
+        "end": 768
+      },
+      {
+        "text": "Quanten-Überlagerungen",
+        "label": "MISC",
+        "start": 816,
+        "end": 838
+      },
+      {
+        "text": "ETH-Forscher",
+        "label": "MISC",
+        "start": 953,
+        "end": 965
+      },
+      {
+        "text": "Nanokügelchens",
+        "label": "LOC",
+        "start": 1078,
+        "end": 1092
+      },
+      {
+        "text": "Luszcz K",
+        "label": "LOC",
+        "start": 1279,
+        "end": 1287
+      },
+      {
+        "text": "Ferreiro S",
+        "label": "PER",
+        "start": 1289,
+        "end": 1299
+      },
+      {
+        "text": "Jain V",
+        "label": "PER",
+        "start": 1301,
+        "end": 1307
+      },
+      {
+        "text": "Hebestreit E",
+        "label": "PER",
+        "start": 1309,
+        "end": 1321
+      },
+      {
+        "text": "Novotny L",
+        "label": "PER",
+        "start": 1323,
+        "end": 1332
+      },
+      {
+        "text": "vacuum",
+        "label": "LOC",
+        "start": 1402,
+        "end": 1408
+      },
+      {
+        "text": "Review A 2017",
+        "label": "MISC",
+        "start": 1419,
+        "end": 1432
+      },
+      {
+        "text": "061801(R",
+        "label": "LOC",
+        "start": 1438,
+        "end": 1446
+      },
+      {
+        "text": "PhysRevA.95.061801",
+        "label": "LOC",
+        "start": 1476,
+        "end": 1494
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "ETH-Professor Lukas Novotny",
+        "Ferreiro S",
+        "Hebestreit E",
+        "Jain V",
+        "Martin Frimmer",
+        "Novotny L",
+        "Postdoc",
+        "quantenmechanisch"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Zauberhand"
+      ],
+      "LOCATION": [
+        "061801(R",
+        "Kügelchens",
+        "Luftmoleküle",
+        "Luszcz K",
+        "Nanokügelchen",
+        "Nanokügelchens",
+        "Photonics Laboratory",
+        "PhysRevA.95.061801",
+        "Volt",
+        "Wechselwirkungen",
+        "Wirkt",
+        "Wissenschaftlern",
+        "vacuum"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Forscher",
+        "Kügelchen",
+        "Quanten-Überlagerungen",
+        "Review A 2017",
+        "Schwebe",
+        "weiss ich:"
+      ]
+    },
+    "entity_counts": {
+      "Kügelchen": 7,
+      "Martin Frimmer": 3,
+      "ETH-Forscher": 2,
+      "De News": 1,
+      "Zauberhand": 1,
+      "Photonics Laboratory": 1,
+      "ETH Zürich": 1,
+      "Postdoc": 1,
+      "ETH-Professor Lukas Novotny": 1,
+      "weiss ich:": 1,
+      "Wechselwirkungen": 1,
+      "Nanokügelchen": 1,
+      "Wirkt": 1,
+      "Schwebe": 1,
+      "Volt": 1,
+      "Luftmoleküle": 1,
+      "Kügelchens": 1,
+      "Wissenschaftlern": 1,
+      "quantenmechanisch": 1,
+      "Quanten-Überlagerungen": 1
+    },
+    "total_entities": 39,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "nanokugel-sensor.md",
+      "title": "De News Events/2017/06/nanokugel Sensor",
+      "language": "de",
+      "source_path": "de_news_events/2017/06/nanokugel-sensor.html"
+    },
+    "temporal": {
+      "publication_date": "2017-06",
+      "mentioned_years": [
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "ETH-Professor Lukas Novotny",
+        "Ferreiro S",
+        "Hebestreit E",
+        "Jain V",
+        "Martin Frimmer",
+        "Novotny L",
+        "Postdoc",
+        "quantenmechanisch"
+      ],
+      "people_with_roles": {
+        "ETH-Professor Lukas Novotny": [
+          "professor"
+        ],
+        "Martin Frimmer": [
+          "professor"
+        ],
+        "Postdoc": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Forscher",
+        "Kügelchen",
+        "Quanten-Überlagerungen",
+        "Review A 2017",
+        "Schwebe",
+        "weiss ich:"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Luszcz K",
+        "Sensor Ein",
+        "Zehntausendstel Grad",
+        "ETH-Professor",
+        "Jain V",
+        "Photonics Laboratory",
+        "Lukas Novotny",
+        "Die Hochspannung",
+        "Elektrische Felder",
+        "Nano-Sensor",
+        "Hebestreit E",
+        "ETH-Forscher",
+        "Frimmer M",
+        "Interessante Anwendungen",
+        "Novotny L",
+        "Ferreiro S",
+        "Martin Frimmer",
+        "Das Grundprinzip",
+        "Physical Review",
+        "De News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Zauberhand"
+      ],
+      "locations": [
+        "061801(R",
+        "Kügelchens",
+        "Luftmoleküle",
+        "Luszcz K",
+        "Nanokügelchen",
+        "Nanokügelchens",
+        "Photonics Laboratory",
+        "PhysRevA.95.061801",
+        "Volt",
+        "Wechselwirkungen",
+        "Wirkt",
+        "Wissenschaftlern",
+        "vacuum"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "Kügelchen",
+        "Martin Frimmer",
+        "ETH-Forscher",
+        "De News",
+        "Zauberhand",
+        "Photonics Laboratory",
+        "ETH Zürich",
+        "Postdoc",
+        "ETH-Professor Lukas Novotny",
+        "weiss ich:"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Nanokügelchen im Laserstrahl",
+          "Nanokügelchen im Laserstrahl",
+          "Entladen mit Hochspannung",
+          "Gravitation und Quantenmechanik"
+        ],
+        "content_length": 4684
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "quantenmechanisch",
+        "Ferreiro S",
+        "Postdoc",
+        "2017",
+        "EU",
+        "Hebestreit E",
+        "ETH Zürich",
+        "De News",
+        "Zauberhand",
+        "ETH-Professor Lukas Novotny",
+        "Martin Frimmer",
+        "Jain V",
+        "Novotny L"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Quanten-Überlagerungen",
+        "weiss ich:",
+        "Schwebe",
+        "ETH-Forscher",
+        "Kügelchen",
+        "what",
+        "how",
+        "Review A 2017"
+      ],
+      "graph_relations": [
+        "ETH-Professor Lukas Novotny_has_role_professor",
+        "Martin Frimmer_has_role_professor",
+        "Postdoc_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "filename": "questions-raised-about-the-two-surveys-among-eth-employees.md",
+  "original_filename": "questions-raised-about-the-two-surveys-among-eth-employees.html",
+  "source_path": "en_internal/2021/03/questions-raised-about-the-two-surveys-among-eth-employees.html",
+  "date": "2021-03",
+  "title": "Questions Raised About The Two Surveys Among Eth Employees",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH President Joël Mesot had announced them in an e-mail: the two surveys that were launched within a week. On 23 March, the consulting firm Empiricon sent an e-mail with a link to the employee survey; yesterday, Tuesday 30 March, the market and social research institute gfs-zürich called on people to take part in a survey on internal communication.\n\nThis second e-mail has triggered some questions and led to enquiries at the IT services as to whether it is a phishing e-mail.\"That is not what it is,\" says Rainer Borer, Head of Corporate Communications, who co-signed the second email. \"In the internal communication survey, we would like to ascertain the needs of the employees a little more precisely than is possible in the questions of the regular employee survey,\" he explains.\n\nThis means that all employees are called upon to participate in both surveys. With their feedback, they help to further develop the work situation in general and internal communication in particular."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 14,
+        "end": 24
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "a week",
+        "label": "DATE",
+        "start": 100,
+        "end": 106
+      },
+      {
+        "text": "23 March",
+        "label": "DATE",
+        "start": 111,
+        "end": 119
+      },
+      {
+        "text": "Empiricon",
+        "label": "ORG",
+        "start": 141,
+        "end": 150
+      },
+      {
+        "text": "yesterday",
+        "label": "DATE",
+        "start": 202,
+        "end": 211
+      },
+      {
+        "text": "Tuesday 30 March",
+        "label": "DATE",
+        "start": 213,
+        "end": 229
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 357,
+        "end": 363
+      },
+      {
+        "text": "Rainer Borer",
+        "label": "PERSON",
+        "start": 509,
+        "end": 521
+      },
+      {
+        "text": "Corporate Communications",
+        "label": "ORG",
+        "start": 531,
+        "end": 555
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 575,
+        "end": 581
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Joël Mesot",
+        "Rainer Borer"
+      ],
+      "ORG": [
+        "Corporate Communications",
+        "ETH",
+        "Empiricon"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "23 March",
+        "Tuesday 30 March",
+        "a week",
+        "yesterday"
+      ],
+      "MISC": [
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "second": 2,
+      "ETH": 1,
+      "Joël Mesot": 1,
+      "two": 1,
+      "a week": 1,
+      "23 March": 1,
+      "Empiricon": 1,
+      "yesterday": 1,
+      "Tuesday 30 March": 1,
+      "Rainer Borer": 1,
+      "Corporate Communications": 1
+    },
+    "total_entities": 12,
+    "unique_entities": 11
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "questions-raised-about-the-two-surveys-among-eth-employees.md",
+      "title": "En Internal/2021/03/questions Raised About The Two Surveys Among Eth Employees",
+      "language": "en",
+      "source_path": "en_internal/2021/03/questions-raised-about-the-two-surveys-among-eth-employees.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Joël Mesot",
+        "Rainer Borer"
+      ],
+      "people_with_roles": {
+        "Joël Mesot": [
+          "president"
+        ],
+        "Rainer Borer": [
+          "head"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "head"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Corporate Communications",
+        "Raised About",
+        "ETH President",
+        "En Internal",
+        "Surveys Among",
+        "Eth Employees",
+        "The Two",
+        "Rainer Borer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Corporate Communications",
+        "ETH",
+        "Empiricon"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "second",
+        "ETH",
+        "Joël Mesot",
+        "two",
+        "a week",
+        "23 March",
+        "Empiricon",
+        "yesterday",
+        "Tuesday 30 March",
+        "Rainer Borer"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1066
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Corporate Communications",
+        "ETH",
+        "Joël Mesot",
+        "Empiricon",
+        "Rainer Borer",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "what",
+        "second",
+        "who"
+      ],
+      "graph_relations": [
+        "Joël Mesot_has_role_president",
+        "Rainer Borer_has_role_head",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

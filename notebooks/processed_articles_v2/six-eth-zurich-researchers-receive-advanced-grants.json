@@ -1,0 +1,510 @@
+{
+  "filename": "six-eth-zurich-researchers-receive-advanced-grants.md",
+  "original_filename": "six-eth-zurich-researchers-receive-advanced-grants.html",
+  "source_path": "en_news_events/2022/06/six-eth-zurich-researchers-receive-advanced-grants.html",
+  "date": "2022-06",
+  "title": "Six Eth Zurich Researchers Receive Advanced Grants",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Last year, the Swiss National Science Foundation (SNSF) announced Advanced Grants to which established researchers from Swiss universities could apply for funding for a forward-looking, original, significant or even risky project. Of the 232 projects submitted, the SNSF selected 24 for funding. Six of them are projects submitted by professors at ETH Zurich.\n\nThe SNSF Advanced Grants are a Swiss replacement measure for the Advanced Grants awarded in previous years by the European Research Council (ERC). Throughout Europe, receiving one of these grants was considered a significant personal achievement for a researcher: not only are they awarded competitively, but their evaluation takes into account a researcher’s academic track record over the previous ten years.\n\nLast year, the European Union downgraded Switzerland from an “associated” to a “non-associated” third country. This means scientists from Swiss universities are currently no longer eligible to apply for an ERC Advanced Grant. As a substitute measure, the Swiss National Science Foundation has created the SNSF Advanced Grants on behalf of the federal government for researchers at Swiss universities.\n\nThe researchers who have now received awards will each be supported with 2.1 to 2.4 million Swiss francs. The following ETH Zurich people and projects have been awarded a grant:\n\nBumblebees damage plant leaves, causing the plants to accelerate their flowering. This was recently discovered by the group of Consuelo De Moraes , Professor of Biological Communication. She will now explore the molecular and biochemical mechanisms responsible for this phenomenon, as well as its ecological implications, including whether such effects may help to synchronise the life cycle of plants and their pollinators.\n\nTilman Esslinger , Professor of Quantum Optics, will create synthetic quantum systems using atoms cooled to extremely low temperatures. He will investigate not only the quantum physical interactions between individual components, but also their geometric structure (topology). His research will focus on the interplay of interactions and topology in a bid to improve our understanding of quantum physics and make better use of it.\n\nIn our cells, it must be ensured that potentially toxic proteins are not present in excess and only in the correct form. Specialised cell functions maintain an ideal protein balance. Ulrike Kutay , Professor of Biochemistry, will try to decipher these functions specifically for the cell nucleus. She will also explore how protein balance in the nucleus is related to disease as well as cellular aging processes.\n\nMicroprocessors and their components are becoming smaller and smaller, and more and more functions are being combined on one chip. New possibilities are being added directly on the chip, among them heat recovery and optical communication. This is making chip design increasingly complex. Mathieu Luisier , Professor of Computational Nanoelectronics, will use his project to develop a computer-based simulator that will simplify the design of electronic components and speed up their fabrication process.\n\nKarsten Weis , Professor of Cellular Dynamics, will investigate the aging processes of living organisms at the cellular level in his project. In particular, he will study how aging affects the biophysics (for example the viscosity) of cellular fluid, as well as the tendency for certain proteins to aggregate, which is linked to several age-related diseases. The idea is to use this research to develop new strategies for treating such diseases and extending life expectancy.\n\nCollagen is the most abundant protein in mammals and is responsible for tissue stability. However, excessive cross-linking of collagen fibres occurs in diseases such as atherosclerosis or cancer. Helma Wennemers , Professor of Organic Chemistry, will develop special molecules to visualise the cross-linking of collagen fibres using imaging techniques. She hopes not only to better understand the cross-linking processes, but also to provide new molecular tools for the diagnosis and therapy of the corresponding diseases."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 11,
+        "end": 48
+      },
+      {
+        "text": "Advanced Grants",
+        "label": "PERSON",
+        "start": 66,
+        "end": 81
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 120,
+        "end": 125
+      },
+      {
+        "text": "Six",
+        "label": "CARDINAL",
+        "start": 296,
+        "end": 299
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 348,
+        "end": 358
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 391,
+        "end": 396
+      },
+      {
+        "text": "previous years",
+        "label": "DATE",
+        "start": 452,
+        "end": 466
+      },
+      {
+        "text": "the European Research Council",
+        "label": "ORG",
+        "start": 470,
+        "end": 499
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 501,
+        "end": 504
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 518,
+        "end": 524
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 536,
+        "end": 539
+      },
+      {
+        "text": "the previous ten years",
+        "label": "DATE",
+        "start": 747,
+        "end": 769
+      },
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "start": 771,
+        "end": 780
+      },
+      {
+        "text": "the European Union",
+        "label": "ORG",
+        "start": 782,
+        "end": 800
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 812,
+        "end": 823
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 867,
+        "end": 872
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 909,
+        "end": 914
+      },
+      {
+        "text": "ERC",
+        "label": "ORG",
+        "start": 977,
+        "end": 980
+      },
+      {
+        "text": "the Swiss National Science Foundation",
+        "label": "ORG",
+        "start": 1022,
+        "end": 1059
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1152,
+        "end": 1157
+      },
+      {
+        "text": "2.1 to 2.4 million Swiss francs",
+        "label": "MONEY",
+        "start": 1245,
+        "end": 1276
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1292,
+        "end": 1302
+      },
+      {
+        "text": "Consuelo De Moraes",
+        "label": "PERSON",
+        "start": 1477,
+        "end": 1495
+      },
+      {
+        "text": "Biological Communication",
+        "label": "ORG",
+        "start": 1511,
+        "end": 1535
+      },
+      {
+        "text": "Tilman Esslinger",
+        "label": "PERSON",
+        "start": 1775,
+        "end": 1791
+      },
+      {
+        "text": "Quantum Optics",
+        "label": "ORG",
+        "start": 1807,
+        "end": 1821
+      },
+      {
+        "text": "Kutay",
+        "label": "PERSON",
+        "start": 2396,
+        "end": 2401
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2740,
+        "end": 2743
+      },
+      {
+        "text": "Mathieu Luisier",
+        "label": "PERSON",
+        "start": 2907,
+        "end": 2922
+      },
+      {
+        "text": "Computational Nanoelectronics",
+        "label": "ORG",
+        "start": 2938,
+        "end": 2967
+      },
+      {
+        "text": "Karsten Weis",
+        "label": "PERSON",
+        "start": 3123,
+        "end": 3135
+      },
+      {
+        "text": "Cellular Dynamics",
+        "label": "ORG",
+        "start": 3151,
+        "end": 3168
+      },
+      {
+        "text": "Collagen",
+        "label": "PERSON",
+        "start": 3599,
+        "end": 3607
+      },
+      {
+        "text": "Helma Wennemers",
+        "label": "PERSON",
+        "start": 3795,
+        "end": 3810
+      },
+      {
+        "text": "Organic Chemistry",
+        "label": "ORG",
+        "start": 3826,
+        "end": 3843
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Advanced Grants",
+        "Collagen",
+        "Consuelo De Moraes",
+        "Helma Wennemers",
+        "Karsten Weis",
+        "Kutay",
+        "Mathieu Luisier",
+        "Tilman Esslinger"
+      ],
+      "ORG": [
+        "Biological Communication",
+        "Cellular Dynamics",
+        "Computational Nanoelectronics",
+        "ERC",
+        "ETH Zurich",
+        "Organic Chemistry",
+        "Quantum Optics",
+        "the European Research Council",
+        "the European Union",
+        "the Swiss National Science Foundation"
+      ],
+      "LOCATION": [
+        "Europe",
+        "Switzerland"
+      ],
+      "DATE": [
+        "Last year",
+        "previous years",
+        "the previous ten years"
+      ],
+      "MISC": [
+        "2.1 to 2.4 million Swiss francs",
+        "Six",
+        "Swiss",
+        "one",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "Swiss": 4,
+      "Last year": 2,
+      "the Swiss National Science Foundation": 2,
+      "ETH Zurich": 2,
+      "ERC": 2,
+      "one": 2,
+      "Advanced Grants": 1,
+      "Six": 1,
+      "previous years": 1,
+      "the European Research Council": 1,
+      "Europe": 1,
+      "the previous ten years": 1,
+      "the European Union": 1,
+      "Switzerland": 1,
+      "third": 1,
+      "2.1 to 2.4 million Swiss francs": 1,
+      "Consuelo De Moraes": 1,
+      "Biological Communication": 1,
+      "Tilman Esslinger": 1,
+      "Quantum Optics": 1
+    },
+    "total_entities": 36,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "six-eth-zurich-researchers-receive-advanced-grants.md",
+      "title": "En News Events/2022/06/six Eth Zurich Researchers Receive Advanced Grants",
+      "language": "en",
+      "source_path": "en_news_events/2022/06/six-eth-zurich-researchers-receive-advanced-grants.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from, currently, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Advanced Grants",
+        "Collagen",
+        "Consuelo De Moraes",
+        "Helma Wennemers",
+        "Karsten Weis",
+        "Kutay",
+        "Mathieu Luisier",
+        "Tilman Esslinger"
+      ],
+      "people_with_roles": {
+        "Advanced Grants": [
+          "researcher"
+        ],
+        "Collagen": [
+          "professor"
+        ],
+        "Consuelo De Moraes": [
+          "professor"
+        ],
+        "Helma Wennemers": [
+          "professor"
+        ],
+        "Karsten Weis": [
+          "professor"
+        ],
+        "Kutay": [
+          "professor"
+        ],
+        "Mathieu Luisier": [
+          "professor"
+        ],
+        "Tilman Esslinger": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "research_topics": [
+        "2.1 to 2.4 million Swiss francs",
+        "Swiss",
+        "third"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "grant",
+        "funding"
+      ],
+      "projects": [
+        "Quantum Optics",
+        "Cellular Dynamics",
+        "Eth Zurich",
+        "European Research",
+        "Throughout Europe",
+        "Helma Wennemers",
+        "Advanced Grants",
+        "Swiss National",
+        "The SNSF",
+        "Tilman Esslinger",
+        "Researchers Receive",
+        "Consuelo De",
+        "ERC Advanced",
+        "Karsten Weis",
+        "Science Foundation",
+        "European Union",
+        "Computational Nanoelectronics",
+        "Ulrike Kutay",
+        "Biological Communication",
+        "En News",
+        "Mathieu Luisier",
+        "Organic Chemistry",
+        "SNSF Advanced",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Biological Communication",
+        "Cellular Dynamics",
+        "Computational Nanoelectronics",
+        "ERC",
+        "ETH Zurich",
+        "Organic Chemistry",
+        "Quantum Optics",
+        "the European Research Council",
+        "the European Union",
+        "the Swiss National Science Foundation"
+      ],
+      "locations": [
+        "Europe",
+        "Switzerland"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Swiss",
+        "Last year",
+        "the Swiss National Science Foundation",
+        "ETH Zurich",
+        "ERC",
+        "one",
+        "Advanced Grants",
+        "Six",
+        "previous years",
+        "the European Research Council"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 4204
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "grant",
+        "Quantum Optics",
+        "Cellular Dynamics",
+        "ERC",
+        "Helma Wennemers",
+        "the Swiss National Science Foundation",
+        "Advanced Grants",
+        "the European Union",
+        "2022",
+        "funding",
+        "Tilman Esslinger",
+        "Karsten Weis",
+        "EU",
+        "the European Research Council",
+        "Computational Nanoelectronics",
+        "Consuelo De Moraes",
+        "Biological Communication",
+        "Mathieu Luisier",
+        "Organic Chemistry",
+        "Kutay",
+        "Collagen",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "third",
+        "who",
+        "Swiss",
+        "chemistry",
+        "2.1 to 2.4 million Swiss francs",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Advanced Grants_has_role_researcher",
+        "Collagen_has_role_professor",
+        "Consuelo De Moraes_has_role_professor",
+        "Helma Wennemers_has_role_professor",
+        "Karsten Weis_has_role_professor",
+        "Kutay_has_role_professor",
+        "Mathieu Luisier_has_role_professor",
+        "Tilman Esslinger_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_physics",
+        "research_domain_chemistry",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

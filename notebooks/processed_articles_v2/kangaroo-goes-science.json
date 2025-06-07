@@ -1,0 +1,552 @@
+{
+  "filename": "kangaroo-goes-science.md",
+  "original_filename": "kangaroo-goes-science.html",
+  "source_path": "en_news_events/2018/06/kangaroo-goes-science.html",
+  "date": "2018-06",
+  "title": "Kangaroo Goes Science",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "How many duplicate football stickers is too many?",
+      "text": "Many children are collecting the stickers from this year’s football World Cup in Russia. Marloes Maathuis’ sons are among them. The stickers are sold in packs of five, and the children swap the duplicates. Maathuis bought her sons 50 packs, which included 244 different stickers and six duplicates. “Is that a lot or not many?” the ETH Professor of Statistics asks the 100 secondary and high school girls from throughout German-speaking Switzerland. “Not many,” reply the girls."
+    },
+    {
+      "heading": "How many duplicate football stickers is too many?",
+      "text": "“That’s hard to answer,” says Maathuis. As millions of these stickers are produced around the world, 250 is a very small sample – and it could just be a coincidence that six are duplicates. However, as a statistician, Maathuis knows a way to answer this question definitively: “I start with a thought experiment and a scenario.”\n\nThere are 682 stickers in total. “Let's assume we have a machine that draws one sticker at random from each of 682 containers and places them into the five-packs,” explains the mathematician. This machine could be used to create a very large number of 50-pack series and then determine how many duplicates there are per 50 packs. This would allow us to compare whether six is a lot, not many or a normal amount of duplicates.\n\nIn reality, this machine is a computer. Using her statistics program, Maathuis ran this 50-pack series scenario a million times and counted the number of duplicates. This resulted in values between 16 and 71, with an average of 40. On this basis, six duplicates are extremely few. “So we were either incredibly lucky or – more likely – our thought experiment scenario was inaccurate and the cards are probably not packed at random,” says Maathuis.\n\nMaathuis used this example to show the students how mathematics can be useful in everyday life. Maths is important for all the subjects in the natural and engineering sciences taught at ETH: “I’m a civil engineer and mathematics is our foundation,” says ETH Rector Sarah Springman. She shows the girls a film, in which they see how 130 cubic metres of earth is dislodged within a matter of seconds and slides down the mountain. Maths allows us to evaluate landslides like this and helps us to protect residential areas, says Springman and encourages the girls to become scientists and engineers themselves.\n\nThe presentations by Sarah Springman and Marloes Maathuis were part of the first ever “Kangaroo goes Science” event. The event was jointly organised by the ETH Department of Mathematics, the ETH Rectorate and the University of Zurich. The brilliant idea came from the two ETH lecturers Darcy Molnar (D-BAUG) and Meike Akveld (D-MATH), who is in turn also president of the Swiss Kangaroo without Frontiers Association.\n\nThe 100 best girls from the Swiss Kangaroo mathematics competition were invited to the event. Over 6 million children took part worldwide, including around 35,000 in Switzerland. After the welcome speeches, the girls also had the chance to meet some of the ETH students and visit various research laboratories."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 47,
+        "end": 56
+      },
+      {
+        "text": "World Cup",
+        "label": "EVENT",
+        "start": 68,
+        "end": 77
+      },
+      {
+        "text": "Russia",
+        "label": "GPE",
+        "start": 81,
+        "end": 87
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 162,
+        "end": 166
+      },
+      {
+        "text": "Maathuis",
+        "label": "ORG",
+        "start": 206,
+        "end": 214
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 283,
+        "end": 286
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 332,
+        "end": 335
+      },
+      {
+        "text": "Statistics",
+        "label": "ORG",
+        "start": 349,
+        "end": 359
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 421,
+        "end": 427
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 437,
+        "end": 448
+      },
+      {
+        "text": "Maathuis",
+        "label": "ORG",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "millions",
+        "label": "CARDINAL",
+        "start": 43,
+        "end": 51
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 170,
+        "end": 173
+      },
+      {
+        "text": "Maathuis",
+        "label": "ORG",
+        "start": 218,
+        "end": 226
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 405,
+        "end": 408
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 480,
+        "end": 484
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 698,
+        "end": 701
+      },
+      {
+        "text": "Maathuis",
+        "label": "ORG",
+        "start": 825,
+        "end": 833
+      },
+      {
+        "text": "million",
+        "label": "CARDINAL",
+        "start": 869,
+        "end": 876
+      },
+      {
+        "text": "between 16 and 71",
+        "label": "DATE",
+        "start": 945,
+        "end": 962
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 1002,
+        "end": 1005
+      },
+      {
+        "text": "Maathuis",
+        "label": "ORG",
+        "start": 1193,
+        "end": 1201
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1389,
+        "end": 1392
+      },
+      {
+        "text": "ETH Rector",
+        "label": "ORG",
+        "start": 1457,
+        "end": 1467
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 1468,
+        "end": 1483
+      },
+      {
+        "text": "130 cubic metres",
+        "label": "QUANTITY",
+        "start": 1535,
+        "end": 1551
+      },
+      {
+        "text": "a matter of seconds",
+        "label": "TIME",
+        "start": 1581,
+        "end": 1600
+      },
+      {
+        "text": "Springman",
+        "label": "PERSON",
+        "start": 1728,
+        "end": 1737
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 1831,
+        "end": 1846
+      },
+      {
+        "text": "Marloes Maathuis",
+        "label": "ORG",
+        "start": 1851,
+        "end": 1867
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1885,
+        "end": 1890
+      },
+      {
+        "text": "Kangaroo goes Science",
+        "label": "WORK_OF_ART",
+        "start": 1897,
+        "end": 1918
+      },
+      {
+        "text": "the ETH Department of Mathematics",
+        "label": "ORG",
+        "start": 1962,
+        "end": 1995
+      },
+      {
+        "text": "the ETH Rectorate",
+        "label": "ORG",
+        "start": 1997,
+        "end": 2014
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 2019,
+        "end": 2043
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2078,
+        "end": 2081
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2082,
+        "end": 2085
+      },
+      {
+        "text": "Darcy Molnar",
+        "label": "PERSON",
+        "start": 2096,
+        "end": 2108
+      },
+      {
+        "text": "Meike Akveld",
+        "label": "PERSON",
+        "start": 2122,
+        "end": 2134
+      },
+      {
+        "text": "the Swiss Kangaroo without",
+        "label": "ORG",
+        "start": 2178,
+        "end": 2204
+      },
+      {
+        "text": "Frontiers Association",
+        "label": "ORG",
+        "start": 2205,
+        "end": 2226
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 2256,
+        "end": 2261
+      },
+      {
+        "text": "Over 6 million",
+        "label": "CARDINAL",
+        "start": 2322,
+        "end": 2336
+      },
+      {
+        "text": "around 35,000",
+        "label": "CARDINAL",
+        "start": 2377,
+        "end": 2390
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 2394,
+        "end": 2405
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2485,
+        "end": 2488
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Darcy Molnar",
+        "Meike Akveld",
+        "Sarah Springman",
+        "Springman"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Rector",
+        "Frontiers Association",
+        "Maathuis",
+        "Marloes Maathuis",
+        "Statistics",
+        "the ETH Department of Mathematics",
+        "the ETH Rectorate",
+        "the Swiss Kangaroo without",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Russia",
+        "Switzerland"
+      ],
+      "DATE": [
+        "a matter of seconds",
+        "between 16 and 71",
+        "this year"
+      ],
+      "MISC": [
+        "130 cubic metres",
+        "German",
+        "Kangaroo goes Science",
+        "Over 6 million",
+        "Swiss",
+        "World Cup",
+        "around 35,000",
+        "first",
+        "five",
+        "million",
+        "millions",
+        "one",
+        "six",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Maathuis": 5,
+      "six": 4,
+      "ETH": 4,
+      "five": 2,
+      "Switzerland": 2,
+      "Sarah Springman": 2,
+      "this year": 1,
+      "World Cup": 1,
+      "Russia": 1,
+      "Statistics": 1,
+      "German": 1,
+      "millions": 1,
+      "one": 1,
+      "million": 1,
+      "between 16 and 71": 1,
+      "ETH Rector": 1,
+      "130 cubic metres": 1,
+      "a matter of seconds": 1,
+      "Springman": 1,
+      "Marloes Maathuis": 1
+    },
+    "total_entities": 46,
+    "unique_entities": 33
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kangaroo-goes-science.md",
+      "title": "En News Events/2018/06/kangaroo Goes Science",
+      "language": "en",
+      "source_path": "en_news_events/2018/06/kangaroo-goes-science.html"
+    },
+    "temporal": {
+      "publication_date": "2018-06",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Darcy Molnar",
+        "Meike Akveld",
+        "Sarah Springman",
+        "Springman"
+      ],
+      "people_with_roles": {
+        "Darcy Molnar": [
+          "president"
+        ],
+        "Meike Akveld": [
+          "president"
+        ],
+        "Sarah Springman": [
+          "rector"
+        ],
+        "Springman": [
+          "scientist",
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "professor",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "mathematics"
+      ],
+      "research_topics": [
+        "130 cubic metres",
+        "German",
+        "Kangaroo goes Science",
+        "Over 6 million",
+        "Swiss",
+        "World Cup",
+        "around 35,000",
+        "first",
+        "five",
+        "million",
+        "millions"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "D-MATH",
+        "Swiss Kangaroo",
+        "World Cup",
+        "Marloes Maathuis",
+        "En News",
+        "ETH Department",
+        "ETH Rector",
+        "Sarah Springman",
+        "Darcy Molnar",
+        "ETH Professor",
+        "Goes Science",
+        "ETH Rectorate",
+        "D-BAUG",
+        "Meike Akveld",
+        "Frontiers Association"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Mathematics"
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Rector",
+        "Frontiers Association",
+        "Maathuis",
+        "Marloes Maathuis",
+        "Statistics",
+        "the ETH Department of Mathematics",
+        "the ETH Rectorate",
+        "the Swiss Kangaroo without",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Russia",
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Maathuis",
+        "six",
+        "ETH",
+        "five",
+        "Switzerland",
+        "Sarah Springman",
+        "this year",
+        "World Cup",
+        "Russia",
+        "Statistics"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "How many duplicate football stickers is too many?",
+          "How many duplicate football stickers is too many?"
+        ],
+        "content_length": 3067
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Statistics",
+        "ETH",
+        "2018",
+        "Marloes Maathuis",
+        "Maathuis",
+        "the ETH Department of Mathematics",
+        "the Swiss Kangaroo without",
+        "ETH Rector",
+        "the University of Zurich",
+        "Sarah Springman",
+        "Darcy Molnar",
+        "Frontiers Association",
+        "Meike Akveld",
+        "the ETH Rectorate",
+        "Springman"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "mathematics",
+        "130 cubic metres",
+        "million",
+        "World Cup",
+        "who",
+        "Over 6 million",
+        "Swiss",
+        "around 35,000",
+        "what",
+        "how",
+        "German",
+        "millions",
+        "five",
+        "when",
+        "where",
+        "Kangaroo goes Science"
+      ],
+      "graph_relations": [
+        "Darcy Molnar_has_role_president",
+        "Meike Akveld_has_role_president",
+        "Sarah Springman_has_role_rector",
+        "Springman_has_role_scientist",
+        "Springman_has_role_rector",
+        "research_domain_technology",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

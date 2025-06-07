@@ -1,0 +1,209 @@
+{
+  "filename": "building-work-under-way-at-eth-zurich.md",
+  "original_filename": "building-work-under-way-at-eth-zurich.html",
+  "source_path": "en_internal/2015/09/building-work-under-way-at-eth-zurich.html",
+  "date": "2015-09",
+  "title": "Building Work Under Way At Eth Zurich",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "At the open event entitled ‘We build for you’, the Real Estate Infrastructure Division (IBI) will present their current construction and renovation projects at the Hönggerberg campus. From 11.30 a.m. to 12.30 p.m. on 6 October 2015, the construction project managers will introduce eight ongoing projects on location. The experts will give an update on the current status of the projects as well as providing insight into the special architectural and usage-related features of the projects. There will also be an opportunity to chat to IBI staff members over lunchtime snacks after the event.\n\nAnyone who would like to learn more about the construction activities on campus is warmly invited. The event will take place in room E51 in the HIT building at the Hönggerberg Campus."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the Real Estate Infrastructure Division",
+        "label": "ORG",
+        "start": 47,
+        "end": 86
+      },
+      {
+        "text": "IBI",
+        "label": "ORG",
+        "start": 88,
+        "end": 91
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "GPE",
+        "start": 164,
+        "end": 175
+      },
+      {
+        "text": "11.30 a.m. to 12.30 p.m.",
+        "label": "TIME",
+        "start": 189,
+        "end": 213
+      },
+      {
+        "text": "6 October 2015",
+        "label": "DATE",
+        "start": 217,
+        "end": 231
+      },
+      {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 282,
+        "end": 287
+      },
+      {
+        "text": "IBI",
+        "label": "ORG",
+        "start": 537,
+        "end": 540
+      },
+      {
+        "text": "E51",
+        "label": "ORG",
+        "start": 727,
+        "end": 730
+      },
+      {
+        "text": "HIT",
+        "label": "ORG",
+        "start": 738,
+        "end": 741
+      },
+      {
+        "text": "the Hönggerberg Campus",
+        "label": "FAC",
+        "start": 754,
+        "end": 776
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "E51",
+        "HIT",
+        "IBI",
+        "the Real Estate Infrastructure Division"
+      ],
+      "LOCATION": [
+        "Hönggerberg",
+        "the Hönggerberg Campus"
+      ],
+      "DATE": [
+        "11.30 a.m. to 12.30 p.m.",
+        "6 October 2015"
+      ],
+      "MISC": [
+        "eight"
+      ]
+    },
+    "entity_counts": {
+      "IBI": 2,
+      "the Real Estate Infrastructure Division": 1,
+      "Hönggerberg": 1,
+      "11.30 a.m. to 12.30 p.m.": 1,
+      "6 October 2015": 1,
+      "eight": 1,
+      "E51": 1,
+      "HIT": 1,
+      "the Hönggerberg Campus": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "building-work-under-way-at-eth-zurich.md",
+      "title": "En Internal/2015/09/building Work Under Way At Eth Zurich",
+      "language": "en",
+      "source_path": "en_internal/2015/09/building-work-under-way-at-eth-zurich.html"
+    },
+    "temporal": {
+      "publication_date": "2015-09",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "engineering"
+      ],
+      "research_topics": [
+        "eight"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Way At",
+        "En Internal",
+        "Real Estate",
+        "Eth Zurich",
+        "Work Under",
+        "Infrastructure Division"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "E51",
+        "HIT",
+        "IBI",
+        "the Real Estate Infrastructure Division"
+      ],
+      "locations": [
+        "Hönggerberg",
+        "the Hönggerberg Campus"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "IBI",
+        "the Real Estate Infrastructure Division",
+        "Hönggerberg",
+        "11.30 a.m. to 12.30 p.m.",
+        "6 October 2015",
+        "eight",
+        "E51",
+        "HIT",
+        "the Hönggerberg Campus"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 836
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "IBI",
+        "2015",
+        "E51",
+        "HIT",
+        "the Real Estate Infrastructure Division"
+      ],
+      "semantic_concepts": [
+        "who",
+        "eight",
+        "where",
+        "what",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "filename": "eth-computer-sciences-at-the-forefront.md",
+  "original_filename": "eth-computer-sciences-at-the-forefront.html",
+  "source_path": "en_news_events/2018/11/eth-computer-sciences-at-the-forefront.html",
+  "date": "2018-11",
+  "title": "Eth Computer Sciences At The Forefront",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "In the latest Times Higher Education subject ranking for \"Computer Sciences,” ETH Zurich ranks second. Thus confirming the leading position of ETH Computer Scientists worldwide. One year ago, they were in fourth place, two years ago in first. At the launch of this particular list two years ago, the THE subject ranking did not encompass all of the top universities, so previous results are not comparable with the current one. ETH President Lino Guzzella is delighted with the top ranking of ETH computer scientists, he sees it as confirmation of the course taken by the university, \"ETH Zurich's strategic decision to strongly promote data science is bearing fruit. The fact that the number of students at the Department of Computer Science has recently increased also fits into this picture. Many of the large IT companies such as Google, Disney, and Apple have also decided to set up their own research and development activities in Zurich because of ETH Zurich. The most recent example is Microsoft, where a new laboratory for \" Mixed Reality and Artificial Intelligence \" is being established. In addition, many spin-off companies are emerging from ETH whose business models are tailored to digital transformation, such as GetYourGuide, Scandit or Beekeper. \"Zurich is Switzerland's digital centre, ETH Zurich and top research and education in the field of information technology are driving this development,\" emphasises Lino Guzzella.\n\nETH Zurich also made it into the top ten in the THE Engineering and Technical Sciences ranking. As in the previous year, the university is in ninth place. In the most recent overall ranking for 2018/19, ETH Zurich ranks eleventh."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Computer Sciences",
+        "label": "ORG",
+        "start": 27,
+        "end": 44
+      },
+      {
+        "text": "Forefront",
+        "label": "GPE",
+        "start": 52,
+        "end": 61
+      },
+      {
+        "text": "Times Higher Education",
+        "label": "ORG",
+        "start": 14,
+        "end": 36
+      },
+      {
+        "text": "\"Computer Sciences",
+        "label": "ORG",
+        "start": 57,
+        "end": 75
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 78,
+        "end": 88
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 95,
+        "end": 101
+      },
+      {
+        "text": "ETH Computer Scientists",
+        "label": "ORG",
+        "start": 143,
+        "end": 166
+      },
+      {
+        "text": "One year ago",
+        "label": "DATE",
+        "start": 178,
+        "end": 190
+      },
+      {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 205,
+        "end": 211
+      },
+      {
+        "text": "two years ago",
+        "label": "DATE",
+        "start": 219,
+        "end": 232
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 236,
+        "end": 241
+      },
+      {
+        "text": "two years ago",
+        "label": "DATE",
+        "start": 281,
+        "end": 294
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 428,
+        "end": 431
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 442,
+        "end": 455
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 493,
+        "end": 496
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 585,
+        "end": 597
+      },
+      {
+        "text": "the Department of Computer Science",
+        "label": "ORG",
+        "start": 708,
+        "end": 742
+      },
+      {
+        "text": "Google",
+        "label": "ORG",
+        "start": 834,
+        "end": 840
+      },
+      {
+        "text": "Disney",
+        "label": "ORG",
+        "start": 842,
+        "end": 848
+      },
+      {
+        "text": "Apple",
+        "label": "ORG",
+        "start": 854,
+        "end": 859
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 937,
+        "end": 943
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 955,
+        "end": 965
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG",
+        "start": 994,
+        "end": 1003
+      },
+      {
+        "text": "Mixed Reality and Artificial Intelligence",
+        "label": "WORK_OF_ART",
+        "start": 1034,
+        "end": 1075
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1155,
+        "end": 1158
+      },
+      {
+        "text": "Beekeper",
+        "label": "PERSON",
+        "start": 1254,
+        "end": 1262
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 1265,
+        "end": 1271
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1275,
+        "end": 1286
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1305,
+        "end": 1315
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 1428,
+        "end": 1441
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 1443,
+        "end": 1453
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 1480,
+        "end": 1483
+      },
+      {
+        "text": "Technical Sciences",
+        "label": "ORG",
+        "start": 1511,
+        "end": 1529
+      },
+      {
+        "text": "the previous year",
+        "label": "DATE",
+        "start": 1545,
+        "end": 1562
+      },
+      {
+        "text": "ninth",
+        "label": "ORDINAL",
+        "start": 1585,
+        "end": 1590
+      },
+      {
+        "text": "2018/19",
+        "label": "CARDINAL",
+        "start": 1637,
+        "end": 1644
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1646,
+        "end": 1656
+      },
+      {
+        "text": "eleventh",
+        "label": "ORDINAL",
+        "start": 1663,
+        "end": 1671
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Beekeper",
+        "ETH Zurich",
+        "ETH Zurich's",
+        "Lino Guzzella"
+      ],
+      "ORG": [
+        "\"Computer Sciences",
+        "Apple",
+        "Computer Sciences",
+        "Disney",
+        "ETH",
+        "ETH Computer Scientists",
+        "ETH Zurich",
+        "Google",
+        "Microsoft",
+        "Technical Sciences",
+        "Times Higher Education",
+        "the Department of Computer Science"
+      ],
+      "LOCATION": [
+        "Forefront",
+        "Switzerland",
+        "Zurich"
+      ],
+      "DATE": [
+        "One year ago",
+        "the previous year",
+        "two years ago"
+      ],
+      "MISC": [
+        "2018/19",
+        "Mixed Reality and Artificial Intelligence",
+        "eleventh",
+        "first",
+        "fourth",
+        "ninth",
+        "second",
+        "ten"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 5,
+      "ETH": 3,
+      "two years ago": 2,
+      "Lino Guzzella": 2,
+      "Zurich": 2,
+      "Computer Sciences": 1,
+      "Forefront": 1,
+      "Times Higher Education": 1,
+      "\"Computer Sciences": 1,
+      "second": 1,
+      "ETH Computer Scientists": 1,
+      "One year ago": 1,
+      "fourth": 1,
+      "first": 1,
+      "ETH Zurich's": 1,
+      "the Department of Computer Science": 1,
+      "Google": 1,
+      "Disney": 1,
+      "Apple": 1,
+      "Microsoft": 1
+    },
+    "total_entities": 38,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-computer-sciences-at-the-forefront.md",
+      "title": "En News Events/2018/11/eth Computer Sciences At The Forefront",
+      "language": "en",
+      "source_path": "en_news_events/2018/11/eth-computer-sciences-at-the-forefront.html"
+    },
+    "temporal": {
+      "publication_date": "2018-11",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Beekeper",
+        "ETH Zurich",
+        "ETH Zurich's",
+        "Lino Guzzella"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "president",
+          "scientist"
+        ],
+        "ETH Zurich's": [
+          "president",
+          "scientist"
+        ],
+        "Lino Guzzella": [
+          "president",
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "2018/19",
+        "Mixed Reality and Artificial Intelligence",
+        "eleventh",
+        "first",
+        "fourth",
+        "ninth",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Computer Science",
+        "Mixed Reality",
+        "THE Engineering",
+        "At The",
+        "Forefront In",
+        "En News",
+        "ETH President",
+        "Times Higher",
+        "Computer Sciences",
+        "Artificial Intelligence",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "ETH Computer",
+        "Technical Sciences"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Computer Science has recently increased also fits into this picture"
+      ],
+      "institutions": [
+        "\"Computer Sciences",
+        "Apple",
+        "Computer Sciences",
+        "Disney",
+        "ETH",
+        "ETH Computer Scientists",
+        "ETH Zurich",
+        "Google",
+        "Microsoft",
+        "Technical Sciences",
+        "Times Higher Education",
+        "the Department of Computer Science"
+      ],
+      "locations": [
+        "Forefront",
+        "Switzerland",
+        "Zurich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "ETH",
+        "two years ago",
+        "Lino Guzzella",
+        "Zurich",
+        "Computer Sciences",
+        "Forefront",
+        "Times Higher Education",
+        "\"Computer Sciences",
+        "second"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1735
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "Google",
+        "ETH Computer Scientists",
+        "the Department of Computer Science",
+        "Computer Sciences",
+        "Beekeper",
+        "Microsoft",
+        "Lino Guzzella",
+        "Apple",
+        "ETH Zurich",
+        "Disney",
+        "\"Computer Sciences",
+        "Times Higher Education",
+        "ETH Zurich's",
+        "Technical Sciences"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "ninth",
+        "who",
+        "2018/19",
+        "Mixed Reality and Artificial Intelligence",
+        "fourth",
+        "second",
+        "what",
+        "eleventh",
+        "computer_science",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_president",
+        "ETH Zurich_has_role_scientist",
+        "ETH Zurich's_has_role_president",
+        "ETH Zurich's_has_role_scientist",
+        "Lino Guzzella_has_role_president",
+        "Lino Guzzella_has_role_scientist",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

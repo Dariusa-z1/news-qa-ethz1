@@ -1,0 +1,281 @@
+{
+  "filename": "volcanoes-and-climate-lecture-series.md",
+  "original_filename": "volcanoes-and-climate-lecture-series.html",
+  "source_path": "en_internal/2016/08/volcanoes-and-climate-lecture-series.html",
+  "date": "2016-08",
+  "title": "Volcanoes And Climate Lecture Series",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The eruption of the Indonesian volcano Tambora in 1815 resulted in a ‘year without summer’ the following year in Europe and North America, and a severe famine in Switzerland. The relationship between the 1815 eruption and the climatic conditions of 1816 was only recognised later, just over 100 years ago.\n\nThanks to the latest research, including work by researchers at ETH Zurich, we are gaining a better understanding of the processes that take place inside the Earth and in our atmosphere. A forthcoming public lecture series will welcome 15 national and international researchers in the fields of volcanology, climatology and social sciences to present their latest findings.\n\nThe lectures will be held in focus Terra every Thursday evening at 6 p.m. from 8 September to 15 December 2016.\n\nThe lecture series is part of the extensive programme of activities for the special exhibition on ‘Tambora and the year without summer’, which is being held at focus Terra until 31 January 2017."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Indonesian",
+        "label": "NORP",
+        "start": 20,
+        "end": 30
+      },
+      {
+        "text": "Tambora",
+        "label": "ORG",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "text": "a ‘year",
+        "label": "DATE",
+        "start": 67,
+        "end": 74
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 113,
+        "end": 119
+      },
+      {
+        "text": "North America",
+        "label": "LOC",
+        "start": 124,
+        "end": 137
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 162,
+        "end": 173
+      },
+      {
+        "text": "just over 100 years ago",
+        "label": "DATE",
+        "start": 281,
+        "end": 304
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 370,
+        "end": 380
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 464,
+        "end": 469
+      },
+      {
+        "text": "evening",
+        "label": "TIME",
+        "start": 736,
+        "end": 743
+      },
+      {
+        "text": "6 p.m.",
+        "label": "TIME",
+        "start": 747,
+        "end": 753
+      },
+      {
+        "text": "8 September",
+        "label": "DATE",
+        "start": 759,
+        "end": 770
+      },
+      {
+        "text": "December 2016",
+        "label": "DATE",
+        "start": 777,
+        "end": 790
+      },
+      {
+        "text": "Tambora",
+        "label": "PERSON",
+        "start": 891,
+        "end": 898
+      },
+      {
+        "text": "the year",
+        "label": "DATE",
+        "start": 903,
+        "end": 911
+      },
+      {
+        "text": "Terra",
+        "label": "ORG",
+        "start": 958,
+        "end": 963
+      },
+      {
+        "text": "31 January 2017",
+        "label": "DATE",
+        "start": 970,
+        "end": 985
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Tambora"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Tambora",
+        "Terra"
+      ],
+      "LOCATION": [
+        "Earth",
+        "Europe",
+        "North America",
+        "Switzerland"
+      ],
+      "DATE": [
+        "31 January 2017",
+        "6 p.m.",
+        "8 September",
+        "December 2016",
+        "a ‘year",
+        "evening",
+        "just over 100 years ago",
+        "the year"
+      ],
+      "MISC": [
+        "Indonesian"
+      ]
+    },
+    "entity_counts": {
+      "Tambora": 2,
+      "Indonesian": 1,
+      "a ‘year": 1,
+      "Europe": 1,
+      "North America": 1,
+      "Switzerland": 1,
+      "just over 100 years ago": 1,
+      "ETH Zurich": 1,
+      "Earth": 1,
+      "evening": 1,
+      "6 p.m.": 1,
+      "8 September": 1,
+      "December 2016": 1,
+      "the year": 1,
+      "Terra": 1,
+      "31 January 2017": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "volcanoes-and-climate-lecture-series.md",
+      "title": "En Internal/2016/08/volcanoes And Climate Lecture Series",
+      "language": "en",
+      "source_path": "en_internal/2016/08/volcanoes-and-climate-lecture-series.html"
+    },
+    "temporal": {
+      "publication_date": "2016-08",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Tambora"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Indonesian"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "North America",
+        "En Internal",
+        "And Climate",
+        "ETH Zurich",
+        "Lecture Series"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Tambora",
+        "Terra"
+      ],
+      "locations": [
+        "Earth",
+        "Europe",
+        "North America",
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Tambora",
+        "Indonesian",
+        "a ‘year",
+        "Europe",
+        "North America",
+        "Switzerland",
+        "just over 100 years ago",
+        "ETH Zurich",
+        "Earth",
+        "evening"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1046
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2017",
+        "EU",
+        "2016",
+        "Tambora",
+        "ETH Zurich",
+        "Terra"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Indonesian",
+        "who",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

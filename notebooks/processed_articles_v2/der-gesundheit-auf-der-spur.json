@@ -1,0 +1,243 @@
+{
+  "filename": "der-gesundheit-auf-der-spur.md",
+  "original_filename": "der-gesundheit-auf-der-spur.html",
+  "source_path": "de_internal/2015/04/der-gesundheit-auf-der-spur.html",
+  "date": "2015-04",
+  "title": "Der Gesundheit Auf Der Spur",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Institut für Epidemiologie, Biostatistik und Prävention der Universität Zürich erforscht die Gesundheit. Seine Erkenntnisse setzt das Institut für das Wohlergehen der Zürcherinnen und Zürcher ein: Auch Angehörige der ETH Zürich können das Institut am 6. Juni auf einem abwechslungsreichen Erlebnisparcours kennenlernen.\n\nDer Anlass mit Zürcher Regierungsrat Thomas Heiniger und anderen Persönlichkeiten aus Politik, Sport und Gesellschaft, sowie unseren Wissenschaftlerinnen und Wissenschaftlern, wird vom Kabarettisten und Arzt Fabian Unteregger moderiert. Es gibt auch ein Kinderprogramm.\n\nFühlen Sie unseren Puls – kommen Sie vorbei und geniessen Sie Wissen, Spass und Verpflegung für die ganze Familie.\n\nDer Gesundheit auf der Spur\n\nTag der offenen Tür\n\nSamstag, 6. Juni 2015, 11 – 16 Uhr\n\nInstitut für Epidemiologie, Biostatistik und Prävention\n\nHirschengraben 84, 8001 Zürich, Nähe Central"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/04",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Institut für Epidemiologie",
+        "label": "ORG",
+        "start": 4,
+        "end": 30
+      },
+      {
+        "text": "Universität Zürich",
+        "label": "ORG",
+        "start": 64,
+        "end": 82
+      },
+      {
+        "text": "Institut für das Wohlergehen der Zürcherinnen und Zürcher",
+        "label": "ORG",
+        "start": 138,
+        "end": 195
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 221,
+        "end": 231
+      },
+      {
+        "text": "Zürcher",
+        "label": "MISC",
+        "start": 339,
+        "end": 346
+      },
+      {
+        "text": "Thomas Heiniger",
+        "label": "PER",
+        "start": 361,
+        "end": 376
+      },
+      {
+        "text": "Fabian Unteregger",
+        "label": "PER",
+        "start": 532,
+        "end": 549
+      },
+      {
+        "text": "Puls",
+        "label": "PER",
+        "start": 613,
+        "end": 617
+      },
+      {
+        "text": "Wissen",
+        "label": "LOC",
+        "start": 656,
+        "end": 662
+      },
+      {
+        "text": "Tag der offenen Tür Samstag",
+        "label": "MISC",
+        "start": 737,
+        "end": 764
+      },
+      {
+        "text": "Institut für Epidemiologie",
+        "label": "ORG",
+        "start": 792,
+        "end": 818
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 872,
+        "end": 878
+      },
+      {
+        "text": "Central",
+        "label": "LOC",
+        "start": 885,
+        "end": 892
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fabian Unteregger",
+        "Puls",
+        "Thomas Heiniger"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "Institut für Epidemiologie",
+        "Institut für das Wohlergehen der Zürcherinnen und Zürcher",
+        "Universität Zürich"
+      ],
+      "LOCATION": [
+        "Central",
+        "De Internal/2015/04",
+        "Wissen",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Tag der offenen Tür Samstag",
+        "Zürcher"
+      ]
+    },
+    "entity_counts": {
+      "Institut für Epidemiologie": 2,
+      "De Internal/2015/04": 1,
+      "Universität Zürich": 1,
+      "Institut für das Wohlergehen der Zürcherinnen und Zürcher": 1,
+      "ETH Zürich": 1,
+      "Zürcher": 1,
+      "Thomas Heiniger": 1,
+      "Fabian Unteregger": 1,
+      "Puls": 1,
+      "Wissen": 1,
+      "Tag der offenen Tür Samstag": 1,
+      "Zürich": 1,
+      "Central": 1
+    },
+    "total_entities": 14,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-gesundheit-auf-der-spur.md",
+      "title": "De Internal/2015/04/der Gesundheit auf der Spur",
+      "language": "de",
+      "source_path": "de_internal/2015/04/der-gesundheit-auf-der-spur.html"
+    },
+    "temporal": {
+      "publication_date": "2015-04",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Fabian Unteregger",
+        "Puls",
+        "Thomas Heiniger"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Tag der offenen Tür Samstag",
+        "Zürcher"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Seine Erkenntnisse",
+        "De Internal",
+        "Der Anlass",
+        "Spur Das",
+        "Regierungsrat Thomas",
+        "Der Gesundheit",
+        "Sie Wissen",
+        "Arzt Fabian"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Institut für Epidemiologie",
+        "Institut für das Wohlergehen der Zürcherinnen und Zürcher",
+        "Universität Zürich"
+      ],
+      "locations": [
+        "Central",
+        "De Internal/2015/04",
+        "Wissen",
+        "Zürich"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Institut für Epidemiologie",
+        "De Internal/2015/04",
+        "Universität Zürich",
+        "Institut für das Wohlergehen der Zürcherinnen und Zürcher",
+        "ETH Zürich",
+        "Zürcher",
+        "Thomas Heiniger",
+        "Fabian Unteregger",
+        "Puls",
+        "Wissen"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 947
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Puls",
+        "Thomas Heiniger",
+        "ETH Zürich",
+        "Fabian Unteregger",
+        "Institut für das Wohlergehen der Zürcherinnen und Zürcher",
+        "Institut für Epidemiologie",
+        "Universität Zürich"
+      ],
+      "semantic_concepts": [
+        "Zürcher",
+        "Tag der offenen Tür Samstag"
+      ],
+      "graph_relations": []
+    }
+  }
+}

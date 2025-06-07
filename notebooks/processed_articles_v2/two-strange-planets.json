@@ -1,0 +1,381 @@
+{
+  "filename": "two-strange-planets.md",
+  "original_filename": "two-strange-planets.html",
+  "source_path": "en_news_events/2021/03/two-strange-planets.html",
+  "date": "2021-03",
+  "title": "Two Strange Planets",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Extraordinary states",
+      "text": "The two large gas planets Uranus and Neptune have strange magnetic fields. These are each strongly tilted relative to the planet's rotation axes and are significantly offset from the physical centre of the planet. The reason for this has been a longstanding mystery in planetary sciences. Various theories assume that a unique inner structure of these planets could be responsible for this bizarre phenomenon. According to these theories, the skewed magnetic field is caused by circulations in a convective layer, which consists of an electrically conductive fluid. This convective layer in turn surrounds a stably layered, non-convective layer in which there is no circulation of the material due to its high viscosity and thus no contribution to the magnetic field."
+    },
+    {
+      "heading": "Extraordinary states",
+      "text": "Computer simulations show that water and ammonia, the main components of Uranus and Neptune, enter an unusual state at very high pressures and temperatures: a “superionic state”, which has the properties of both a solid and a liquid. In this state, the hydrogen ions become mobile within the lattice structure formed by oxygen or nitrogen."
+    },
+    {
+      "heading": "A new phase discovered",
+      "text": "Recent experimental studies confirm that superionic water can exist at the depth where, according to theory, the stably layered region is located. It could therefore be that the stratified layer is formed by superionic components. However, it is unclear whether the components are actually able to suppress convection, since the physical properties of the superionic state are not known."
+    },
+    {
+      "heading": "High pressure in the smallest space",
+      "text": "Tomoaki Kimura and Motohiko Murakami from the Department of Earth Sciences at ETH Zurich are now one step closer to finding the answer. The two researchers have conducted high-pressure and high-temperature experiments with ammonia in their laboratory. The aim of the experiments was to determine the elasticity of the superionic material. Elasticity is one of the most important physical properties that influences thermal convection in the planetary mantle. It is remarkable that the elasticity of the materials in their solid and liquid states is completely different.\n\nFor their investigations, the researchers used a high-pressure apparatus called a diamond anvil cell. In this apparatus, the ammonia is placed in a small container with a diameter of about 100 micrometres, which is then clamped between two diamond tips that compress the sample. This makes it possible to subject materials to extremely high pressures, such as those found inside Uranus and Neptune.\n\nThe sample is then heated to over 2,000 degrees Celsius with an infrared laser. At the same time, a green laser beam illuminates the sample. By measuring the wave spectrum of the scattered green laser light, the researchers can determine the elasticity of the material and the chemical bonding in the ammonia. The shifts in the wave spectrum at different pressures and temperatures can be used to determine the elasticity of ammonia at different depths.\n\nIn their measurements, Kimura and Murakami have discovered a new superionic ammonia phase (γ phase) that exhibits an elasticity similar to that of the liquid phase. This new phase may be stable in the deep interior of Uranus and Neptune and therefore occur there. However, the superionic ammonia behaves like a liquid and thus it would not be viscous enough to contribute to the formation of the non-convective layer.\n\nThe question of what properties the superionic water has inside Uranus and Neptune is all the more urgent in light of the new results. For even now, the mystery of why the two planets have such an irregular magnetic field still remains unsolved.\n\nKimura T, Murakami M.: Fluid-like elastic response of superionic NH3 in Uranus and Neptune. PNAS April 6, 2021 118 (14) e2021810118; doi: 10.1073/pnas.2021810118"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "Neptune",
+        "label": "ORG",
+        "start": 37,
+        "end": 44
+      },
+      {
+        "text": "Neptune",
+        "label": "ORG",
+        "start": 84,
+        "end": 91
+      },
+      {
+        "text": "Tomoaki Kimura",
+        "label": "PERSON",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Motohiko Murakami",
+        "label": "PERSON",
+        "start": 19,
+        "end": 36
+      },
+      {
+        "text": "the Department of Earth Sciences",
+        "label": "ORG",
+        "start": 42,
+        "end": 74
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 78,
+        "end": 88
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 97,
+        "end": 100
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 140,
+        "end": 143
+      },
+      {
+        "text": "about 100",
+        "label": "CARDINAL",
+        "start": 754,
+        "end": 763
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 807,
+        "end": 810
+      },
+      {
+        "text": "Uranus",
+        "label": "FAC",
+        "start": 950,
+        "end": 956
+      },
+      {
+        "text": "Neptune",
+        "label": "ORG",
+        "start": 961,
+        "end": 968
+      },
+      {
+        "text": "over 2,000 degrees",
+        "label": "QUANTITY",
+        "start": 999,
+        "end": 1017
+      },
+      {
+        "text": "Kimura",
+        "label": "PERSON",
+        "start": 1447,
+        "end": 1453
+      },
+      {
+        "text": "Murakami",
+        "label": "PERSON",
+        "start": 1458,
+        "end": 1466
+      },
+      {
+        "text": "Uranus",
+        "label": "GPE",
+        "start": 1642,
+        "end": 1648
+      },
+      {
+        "text": "Neptune",
+        "label": "ORG",
+        "start": 1653,
+        "end": 1660
+      },
+      {
+        "text": "the superionic ammonia",
+        "label": "ORG",
+        "start": 1697,
+        "end": 1719
+      },
+      {
+        "text": "Neptune",
+        "label": "ORG",
+        "start": 1917,
+        "end": 1924
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2014,
+        "end": 2017
+      },
+      {
+        "text": "Kimura",
+        "label": "PERSON",
+        "start": 2088,
+        "end": 2094
+      },
+      {
+        "text": "Murakami M.: Fluid",
+        "label": "PERSON",
+        "start": 2098,
+        "end": 2116
+      },
+      {
+        "text": "Uranus",
+        "label": "GPE",
+        "start": 2160,
+        "end": 2166
+      },
+      {
+        "text": "Neptune",
+        "label": "ORG",
+        "start": 2171,
+        "end": 2178
+      },
+      {
+        "text": "April 6, 2021",
+        "label": "DATE",
+        "start": 2185,
+        "end": 2198
+      },
+      {
+        "text": "10.1073/pnas.2021810118",
+        "label": "MONEY",
+        "start": 2226,
+        "end": 2249
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Kimura",
+        "Motohiko Murakami",
+        "Murakami",
+        "Murakami M.: Fluid",
+        "Tomoaki Kimura"
+      ],
+      "ORG": [
+        "Neptune",
+        "the Department of Earth Sciences",
+        "the superionic ammonia"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Uranus"
+      ],
+      "DATE": [
+        "April 6, 2021"
+      ],
+      "MISC": [
+        "10.1073/pnas.2021810118",
+        "about 100",
+        "one",
+        "over 2,000 degrees",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Neptune": 6,
+      "two": 5,
+      "Uranus": 3,
+      "Kimura": 2,
+      "Tomoaki Kimura": 1,
+      "Motohiko Murakami": 1,
+      "the Department of Earth Sciences": 1,
+      "ETH Zurich": 1,
+      "one": 1,
+      "about 100": 1,
+      "over 2,000 degrees": 1,
+      "Murakami": 1,
+      "the superionic ammonia": 1,
+      "Murakami M.: Fluid": 1,
+      "April 6, 2021": 1,
+      "10.1073/pnas.2021810118": 1
+    },
+    "total_entities": 28,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "two-strange-planets.md",
+      "title": "En News Events/2021/03/two Strange Planets",
+      "language": "en",
+      "source_path": "en_news_events/2021/03/two-strange-planets.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Kimura",
+        "Motohiko Murakami",
+        "Murakami",
+        "Murakami M.: Fluid",
+        "Tomoaki Kimura"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1073/pnas.2021810118",
+        "about 100",
+        "over 2,000 degrees"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "Strange Planets",
+        "PNAS April",
+        "Kimura T",
+        "Tomoaki Kimura",
+        "Earth Sciences",
+        "Murakami M",
+        "ETH Zurich",
+        "Motohiko Murakami"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Earth Sciences at ETH Zurich are now one step closer to finding the answer"
+      ],
+      "institutions": [
+        "Neptune",
+        "the Department of Earth Sciences",
+        "the superionic ammonia"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Uranus"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Neptune",
+        "two",
+        "Uranus",
+        "Kimura",
+        "Tomoaki Kimura",
+        "Motohiko Murakami",
+        "the Department of Earth Sciences",
+        "ETH Zurich",
+        "one",
+        "about 100"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Extraordinary states",
+          "Extraordinary states",
+          "A new phase discovered",
+          "High pressure in the smallest space"
+        ],
+        "content_length": 3793
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Murakami",
+        "Neptune",
+        "the Department of Earth Sciences",
+        "Tomoaki Kimura",
+        "Kimura",
+        "the superionic ammonia",
+        "2021",
+        "Murakami M.: Fluid",
+        "Motohiko Murakami"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "chemistry",
+        "about 100",
+        "where",
+        "what",
+        "how",
+        "10.1073/pnas.2021810118",
+        "why",
+        "when",
+        "engineering",
+        "over 2,000 degrees"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

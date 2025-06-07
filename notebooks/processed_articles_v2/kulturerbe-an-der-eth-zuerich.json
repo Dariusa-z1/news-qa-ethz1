@@ -1,0 +1,168 @@
+{
+  "filename": "kulturerbe-an-der-eth-zuerich.md",
+  "original_filename": "kulturerbe-an-der-eth-zuerich.html",
+  "source_path": "de_internal/2018/05/kulturerbe-an-der-eth-zuerich.html",
+  "date": "2018-05",
+  "title": "Kulturerbe An Der Eth Zuerich",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Am 3. Juni 2018 macht die ETH Zürich ihr Kulturerbe erlebbar: Mit Workshops, Führungen, Vorträgen, Gesprächen und vielem mehr zeigen Sammlungen, Archive und Institute der ETH Zürich, wie die Spitzenforschung von heute das Kulturerbe von morgen schafft. Das Programm gibt Ihnen einen Überblick auf die breit gefächerten Veranstaltungen.\n\nWebsite Kulturerbe an der ETH Zürich\n\nWissenschaft ist ein zentraler Aspekt von Kultur. Technologien, die unseren Alltag prägen und begleiten, haben an der ETH Zürich ihren Ursprung. Bestehendes Kulturerbe wird dank neuer Erkenntnisse und Erfindungen erforscht, aufbewahrt und wieder zugänglich gemacht. Die Sammlungen und Archive pflegen und vermitteln dieses Kulturerbe."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/05/",
+        "label": "LOC",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Eth Zuerich",
+        "label": "LOC",
+        "start": 38,
+        "end": 49
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 26,
+        "end": 36
+      },
+      {
+        "text": "Institute",
+        "label": "ORG",
+        "start": 157,
+        "end": 166
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 171,
+        "end": 181
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 362,
+        "end": 372
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 491,
+        "end": 501
+      },
+      {
+        "text": "Bestehendes",
+        "label": "LOC",
+        "start": 518,
+        "end": 529
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "Institute"
+      ],
+      "LOCATION": [
+        "Bestehendes",
+        "De Internal/2018/05/",
+        "Eth Zuerich"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zürich": 4,
+      "De Internal/2018/05/": 1,
+      "Eth Zuerich": 1,
+      "Institute": 1,
+      "Bestehendes": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "kulturerbe-an-der-eth-zuerich.md",
+      "title": "De Internal/2018/05/kulturerbe an der Eth Zuerich",
+      "language": "de",
+      "source_path": "de_internal/2018/05/kulturerbe-an-der-eth-zuerich.html"
+    },
+    "temporal": {
+      "publication_date": "2018-05",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Mit Workshops",
+        "Bestehendes Kulturerbe",
+        "De Internal",
+        "Das Programm",
+        "Eth Zuerich",
+        "Website Kulturerbe",
+        "Die Sammlungen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "Institute"
+      ],
+      "locations": [
+        "Bestehendes",
+        "De Internal/2018/05/",
+        "Eth Zuerich"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "ETH Zürich",
+        "De Internal/2018/05/",
+        "Eth Zuerich",
+        "Institute",
+        "Bestehendes"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 759
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2018",
+        "EU",
+        "Institute"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

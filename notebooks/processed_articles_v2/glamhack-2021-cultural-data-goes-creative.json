@@ -1,0 +1,318 @@
+{
+  "filename": "glamhack-2021-cultural-data-goes-creative.md",
+  "original_filename": "glamhack-2021-cultural-data-goes-creative.html",
+  "source_path": "en_internal/2021/03/glamhack-2021-cultural-data-goes-creative.html",
+  "date": "2021-03",
+  "title": "Glamhack 2021 Cultural Data Goes Creative",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "An event for inspiration and networking",
+      "text": "Are you ready to create digital ways of accessing and experiencing cultural heritage, to discover new things and to learn? Are you up for a lively exchange with other creative minds, visionary digital humanists, passionate cultural workers, meticulous metadata fans and skilled programmers?"
+    },
+    {
+      "heading": "An event for inspiration and networking",
+      "text": "The Swiss Open Cultural Data Hackathon, or GLAMhack for short, takes place once a year. GLAMhack brings together data providers, software developers, digital humanists, artists, Wikipedians and digital enthusiasts online to experiment with unique open cultural data. The focus is on developing and trying out ideas for creative ways to share, use and link open cultural data."
+    },
+    {
+      "heading": "Interactive cultural data",
+      "text": "Drawing new knowledge from digital data takes contextualisation and application. That’s why the participants in the Cultural Data Hackathon also investigate concrete ways to use this data and metadata, for example for research purposes, for web and mobile apps, in the context of Wikipedia, for artistic applications or for other forms of reuse."
+    },
+    {
+      "heading": "A multifaceted programme",
+      "text": "On 15 April 2021, the evening before the actual hackathon, a pre-event will be held with presentations and panels, as well as a virtual live performance, to kick off the hackathon.\n\nAn additional voluntary sports and relaxation programme will also provide a change of pace throughout the hackathon itself."
+    },
+    {
+      "heading": "Discover your creative potential",
+      "text": "Hackathon veterans, culture vultures, tech nerds, artists, students, professionals or just anyone who wants to check it out – this hackathon is all about diversity. We can’t wait to see you there!"
+    },
+    {
+      "heading": "Staffnet",
+      "text": "The GLAMhack 2021 will run from 16 to 17 April 2021 as a virtual event, hosted by the ETH Library.\n\nCheck out the official event page for details about the programme and how to sign up.\n\nWatch the Introduction video and Hackathon trailer for inspiration!\n\nDo you have an idea for a Hackathon Challenge? Then don't hesitate and submit it !\n\nMoving forward together – Through the power of networking\n\n#FocusHuman – Be inspired by people and learn something new."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Cultural Data Goes Creative",
+        "label": "WORK_OF_ART",
+        "start": 34,
+        "end": 61
+      },
+      {
+        "text": "The Swiss Open Cultural Data Hackathon",
+        "label": "ORG",
+        "start": 0,
+        "end": 38
+      },
+      {
+        "text": "GLAMhack",
+        "label": "ORG",
+        "start": 43,
+        "end": 51
+      },
+      {
+        "text": "a year",
+        "label": "DATE",
+        "start": 80,
+        "end": 86
+      },
+      {
+        "text": "GLAMhack",
+        "label": "ORG",
+        "start": 88,
+        "end": 96
+      },
+      {
+        "text": "Wikipedians",
+        "label": "NORP",
+        "start": 178,
+        "end": 189
+      },
+      {
+        "text": "the Cultural Data Hackathon",
+        "label": "ORG",
+        "start": 112,
+        "end": 139
+      },
+      {
+        "text": "metadata",
+        "label": "PERSON",
+        "start": 192,
+        "end": 200
+      },
+      {
+        "text": "mobile apps",
+        "label": "PERSON",
+        "start": 249,
+        "end": 260
+      },
+      {
+        "text": "Wikipedia",
+        "label": "ORG",
+        "start": 280,
+        "end": 289
+      },
+      {
+        "text": "15 April 2021",
+        "label": "DATE",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "evening",
+        "label": "TIME",
+        "start": 22,
+        "end": 29
+      },
+      {
+        "text": "Hackathon",
+        "label": "GPE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "16 to 17 April 2021",
+        "label": "DATE",
+        "start": 32,
+        "end": 51
+      },
+      {
+        "text": "the ETH Library",
+        "label": "ORG",
+        "start": 82,
+        "end": 97
+      },
+      {
+        "text": "Introduction",
+        "label": "ORG",
+        "start": 195,
+        "end": 207
+      },
+      {
+        "text": "Hackathon",
+        "label": "GPE",
+        "start": 218,
+        "end": 227
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "metadata",
+        "mobile apps"
+      ],
+      "ORG": [
+        "GLAMhack",
+        "Introduction",
+        "The Swiss Open Cultural Data Hackathon",
+        "Wikipedia",
+        "the Cultural Data Hackathon",
+        "the ETH Library"
+      ],
+      "LOCATION": [
+        "Hackathon"
+      ],
+      "DATE": [
+        "15 April 2021",
+        "16 to 17 April 2021",
+        "a year",
+        "evening"
+      ],
+      "MISC": [
+        "Cultural Data Goes Creative",
+        "Wikipedians"
+      ]
+    },
+    "entity_counts": {
+      "GLAMhack": 2,
+      "Hackathon": 2,
+      "Cultural Data Goes Creative": 1,
+      "The Swiss Open Cultural Data Hackathon": 1,
+      "a year": 1,
+      "Wikipedians": 1,
+      "the Cultural Data Hackathon": 1,
+      "metadata": 1,
+      "mobile apps": 1,
+      "Wikipedia": 1,
+      "15 April 2021": 1,
+      "evening": 1,
+      "16 to 17 April 2021": 1,
+      "the ETH Library": 1,
+      "Introduction": 1
+    },
+    "total_entities": 17,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "glamhack-2021-cultural-data-goes-creative.md",
+      "title": "En Internal/2021/03/glamhack 2021 Cultural Data Goes Creative",
+      "language": "en",
+      "source_path": "en_internal/2021/03/glamhack-2021-cultural-data-goes-creative.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "metadata",
+        "mobile apps"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Cultural Data Goes Creative",
+        "Wikipedians"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Hackathon Challenge",
+        "Cultural Data",
+        "Data Hackathon",
+        "ETH Library",
+        "Goes Creative",
+        "En Internal",
+        "Open Cultural",
+        "The Swiss",
+        "The GLAMhack"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "GLAMhack",
+        "Introduction",
+        "The Swiss Open Cultural Data Hackathon",
+        "Wikipedia",
+        "the Cultural Data Hackathon",
+        "the ETH Library"
+      ],
+      "locations": [
+        "Hackathon"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "GLAMhack",
+        "Hackathon",
+        "Cultural Data Goes Creative",
+        "The Swiss Open Cultural Data Hackathon",
+        "a year",
+        "Wikipedians",
+        "the Cultural Data Hackathon",
+        "metadata",
+        "mobile apps",
+        "Wikipedia"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "An event for inspiration and networking",
+          "An event for inspiration and networking",
+          "Interactive cultural data",
+          "A multifaceted programme",
+          "Discover your creative potential",
+          "Staffnet"
+        ],
+        "content_length": 2037
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "mobile apps",
+        "metadata",
+        "EU",
+        "Introduction",
+        "The Swiss Open Cultural Data Hackathon",
+        "GLAMhack",
+        "the Cultural Data Hackathon",
+        "2021",
+        "the ETH Library",
+        "Wikipedia"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "when",
+        "where",
+        "what",
+        "how",
+        "computer_science",
+        "why",
+        "Cultural Data Goes Creative",
+        "Wikipedians"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

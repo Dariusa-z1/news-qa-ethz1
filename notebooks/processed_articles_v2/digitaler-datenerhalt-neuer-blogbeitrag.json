@@ -1,0 +1,133 @@
+{
+  "filename": "digitaler-datenerhalt-neuer-blogbeitrag.md",
+  "original_filename": "digitaler-datenerhalt-neuer-blogbeitrag.html",
+  "source_path": "de_internal/2014/05/digitaler-datenerhalt-neuer-blogbeitrag.html",
+  "date": "2014-05",
+  "title": "Digitaler Datenerhalt Neuer Blogbeitrag",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Der aktuelle Beitrag unseres Blogs Innovation@ETH-Bibliothek zeigt auf, wie wissenschaftliche Bibliotheken Forschende beim langfristigen Erhalt mit Forschungsdaten unterstützen können. Anhand von Services und Erfahrungen der ETH-Bibliothek als Informationsdienstleister der ETH Zürich werden mögliche Aufgabenverteilungen diskutiert."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 225,
+        "end": 239
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 274,
+        "end": 284
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2014/05"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Bibliothek"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/05": 1,
+      "ETH-Bibliothek": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "digitaler-datenerhalt-neuer-blogbeitrag.md",
+      "title": "De Internal/2014/05/digitaler Datenerhalt Neuer Blogbeitrag",
+      "language": "de",
+      "source_path": "de_internal/2014/05/digitaler-datenerhalt-neuer-blogbeitrag.html"
+    },
+    "temporal": {
+      "publication_date": "2014-05",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Bibliothek"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Bibliothek",
+        "Blogbeitrag Der",
+        "De Internal",
+        "Blogs Innovation",
+        "Bibliotheken Forschende",
+        "Datenerhalt Neuer"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2014/05"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "De Internal/2014/05",
+        "ETH-Bibliothek",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 393
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "EU",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "when"
+      ],
+      "graph_relations": []
+    }
+  }
+}

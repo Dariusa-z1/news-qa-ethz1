@@ -1,0 +1,390 @@
+{
+  "filename": "battlefield-of-the-sexes.md",
+  "original_filename": "battlefield-of-the-sexes.html",
+  "source_path": "en_news_events/2016/12/battlefield-of-the-sexes.html",
+  "date": "2016-12",
+  "title": "Battlefield Of The Sexes",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Comparing gene activity patterns",
+      "text": "Scientists have been asking a fundamental question ever since the time of Darwin: how do the different sexes evolve when the genes of females and males are for the most part the same?\n\nTake the example of humans: a small but obviously important genetic difference between women and men is that a man has a Y chromosome. His X chromosome, however, is identical to the woman’s, who carries two copies of the X. And yet women and men differ in build and physiology. One reason is that many common genes are active depending on the specific sex.\n\nBut how did it come to be that genes in both sexes exhibit different expression patterns? This evolution can no longer be studied in humans because it occurred far too long ago, but the same cannot be said of plants. Researchers led by ETH Professor Alex Widmer from the Institute of Integrative Biology therefore used a pair of closely-related plant species to study how gene expression differences evolved between the sexes. Their study has just been published in the journal Nature Plants ."
+    },
+    {
+      "heading": "Comparing gene activity patterns",
+      "text": "In the case of the dioecious white campion ( Silene latifolia ), separate sexes occur: one bears only female flowers, the other only male flowers. Their close relative, the bladder campion ( Silene vulgaris ), has hermaphrodite flower buds; purely female specimens are much less common."
+    },
+    {
+      "heading": "More pronounced changes in females",
+      "text": "The researchers believe that the gene expression of the bladder campion resembles the original state of a common ancestor. Over the course of evolution, this ancestor evolved into the bladder campion with hermaphrodite flowers and the dioecious white campion. Like humans, the white campion also developed sex chromosomes: male plants carry an X and Y chromosome, whereas females have two X chromosomes.\n\nThe ETH researchers have now analysed which genes are active in the respective sexes of the white campion and on which chromosomes they are found.\n\nTo identify which genes are active, the scientists analysed their expression, which is a measure of the intensity with which a gene is read from the DNA. When a gene is “expressed”, messenger RNA molecules are produced, and their presence and quantity make it possible to draw conclusions as to whether and to what extent a particular gene is active."
+    },
+    {
+      "heading": "Autosomes contribute to differences between the sexes",
+      "text": "A significant portion of the genes on the sex chromosomes of females and males are expressed very differently. This indicates that these chromosomes, as expected, play an important role in the formation of sex differences.\n\nHowever, when the researchers looked at the “normal” chromosomes – known as autosomes – they found many genes that occurred in both sexes but were expressed differently in the individual sex. This would suggest that sex-specific expression on the autosomes also contributes to the observable sex differences in the white campion."
+    },
+    {
+      "heading": "More pronounced changes in females",
+      "text": "The researchers also looked at how these sex-specific differences evolved over time by comparing the gene activity of the hermaphrodite campion with those of the female and male white campion. To their surprise, the scientists found that gene-expression changes occurred more often and with greater differences in females than in males when compared to the hermaphrodite campion.\n\nGenes that are expressed more strongly in females than in males were mostly up-regulated in females over the course of evolution of the separated sexes. “Genes that are today expressed more strongly in males are, however, mostly the result of their activity having been suppressed in females,” explains Widmer."
+    },
+    {
+      "heading": "Benefits from sex separation",
+      "text": "The researchers explain why the most expression changes occurred in females: “Females are more likely to benefit from sex separation than males.”\n\nThe hermaphrodite campion has to make a compromise between female and male functions. The male part of the flower has to produce as much good pollen as possible, while the female part produces the seeds. This division of roles could be disadvantageous for the female function, as she has fewer resources at her disposal. “Hermaphrodite flowers are the battlefield of the sexes,” says Widmer. In dioecious individuals, on the other hand, each sex can use all the resources for its corresponding role.\n\nDifferent sexes are widespread in the animal kingdom, but hermaphrodite species predominate in the plant kingdom – despite the advantages of having separate sexes. The reasons why are still largely unknown. Widmer will therefore begin a new study in which he would like to examine the evolutionary advantages of separate sexes and of hermaphrodites. Plant species in which there are separate sexes as well as hermaphroditic populations offer a suitable a model system.\n\nWidmer and his group's research promotes a long-standing idea of Charles Darwin, namely, that different sexes are advantageous because each sex can use the resources at its disposal independently of the other sex.\n\nZemp N, Tavares R, Muyle A, Charlesworth D, Marais GAB, Widmer A. Evolution of sex-biased gene expression in a dioecious plant. Nature Plants 2, Article number: 16168 (2016). doi: 10.1038/nplants.2016.168"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Sexes",
+        "label": "ORG",
+        "start": 42,
+        "end": 47
+      },
+      {
+        "text": "Darwin",
+        "label": "PERSON",
+        "start": 74,
+        "end": 80
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 387,
+        "end": 390
+      },
+      {
+        "text": "X.",
+        "label": "ORG",
+        "start": 405,
+        "end": 407
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 462,
+        "end": 465
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 777,
+        "end": 780
+      },
+      {
+        "text": "Alex Widmer",
+        "label": "PERSON",
+        "start": 791,
+        "end": 802
+      },
+      {
+        "text": "the Institute of Integrative Biology",
+        "label": "ORG",
+        "start": 808,
+        "end": 844
+      },
+      {
+        "text": "Nature Plants",
+        "label": "WORK_OF_ART",
+        "start": 1019,
+        "end": 1032
+      },
+      {
+        "text": "Silene",
+        "label": "PERSON",
+        "start": 45,
+        "end": 51
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 87,
+        "end": 90
+      },
+      {
+        "text": "Silene",
+        "label": "PERSON",
+        "start": 191,
+        "end": 197
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 385,
+        "end": 388
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 408,
+        "end": 411
+      },
+      {
+        "text": "messenger RNA molecules",
+        "label": "PERSON",
+        "start": 733,
+        "end": 756
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 549,
+        "end": 554
+      },
+      {
+        "text": "Widmer",
+        "label": "ORG",
+        "start": 683,
+        "end": 689
+      },
+      {
+        "text": "Widmer",
+        "label": "PERSON",
+        "start": 530,
+        "end": 536
+      },
+      {
+        "text": "Charles Darwin",
+        "label": "PERSON",
+        "start": 1180,
+        "end": 1194
+      },
+      {
+        "text": "Muyle A",
+        "label": "ORG",
+        "start": 1348,
+        "end": 1355
+      },
+      {
+        "text": "Marais",
+        "label": "PERSON",
+        "start": 1373,
+        "end": 1379
+      },
+      {
+        "text": "Widmer A. Evolution",
+        "label": "PERSON",
+        "start": 1385,
+        "end": 1404
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1509,
+        "end": 1516
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alex Widmer",
+        "Charles Darwin",
+        "Darwin",
+        "Marais",
+        "Silene",
+        "Widmer",
+        "Widmer A. Evolution",
+        "messenger RNA molecules"
+      ],
+      "ORG": [
+        "ETH",
+        "Muyle A",
+        "Sexes",
+        "Widmer",
+        "X.",
+        "the Institute of Integrative Biology"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "today"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature Plants",
+        "One",
+        "one",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "two": 2,
+      "ETH": 2,
+      "Silene": 2,
+      "Widmer": 2,
+      "Sexes": 1,
+      "Darwin": 1,
+      "X.": 1,
+      "One": 1,
+      "Alex Widmer": 1,
+      "the Institute of Integrative Biology": 1,
+      "Nature Plants": 1,
+      "one": 1,
+      "messenger RNA molecules": 1,
+      "today": 1,
+      "Charles Darwin": 1,
+      "Muyle A": 1,
+      "Marais": 1,
+      "Widmer A. Evolution": 1,
+      "10.1038": 1
+    },
+    "total_entities": 23,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "battlefield-of-the-sexes.md",
+      "title": "En News Events/2016/12/battlefield Of The Sexes",
+      "language": "en",
+      "source_path": "en_news_events/2016/12/battlefield-of-the-sexes.html"
+    },
+    "temporal": {
+      "publication_date": "2016-12",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alex Widmer",
+        "Charles Darwin",
+        "Darwin",
+        "Marais",
+        "Silene",
+        "Widmer",
+        "Widmer A. Evolution",
+        "messenger RNA molecules"
+      ],
+      "people_with_roles": {
+        "Alex Widmer": [
+          "Professor",
+          "researcher",
+          "professor"
+        ],
+        "Darwin": [
+          "scientist"
+        ],
+        "Widmer": [
+          "researcher",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature Plants"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "His X",
+        "Alex Widmer",
+        "Nature Plants",
+        "En News",
+        "Zemp N",
+        "Muyle A",
+        "Widmer A",
+        "Charles Darwin",
+        "Sexes Scientists",
+        "ETH Professor",
+        "Tavares R",
+        "Of The",
+        "Charlesworth D",
+        "The ETH",
+        "Marais GAB",
+        "Integrative Biology"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Muyle A",
+        "Sexes",
+        "Widmer",
+        "X.",
+        "the Institute of Integrative Biology"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "two",
+        "ETH",
+        "Silene",
+        "Widmer",
+        "Sexes",
+        "Darwin",
+        "X.",
+        "One",
+        "Alex Widmer",
+        "the Institute of Integrative Biology"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Comparing gene activity patterns",
+          "Comparing gene activity patterns",
+          "More pronounced changes in females",
+          "Autosomes contribute to differences between the sexes",
+          "More pronounced changes in females",
+          "Benefits from sex separation"
+        ],
+        "content_length": 5059
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Silene",
+        "ETH",
+        "Alex Widmer",
+        "X.",
+        "Muyle A",
+        "Darwin",
+        "Charles Darwin",
+        "2016",
+        "Sexes",
+        "Marais",
+        "Widmer",
+        "the Institute of Integrative Biology",
+        "Widmer A. Evolution",
+        "messenger RNA molecules"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Nature Plants",
+        "who",
+        "10.1038",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Alex Widmer_has_role_Professor",
+        "Alex Widmer_has_role_researcher",
+        "Alex Widmer_has_role_professor",
+        "Darwin_has_role_scientist",
+        "Widmer_has_role_researcher",
+        "Widmer_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "filename": "crisprbabies-im-podcast.md",
+  "original_filename": "crisprbabies-im-podcast.html",
+  "source_path": "de_news_events/2019/02/crisprbabies-im-podcast.html",
+  "date": "2019-02",
+  "title": "Crisprbabies Im Podcast",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Im vergangenen November erschütterten Nachrichten aus China die Forschungsgemeinschaft. Der Wissenschaftler He Jiankui behauptete, er habe die Genome von Zwillingsmädchen mit der CRISPR/Cas-Technologie manipuliert. Effy Vayena, Professorin für Bioethik an der ETH Zürich, und Hantao Zhao, ein chinesischer Doktorand bei Disney Research und am Lehrstuhls für Kognitionswissenschaften an der ETH Zürich, diskutieren die ethischen Auswirkungen dieses Falles. Spielt die Nationalität von Forschenden eine Rolle bei ethischen Ansichten und wie beeinflusst der globale Wettbewerb in der Wissenschaft ethische Entscheidungen?\n\nAktuelle Folge des ETH-Podcasts anhören"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 54,
+        "end": 59
+      },
+      {
+        "text": "He Jiankui",
+        "label": "PER",
+        "start": 108,
+        "end": 118
+      },
+      {
+        "text": "Zwillingsmädchen",
+        "label": "ORG",
+        "start": 154,
+        "end": 170
+      },
+      {
+        "text": "CRISPR",
+        "label": "ORG",
+        "start": 179,
+        "end": 185
+      },
+      {
+        "text": "Effy Vayena",
+        "label": "PER",
+        "start": 215,
+        "end": 226
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 260,
+        "end": 270
+      },
+      {
+        "text": "chinesischer",
+        "label": "MISC",
+        "start": 293,
+        "end": 305
+      },
+      {
+        "text": "Disney Research",
+        "label": "ORG",
+        "start": 320,
+        "end": 335
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 390,
+        "end": 400
+      },
+      {
+        "text": "ETH-Podcasts",
+        "label": "MISC",
+        "start": 638,
+        "end": 650
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News",
+        "Effy Vayena",
+        "He Jiankui"
+      ],
+      "ORG": [
+        "CRISPR",
+        "Disney Research",
+        "ETH Zürich",
+        "Zwillingsmädchen"
+      ],
+      "LOCATION": [
+        "China"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH-Podcasts",
+        "chinesischer"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "De News": 1,
+      "China": 1,
+      "He Jiankui": 1,
+      "Zwillingsmädchen": 1,
+      "CRISPR": 1,
+      "Effy Vayena": 1,
+      "chinesischer": 1,
+      "Disney Research": 1,
+      "ETH-Podcasts": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "crisprbabies-im-podcast.md",
+      "title": "De News Events/2019/02/crisprbabies Im Podcast",
+      "language": "de",
+      "source_path": "de_news_events/2019/02/crisprbabies-im-podcast.html"
+    },
+    "temporal": {
+      "publication_date": "2019-02",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News",
+        "Effy Vayena",
+        "He Jiankui"
+      ],
+      "people_with_roles": {
+        "Effy Vayena": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH-Podcasts",
+        "chinesischer"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Disney Research",
+        "Hantao Zhao",
+        "Der Wissenschaftler",
+        "Cas-Technologie",
+        "He Jiankui",
+        "De News",
+        "ETH-Podcasts",
+        "Effy Vayena",
+        "Im Podcast",
+        "Aktuelle Folge"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "CRISPR",
+        "Disney Research",
+        "ETH Zürich",
+        "Zwillingsmädchen"
+      ],
+      "locations": [
+        "China"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "De News",
+        "China",
+        "He Jiankui",
+        "Zwillingsmädchen",
+        "CRISPR",
+        "Effy Vayena",
+        "chinesischer",
+        "Disney Research",
+        "ETH-Podcasts"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 706
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Disney Research",
+        "Zwillingsmädchen",
+        "CRISPR",
+        "2019",
+        "He Jiankui",
+        "ETH Zürich",
+        "De News",
+        "Effy Vayena"
+      ],
+      "semantic_concepts": [
+        "who",
+        "what",
+        "ETH-Podcasts",
+        "chinesischer"
+      ],
+      "graph_relations": [
+        "Effy Vayena_has_role_professor"
+      ]
+    }
+  }
+}

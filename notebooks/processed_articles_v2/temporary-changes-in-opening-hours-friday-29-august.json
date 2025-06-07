@@ -1,0 +1,116 @@
+{
+  "filename": "temporary-changes-in-opening-hours-friday-29-august.md",
+  "original_filename": "temporary-changes-in-opening-hours-friday-29-august.html",
+  "source_path": "en_internal/2014/08/temporary-changes-in-opening-hours-friday-29-august.html",
+  "date": "2014-08",
+  "title": "Temporary Changes In Opening Hours Friday 29 August",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "(Reason: internal event)\n\nNormal opening hours will apply to:"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Opening Hours",
+        "label": "TIME",
+        "start": 41,
+        "end": 54
+      },
+      {
+        "text": "Friday 29 August",
+        "label": "DATE",
+        "start": 55,
+        "end": 71
+      },
+      {
+        "text": "Normal opening hours",
+        "label": "TIME",
+        "start": 25,
+        "end": 45
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [
+        "Friday 29 August",
+        "Normal opening hours",
+        "Opening Hours"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Opening Hours": 1,
+      "Friday 29 August": 1,
+      "Normal opening hours": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "temporary-changes-in-opening-hours-friday-29-august.md",
+      "title": "En Internal/2014/08/temporary Changes in Opening Hours Friday 29 August",
+      "language": "en",
+      "source_path": "en_internal/2014/08/temporary-changes-in-opening-hours-friday-29-august.html"
+    },
+    "temporal": {
+      "publication_date": "2014-08",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Opening Hours",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "why"
+      ],
+      "key_concepts": [
+        "Opening Hours",
+        "Friday 29 August",
+        "Normal opening hours"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 133
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2014"
+      ],
+      "semantic_concepts": [
+        "why"
+      ],
+      "graph_relations": []
+    }
+  }
+}

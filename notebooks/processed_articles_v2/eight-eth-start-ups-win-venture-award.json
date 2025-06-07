@@ -1,0 +1,817 @@
+{
+  "filename": "eight-eth-start-ups-win-venture-award.md",
+  "original_filename": "eight-eth-start-ups-win-venture-award.html",
+  "source_path": "en_news_events/2022/06/eight-eth-start-ups-win-venture-award.html",
+  "date": "2022-06",
+  "title": "Eight Eth Start Ups Win Venture Award",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Artificial intelligence for lawyers",
+      "text": "The Venture Awards, one of the leading competitions for Swiss start-ups, celebrates its 25th anniversary this year. Since its inception, the competition, which is partly sponsored by ETH, has supported more than 1,500 start-ups that have led to the creation of over 15,000 jobs. The 262 winners alone have mobilised CHF 2.3 billion in venture capital and published nearly 900 patents.\n\nThe highlight of the festivities was this year’s awards ceremony, held yesterday evening at ETH Zurich. Fifteen innovative start-ups from five different sectors had good reason to celebrate after receiving prize money totalling more than CHF 500,000. In addition to the three ETH spin-offs DeepJudge, Kaspar& and Versics, five other start-ups with strong ties to ETH Zurich were among the winners: Alter Ego, DeepPsy, Groam, Samplab und Veritic. This year, for the first time, the jury also evaluated the sustainability of the nominees’ business ideas."
+    },
+    {
+      "heading": "Artificial intelligence for lawyers",
+      "text": "ETH LegalTech spin-off DeepJudge assists law firms, corporations and courts by automating data privacy-sensitive administrative work. The start-up’s AI-supported software can, for example, compare different contracts and then automatically generate a template for a new contract."
+    },
+    {
+      "heading": "An app for making payments and investments",
+      "text": "In addition, legal documents can be viewed on the platform in an “augmented” version, which automatically shows the relevant legal paragraphs and court decisions or provides references to existing commercial register entries. The software also recognises sensitive content that can then be redacted with a simple mouse click."
+    },
+    {
+      "heading": "Fast data transfer with new circuits",
+      "text": "Streaming services, virtual meetings and other digital applications generate massive quantities of data all over the world. The transmission of this data currently makes up around nine percent of global energy consumption, with this share increasing by 20 to 30 percent each year.\n\nThe ETH spin-off Versics is developing innovative chips that use less energy and process larger quantities of data faster than other solutions presently available on the market. Because data transmission rates are steadily increasing with the expansion of the 5G network and 6G, which has already been planned, technologies such as those from Versics will play a key role in the future."
+    },
+    {
+      "heading": "An app for making payments and investments",
+      "text": "ETH spin-off Kaspar& has developed an app that can be used for classic banking services as well as for digital assets management. What makes the app unique is that each payment can be automatically rounded up to the next franc and the small remainders then invested professionally. The idea is to make saving and investing as easy as possible for users."
+    },
+    {
+      "heading": "Sustainable foams made from agricultural waste",
+      "text": "Each year, around 30 million tons of plastic foam are produced to make things like mattresses and protective packaging. This places an enormous burden on the environment. The ETH start-up Groam wants to change this by achieving a breakthrough in sustainable, biodegradable foams.\n\nFoamed biomaterials from Groam are made from agricultural waste and used for plant substrates in vertical agriculture systems. The start-up hopes its technology for biodegradable protective packaging and applications can eventually be used in the fashion industry for things like shoe soles."
+    },
+    {
+      "heading": "A new platform for secure NFTs",
+      "text": "An NFT, or non-fungible token, is a certificate of authenticity used to record the creator and owner of a certain digital asset. NFTs are based on blockchain technologies and tied to files such as images. This makes NFTs unique originals, much like a work of art in the analogue world. Veritic , a start-up founded by ETH graduates, has developed a user-friendly platform that makes creating and managing NFTs easier and more secure. For this, the young company is awarded first place in the field of Finance and Insurance."
+    },
+    {
+      "heading": "Algorithms for better psychiatric treatment",
+      "text": "DeepPsy , a start-up co-founded by a former ETH physics student, aims to improve psychiatric treatment through the use of technology. The start-up has developed an online tool that can analyse electroencephalograms and electrocardiograms to help psychiatrists identify the treatment with the best potential for success."
+    },
+    {
+      "heading": "Shopping online with your avatar",
+      "text": "Thirty percent of clothes purchased online are returned, mostly because they do not fit. This shipping and packaging places a considerable burden on the environment. The start-up Alter Ego , which was started by ETH students, aims to reduce the number of returned garments by offering shoppers a way to try on their clothes with a personalised 3D avatar.\n\nSamplab , a start-up created by ETH students, aims to make music production easier, faster and more creative through software that uses artificial intelligence (AI). Using AI, each audio file is broken down into its individual notes, which can then be edited and arranged on the screen however the user wants. Even two or more audio tracks can be easily layered in the software.\n\nVenture is Switzerland’s leading start-up competition and is organised by the not-for-profit Venture Foundation in cooperation with ETH Zurich, McKinsey & Company, Knecht Holding, Innosuisse and EPFL. It was started in 1997 with the purpose of promoting innovation and entrepreneurship in Switzerland. Each year, participants can submit entries in one of the following five industry categories: Health & Nutrition, ICT, Industrials & Technology, Retail & Customer Services and Finance & Insurance. Venture offers CHF 510,000 in prize money, mentoring and an extensive network of experts."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Venture Awards",
+        "label": "ORG",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 56,
+        "end": 61
+      },
+      {
+        "text": "25th anniversary",
+        "label": "DATE",
+        "start": 88,
+        "end": 104
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 105,
+        "end": 114
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 183,
+        "end": 186
+      },
+      {
+        "text": "more than 1,500",
+        "label": "CARDINAL",
+        "start": 202,
+        "end": 217
+      },
+      {
+        "text": "over 15,000",
+        "label": "CARDINAL",
+        "start": 261,
+        "end": 272
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 316,
+        "end": 319
+      },
+      {
+        "text": "2.3 billion",
+        "label": "CARDINAL",
+        "start": 320,
+        "end": 331
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 427,
+        "end": 431
+      },
+      {
+        "text": "yesterday",
+        "label": "DATE",
+        "start": 456,
+        "end": 465
+      },
+      {
+        "text": "evening",
+        "label": "TIME",
+        "start": 466,
+        "end": 473
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 477,
+        "end": 487
+      },
+      {
+        "text": "Fifteen",
+        "label": "CARDINAL",
+        "start": 489,
+        "end": 496
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 523,
+        "end": 527
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 623,
+        "end": 626
+      },
+      {
+        "text": "500,000",
+        "label": "CARDINAL",
+        "start": 627,
+        "end": 634
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 655,
+        "end": 660
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 661,
+        "end": 664
+      },
+      {
+        "text": "DeepJudge",
+        "label": "ORG",
+        "start": 675,
+        "end": 684
+      },
+      {
+        "text": "Kaspar& and",
+        "label": "ORG",
+        "start": 686,
+        "end": 697
+      },
+      {
+        "text": "Versics",
+        "label": "ORG",
+        "start": 698,
+        "end": 705
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 707,
+        "end": 711
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 748,
+        "end": 758
+      },
+      {
+        "text": "Alter Ego",
+        "label": "PERSON",
+        "start": 783,
+        "end": 792
+      },
+      {
+        "text": "DeepPsy",
+        "label": "ORG",
+        "start": 794,
+        "end": 801
+      },
+      {
+        "text": "Groam",
+        "label": "PERSON",
+        "start": 803,
+        "end": 808
+      },
+      {
+        "text": "Samplab",
+        "label": "ORG",
+        "start": 810,
+        "end": 817
+      },
+      {
+        "text": "This year",
+        "label": "DATE",
+        "start": 831,
+        "end": 840
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 850,
+        "end": 855
+      },
+      {
+        "text": "ETH LegalTech",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "DeepJudge",
+        "label": "ORG",
+        "start": 23,
+        "end": 32
+      },
+      {
+        "text": "around nine percent",
+        "label": "PERCENT",
+        "start": 173,
+        "end": 192
+      },
+      {
+        "text": "20 to 30 percent",
+        "label": "PERCENT",
+        "start": 253,
+        "end": 269
+      },
+      {
+        "text": "each year",
+        "label": "DATE",
+        "start": 270,
+        "end": 279
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 285,
+        "end": 288
+      },
+      {
+        "text": "Versics",
+        "label": "ORG",
+        "start": 298,
+        "end": 305
+      },
+      {
+        "text": "Versics",
+        "label": "ORG",
+        "start": 624,
+        "end": 631
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Kaspar&",
+        "label": "ORG",
+        "start": 13,
+        "end": 20
+      },
+      {
+        "text": "Each year",
+        "label": "DATE",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "around 30 million tons",
+        "label": "QUANTITY",
+        "start": 11,
+        "end": 33
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 175,
+        "end": 178
+      },
+      {
+        "text": "Groam",
+        "label": "PERSON",
+        "start": 305,
+        "end": 310
+      },
+      {
+        "text": "NFT",
+        "label": "ORG",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 318,
+        "end": 321
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 473,
+        "end": 478
+      },
+      {
+        "text": "Finance and Insurance",
+        "label": "ORG",
+        "start": 501,
+        "end": 522
+      },
+      {
+        "text": "DeepPsy",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "ETH physics",
+        "label": "ORG",
+        "start": 44,
+        "end": 55
+      },
+      {
+        "text": "Thirty percent",
+        "label": "PERCENT",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Alter Ego",
+        "label": "ORG",
+        "start": 179,
+        "end": 188
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 212,
+        "end": 215
+      },
+      {
+        "text": "Samplab",
+        "label": "ORG",
+        "start": 355,
+        "end": 362
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 387,
+        "end": 390
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 527,
+        "end": 529
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 670,
+        "end": 673
+      },
+      {
+        "text": "Venture",
+        "label": "ORG",
+        "start": 734,
+        "end": 741
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 745,
+        "end": 756
+      },
+      {
+        "text": "Venture Foundation",
+        "label": "ORG",
+        "start": 827,
+        "end": 845
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 866,
+        "end": 876
+      },
+      {
+        "text": "McKinsey & Company",
+        "label": "ORG",
+        "start": 878,
+        "end": 896
+      },
+      {
+        "text": "Knecht Holding",
+        "label": "ORG",
+        "start": 898,
+        "end": 912
+      },
+      {
+        "text": "Innosuisse",
+        "label": "ORG",
+        "start": 914,
+        "end": 924
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 929,
+        "end": 933
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1023,
+        "end": 1034
+      },
+      {
+        "text": "Each year",
+        "label": "DATE",
+        "start": 1036,
+        "end": 1045
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1082,
+        "end": 1085
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 1103,
+        "end": 1107
+      },
+      {
+        "text": "Health & Nutrition",
+        "label": "ORG",
+        "start": 1129,
+        "end": 1147
+      },
+      {
+        "text": "ICT",
+        "label": "ORG",
+        "start": 1149,
+        "end": 1152
+      },
+      {
+        "text": "Industrials & Technology",
+        "label": "ORG",
+        "start": 1154,
+        "end": 1178
+      },
+      {
+        "text": "Retail & Customer Services and Finance & Insurance",
+        "label": "ORG",
+        "start": 1180,
+        "end": 1230
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 1247,
+        "end": 1250
+      },
+      {
+        "text": "510,000",
+        "label": "CARDINAL",
+        "start": 1251,
+        "end": 1258
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alter Ego",
+        "ETH Zurich",
+        "Groam"
+      ],
+      "ORG": [
+        "Alter Ego",
+        "CHF",
+        "DeepJudge",
+        "DeepPsy",
+        "EPFL",
+        "ETH",
+        "ETH LegalTech",
+        "ETH Zurich",
+        "ETH physics",
+        "Finance and Insurance",
+        "Health & Nutrition",
+        "ICT",
+        "Industrials & Technology",
+        "Innosuisse",
+        "Kaspar&",
+        "Kaspar& and",
+        "Knecht Holding",
+        "McKinsey & Company",
+        "NFT",
+        "Retail & Customer Services and Finance & Insurance",
+        "Samplab",
+        "The Venture Awards",
+        "Venture",
+        "Venture Foundation",
+        "Versics"
+      ],
+      "LOCATION": [
+        "AI",
+        "Switzerland"
+      ],
+      "DATE": [
+        "25th anniversary",
+        "Each year",
+        "This year",
+        "each year",
+        "evening",
+        "this year",
+        "year",
+        "yesterday"
+      ],
+      "MISC": [
+        "2.3 billion",
+        "20 to 30 percent",
+        "500,000",
+        "510,000",
+        "Fifteen",
+        "Swiss",
+        "Thirty percent",
+        "around 30 million tons",
+        "around nine percent",
+        "first",
+        "five",
+        "more than 1,500",
+        "one",
+        "over 15,000",
+        "three",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 8,
+      "CHF": 3,
+      "ETH Zurich": 3,
+      "five": 3,
+      "Versics": 3,
+      "one": 2,
+      "DeepJudge": 2,
+      "Alter Ego": 2,
+      "DeepPsy": 2,
+      "Groam": 2,
+      "Samplab": 2,
+      "first": 2,
+      "Each year": 2,
+      "Switzerland": 2,
+      "The Venture Awards": 1,
+      "Swiss": 1,
+      "25th anniversary": 1,
+      "this year": 1,
+      "more than 1,500": 1,
+      "over 15,000": 1
+    },
+    "total_entities": 76,
+    "unique_entities": 52
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eight-eth-start-ups-win-venture-award.md",
+      "title": "En News Events/2022/06/eight Eth Start Ups Win Venture Award",
+      "language": "en",
+      "source_path": "en_news_events/2022/06/eight-eth-start-ups-win-venture-award.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "1997",
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Alter Ego",
+        "ETH Zurich",
+        "Groam"
+      ],
+      "people_with_roles": {
+        "Alter Ego": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "climate_change",
+        "medical_research",
+        "technology",
+        "engineering",
+        "computer_science"
+      ],
+      "research_topics": [
+        "2.3 billion",
+        "20 to 30 percent",
+        "500,000",
+        "510,000",
+        "Fifteen",
+        "Swiss",
+        "Thirty percent",
+        "around 30 million tons",
+        "around nine percent",
+        "first",
+        "five",
+        "more than 1,500",
+        "over 15,000",
+        "three"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "The ETH",
+        "En News",
+        "Eth Start",
+        "The Venture",
+        "Venture Award",
+        "Using AI",
+        "An NFT",
+        "Alter Ego",
+        "Knecht Holding",
+        "ETH Zurich",
+        "Ups Win",
+        "ETH LegalTech",
+        "Venture Foundation",
+        "Customer Services"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Alter Ego",
+        "CHF",
+        "DeepJudge",
+        "DeepPsy",
+        "EPFL",
+        "ETH",
+        "ETH LegalTech",
+        "ETH Zurich",
+        "ETH physics",
+        "Finance and Insurance",
+        "Health & Nutrition",
+        "ICT",
+        "Industrials & Technology",
+        "Innosuisse",
+        "Kaspar&",
+        "Kaspar& and",
+        "Knecht Holding",
+        "McKinsey & Company",
+        "NFT",
+        "Retail & Customer Services and Finance & Insurance",
+        "Samplab",
+        "The Venture Awards",
+        "Venture",
+        "Venture Foundation",
+        "Versics"
+      ],
+      "locations": [
+        "AI",
+        "Switzerland"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "CHF",
+        "ETH Zurich",
+        "five",
+        "Versics",
+        "one",
+        "DeepJudge",
+        "Alter Ego",
+        "DeepPsy",
+        "Groam"
+      ],
+      "document_structure": {
+        "total_sections": 9,
+        "section_titles": [
+          "Artificial intelligence for lawyers",
+          "Artificial intelligence for lawyers",
+          "An app for making payments and investments",
+          "Fast data transfer with new circuits",
+          "An app for making payments and investments",
+          "Sustainable foams made from agricultural waste",
+          "A new platform for secure NFTs",
+          "Algorithms for better psychiatric treatment",
+          "Shopping online with your avatar"
+        ],
+        "content_length": 5369
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Industrials & Technology",
+        "EPFL",
+        "CHF",
+        "ETH",
+        "McKinsey & Company",
+        "NFT",
+        "DeepJudge",
+        "Versics",
+        "ERC",
+        "The Venture Awards",
+        "DeepPsy",
+        "2022",
+        "Knecht Holding",
+        "Kaspar&",
+        "Venture",
+        "Venture Foundation",
+        "Health & Nutrition",
+        "ICT",
+        "EU",
+        "Alter Ego",
+        "Finance and Insurance",
+        "1997",
+        "Innosuisse",
+        "Samplab",
+        "Retail & Customer Services and Finance & Insurance",
+        "Kaspar& and",
+        "ETH physics",
+        "ETH Zurich",
+        "ETH LegalTech",
+        "Groam"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "510,000",
+        "when",
+        "engineering",
+        "around 30 million tons",
+        "Thirty percent",
+        "Fifteen",
+        "where",
+        "medical_research",
+        "who",
+        "around nine percent",
+        "2.3 billion",
+        "what",
+        "how",
+        "computer_science",
+        "five",
+        "climate_change",
+        "first",
+        "500,000",
+        "over 15,000",
+        "Swiss",
+        "more than 1,500",
+        "why",
+        "20 to 30 percent"
+      ],
+      "graph_relations": [
+        "Alter Ego_has_role_student",
+        "research_domain_climate_change",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

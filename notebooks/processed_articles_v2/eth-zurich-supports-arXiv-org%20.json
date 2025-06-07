@@ -1,0 +1,192 @@
+{
+  "filename": "eth-zurich-supports-arXiv-org%20.md",
+  "original_filename": "eth-zurich-supports-arXiv-org%20.html",
+  "source_path": "en_internal/2016/04/eth-zurich-supports-arXiv-org%20.html",
+  "date": "2016-04",
+  "title": "Eth Zurich Supports Arxiv Org%20",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Zurich's scientists are among the top ten users in the world in terms of the number of visits. They also use the opportunity to publish their own research projects on arXiv.org actively.\n\narXiv.org is operated by Cornell University Library and co-funded by nearly 190 institutions worldwide. By offering its support since 2011, ETH-Bibliothek has also been doing its bit to ensure that the full-text database remains at the scientific community’s disposal in the future.\n\nETH-Bibliothek therefore helps boost ETH Zurich's open access strategy , which it is now emphasizing with a \"platinum membership\" of arXiv.org."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Zurich Supports",
+        "label": "ORG",
+        "start": 24,
+        "end": 39
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "Cornell University Library",
+        "label": "ORG",
+        "start": 216,
+        "end": 242
+      },
+      {
+        "text": "nearly 190",
+        "label": "CARDINAL",
+        "start": 260,
+        "end": 270
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 331,
+        "end": 345
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "ORG",
+        "start": 474,
+        "end": 488
+      },
+      {
+        "text": "ETH Zurich's",
+        "label": "PERSON",
+        "start": 511,
+        "end": 523
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich's"
+      ],
+      "ORG": [
+        "Cornell University Library",
+        "ETH-Bibliothek",
+        "Zurich Supports"
+      ],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "nearly 190",
+        "ten"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich's": 2,
+      "ETH-Bibliothek": 2,
+      "Zurich Supports": 1,
+      "ten": 1,
+      "Cornell University Library": 1,
+      "nearly 190": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-zurich-supports-arXiv-org%20.md",
+      "title": "En Internal/2016/04/eth Zurich Supports Arxiv Org%20",
+      "language": "en",
+      "source_path": "en_internal/2016/04/eth-zurich-supports-arXiv-org%20.html"
+    },
+    "temporal": {
+      "publication_date": "2016-04",
+      "mentioned_years": [
+        "2011",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich's"
+      ],
+      "people_with_roles": {
+        "ETH Zurich's": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "nearly 190"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH-Bibliothek",
+        "Arxiv Org",
+        "Zurich Supports",
+        "En Internal",
+        "Cornell University",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cornell University Library",
+        "ETH-Bibliothek",
+        "Zurich Supports"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zurich's",
+        "ETH-Bibliothek",
+        "Zurich Supports",
+        "ten",
+        "Cornell University Library",
+        "nearly 190"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 672
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH-Bibliothek",
+        "Cornell University Library",
+        "2011",
+        "2016",
+        "Zurich Supports",
+        "ETH Zurich's"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "nearly 190",
+        "what",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich's_has_role_scientist",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

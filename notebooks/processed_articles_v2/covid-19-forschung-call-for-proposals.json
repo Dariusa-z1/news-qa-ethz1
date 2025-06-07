@@ -1,0 +1,237 @@
+{
+  "filename": "covid-19-forschung-call-for-proposals.md",
+  "original_filename": "covid-19-forschung-call-for-proposals.html",
+  "source_path": "de_internal/2020/03/covid-19-forschung-call-for-proposals.html",
+  "date": "2020-03",
+  "title": "Covid 19 Forschung Call For Proposals",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Das Zentrum lädt Forscher aus seinen vier Partnerinstitutionen (ETH Zürich, Universität Basel, Universitätskinderspital Basel und Schweizerisches Tropen- und Gesundheitsinstitut) ein, Projekte einzureichen, die einen Beitrag zur COVID-19-Pandemie leisten können.\n\nDie zu berücksichtigenden Forschungsbereiche sind die Diagnostik von COVID-19, die menschliche Immunantwort auf COVID-19 sowie medizinische Interventionen und das Krankheitsmanagement für COVID-19.\n\nDie Anträge müssen von mindestens einem Hauptforscher, einer Hauptforscherin, aus den Partnerinstitutionen geleitet werden. Die Projekte werden voraussichtlich eine Laufzeit von 2,5 Jahren haben und zwischen 0,5 und 2,5 Mio. CHF liegen. Einreichungsschluss ist Mittwoch, der 8. April.\n\nDetails zur Ausschreibung und zur Bewerbung finden sich unter externe Seite http://brc.ch/ftc ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2020/03/covid 19",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "Call For Proposals",
+        "label": "ORG",
+        "start": 39,
+        "end": 57
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 64,
+        "end": 74
+      },
+      {
+        "text": "Universität Basel",
+        "label": "ORG",
+        "start": 76,
+        "end": 93
+      },
+      {
+        "text": "Universitätskinderspital Basel",
+        "label": "ORG",
+        "start": 95,
+        "end": 125
+      },
+      {
+        "text": "Schweizerisches",
+        "label": "MISC",
+        "start": 130,
+        "end": 145
+      },
+      {
+        "text": "COVID-19-Pandemie",
+        "label": "ORG",
+        "start": 229,
+        "end": 246
+      },
+      {
+        "text": "COVID-19",
+        "label": "LOC",
+        "start": 375,
+        "end": 383
+      },
+      {
+        "text": "Krankheitsmanagement",
+        "label": "MISC",
+        "start": 426,
+        "end": 446
+      },
+      {
+        "text": "COVID-19.",
+        "label": "ORG",
+        "start": 451,
+        "end": 460
+      },
+      {
+        "text": "Partnerinstitutionen",
+        "label": "LOC",
+        "start": 547,
+        "end": 567
+      },
+      {
+        "text": "CHF",
+        "label": "MISC",
+        "start": 686,
+        "end": 689
+      },
+      {
+        "text": "Mittwoch",
+        "label": "PER",
+        "start": 722,
+        "end": 730
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Mittwoch"
+      ],
+      "ORG": [
+        "COVID-19-Pandemie",
+        "COVID-19.",
+        "Call For Proposals",
+        "ETH Zürich",
+        "Universität Basel",
+        "Universitätskinderspital Basel"
+      ],
+      "LOCATION": [
+        "COVID-19",
+        "De Internal/2020/03/covid 19",
+        "Partnerinstitutionen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "CHF",
+        "Krankheitsmanagement",
+        "Schweizerisches"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2020/03/covid 19": 1,
+      "Call For Proposals": 1,
+      "ETH Zürich": 1,
+      "Universität Basel": 1,
+      "Universitätskinderspital Basel": 1,
+      "Schweizerisches": 1,
+      "COVID-19-Pandemie": 1,
+      "COVID-19": 1,
+      "Krankheitsmanagement": 1,
+      "COVID-19.": 1,
+      "Partnerinstitutionen": 1,
+      "CHF": 1,
+      "Mittwoch": 1
+    },
+    "total_entities": 13,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "covid-19-forschung-call-for-proposals.md",
+      "title": "De Internal/2020/03/covid 19 Forschung Call For Proposals",
+      "language": "de",
+      "source_path": "de_internal/2020/03/covid-19-forschung-call-for-proposals.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Mittwoch"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Krankheitsmanagement",
+        "Schweizerisches"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "For Proposals",
+        "Schweizerisches Tropen",
+        "De Internal",
+        "Forschung Call",
+        "Die Projekte",
+        "Das Zentrum"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "COVID-19-Pandemie",
+        "COVID-19.",
+        "Call For Proposals",
+        "ETH Zürich",
+        "Universität Basel",
+        "Universitätskinderspital Basel"
+      ],
+      "locations": [
+        "COVID-19",
+        "De Internal/2020/03/covid 19",
+        "Partnerinstitutionen"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2020/03/covid 19",
+        "Call For Proposals",
+        "ETH Zürich",
+        "Universität Basel",
+        "Universitätskinderspital Basel",
+        "Schweizerisches",
+        "COVID-19-Pandemie",
+        "COVID-19",
+        "Krankheitsmanagement",
+        "COVID-19."
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 902
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Universität Basel",
+        "Mittwoch",
+        "COVID-19.",
+        "COVID-19-Pandemie",
+        "Call For Proposals",
+        "2020",
+        "ETH Zürich",
+        "Universitätskinderspital Basel"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Schweizerisches",
+        "Krankheitsmanagement"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

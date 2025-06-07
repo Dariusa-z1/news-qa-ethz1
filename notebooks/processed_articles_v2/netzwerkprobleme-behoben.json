@@ -1,0 +1,152 @@
+{
+  "filename": "netzwerkprobleme-behoben.md",
+  "original_filename": "netzwerkprobleme-behoben.html",
+  "source_path": "de_internal/2016/09/netzwerkprobleme-behoben.html",
+  "date": "2016-09",
+  "title": "Netzwerkprobleme Behoben",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Ein Ausfall einer Hardware-Komponente führte heute Morgen ab 8.15 Uhr zu einer umfassenden Störung des ETH-Netzwerks. Es kam zu Problemen mit der Firewall, weshalb unter anderem die Zustellung und das Versenden von Emails, das Ausdrucken von Dokumenten oder der Zugang zu internen Laufwerken nicht oder nur eingeschränkt möglich war. Betroffen waren etwa 100 Netzwerkzonen, je nach Usergruppe zeigten sich unterschiedliche Fehlermuster. Auch der Zugriff auf die Website der ETH Zürich war zeitweise nur eingeschränkt möglich.\n\nMit dem Ersatz der Hardware in Zusammenarbeit mit dem externen Lieferanten konnte die Störung bis gegen Mittag behoben werden. Seit kurz vor 13.00 Uhr läuft das Netzwerk wieder normal, sämtliche Dienste sind wieder verfügbar. Die Informatikdienste bitten um Entschuldigung."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/09",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ETH-Netzwerks",
+        "label": "ORG",
+        "start": 103,
+        "end": 116
+      },
+      {
+        "text": "Emails",
+        "label": "LOC",
+        "start": 215,
+        "end": 221
+      },
+      {
+        "text": "Usergruppe",
+        "label": "LOC",
+        "start": 382,
+        "end": 392
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 474,
+        "end": 484
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "ETH Zürich",
+        "ETH-Netzwerks"
+      ],
+      "LOCATION": [
+        "De Internal/2016/09",
+        "Emails",
+        "Usergruppe"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2016/09": 1,
+      "ETH-Netzwerks": 1,
+      "Emails": 1,
+      "Usergruppe": 1,
+      "ETH Zürich": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "netzwerkprobleme-behoben.md",
+      "title": "De Internal/2016/09/netzwerkprobleme Behoben",
+      "language": "de",
+      "source_path": "de_internal/2016/09/netzwerkprobleme-behoben.html"
+    },
+    "temporal": {
+      "publication_date": "2016-09",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "ETH-Netzwerks",
+        "Die Informatikdienste",
+        "De Internal",
+        "Hardware-Komponente",
+        "Behoben Ein"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "ETH-Netzwerks"
+      ],
+      "locations": [
+        "De Internal/2016/09",
+        "Emails",
+        "Usergruppe"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2016/09",
+        "ETH-Netzwerks",
+        "Emails",
+        "Usergruppe",
+        "ETH Zürich"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 845
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "ETH-Netzwerks",
+        "EU",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

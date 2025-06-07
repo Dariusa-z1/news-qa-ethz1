@@ -1,0 +1,202 @@
+{
+  "filename": "globe-praesidentin-der-eth-alumni-vereinigung-ueber-neue-vernetzungsprogramme-und-ungenutztes-potenzial.md",
+  "original_filename": "globe-praesidentin-der-eth-alumni-vereinigung-ueber-neue-vernetzungsprogramme-und-ungenutztes-potenzial.html",
+  "source_path": "de_news_events/2024/06/globe-praesidentin-der-eth-alumni-vereinigung-ueber-neue-vernetzungsprogramme-und-ungenutztes-potenzial.html",
+  "date": "2024-06",
+  "title": "Globe Praesidentin Der Eth Alumni Vereinigung Ueber Neue Vernetzungsprogramme Und Ungenutztes Potenzial",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Zur Person",
+      "text": "Jeannine Pilloud schloss an der ETH Zürich ein Architekturstudium ab und wirkte im Laufe ihrer Karriere in unterschiedlichen Branchen. Einer breiteren Öffentlichkeit bekannt wurde sie als Leiterin Personenverkehr der SBB. Im Mai 2023 übernahm sie das Präsidium der ETH Alumni Vereinigung als ehrenamtliche Aufgabe. Seit Juli 2023 ist sie im Bereich der Vizepräsidentin Wissenstransfer und Wirtschaftsbeziehungen der ETH Zürich zuständig für Partnerschaften mit der Industrie und Institutionen."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Eth Alumni Vereinigung",
+        "label": "LOC",
+        "start": 46,
+        "end": 68
+      },
+      {
+        "text": "Jeannine Pilloud",
+        "label": "PER",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 32,
+        "end": 42
+      },
+      {
+        "text": "SBB",
+        "label": "ORG",
+        "start": 217,
+        "end": 220
+      },
+      {
+        "text": "ETH Alumni Vereinigung",
+        "label": "ORG",
+        "start": 265,
+        "end": 287
+      },
+      {
+        "text": "Wissenstransfer",
+        "label": "LOC",
+        "start": 369,
+        "end": 384
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 416,
+        "end": 426
+      },
+      {
+        "text": "Partnerschaften",
+        "label": "LOC",
+        "start": 441,
+        "end": 456
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Jeannine Pilloud"
+      ],
+      "ORG": [
+        "ETH Alumni Vereinigung",
+        "ETH Zürich",
+        "SBB"
+      ],
+      "LOCATION": [
+        "Eth Alumni Vereinigung",
+        "Partnerschaften",
+        "Wissenstransfer"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH Zürich": 2,
+      "Eth Alumni Vereinigung": 1,
+      "Jeannine Pilloud": 1,
+      "SBB": 1,
+      "ETH Alumni Vereinigung": 1,
+      "Wissenstransfer": 1,
+      "Partnerschaften": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "globe-praesidentin-der-eth-alumni-vereinigung-ueber-neue-vernetzungsprogramme-und-ungenutztes-potenzial.md",
+      "title": "De News Events/2024/06/globe Praesidentin der Eth Alumni Vereinigung Ueber Neue Vernetzungsprogramme und Ungenutztes Potenzial",
+      "language": "de",
+      "source_path": "de_news_events/2024/06/globe-praesidentin-der-eth-alumni-vereinigung-ueber-neue-vernetzungsprogramme-und-ungenutztes-potenzial.html"
+    },
+    "temporal": {
+      "publication_date": "2024-06",
+      "mentioned_years": [
+        "2023",
+        "2024"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Jeannine Pilloud"
+      ],
+      "people_with_roles": {
+        "Jeannine Pilloud": [
+          "alumni"
+        ]
+      },
+      "institutional_roles": [
+        "alumni"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Im Mai",
+        "Eth Alumni",
+        "ETH Alumni",
+        "Ungenutztes Potenzial",
+        "Leiterin Personenverkehr",
+        "De News",
+        "Seit Juli",
+        "Jeannine Pilloud",
+        "Neue Vernetzungsprogramme",
+        "Vereinigung Ueber"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Alumni Vereinigung",
+        "ETH Zürich",
+        "SBB"
+      ],
+      "locations": [
+        "Eth Alumni Vereinigung",
+        "Partnerschaften",
+        "Wissenstransfer"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "ETH Zürich",
+        "Eth Alumni Vereinigung",
+        "Jeannine Pilloud",
+        "SBB",
+        "ETH Alumni Vereinigung",
+        "Wissenstransfer",
+        "Partnerschaften"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Zur Person"
+        ],
+        "content_length": 620
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2024",
+        "EU",
+        "SBB",
+        "ETH Zürich",
+        "ETH Alumni Vereinigung",
+        "Jeannine Pilloud",
+        "2023"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who"
+      ],
+      "graph_relations": [
+        "Jeannine Pilloud_has_role_alumni",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

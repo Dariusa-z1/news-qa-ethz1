@@ -1,0 +1,684 @@
+{
+  "filename": "if-one-link-fails-the-entire-chain-breaks.md",
+  "original_filename": "if-one-link-fails-the-entire-chain-breaks.html",
+  "source_path": "en_news_events/2014/09/if-one-link-fails-the-entire-chain-breaks.html",
+  "date": "2014-09",
+  "title": "If One Link Fails The Entire Chain Breaks",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "ETH Zurich mandate at risk",
+      "text": "Before the year is out, the Swiss Federal Council plans to adopt a mandate for renegotiation Switzerland’s agreement with the EU on the free movement of persons. At the same time, it intends to submit a draft act on how Switzerland can control its own immigration policy.\n\nSince the referendum on 9 February 2014, a constitutional mandate has been in place which stipulates that Switzerland must restrict the number of residence permits granted to foreign citizens by introducing annual maximum limits and quotas from 2017.\n\nThis restriction will also affect foreign staff and students at Swiss universities. Politicians will discuss the extent to which researchers and students will be subject to quotas in future (there is a certain amount of leeway for students, for example) over the coming months."
+    },
+    {
+      "heading": "ETH Zurich mandate at risk",
+      "text": "In the long term, excessive restrictions on immigration will pose a threat to ETH Zurich’s mandate to expand its position at the forefront of international education and research and share its findings with Swiss business and society. “We have a mandate to ensure that Switzerland has access to globally available knowledge. To fulfil this mandate, we need to secure the top talent.”\n\nThose were the words of Lino Guzzella, Rector and President-elect of ETH Zurich, speaking before members of the Parliament in Berne last Thursday in a session organised by the Parliamentary Group on Education, Research and Innovation ( PG BFI ) and the FUTURE network . Lino Guzzella was joined on the podium by Silvio Ponti, Deputy CEO of the specialty chemicals company Sika and an ETH graduate, and Mario Gattiker, Director of the Federal Office for Migration.\n\nLino Guzzella expressed his dissatisfaction with the latest developments, pointing out that science depends on international exchange and that the foreign professors, who make up two thirds of ETH Zurich’s professorial staff, play a hugely important role in securing the university’s international status and networks."
+    },
+    {
+      "heading": "Dependant on access to world markets",
+      "text": "Guzzella and the industry representative agreed that both research and production must have free access to global markets if they are to avoid descending into mediocrity. “I don’t want to have to beg for quotas, but the signs are not good,” Guzzella said, commenting on the immigration restrictions. That applies to both ETH Zurich and research-based industry. “Even if just a single link fails, the entire chain breaks,” Guzzella concluded.\n\nHe warned that a decline of this kind would not happen instantly, but would gradually creep in over the next 20 years. However, dark clouds have already started to appear on the horizon: the European Union, for example, has made any access to its markets dependent on the Agreement on the Free Movement of Persons.\n\nWhat is more, young Swiss talent is now excluded from participating in European research competitions for pupils. “Making the future difficult for young people cannot be a good thing,” said Guzzella. Switzerland is also no longer fully associated with the Erasmus + and Horizon 2020 research programmes.\n\nThe future of Switzerland’s participation in the EU programmes has been a topic in every recent interview with researchers interested in undertaking a professorship at ETH Zurich. In Guzzella’s view, it is clear that the uncertain situation is currently undermining ETH compared to other top universities.\n\nHe conceded that things are still going well at the moment as the professors already employed at ETH Zurich are staying put. “But in 20 years’ time,” he added, “we will find that we are only a third-rate institution.”\n\nAnd what is the situation at ETH Zurich in terms of giving priority to Swiss candidates, which is also stipulated by the constitutional mandate? Swiss students dominate the ETH student body and the Swiss are also very well represented from doctorial to professorial levels: “Even if we exhaust the pool of talent available in Switzerland, that will not be enough to keep us in a competitive position.”\n\nIn the discussion following Guzzella’s speech, it was said that quotas do not necessarily mean a damaging effect on research, what matters most is how they are organised. It was suggested that politicians cannot set quotas purely in relation to the labour market and education; instead, an assessment encompassing the whole of society is required."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "the year",
+        "label": "DATE",
+        "start": 7,
+        "end": 15
+      },
+      {
+        "text": "the Swiss Federal Council",
+        "label": "ORG",
+        "start": 24,
+        "end": 49
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 93,
+        "end": 104
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 126,
+        "end": 128
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 220,
+        "end": 231
+      },
+      {
+        "text": "9 February 2014",
+        "label": "DATE",
+        "start": 296,
+        "end": 311
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 378,
+        "end": 389
+      },
+      {
+        "text": "annual",
+        "label": "DATE",
+        "start": 479,
+        "end": 485
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 587,
+        "end": 592
+      },
+      {
+        "text": "the coming months",
+        "label": "DATE",
+        "start": 782,
+        "end": 799
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 78,
+        "end": 90
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 207,
+        "end": 212
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 269,
+        "end": 280
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 408,
+        "end": 421
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 453,
+        "end": 463
+      },
+      {
+        "text": "Parliament",
+        "label": "ORG",
+        "start": 496,
+        "end": 506
+      },
+      {
+        "text": "Berne",
+        "label": "ORG",
+        "start": 510,
+        "end": 515
+      },
+      {
+        "text": "last Thursday",
+        "label": "DATE",
+        "start": 516,
+        "end": 529
+      },
+      {
+        "text": "the Parliamentary Group on Education",
+        "label": "ORG",
+        "start": 556,
+        "end": 592
+      },
+      {
+        "text": "Research and Innovation",
+        "label": "ORG",
+        "start": 594,
+        "end": 617
+      },
+      {
+        "text": "FUTURE",
+        "label": "ORG",
+        "start": 637,
+        "end": 643
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 654,
+        "end": 667
+      },
+      {
+        "text": "Silvio Ponti",
+        "label": "PERSON",
+        "start": 696,
+        "end": 708
+      },
+      {
+        "text": "Sika",
+        "label": "PERSON",
+        "start": 756,
+        "end": 760
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 768,
+        "end": 771
+      },
+      {
+        "text": "Mario Gattiker",
+        "label": "PERSON",
+        "start": 786,
+        "end": 800
+      },
+      {
+        "text": "the Federal Office for Migration",
+        "label": "ORG",
+        "start": 814,
+        "end": 846
+      },
+      {
+        "text": "Lino Guzzella",
+        "label": "PERSON",
+        "start": 848,
+        "end": 861
+      },
+      {
+        "text": "two thirds",
+        "label": "CARDINAL",
+        "start": 1027,
+        "end": 1037
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 1041,
+        "end": 1053
+      },
+      {
+        "text": "Guzzella",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Guzzella",
+        "label": "PERSON",
+        "start": 241,
+        "end": 249
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 321,
+        "end": 331
+      },
+      {
+        "text": "Guzzella",
+        "label": "PERSON",
+        "start": 422,
+        "end": 430
+      },
+      {
+        "text": "the next 20 years",
+        "label": "DATE",
+        "start": 542,
+        "end": 559
+      },
+      {
+        "text": "the European Union",
+        "label": "ORG",
+        "start": 629,
+        "end": 647
+      },
+      {
+        "text": "the Agreement on the Free Movement of Persons",
+        "label": "WORK_OF_ART",
+        "start": 710,
+        "end": 755
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 777,
+        "end": 782
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 828,
+        "end": 836
+      },
+      {
+        "text": "Guzzella",
+        "label": "PERSON",
+        "start": 947,
+        "end": 955
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 957,
+        "end": 968
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 1027,
+        "end": 1039
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1075,
+        "end": 1086
+      },
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 1110,
+        "end": 1112
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1229,
+        "end": 1239
+      },
+      {
+        "text": "Guzzella",
+        "label": "PERSON",
+        "start": 1244,
+        "end": 1252
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1327,
+        "end": 1330
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 1464,
+        "end": 1474
+      },
+      {
+        "text": "20 years",
+        "label": "DATE",
+        "start": 1500,
+        "end": 1508
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 1560,
+        "end": 1565
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1614,
+        "end": 1624
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1656,
+        "end": 1661
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1730,
+        "end": 1735
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1758,
+        "end": 1761
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 1783,
+        "end": 1788
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1911,
+        "end": 1922
+      },
+      {
+        "text": "Guzzella",
+        "label": "PERSON",
+        "start": 2015,
+        "end": 2023
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Guzzella",
+        "Lino Guzzella",
+        "Mario Gattiker",
+        "Sika",
+        "Silvio Ponti"
+      ],
+      "ORG": [
+        "Berne",
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "FUTURE",
+        "Parliament",
+        "Research and Innovation",
+        "the European Union",
+        "the Federal Office for Migration",
+        "the Parliamentary Group on Education",
+        "the Swiss Federal Council"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Switzerland"
+      ],
+      "DATE": [
+        "20 years",
+        "9 February 2014",
+        "annual",
+        "last Thursday",
+        "the coming months",
+        "the next 20 years",
+        "the year"
+      ],
+      "MISC": [
+        "European",
+        "Horizon 2020",
+        "One",
+        "Swiss",
+        "the Agreement on the Free Movement of Persons",
+        "third",
+        "two thirds"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 7,
+      "Swiss": 6,
+      "Guzzella": 6,
+      "ETH Zurich": 5,
+      "Lino Guzzella": 3,
+      "ETH": 3,
+      "EU": 2,
+      "ETH Zurich’s": 2,
+      "One": 1,
+      "the year": 1,
+      "the Swiss Federal Council": 1,
+      "9 February 2014": 1,
+      "annual": 1,
+      "the coming months": 1,
+      "Parliament": 1,
+      "Berne": 1,
+      "last Thursday": 1,
+      "the Parliamentary Group on Education": 1,
+      "Research and Innovation": 1,
+      "FUTURE": 1
+    },
+    "total_entities": 58,
+    "unique_entities": 32
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "if-one-link-fails-the-entire-chain-breaks.md",
+      "title": "En News Events/2014/09/if One Link Fails The Entire Chain Breaks",
+      "language": "en",
+      "source_path": "en_news_events/2014/09/if-one-link-fails-the-entire-chain-breaks.html"
+    },
+    "temporal": {
+      "publication_date": "2014-09",
+      "mentioned_years": [
+        "2014",
+        "2017",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "Guzzella",
+        "Lino Guzzella",
+        "Mario Gattiker",
+        "Sika",
+        "Silvio Ponti"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "professor",
+          "president",
+          "researcher",
+          "rector"
+        ],
+        "ETH Zurich’s": [
+          "professor"
+        ],
+        "Guzzella": [
+          "rector",
+          "professor",
+          "graduate",
+          "director",
+          "president"
+        ],
+        "Lino Guzzella": [
+          "rector",
+          "professor",
+          "graduate",
+          "director",
+          "president"
+        ],
+        "Mario Gattiker": [
+          "director",
+          "rector",
+          "graduate"
+        ],
+        "Sika": [
+          "director",
+          "rector",
+          "graduate"
+        ],
+        "Silvio Ponti": [
+          "director",
+          "rector",
+          "graduate"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "rector",
+        "professor",
+        "director",
+        "researcher",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "European",
+        "Horizon 2020",
+        "Swiss",
+        "the Agreement on the Free Movement of Persons",
+        "third",
+        "two thirds"
+      ],
+      "grants_funding": [
+        "EU",
+        "Horizon",
+        "grant"
+      ],
+      "projects": [
+        "Fails The",
+        "Swiss Federal",
+        "Parliamentary Group",
+        "Silvio Ponti",
+        "In Guzzella",
+        "En News",
+        "PG BFI",
+        "Federal Office",
+        "One Link",
+        "Breaks Before",
+        "European Union",
+        "Deputy CEO",
+        "Entire Chain",
+        "Lino Guzzella",
+        "ETH Zurich",
+        "Mario Gattiker",
+        "Free Movement"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Berne",
+        "ETH",
+        "ETH Zurich",
+        "EU",
+        "FUTURE",
+        "Parliament",
+        "Research and Innovation",
+        "the European Union",
+        "the Federal Office for Migration",
+        "the Parliamentary Group on Education",
+        "the Swiss Federal Council"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "programme",
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "Swiss",
+        "Guzzella",
+        "ETH Zurich",
+        "Lino Guzzella",
+        "ETH",
+        "EU",
+        "ETH Zurich’s",
+        "One",
+        "the year"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "ETH Zurich mandate at risk",
+          "ETH Zurich mandate at risk",
+          "Dependant on access to world markets"
+        ],
+        "content_length": 4377
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "grant",
+        "2020",
+        "the Federal Office for Migration",
+        "ETH Zurich’s",
+        "the European Union",
+        "Berne",
+        "Lino Guzzella",
+        "Mario Gattiker",
+        "the Parliamentary Group on Education",
+        "Research and Innovation",
+        "2014",
+        "Silvio Ponti",
+        "Parliament",
+        "EU",
+        "Sika",
+        "FUTURE",
+        "the Swiss Federal Council",
+        "2017",
+        "Guzzella",
+        "ETH Zurich",
+        "Horizon"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "third",
+        "the Agreement on the Free Movement of Persons",
+        "two thirds",
+        "who",
+        "Horizon 2020",
+        "Swiss",
+        "chemistry",
+        "what",
+        "how",
+        "European",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_professor",
+        "ETH Zurich_has_role_president",
+        "ETH Zurich_has_role_researcher",
+        "ETH Zurich_has_role_rector",
+        "ETH Zurich’s_has_role_professor",
+        "Guzzella_has_role_rector",
+        "Guzzella_has_role_professor",
+        "Guzzella_has_role_graduate",
+        "Guzzella_has_role_director",
+        "Guzzella_has_role_president",
+        "Lino Guzzella_has_role_rector",
+        "Lino Guzzella_has_role_professor",
+        "Lino Guzzella_has_role_graduate",
+        "Lino Guzzella_has_role_director",
+        "Lino Guzzella_has_role_president",
+        "Mario Gattiker_has_role_director",
+        "Mario Gattiker_has_role_rector",
+        "Mario Gattiker_has_role_graduate",
+        "Sika_has_role_director",
+        "Sika_has_role_rector",
+        "Sika_has_role_graduate",
+        "Silvio Ponti_has_role_director",
+        "Silvio Ponti_has_role_rector",
+        "Silvio Ponti_has_role_graduate",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

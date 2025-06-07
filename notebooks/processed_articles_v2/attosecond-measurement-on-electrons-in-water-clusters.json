@@ -1,0 +1,441 @@
+{
+  "filename": "attosecond-measurement-on-electrons-in-water-clusters.md",
+  "original_filename": "attosecond-measurement-on-electrons-in-water-clusters.html",
+  "source_path": "en_news_events/2022/07/attosecond-measurement-on-electrons-in-water-clusters.html",
+  "date": "2022-07",
+  "title": "Attosecond Measurement On Electrons In Water Clusters",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Time delay in ionisation",
+      "text": "Virtually all vital chemical processes take place in aqueous solutions. In such processes, a decisive role is played by electrons that are exchanged between different atoms and molecules and thus, for instance, create or break chemical bonds. The details of how that happens, however, are difficult to investigate as those electrons move very fast. Researchers at ETH Zurich led by Hans Jakob Wörner, professor of physical chemistry, in collaboration with colleagues at Lawrence Berkeley National Laboratory (USA) have now succeeded in studying the dynamics of electrons in clusters made of water molecules with a time resolution of just a few attoseconds. Their results recently appeared as an advance publication in the scientific journal Nature."
+    },
+    {
+      "heading": "Attosecond resolution with two laser pulses",
+      "text": "In their experiments, the scientists studied how water clusters are ionised by a short laser pulse in the extreme ultraviolet. To that end, clusters are first created by squeezing water vapour through a tiny nozzle under high pressure. The energy of the extreme ultraviolet photons of the laser pulse then cause one electron of the cluster to be released. This leads to a vacancy also known as a “hole”.\n\nThe release of the electron, however, does not occur immediately after the arrival of the pulse, but rather after a short delay. That delay depends on how the electron hole is distributed across the molecules of the cluster. “Up to now, the distribution of the hole could only be calculated theoretically, as the delay is far too short to be measured with traditional methods”, explains Xiaochun Gong, the post-doc who was in charge of the project."
+    },
+    {
+      "heading": "Attosecond resolution with two laser pulses",
+      "text": "The delay actually only lasts a few attoseconds, or a few billionths of a billionth of a second. To appreciate how short an attosecond is, one can make the following comparison: the number of attoseconds in a single second is roughly the number of seconds in 32 billion years.\n\nTo be able to measure the extremely short periods of a few attoseconds, Wörner and his collaborators split up a very intense infrared laser pulse into two parts, one of which was converted to the extreme ultraviolet by frequency multiplication in a noble gas. They overlapped the two pulses and aimed both at the water clusters.\n\nThe infrared pulse modified the energy of the electrons ejected by the ultraviolet laser pulse. The oscillatory phase of the infrared laser pulse could be tuned very precisely using an interferometer. The number of ionisation events, measured with the help of detectors, varied depending on the oscillatory phase. From those measurements, in turn, the researchers could then directly read off the ionisation delay."
+    },
+    {
+      "heading": "Reference",
+      "text": "“Since we were able to determine the size of the original water cluster for each ionisation event using a mass spectrometer, we could show that the delay depends on the size of the cluster”, says Saijoscha Heck, a PhD student in Wörner’s group. Up to a cluster size of four water molecules the delay increases steadily to around one hundred attoseconds. For five or more water molecules, however, it stays practically constant. This is related to the high degree of symmetry exhibited by small clusters, which allows the electron hole to spread out across the entire cluster according to the rules of quantum mechanics. By contrast, lager clusters are rather asymmetric and disordered and hence the hole localises on a few water molecules.\n\n“With these attosecond measurements we’ve opened up completely new research opportunities”, says Wörner. He is already planning follow-up experiments in which he wants to resolve the dynamics of the electron hole both spatially and temporally using additional laser pulses. Amongst other things, Wörner hopes that this will lead to a better understanding of how radiation damage develops in biological tissue, given that the ionisation of water plays a dominant role in that process. But Wörner also sees various possible applications beyond research on electron dynamics in water. For instance, to realise faster electronic components a profound understanding of the spatial extension of electron and hole states and their evolution in time is indispensable. Here, the new technique developed by the ETH researchers could be extremely useful.\n\nGong X, Heck S, Jelovina D. et al. Attosecond spectroscopy of size-resolved water clusters. Nature, 12. Juli 2022. DOI: 10.1038/s41586-022-05039-8"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 364,
+        "end": 374
+      },
+      {
+        "text": "Hans Jakob Wörner",
+        "label": "PERSON",
+        "start": 382,
+        "end": 399
+      },
+      {
+        "text": "Lawrence Berkeley National Laboratory (USA",
+        "label": "ORG",
+        "start": 470,
+        "end": 512
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 741,
+        "end": 747
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 153,
+        "end": 158
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 312,
+        "end": 315
+      },
+      {
+        "text": "Xiaochun Gong",
+        "label": "PERSON",
+        "start": 791,
+        "end": 804
+      },
+      {
+        "text": "a few billionths",
+        "label": "CARDINAL",
+        "start": 52,
+        "end": 68
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 89,
+        "end": 95
+      },
+      {
+        "text": "seconds",
+        "label": "TIME",
+        "start": 248,
+        "end": 255
+      },
+      {
+        "text": "32 billion years",
+        "label": "DATE",
+        "start": 259,
+        "end": 275
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 349,
+        "end": 355
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 428,
+        "end": 431
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 439,
+        "end": 442
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 557,
+        "end": 560
+      },
+      {
+        "text": "Saijoscha Heck",
+        "label": "PERSON",
+        "start": 196,
+        "end": 210
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 214,
+        "end": 217
+      },
+      {
+        "text": "Wörner’s",
+        "label": "ORG",
+        "start": 229,
+        "end": 237
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 269,
+        "end": 273
+      },
+      {
+        "text": "around one hundred",
+        "label": "CARDINAL",
+        "start": 322,
+        "end": 340
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 358,
+        "end": 362
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 837,
+        "end": 843
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 1036,
+        "end": 1042
+      },
+      {
+        "text": "Wörner",
+        "label": "PERSON",
+        "start": 1228,
+        "end": 1234
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1541,
+        "end": 1544
+      },
+      {
+        "text": "Jelovina D. et",
+        "label": "PERSON",
+        "start": 1600,
+        "end": 1614
+      },
+      {
+        "text": "Attosecond",
+        "label": "PERSON",
+        "start": 1619,
+        "end": 1629
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 1676,
+        "end": 1682
+      },
+      {
+        "text": "Juli",
+        "label": "PERSON",
+        "start": 1688,
+        "end": 1692
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 1704,
+        "end": 1711
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Attosecond",
+        "Hans Jakob Wörner",
+        "Jelovina D. et",
+        "Juli",
+        "Saijoscha Heck",
+        "Wörner",
+        "Xiaochun Gong"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "Lawrence Berkeley National Laboratory (USA",
+        "Wörner’s"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "32 billion years",
+        "seconds"
+      ],
+      "MISC": [
+        "10.1038",
+        "Nature",
+        "PhD",
+        "a few billionths",
+        "around one hundred",
+        "first",
+        "five",
+        "four",
+        "one",
+        "second",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Wörner": 4,
+      "Nature": 2,
+      "one": 2,
+      "two": 2,
+      "ETH Zurich": 1,
+      "Hans Jakob Wörner": 1,
+      "Lawrence Berkeley National Laboratory (USA": 1,
+      "first": 1,
+      "Xiaochun Gong": 1,
+      "a few billionths": 1,
+      "second": 1,
+      "seconds": 1,
+      "32 billion years": 1,
+      "Saijoscha Heck": 1,
+      "PhD": 1,
+      "Wörner’s": 1,
+      "four": 1,
+      "around one hundred": 1,
+      "five": 1,
+      "ETH": 1
+    },
+    "total_entities": 30,
+    "unique_entities": 24
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "attosecond-measurement-on-electrons-in-water-clusters.md",
+      "title": "En News Events/2022/07/attosecond Measurement On Electrons in Water Clusters",
+      "language": "en",
+      "source_path": "en_news_events/2022/07/attosecond-measurement-on-electrons-in-water-clusters.html"
+    },
+    "temporal": {
+      "publication_date": "2022-07",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, between, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Attosecond",
+        "Hans Jakob Wörner",
+        "Jelovina D. et",
+        "Juli",
+        "Saijoscha Heck",
+        "Wörner",
+        "Xiaochun Gong"
+      ],
+      "people_with_roles": {
+        "Attosecond": [
+          "researcher",
+          "professor"
+        ],
+        "Hans Jakob Wörner": [
+          "researcher",
+          "professor"
+        ],
+        "Saijoscha Heck": [
+          "student"
+        ],
+        "Wörner": [
+          "researcher",
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Nature",
+        "a few billionths",
+        "around one hundred",
+        "first",
+        "five",
+        "four",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Water Clusters",
+        "Xiaochun Gong",
+        "Heck S",
+        "En News",
+        "Saijoscha Heck",
+        "ETH Zurich",
+        "Hans Jakob",
+        "Gong X",
+        "Measurement On",
+        "Jelovina D",
+        "National Laboratory",
+        "Lawrence Berkeley"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "Lawrence Berkeley National Laboratory (USA",
+        "Wörner’s"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Wörner",
+        "Nature",
+        "one",
+        "two",
+        "ETH Zurich",
+        "Hans Jakob Wörner",
+        "Lawrence Berkeley National Laboratory (USA",
+        "first",
+        "Xiaochun Gong",
+        "a few billionths"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Time delay in ionisation",
+          "Attosecond resolution with two laser pulses",
+          "Attosecond resolution with two laser pulses",
+          "Reference"
+        ],
+        "content_length": 4435
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Wörner",
+        "ETH",
+        "Xiaochun Gong",
+        "Attosecond",
+        "Saijoscha Heck",
+        "Hans Jakob Wörner",
+        "2022",
+        "Jelovina D. et",
+        "Wörner’s",
+        "ETH Zurich",
+        "Lawrence Berkeley National Laboratory (USA",
+        "Juli"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "first",
+        "Nature",
+        "a few billionths",
+        "four",
+        "who",
+        "around one hundred",
+        "10.1038",
+        "chemistry",
+        "what",
+        "second",
+        "how",
+        "five",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Attosecond_has_role_researcher",
+        "Attosecond_has_role_professor",
+        "Hans Jakob Wörner_has_role_researcher",
+        "Hans Jakob Wörner_has_role_professor",
+        "Saijoscha Heck_has_role_student",
+        "Wörner_has_role_researcher",
+        "Wörner_has_role_student",
+        "Wörner_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

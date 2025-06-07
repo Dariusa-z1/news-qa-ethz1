@@ -1,0 +1,174 @@
+{
+  "filename": "viola-vogel-im-podcast.md",
+  "original_filename": "viola-vogel-im-podcast.html",
+  "source_path": "de_news_events/2020/03/viola-vogel-im-podcast.html",
+  "date": "2020-03",
+  "title": "Viola Vogel Im Podcast",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Gemäss der Professorin am Laboratorium für Angewandte Mechanobiologie können diese Massnahmen das Risiko einer Infektion mit dem Coronavirus verringern. Und sie hat auch noch eine dringende Bitte: \"Alle, die gerade rauchen, nehmen Sie diese Krise ernst und hören Sie auf zu rauchen. Es könnte Ihnen helfen, zu überleben.\"\n\nAbonnieren Sie den ETH Podcast auf allen gängigen Podcastplattformen oder hören Sie ihn im Web auf der Podcast-Webseite . Dort finden Sie auch frühere Folgen des ETH-Podcast."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Im Podcast",
+        "label": "MISC",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "Laboratorium für Angewandte Mechanobiologie",
+        "label": "LOC",
+        "start": 26,
+        "end": 69
+      },
+      {
+        "text": "ETH Podcast",
+        "label": "MISC",
+        "start": 341,
+        "end": 352
+      },
+      {
+        "text": "Podcast-Webseite",
+        "label": "MISC",
+        "start": 425,
+        "end": 441
+      },
+      {
+        "text": "ETH-Podcast",
+        "label": "ORG",
+        "start": 484,
+        "end": 495
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "De News"
+      ],
+      "ORG": [
+        "ETH-Podcast"
+      ],
+      "LOCATION": [
+        "Laboratorium für Angewandte Mechanobiologie"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ETH Podcast",
+        "Im Podcast",
+        "Podcast-Webseite"
+      ]
+    },
+    "entity_counts": {
+      "De News": 1,
+      "Im Podcast": 1,
+      "Laboratorium für Angewandte Mechanobiologie": 1,
+      "ETH Podcast": 1,
+      "Podcast-Webseite": 1,
+      "ETH-Podcast": 1
+    },
+    "total_entities": 6,
+    "unique_entities": 6
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "viola-vogel-im-podcast.md",
+      "title": "De News Events/2020/03/viola Vogel Im Podcast",
+      "language": "de",
+      "source_path": "de_news_events/2020/03/viola-vogel-im-podcast.html"
+    },
+    "temporal": {
+      "publication_date": "2020-03",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "De News"
+      ],
+      "people_with_roles": {
+        "De News": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ETH Podcast",
+        "Im Podcast",
+        "Podcast-Webseite"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "ETH Podcast",
+        "Angewandte Mechanobiologie",
+        "Abonnieren Sie",
+        "De News",
+        "Vogel Im",
+        "Podcast-Webseite",
+        "ETH-Podcast"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH-Podcast"
+      ],
+      "locations": [
+        "Laboratorium für Angewandte Mechanobiologie"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who"
+      ],
+      "key_concepts": [
+        "De News",
+        "Im Podcast",
+        "Laboratorium für Angewandte Mechanobiologie",
+        "ETH Podcast",
+        "Podcast-Webseite",
+        "ETH-Podcast"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 543
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "De News",
+        "ETH-Podcast",
+        "2020"
+      ],
+      "semantic_concepts": [
+        "who",
+        "ETH Podcast",
+        "Im Podcast",
+        "Podcast-Webseite"
+      ],
+      "graph_relations": [
+        "De News_has_role_professor"
+      ]
+    }
+  }
+}

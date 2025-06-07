@@ -1,0 +1,791 @@
+{
+  "filename": "revealing-how-neurons-communicate.md",
+  "original_filename": "revealing-how-neurons-communicate.html",
+  "source_path": "en_news_events/2017/05/revealing-how-neurons-communicate.html",
+  "date": "2017-05",
+  "title": "Revealing How Neurons Communicate",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Expertise from the Hierlemann group",
+      "text": "MaxWell Biosystems AG’s head office is hidden away in a Basel laboratory building previously used by Syngenta, just a stone’s throw from ETH Zurich’s Department of Biosystems Science and Engineering (D-BSSE). Most rooms are still empty, but on the third floor, in a spacious laboratory at the end of a long corridor, the entrepreneurial atmosphere is already palpable. The startup was founded in September 2016 by Urs Frey and Jan Müller, two former electrical engineering doctoral students at ETH Zurich, Michele Fiscella, a biotechnologist from D-BSSE, and Marie Obien, a neuroscientist.\n\nSince then, it has recruited two new employees and released its first product onto the market. MaxOne is a microelectrode platform for electrophysiological cell analysis. At the heart of the system is a microchip that measures the functionality of nerve cells; for example, in order to find out how they react to the introduction of a particular agent. To achieve this, either thin brain slices from laboratory animals are placed onto the chip, or a cell solution is pipetted onto the chip and incubated for several days. The cell activity can be visualised using special software – at an impressive resolution. “Traditionally, these kinds of measurements are carried out using 64 measuring points, from which an average can be calculated,” explains CEO Urs Frey. “Our system, by contrast, has 26,400 measuring points. This allows us to measure activity at the level of individual cells.” This resolution, which is around 1,000 times higher than traditional methods, opens up new possibilities for biologists and neuroscientists, allowing them, for example, to follow and visualise the spread of action potentials through axons (segments of nerve cells). This gives them additional information on how nerve cells react to particular agents."
+    },
+    {
+      "heading": "In the wake of the stem cell boom",
+      "text": "«MaxOne», the microelectrode platform for electrophysiological cell analysis (Image: MaxWell Biosystems)\n\nMaxOne is based on years of research and development. As a doctoral student, Frey worked in ETH Professor Andreas Hierlemann’s group and later served as group leader at the RIKEN Institute in Kobe, Japan. Hierlemann has pioneered the development of chemical and biological microsensor systems based on semiconductors. Hierlemann and Frey have shown in several publications that the microelectronics platforms they have developed are ideal for improving understanding of both individual nerve cells and neuronal networks. “These results convinced us to commercialise the system,” says Frey.\n\nThe founders provided the seed capital themselves, supported by CHF 30,000 from the startup competition Venture Kick in a first phase; and just now they received another CHF 100,000. The Federal Commission for Technology and Innovation (CTI) helped develop the business plan, while the team focused on setting up the production and sales structure. Today, the chip is produced in Malaysia by a German manufacturer, the circuit board comes from China, and a Japanese partner assembles the components. Finally, the microelectronics platform is functionalised and tested in the laboratory in Basel. Over the past few months, the spinoff has delivered a handful of devices to universities and research institutes across Europe, including ETH. “There’s a lot of interest, but some people are reluctant to invest tens of thousands of francs in a system produced by a startup,” says Frey. That’s why the team is currently focusing its efforts on visiting scientific conferences and potential customers, demonstrating MaxOne’s functions using nerve cell samples from the corresponding laboratories."
+    },
+    {
+      "heading": "Contribution to personalised medicine",
+      "text": "CEO Urs Frey presents MaxOne, the first product of the young company . (Image: ETH Zurich / Samuel Schlaefli)\n\nFrey believes that his team has entered the market with the right product at the right time. The demand for comprehensive neuron analysis is being spurred on by the rapid development and spread of induced pluripotent stem cells (iPS cells) in academia and the pharmaceutical industry. iPS cells are created through the biotechnological manipulation of human skin and blood cells, and then converted to a variety of different organ cells. These human stem cells reduce dependence on expensive animal experiments, as well as providing a better model of the human organism. “In vitro experiments provide even more information when iPS cells are used,” says Frey.\n\nThat’s why MaxWell Biosystems is continuing to collaborate not only with Hierlemann’s research group and the Friedrich Miescher Institute, but also with numerous Basel-based pharmaceutical companies. These companies are particularly interested in the application of electrophysiological analysis to automated drug screening. To this end, the company is developing MaxTwo, a slab roughly the size of a sheet of A5 paper fitted with 96 microchips for high-throughput measurements.\n\nIn the longer term, microelectronics platforms could also find applications in the personalised medicine sector. Using iPS cells, researchers have already cultivated retinal tissue that could be transplanted into patients with age-related macular degeneration, a widespread eye condition. In various publications, Frey and his team have shown that their technology is suitable for functional tests on retinal tissue – but it will take a few years before MaxWell instruments are found in clinics as well. “First, we have to create trust at universities,” says Frey, who is currently in negotiations with several prestigious research groups. He is toying with the idea that MaxOne could be mentioned in one of the next major publications from these groups. This would be the best form of advertising possible, and would ensure many more orders for the young ETH spinoff."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "MaxWell Biosystems AG’s",
+        "label": "ORG",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 56,
+        "end": 61
+      },
+      {
+        "text": "Syngenta",
+        "label": "GPE",
+        "start": 101,
+        "end": 109
+      },
+      {
+        "text": "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "label": "ORG",
+        "start": 137,
+        "end": 198
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 248,
+        "end": 253
+      },
+      {
+        "text": "September 2016",
+        "label": "DATE",
+        "start": 396,
+        "end": 410
+      },
+      {
+        "text": "Urs Frey",
+        "label": "ORG",
+        "start": 414,
+        "end": 422
+      },
+      {
+        "text": "Jan Müller",
+        "label": "PERSON",
+        "start": 427,
+        "end": 437
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 439,
+        "end": 442
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 494,
+        "end": 504
+      },
+      {
+        "text": "Michele Fiscella",
+        "label": "PERSON",
+        "start": 506,
+        "end": 522
+      },
+      {
+        "text": "Marie Obien",
+        "label": "PERSON",
+        "start": 559,
+        "end": 570
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 619,
+        "end": 622
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 654,
+        "end": 659
+      },
+      {
+        "text": "several days",
+        "label": "DATE",
+        "start": 1098,
+        "end": 1110
+      },
+      {
+        "text": "Urs Frey",
+        "label": "PERSON",
+        "start": 1344,
+        "end": 1352
+      },
+      {
+        "text": "26,400",
+        "label": "CARDINAL",
+        "start": 1384,
+        "end": 1390
+      },
+      {
+        "text": "around 1,000",
+        "label": "CARDINAL",
+        "start": 1505,
+        "end": 1517
+      },
+      {
+        "text": "MaxOne",
+        "label": "WORK_OF_ART",
+        "start": 1,
+        "end": 7
+      },
+      {
+        "text": "MaxWell Biosystems",
+        "label": "ORG",
+        "start": 85,
+        "end": 103
+      },
+      {
+        "text": "years",
+        "label": "DATE",
+        "start": 124,
+        "end": 129
+      },
+      {
+        "text": "Frey",
+        "label": "ORG",
+        "start": 182,
+        "end": 186
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 197,
+        "end": 200
+      },
+      {
+        "text": "Andreas Hierlemann",
+        "label": "PERSON",
+        "start": 211,
+        "end": 229
+      },
+      {
+        "text": "the RIKEN Institute",
+        "label": "ORG",
+        "start": 274,
+        "end": 293
+      },
+      {
+        "text": "Kobe",
+        "label": "GPE",
+        "start": 297,
+        "end": 301
+      },
+      {
+        "text": "Japan",
+        "label": "GPE",
+        "start": 303,
+        "end": 308
+      },
+      {
+        "text": "Hierlemann",
+        "label": "ORG",
+        "start": 310,
+        "end": 320
+      },
+      {
+        "text": "Hierlemann",
+        "label": "ORG",
+        "start": 423,
+        "end": 433
+      },
+      {
+        "text": "Frey",
+        "label": "ORG",
+        "start": 438,
+        "end": 442
+      },
+      {
+        "text": "Frey",
+        "label": "PERSON",
+        "start": 689,
+        "end": 693
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 759,
+        "end": 762
+      },
+      {
+        "text": "30,000",
+        "label": "CARDINAL",
+        "start": 763,
+        "end": 769
+      },
+      {
+        "text": "Venture Kick",
+        "label": "PERSON",
+        "start": 799,
+        "end": 811
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 817,
+        "end": 822
+      },
+      {
+        "text": "CHF",
+        "label": "ORG",
+        "start": 865,
+        "end": 868
+      },
+      {
+        "text": "100,000",
+        "label": "CARDINAL",
+        "start": 869,
+        "end": 876
+      },
+      {
+        "text": "The Federal Commission for Technology and Innovation (CTI",
+        "label": "ORG",
+        "start": 878,
+        "end": 935
+      },
+      {
+        "text": "Today",
+        "label": "DATE",
+        "start": 1044,
+        "end": 1049
+      },
+      {
+        "text": "Malaysia",
+        "label": "GPE",
+        "start": 1075,
+        "end": 1083
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1089,
+        "end": 1095
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 1139,
+        "end": 1144
+      },
+      {
+        "text": "Japanese",
+        "label": "NORP",
+        "start": 1152,
+        "end": 1160
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 1284,
+        "end": 1289
+      },
+      {
+        "text": "the past few months",
+        "label": "DATE",
+        "start": 1296,
+        "end": 1315
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 1411,
+        "end": 1417
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1429,
+        "end": 1432
+      },
+      {
+        "text": "tens of thousands",
+        "label": "CARDINAL",
+        "start": 1502,
+        "end": 1519
+      },
+      {
+        "text": "Frey",
+        "label": "PERSON",
+        "start": 1571,
+        "end": 1575
+      },
+      {
+        "text": "MaxOne",
+        "label": "ORG",
+        "start": 1705,
+        "end": 1711
+      },
+      {
+        "text": "Urs Frey",
+        "label": "ORG",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "text": "MaxOne",
+        "label": "PRODUCT",
+        "start": 22,
+        "end": 28
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "text": "ETH Zurich / Samuel Schlaefli",
+        "label": "PERSON",
+        "start": 79,
+        "end": 108
+      },
+      {
+        "text": "Frey",
+        "label": "ORG",
+        "start": 110,
+        "end": 114
+      },
+      {
+        "text": "Frey",
+        "label": "PERSON",
+        "start": 764,
+        "end": 768
+      },
+      {
+        "text": "MaxWell Biosystems",
+        "label": "ORG",
+        "start": 781,
+        "end": 799
+      },
+      {
+        "text": "Hierlemann",
+        "label": "ORG",
+        "start": 843,
+        "end": 853
+      },
+      {
+        "text": "the Friedrich Miescher Institute",
+        "label": "ORG",
+        "start": 875,
+        "end": 907
+      },
+      {
+        "text": "Basel",
+        "label": "GPE",
+        "start": 932,
+        "end": 937
+      },
+      {
+        "text": "MaxTwo",
+        "label": "PRODUCT",
+        "start": 1134,
+        "end": 1140
+      },
+      {
+        "text": "A5",
+        "label": "CARDINAL",
+        "start": 1180,
+        "end": 1182
+      },
+      {
+        "text": "Frey",
+        "label": "ORG",
+        "start": 1563,
+        "end": 1567
+      },
+      {
+        "text": "a few years",
+        "label": "DATE",
+        "start": 1684,
+        "end": 1695
+      },
+      {
+        "text": "MaxWell",
+        "label": "ORG",
+        "start": 1703,
+        "end": 1710
+      },
+      {
+        "text": "First",
+        "label": "ORDINAL",
+        "start": 1754,
+        "end": 1759
+      },
+      {
+        "text": "Frey",
+        "label": "PERSON",
+        "start": 1808,
+        "end": 1812
+      },
+      {
+        "text": "MaxOne",
+        "label": "PRODUCT",
+        "start": 1921,
+        "end": 1927
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1950,
+        "end": 1953
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 2105,
+        "end": 2108
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Andreas Hierlemann",
+        "ETH Zurich / Samuel Schlaefli",
+        "Frey",
+        "Jan Müller",
+        "Marie Obien",
+        "Michele Fiscella",
+        "Urs Frey",
+        "Venture Kick"
+      ],
+      "ORG": [
+        "CHF",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "En News",
+        "Frey",
+        "Hierlemann",
+        "MaxOne",
+        "MaxWell",
+        "MaxWell Biosystems",
+        "MaxWell Biosystems AG’s",
+        "The Federal Commission for Technology and Innovation (CTI",
+        "Urs Frey",
+        "the Friedrich Miescher Institute",
+        "the RIKEN Institute"
+      ],
+      "LOCATION": [
+        "Basel",
+        "China",
+        "Europe",
+        "Japan",
+        "Kobe",
+        "Malaysia",
+        "Syngenta"
+      ],
+      "DATE": [
+        "September 2016",
+        "Today",
+        "a few years",
+        "several days",
+        "the past few months",
+        "years"
+      ],
+      "MISC": [
+        "100,000",
+        "26,400",
+        "30,000",
+        "A5",
+        "First",
+        "German",
+        "Japanese",
+        "MaxOne",
+        "MaxTwo",
+        "around 1,000",
+        "first",
+        "one",
+        "tens of thousands",
+        "third",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Frey": 8,
+      "MaxOne": 4,
+      "Basel": 3,
+      "Urs Frey": 3,
+      "first": 3,
+      "ETH": 3,
+      "Hierlemann": 3,
+      "two": 2,
+      "MaxWell Biosystems": 2,
+      "CHF": 2,
+      "En News": 1,
+      "MaxWell Biosystems AG’s": 1,
+      "Syngenta": 1,
+      "ETH Zurich’s Department of Biosystems Science and Engineering": 1,
+      "third": 1,
+      "September 2016": 1,
+      "Jan Müller": 1,
+      "ETH Zurich": 1,
+      "Michele Fiscella": 1,
+      "Marie Obien": 1
+    },
+    "total_entities": 71,
+    "unique_entities": 48
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "revealing-how-neurons-communicate.md",
+      "title": "En News Events/2017/05/revealing How Neurons Communicate",
+      "language": "en",
+      "source_path": "en_news_events/2017/05/revealing-how-neurons-communicate.html"
+    },
+    "temporal": {
+      "publication_date": "2017-05",
+      "mentioned_years": [
+        "2016",
+        "2017"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Andreas Hierlemann",
+        "ETH Zurich / Samuel Schlaefli",
+        "Frey",
+        "Jan Müller",
+        "Marie Obien",
+        "Michele Fiscella",
+        "Urs Frey",
+        "Venture Kick"
+      ],
+      "people_with_roles": {
+        "Andreas Hierlemann": [
+          "Professor",
+          "student",
+          "professor"
+        ],
+        "Frey": [
+          "scientist",
+          "student",
+          "professor"
+        ],
+        "Jan Müller": [
+          "scientist",
+          "student"
+        ],
+        "Marie Obien": [
+          "scientist",
+          "student"
+        ],
+        "Michele Fiscella": [
+          "scientist",
+          "student"
+        ],
+        "Urs Frey": [
+          "scientist",
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "head",
+        "researcher",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "100,000",
+        "26,400",
+        "30,000",
+        "First",
+        "German",
+        "Japanese",
+        "MaxOne",
+        "MaxTwo",
+        "around 1,000",
+        "first",
+        "tens of thousands",
+        "third"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU"
+      ],
+      "projects": [
+        "Michele Fiscella",
+        "Biosystems Science",
+        "Biosystems AG",
+        "The Federal",
+        "RIKEN Institute",
+        "ETH Professor",
+        "Andreas Hierlemann",
+        "D-BSSE",
+        "Venture Kick",
+        "Urs Frey",
+        "CEO Urs",
+        "Samuel Schlaefli",
+        "Communicate MaxWell",
+        "En News",
+        "How Neurons",
+        "MaxWell Biosystems",
+        "ETH Zurich",
+        "Marie Obien",
+        "Friedrich Miescher"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Biosystems Science and Engineering "
+      ],
+      "institutions": [
+        "CHF",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "En News",
+        "Frey",
+        "Hierlemann",
+        "MaxOne",
+        "MaxWell",
+        "MaxWell Biosystems",
+        "MaxWell Biosystems AG’s",
+        "The Federal Commission for Technology and Innovation (CTI",
+        "Urs Frey",
+        "the Friedrich Miescher Institute",
+        "the RIKEN Institute"
+      ],
+      "locations": [
+        "Basel",
+        "China",
+        "Europe",
+        "Japan",
+        "Kobe",
+        "Malaysia",
+        "Syngenta"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Frey",
+        "MaxOne",
+        "Basel",
+        "Urs Frey",
+        "first",
+        "ETH",
+        "Hierlemann",
+        "two",
+        "MaxWell Biosystems",
+        "CHF"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Expertise from the Hierlemann group",
+          "In the wake of the stem cell boom",
+          "Contribution to personalised medicine"
+        ],
+        "content_length": 5797
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Michele Fiscella",
+        "ETH",
+        "CHF",
+        "2016",
+        "ETH Zurich / Samuel Schlaefli",
+        "Jan Müller",
+        "ERC",
+        "MaxOne",
+        "ETH Zurich’s Department of Biosystems Science and Engineering",
+        "Andreas Hierlemann",
+        "Hierlemann",
+        "EU",
+        "Venture Kick",
+        "Frey",
+        "Urs Frey",
+        "MaxWell Biosystems AG’s",
+        "the Friedrich Miescher Institute",
+        "The Federal Commission for Technology and Innovation (CTI",
+        "En News",
+        "the RIKEN Institute",
+        "2017",
+        "MaxWell",
+        "MaxWell Biosystems",
+        "ETH Zurich",
+        "Marie Obien"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Japanese",
+        "chemistry",
+        "when",
+        "engineering",
+        "MaxOne",
+        "third",
+        "mathematics",
+        "who",
+        "26,400",
+        "around 1,000",
+        "tens of thousands",
+        "what",
+        "how",
+        "computer_science",
+        "first",
+        "MaxTwo",
+        "30,000",
+        "German",
+        "100,000",
+        "First",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Andreas Hierlemann_has_role_Professor",
+        "Andreas Hierlemann_has_role_student",
+        "Andreas Hierlemann_has_role_professor",
+        "Frey_has_role_scientist",
+        "Frey_has_role_student",
+        "Frey_has_role_professor",
+        "Jan Müller_has_role_scientist",
+        "Jan Müller_has_role_student",
+        "Marie Obien_has_role_scientist",
+        "Marie Obien_has_role_student",
+        "Michele Fiscella_has_role_scientist",
+        "Michele Fiscella_has_role_student",
+        "Urs Frey_has_role_scientist",
+        "Urs Frey_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

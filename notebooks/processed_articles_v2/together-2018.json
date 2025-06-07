@@ -1,0 +1,122 @@
+{
+  "filename": "together-2018.md",
+  "original_filename": "together-2018.html",
+  "source_path": "de_internal/2018/09/together-2018.html",
+  "date": "2018-09",
+  "title": "Together 2018",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Impressionen",
+      "text": "Bilder: ETH Zürich / Alessandro Della Bella"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2018/09/together",
+        "label": "LOC",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 8,
+        "end": 18
+      },
+      {
+        "text": "Alessandro Della Bella",
+        "label": "PER",
+        "start": 21,
+        "end": 43
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Alessandro Della Bella"
+      ],
+      "ORG": [
+        "ETH Zürich"
+      ],
+      "LOCATION": [
+        "De Internal/2018/09/together"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "De Internal/2018/09/together": 1,
+      "ETH Zürich": 1,
+      "Alessandro Della Bella": 1
+    },
+    "total_entities": 3,
+    "unique_entities": 3
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "together-2018.md",
+      "title": "De Internal/2018/09/together 2018",
+      "language": "de",
+      "source_path": "de_internal/2018/09/together-2018.html"
+    },
+    "temporal": {
+      "publication_date": "2018-09",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Alessandro Della Bella"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Alessandro Della",
+        "De Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich"
+      ],
+      "locations": [
+        "De Internal/2018/09/together"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2018/09/together",
+        "ETH Zürich",
+        "Alessandro Della Bella"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Impressionen"
+        ],
+        "content_length": 77
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zürich",
+        "2018",
+        "Alessandro Della Bella"
+      ],
+      "semantic_concepts": [],
+      "graph_relations": []
+    }
+  }
+}

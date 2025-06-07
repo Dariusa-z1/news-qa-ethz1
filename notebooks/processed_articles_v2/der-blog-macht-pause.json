@@ -1,0 +1,101 @@
+{
+  "filename": "der-blog-macht-pause.md",
+  "original_filename": "der-blog-macht-pause.html",
+  "source_path": "en_news_events/2015/07/der-blog-macht-pause.html",
+  "date": "2015-07",
+  "title": "Der Blog Macht Pause",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "... but wherever you end up, don’t forget – you can always comb the archive for lost treasure and discuss the pearls you discover until we’re back."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Blog Macht Pause",
+        "label": "PERSON",
+        "start": 27,
+        "end": 43
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Blog Macht Pause"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Blog Macht Pause": 1
+    },
+    "total_entities": 1,
+    "unique_entities": 1
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "der-blog-macht-pause.md",
+      "title": "En News Events/2015/07/der Blog Macht Pause",
+      "language": "en",
+      "source_path": "en_news_events/2015/07/der-blog-macht-pause.html"
+    },
+    "temporal": {
+      "publication_date": "2015-07",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": "until"
+    },
+    "people": {
+      "mentioned_people": [
+        "Blog Macht Pause"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Blog Macht",
+        "En News"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where"
+      ],
+      "key_concepts": [
+        "Blog Macht Pause"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 191
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2015",
+        "Blog Macht Pause"
+      ],
+      "semantic_concepts": [
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "filename": "practical-tool-for-citizen-science-and-coronavirus-research.md",
+  "original_filename": "practical-tool-for-citizen-science-and-coronavirus-research.html",
+  "source_path": "en_internal/2020/05/practical-tool-for-citizen-science-and-coronavirus-research.html",
+  "date": "2020-05",
+  "title": "Practical Tool For Citizen Science And Coronavirus Research",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Combining human and artificial intelligence",
+      "text": "Many scientific studies are currently underway to find ways of containing the spread of the coronavirus and COVID-19, the disease it causes. To read all of them and then quickly provide policy-makers with a comprehensive summary of all the useful information would be impossible.\n\nThe same applies to the myriad social media posts offering tips, tricks, facts and opinions on protection against COVID-19: nobody can collect and evaluate them in their entirety at a glance or the touch of a button. Artificial intelligence, however, may help to filter and examine the relevant information from large volumes of text and images. Similarly, the collective intelligence of people can assess text, audio and images quite effectively."
+    },
+    {
+      "heading": "Combining human and artificial intelligence",
+      "text": "Four research projects are currently pursuing a crowdsourcing approach that combines artificial intelligence with the “swarm intelligence” of internet users. The projects are publicly accessible on the website of the Citizen Science Center Zurich , a competence centre run jointly by ETH Zurich and the University of Zurich. All four are citizen science projects structured in a way that allows volunteers (citizens) to contribute."
+    },
+    {
+      "heading": "Use the Project Builder for your own projects",
+      "text": "AI searches for relevant tweets, volunteers classify them.\n\nOne of the projects, for instance, combines crowdsourcing with machine learning to evaluate images published on Twitter that contain information on social distancing and the use of face masks in public. Machine learning algorithms first select the relevant tweets with photos.\n\nThe human contributors then confirm the relevance of each image by answering questions and using a selection menu to add the details that AI cannot capture. This process improves the algorithms and generates more precise information that provides insights into the effectiveness of social distancing and face masks."
+    },
+    {
+      "heading": "Subscribe to Newsletter",
+      "text": "The content of scientific articles is assigned to keywords.\n\nAnother project focuses on evaluating scientific articles to find and assess relevant information about political measures to contain COVID-19 and pass that information on to policy-makers. Again, artificial intelligence is used to support the search for relevant articles, while volunteers can improve the accuracy of the results by answering questions about their relevance and assigning keywords."
+    },
+    {
+      "heading": "The new Citizen Science Project Builder",
+      "text": "These projects are powered by the Citizen Science Project Builder , a web-based tool that allows researchers, students and interested members of the public to carry out a citizen science project.\n\nThe first version of the tool supports projects in which the contributors describe and classify large volumes of image and text data, such as satellite images and social media posts (e.g. tweets), PDF files (e.g. scientific articles), video clips and audio files (e.g. recorded sound). Its user interface is easy to use without any particular technological or programming skills.\n\nThe Citizen Science Center team, which developed the Project Builder, encourages ETH members to use the tool to create their own projects . They also welcome feedback that helps them improve the tool. The team runs introductory workshops for anyone wishing to use the Project Builder.\n\nThey can be contacted by email at: .\n\nFor further information, see the Citizen Science Project Builder website. It currently contains 10 projects ."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Tool For Citizen Science And Coronavirus Research",
+        "label": "WORK_OF_ART",
+        "start": 30,
+        "end": 79
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 108,
+        "end": 116
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 394,
+        "end": 402
+      },
+      {
+        "text": "Four",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "the Citizen Science Center Zurich",
+        "label": "ORG",
+        "start": 213,
+        "end": 246
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 284,
+        "end": 294
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 299,
+        "end": 323
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 329,
+        "end": 333
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 59,
+        "end": 62
+      },
+      {
+        "text": "Twitter",
+        "label": "PERSON",
+        "start": 171,
+        "end": 178
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 290,
+        "end": 295
+      },
+      {
+        "text": "AI",
+        "label": "GPE",
+        "start": 474,
+        "end": 476
+      },
+      {
+        "text": "COVID-19",
+        "label": "PERSON",
+        "start": 194,
+        "end": 202
+      },
+      {
+        "text": "the Citizen Science Project Builder",
+        "label": "ORG",
+        "start": 30,
+        "end": 65
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 200,
+        "end": 205
+      },
+      {
+        "text": "PDF",
+        "label": "ORG",
+        "start": 393,
+        "end": 396
+      },
+      {
+        "text": "The Citizen Science Center",
+        "label": "ORG",
+        "start": 576,
+        "end": 602
+      },
+      {
+        "text": "the Project Builder",
+        "label": "ORG",
+        "start": 625,
+        "end": 644
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 657,
+        "end": 660
+      },
+      {
+        "text": "the Project Builder",
+        "label": "ORG",
+        "start": 840,
+        "end": 859
+      },
+      {
+        "text": "the Citizen Science Project Builder",
+        "label": "ORG",
+        "start": 927,
+        "end": 962
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "COVID-19",
+        "ETH Zurich",
+        "Twitter"
+      ],
+      "ORG": [
+        "ETH",
+        "PDF",
+        "The Citizen Science Center",
+        "the Citizen Science Center Zurich",
+        "the Citizen Science Project Builder",
+        "the Project Builder",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "AI"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Four",
+        "One",
+        "Tool For Citizen Science And Coronavirus Research",
+        "first",
+        "four"
+      ]
+    },
+    "entity_counts": {
+      "COVID-19": 3,
+      "first": 2,
+      "the Citizen Science Project Builder": 2,
+      "the Project Builder": 2,
+      "Tool For Citizen Science And Coronavirus Research": 1,
+      "Four": 1,
+      "the Citizen Science Center Zurich": 1,
+      "ETH Zurich": 1,
+      "the University of Zurich": 1,
+      "four": 1,
+      "One": 1,
+      "Twitter": 1,
+      "AI": 1,
+      "PDF": 1,
+      "The Citizen Science Center": 1,
+      "ETH": 1
+    },
+    "total_entities": 21,
+    "unique_entities": 16
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "practical-tool-for-citizen-science-and-coronavirus-research.md",
+      "title": "En Internal/2020/05/practical Tool For Citizen Science And Coronavirus Research",
+      "language": "en",
+      "source_path": "en_internal/2020/05/practical-tool-for-citizen-science-and-coronavirus-research.html"
+    },
+    "temporal": {
+      "publication_date": "2020-05",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "COVID-19",
+        "ETH Zurich",
+        "Twitter"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Four",
+        "Tool For Citizen Science And Coronavirus Research",
+        "first",
+        "four"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Tool For",
+        "Center Zurich",
+        "Science Center",
+        "Research Many",
+        "Project Builder",
+        "En Internal",
+        "ETH Zurich",
+        "The Citizen",
+        "Citizen Science",
+        "And Coronavirus"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "PDF",
+        "The Citizen Science Center",
+        "the Citizen Science Center Zurich",
+        "the Citizen Science Project Builder",
+        "the Project Builder",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "AI"
+      ],
+      "programs": [
+        "program"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "COVID-19",
+        "first",
+        "the Citizen Science Project Builder",
+        "the Project Builder",
+        "Tool For Citizen Science And Coronavirus Research",
+        "Four",
+        "the Citizen Science Center Zurich",
+        "ETH Zurich",
+        "the University of Zurich",
+        "four"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Combining human and artificial intelligence",
+          "Combining human and artificial intelligence",
+          "Use the Project Builder for your own projects",
+          "Subscribe to Newsletter",
+          "The new Citizen Science Project Builder"
+        ],
+        "content_length": 3367
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Twitter",
+        "ETH",
+        "2020",
+        "PDF",
+        "the Project Builder",
+        "the University of Zurich",
+        "ETH Zurich",
+        "The Citizen Science Center",
+        "the Citizen Science Project Builder",
+        "COVID-19",
+        "the Citizen Science Center Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "computer_science",
+        "four",
+        "who",
+        "Tool For Citizen Science And Coronavirus Research",
+        "Four",
+        "what",
+        "how",
+        "medical_research",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

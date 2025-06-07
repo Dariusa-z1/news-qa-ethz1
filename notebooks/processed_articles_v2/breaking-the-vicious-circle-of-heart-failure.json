@@ -1,0 +1,403 @@
+{
+  "filename": "breaking-the-vicious-circle-of-heart-failure.md",
+  "original_filename": "breaking-the-vicious-circle-of-heart-failure.html",
+  "source_path": "en_news_events/2016/02/breaking-the-vicious-circle-of-heart-failure.html",
+  "date": "2016-02",
+  "title": "Breaking The Vicious Circle Of Heart Failure",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Enzyme activity inhibited",
+      "text": "Everyday physical activities become an ordeal, climbing stairs is a major undertaking, and patients often become completely bedridden, suffering from constant fatigue. “Heart failure is a tragic and unfortunately is currently incurable. The diagnosis usually amounts to a death sentence,” says Ursula Quitterer, Professor of Molecular Pharmacology at ETH Zurich and the University of Zurich.\n\nHeart failure refers to serious progressive forms of cardiac deficiency. It usually affects elderly people with pre-existing cardiovascular disease and means their heart is no longer able to pump enough blood around the body. Currently, physicians can only delay the disease’s progression – using, among other things, medications that lower blood pressure and heart rate, and thus reduce the burden on the heart – or consider a transplant with an artificial or donor heart.\n\nNow, working in multiple mouse models, Quitterer and her colleagues have developed a new approach to treatment using pharmaceuticals. “This has allowed us to increase the reduced pumping power of the diseased heart, while also slowing down the disease’s progression – which is a real vicious circle,” says Joshua Abd Alla. As a physician in Quitterer’s group, Abd Alla is working on a PhD degree and is the lead author of the research paper published in the Journal of Biological Chemistry."
+    },
+    {
+      "heading": "Enzyme activity inhibited",
+      "text": "Specifically, the researchers inhibited an enzyme known as GRK2 in mice, which occurs at elevated concentrations in the hearts of patients with heart failure. To do this, the scientists used a small protein fragment (a peptide), which binds to GRK2. Following the lock-and-key principle, the peptide prevents the enzyme from binding to its receptors and therefore from performing its biochemical function.\n\nThe inhibition of GRK2 has a twofold effect: it encourages contraction of the damaged myocardial cells. Taken alone, a performance boost of this kind would have a counter-productive effect on a damaged heart, but GRK2 also plays a biochemical role in energy metabolism, which is disrupted in myocardial cells in end-stage heart failure. The scientists suspect that this occurs because the myocardial cells do not receive an adequate supply of oxygen. This forces the cells to switch from burning fat to burning sugar in order to obtain energy. In the long term, this leads to the deposition of fat products in myocardial cells, which damages them and leads to their death. A vicious circle is established: more fat in myocardial cells – myocardial cells die off – decrease in the heart’s pumping power – greater oxygen deficiency – more fat in myocardial cells."
+    },
+    {
+      "heading": "Reduced fat deposition",
+      "text": "“If you inhibit GRK2, you can prevent the myocardial cells from switching to sugar metabolism. In this way, you can break the vicious circle,” explains Quitterer. The scientists were able to demonstrate this in mice with heart failure as a result of a genetic modification or a surgical procedure. Less fat was deposited in the myocardial cells of mice in which the scientists had inhibited GRK2.\n\nThe researchers believe it is possible to apply the new therapeutic approach to humans – as a supplement to existing therapies, they stress. This, however, will require a lot more developmental work. So, the scientists also worked with genetically modified mice that produce the inhibitor in the myocardial muscles themselves.\n\nTheoretically, it would be possible to apply this approach in humans using cell therapy, although this is very expensive. It would be simpler to treat patients with a medication administered orally, but the inhibitor peptide used in the mouse experiments is not suitable as peptides are broken down in the digestive system and thus do not reach the heart via the bloodstream. “However, one possibility is to search for other molecules that have the same effect as our peptide,” says Quitterer.\n\nAbd Alla J, Graemer M, Fu X, Quitterer U: Inhibition of G-protein-coupled Receptor Kinase 2 Prevents the Dysfunctional Cardiac Substrate Metabolism in Fatty Acid Synthase Transgenic Mice. Journal of Biological Chemistry 2016, 291: 2583-2600, doi: 10.1074/jbc.M115.702688"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "The Vicious Circle Of Heart Failure",
+        "label": "ORG",
+        "start": 32,
+        "end": 67
+      },
+      {
+        "text": "Ursula Quitterer",
+        "label": "PERSON",
+        "start": 294,
+        "end": 310
+      },
+      {
+        "text": "Molecular Pharmacology",
+        "label": "ORG",
+        "start": 325,
+        "end": 347
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 351,
+        "end": 361
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 366,
+        "end": 390
+      },
+      {
+        "text": "Quitterer",
+        "label": "PERSON",
+        "start": 905,
+        "end": 914
+      },
+      {
+        "text": "Joshua Abd Alla",
+        "label": "PERSON",
+        "start": 1172,
+        "end": 1187
+      },
+      {
+        "text": "Quitterer’s",
+        "label": "ORG",
+        "start": 1207,
+        "end": 1218
+      },
+      {
+        "text": "Abd Alla",
+        "label": "PERSON",
+        "start": 1226,
+        "end": 1234
+      },
+      {
+        "text": "PhD",
+        "label": "WORK_OF_ART",
+        "start": 1251,
+        "end": 1254
+      },
+      {
+        "text": "the Journal of Biological Chemistry",
+        "label": "ORG",
+        "start": 1320,
+        "end": 1355
+      },
+      {
+        "text": "GRK2",
+        "label": "PERSON",
+        "start": 59,
+        "end": 63
+      },
+      {
+        "text": "GRK2",
+        "label": "GPE",
+        "start": 244,
+        "end": 248
+      },
+      {
+        "text": "GRK2",
+        "label": "GPE",
+        "start": 424,
+        "end": 428
+      },
+      {
+        "text": "twofold",
+        "label": "CARDINAL",
+        "start": 435,
+        "end": 442
+      },
+      {
+        "text": "GRK2",
+        "label": "PERSON",
+        "start": 619,
+        "end": 623
+      },
+      {
+        "text": "GRK2",
+        "label": "PERSON",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "text": "Quitterer",
+        "label": "PERSON",
+        "start": 152,
+        "end": 161
+      },
+      {
+        "text": "GRK2",
+        "label": "PERSON",
+        "start": 391,
+        "end": 395
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1110,
+        "end": 1113
+      },
+      {
+        "text": "Quitterer",
+        "label": "PERSON",
+        "start": 1207,
+        "end": 1216
+      },
+      {
+        "text": "Abd Alla J",
+        "label": "PERSON",
+        "start": 1218,
+        "end": 1228
+      },
+      {
+        "text": "Fu X",
+        "label": "PERSON",
+        "start": 1241,
+        "end": 1245
+      },
+      {
+        "text": "Kinase 2",
+        "label": "PERSON",
+        "start": 1301,
+        "end": 1309
+      },
+      {
+        "text": "2583-2600",
+        "label": "DATE",
+        "start": 1449,
+        "end": 1458
+      },
+      {
+        "text": "10.1074",
+        "label": "CARDINAL",
+        "start": 1465,
+        "end": 1472
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Abd Alla",
+        "Abd Alla J",
+        "Fu X",
+        "GRK2",
+        "Joshua Abd Alla",
+        "Kinase 2",
+        "Quitterer",
+        "Ursula Quitterer"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "Molecular Pharmacology",
+        "Quitterer’s",
+        "The Vicious Circle Of Heart Failure",
+        "the Journal of Biological Chemistry",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "GRK2"
+      ],
+      "DATE": [
+        "2583-2600"
+      ],
+      "MISC": [
+        "10.1074",
+        "PhD",
+        "one",
+        "twofold"
+      ]
+    },
+    "entity_counts": {
+      "GRK2": 6,
+      "Quitterer": 3,
+      "The Vicious Circle Of Heart Failure": 1,
+      "Ursula Quitterer": 1,
+      "Molecular Pharmacology": 1,
+      "ETH Zurich": 1,
+      "the University of Zurich": 1,
+      "Joshua Abd Alla": 1,
+      "Quitterer’s": 1,
+      "Abd Alla": 1,
+      "PhD": 1,
+      "the Journal of Biological Chemistry": 1,
+      "twofold": 1,
+      "one": 1,
+      "Abd Alla J": 1,
+      "Fu X": 1,
+      "Kinase 2": 1,
+      "2583-2600": 1,
+      "10.1074": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "breaking-the-vicious-circle-of-heart-failure.md",
+      "title": "En News Events/2016/02/breaking The Vicious Circle Of Heart Failure",
+      "language": "en",
+      "source_path": "en_news_events/2016/02/breaking-the-vicious-circle-of-heart-failure.html"
+    },
+    "temporal": {
+      "publication_date": "2016-02",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, currently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Abd Alla",
+        "Abd Alla J",
+        "Fu X",
+        "GRK2",
+        "Joshua Abd Alla",
+        "Kinase 2",
+        "Quitterer",
+        "Ursula Quitterer"
+      ],
+      "people_with_roles": {
+        "GRK2": [
+          "scientist",
+          "researcher"
+        ],
+        "Quitterer": [
+          "professor"
+        ],
+        "Ursula Quitterer": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1074",
+        "twofold"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Quitterer U",
+        "Receptor Kinase",
+        "Fatty Acid",
+        "Heart Failure",
+        "En News",
+        "Abd Alla",
+        "Dysfunctional Cardiac",
+        "Substrate Metabolism",
+        "Graemer M",
+        "Fu X",
+        "Ursula Quitterer",
+        "The Vicious",
+        "Biological Chemistry",
+        "Synthase Transgenic",
+        "Molecular Pharmacology",
+        "ETH Zurich",
+        "Circle Of",
+        "Joshua Abd"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "Molecular Pharmacology",
+        "Quitterer’s",
+        "The Vicious Circle Of Heart Failure",
+        "the Journal of Biological Chemistry",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "GRK2"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "GRK2",
+        "Quitterer",
+        "The Vicious Circle Of Heart Failure",
+        "Ursula Quitterer",
+        "Molecular Pharmacology",
+        "ETH Zurich",
+        "the University of Zurich",
+        "Joshua Abd Alla",
+        "Quitterer’s",
+        "Abd Alla"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Enzyme activity inhibited",
+          "Enzyme activity inhibited",
+          "Reduced fat deposition"
+        ],
+        "content_length": 4187
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Kinase 2",
+        "Molecular Pharmacology",
+        "GRK2",
+        "the Journal of Biological Chemistry",
+        "EU",
+        "Abd Alla J",
+        "Joshua Abd Alla",
+        "Quitterer’s",
+        "Fu X",
+        "The Vicious Circle Of Heart Failure",
+        "Ursula Quitterer",
+        "the University of Zurich",
+        "2016",
+        "Quitterer",
+        "Abd Alla",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1074",
+        "who",
+        "chemistry",
+        "twofold",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "where"
+      ],
+      "graph_relations": [
+        "GRK2_has_role_scientist",
+        "GRK2_has_role_researcher",
+        "Quitterer_has_role_professor",
+        "Ursula Quitterer_has_role_professor",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

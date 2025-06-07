@@ -1,0 +1,397 @@
+{
+  "filename": "de_internal_2019_04_web-center.md",
+  "original_filename": "de_internal_2019_04_web-center.html",
+  "source_path": "de_internal/2019/04/web-center.html",
+  "date": "2019-04",
+  "title": "Web Center",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Identity und Access Management (IAM)",
+      "text": "Unter www.passwort.ethz.ch (Englisch: www.password.ethz.ch ) loggen sich die ETH Angehörigen mit Ihrem ETH Usernamen und Ihrem ETH Passwort für Webapplikationen, AAI (LDAP) ein. Das Erklärvideo «Ändern des Passwortes» zeigt detailliert wie man seine Passwörter im Web Center setzen bzw. wechseln kann. Die Funktion «Passwort Vergessen?» ist momentan noch ausgeschaltet und wird folgen.\n\nDas bisherige nethz-Admin-Tool (neuer Name: «Admin-Tool ohne IAM-Funktionalitäten» ist unter der URL www.idn.ethz.ch zu erreichen. Es wird noch benutzt, zum Spamfilter einzustellen, MySQL-Datenbank anzufordern sowie Lync und andere Services zu aktivieren."
+    },
+    {
+      "heading": "Identity und Access Management (IAM)",
+      "text": "Die ETH Zürich betreibt ein Identity und Access Management (IAM)-System. Das System ermöglicht die Steuerung und Versorgung mit Daten der Directory Services LDAP, Active Directory und Switch AAI (ETH-Teil), die Vereinheitlichung der Verwaltung von Gruppen und Verteilern, die Verwaltung von multiplen Passwörtern und die Bereitstellung von Self-Service und Service Desk-Funktionen über eine Web Applikation. Das System wurde technisch erneuert und wird neue Funktionen u.a. im Bereich Auditing und Föderierung mit fremden IAM-Systemen anbieten.\n\nEin einheitliches und konsistentes Management von Identitäten und Zugriffsrechten ist eine unentbehrliche Voraussetzung für die Erbringung von IT-Dienstleistungen aller Organisationseinheiten der ETH Zürich. Alle ETH-Angehörigen profitieren von einer einheitlichen Passwort-Verwaltung und den Self-Service-Funktionen, die über die Web-Applikationen «Web Center» angeboten werden.\n\nMit dem neuen System, welches auf einer Standard-Applikation basiert, wird die ETH den neuen Compliance- und Accountability-Anforderungen gerecht und stellt die Möglichkeit der Integration anderer Identitäten aus externen IAM-Systemen sicher."
+    },
+    {
+      "heading": "Kontakt",
+      "text": "Dr. Giorgio Broggi Sektionsleiter Software Services, Informatikdienste\n\nDavor Kupresak Gruppenleiter Identity / Access Management & eServices, Informatikdienste"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2019/04/web Center",
+        "label": "LOC",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Englisch",
+        "label": "MISC",
+        "start": 28,
+        "end": 36
+      },
+      {
+        "text": "www.password.ethz.ch",
+        "label": "LOC",
+        "start": 38,
+        "end": 58
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 77,
+        "end": 80
+      },
+      {
+        "text": "LDAP",
+        "label": "MISC",
+        "start": 167,
+        "end": 171
+      },
+      {
+        "text": "Web Center",
+        "label": "LOC",
+        "start": 264,
+        "end": 274
+      },
+      {
+        "text": "Vergessen",
+        "label": "LOC",
+        "start": 325,
+        "end": 334
+      },
+      {
+        "text": "URL www.idn.ethz.ch",
+        "label": "ORG",
+        "start": 483,
+        "end": 502
+      },
+      {
+        "text": "MySQL-Datenbank",
+        "label": "MISC",
+        "start": 568,
+        "end": 583
+      },
+      {
+        "text": "Lync",
+        "label": "ORG",
+        "start": 602,
+        "end": 606
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 4,
+        "end": 14
+      },
+      {
+        "text": "Directory Services LDAP",
+        "label": "ORG",
+        "start": 138,
+        "end": 161
+      },
+      {
+        "text": "Active Directory und",
+        "label": "ORG",
+        "start": 163,
+        "end": 183
+      },
+      {
+        "text": "ETH-Teil",
+        "label": "MISC",
+        "start": 196,
+        "end": 204
+      },
+      {
+        "text": "Self-Service",
+        "label": "LOC",
+        "start": 340,
+        "end": 352
+      },
+      {
+        "text": "Auditing",
+        "label": "LOC",
+        "start": 485,
+        "end": 493
+      },
+      {
+        "text": "IAM-Systemen",
+        "label": "MISC",
+        "start": 522,
+        "end": 534
+      },
+      {
+        "text": "IT-Dienstleistungen",
+        "label": "MISC",
+        "start": 688,
+        "end": 707
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 741,
+        "end": 751
+      },
+      {
+        "text": "ETH-Angehörigen",
+        "label": "MISC",
+        "start": 758,
+        "end": 773
+      },
+      {
+        "text": "Self-Service-Funktionen",
+        "label": "ORG",
+        "start": 838,
+        "end": 861
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1004,
+        "end": 1007
+      },
+      {
+        "text": "Accountability-Anforderungen",
+        "label": "MISC",
+        "start": 1034,
+        "end": 1062
+      },
+      {
+        "text": "IAM-Systemen",
+        "label": "MISC",
+        "start": 1147,
+        "end": 1159
+      },
+      {
+        "text": "Giorgio Broggi",
+        "label": "PER",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "Kupresak Gruppenleiter",
+        "label": "PER",
+        "start": 77,
+        "end": 99
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Giorgio Broggi",
+        "Kupresak Gruppenleiter"
+      ],
+      "ORG": [
+        "Active Directory und",
+        "Directory Services LDAP",
+        "ETH",
+        "ETH Zürich",
+        "Lync",
+        "Self-Service-Funktionen",
+        "URL www.idn.ethz.ch"
+      ],
+      "LOCATION": [
+        "Auditing",
+        "De Internal/2019/04/web Center",
+        "Self-Service",
+        "Vergessen",
+        "Web Center",
+        "www.password.ethz.ch"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Accountability-Anforderungen",
+        "ETH-Angehörigen",
+        "ETH-Teil",
+        "Englisch",
+        "IAM-Systemen",
+        "IT-Dienstleistungen",
+        "LDAP",
+        "MySQL-Datenbank"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "ETH Zürich": 2,
+      "IAM-Systemen": 2,
+      "De Internal/2019/04/web Center": 1,
+      "Englisch": 1,
+      "www.password.ethz.ch": 1,
+      "LDAP": 1,
+      "Web Center": 1,
+      "Vergessen": 1,
+      "URL www.idn.ethz.ch": 1,
+      "MySQL-Datenbank": 1,
+      "Lync": 1,
+      "Directory Services LDAP": 1,
+      "Active Directory und": 1,
+      "ETH-Teil": 1,
+      "Self-Service": 1,
+      "Auditing": 1,
+      "IT-Dienstleistungen": 1,
+      "ETH-Angehörigen": 1,
+      "Self-Service-Funktionen": 1
+    },
+    "total_entities": 26,
+    "unique_entities": 23
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "de_internal_2019_04_web-center.md",
+      "title": "De Internal/2019/04/web Center",
+      "language": "de",
+      "source_path": "de_internal/2019/04/web-center.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Giorgio Broggi",
+        "Kupresak Gruppenleiter"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "rector",
+        "director"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Accountability-Anforderungen",
+        "ETH-Angehörigen",
+        "ETH-Teil",
+        "Englisch",
+        "IAM-Systemen",
+        "IT-Dienstleistungen",
+        "LDAP",
+        "MySQL-Datenbank"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Accountability-Anforderungen",
+        "Web Center",
+        "Passwort-Verwaltung",
+        "Web-Applikationen",
+        "Davor Kupresak",
+        "Die Funktion",
+        "Passwort Vergessen",
+        "Service Desk",
+        "Standard-Applikation",
+        "Web Applikation",
+        "Die ETH",
+        "Switch AAI",
+        "IT-Dienstleistungen",
+        "Das System",
+        "Ihrem ETH",
+        "Gruppenleiter Identity",
+        "Access Management",
+        "ETH-Teil",
+        "Directory Services",
+        "Active Directory",
+        "Giorgio Broggi",
+        "IAM-Systemen",
+        "Admin-Tool",
+        "Bereich Auditing",
+        "Alle ETH",
+        "De Internal",
+        "Center Unter",
+        "Sektionsleiter Software",
+        "MySQL-Datenbank",
+        "Self-Service"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Active Directory und",
+        "Directory Services LDAP",
+        "ETH",
+        "ETH Zürich",
+        "Lync",
+        "Self-Service-Funktionen",
+        "URL www.idn.ethz.ch"
+      ],
+      "locations": [
+        "Auditing",
+        "De Internal/2019/04/web Center",
+        "Self-Service",
+        "Vergessen",
+        "Web Center",
+        "www.password.ethz.ch"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when"
+      ],
+      "key_concepts": [
+        "ETH",
+        "ETH Zürich",
+        "IAM-Systemen",
+        "De Internal/2019/04/web Center",
+        "Englisch",
+        "www.password.ethz.ch",
+        "LDAP",
+        "Web Center",
+        "Vergessen",
+        "URL www.idn.ethz.ch"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Identity und Access Management (IAM)",
+          "Identity und Access Management (IAM)",
+          "Kontakt"
+        ],
+        "content_length": 2004
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Directory Services LDAP",
+        "Kupresak Gruppenleiter",
+        "Active Directory und",
+        "2019",
+        "EU",
+        "Self-Service-Funktionen",
+        "Lync",
+        "ETH Zürich",
+        "Giorgio Broggi",
+        "URL www.idn.ethz.ch"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Accountability-Anforderungen",
+        "ETH-Teil",
+        "LDAP",
+        "IAM-Systemen",
+        "MySQL-Datenbank",
+        "ETH-Angehörigen",
+        "Englisch",
+        "computer_science",
+        "when",
+        "IT-Dienstleistungen"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

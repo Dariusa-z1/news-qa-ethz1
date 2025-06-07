@@ -1,0 +1,432 @@
+{
+  "filename": "the-key-to-more-flexibility-refine.md",
+  "original_filename": "the-key-to-more-flexibility-refine.html",
+  "source_path": "en_internal/2019/04/the-key-to-more-flexibility-refine.html",
+  "date": "2019-04",
+  "title": "The Key To More Flexibility Refine",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "More integrated view of budgets",
+      "text": "For the month of January, no one at ETH Zurich was paid twice – or crucially, not paid at all. However, things could have been very different. On 9 January 2019, four years after the launch of the “refine” project, the ETH Information and Support portal ETHIS switched over to the latest SAP software S/4 HANA.\n\nOver 1,200 customer accounts and 600 personnel workflows were seamlessly processed on the first day alone. The launch went almost without a hitch, thanks to the hard work of the ETH-wide project team drawn from Finance and Controlling, Human Resources, IT Services, departments, staff, other units and external consultants.\n\nMany things remain the same: the new user interface is almost identical to the old one; as before, ETH members can manage their business processes using the platform. However, there have been some changes to the principles of how ETH Zurich manages its internal finances.\n\nSince ETH gained institutional autonomy in 2000, it has managed its own resources and set up its own system with funds for this purpose. Since then, the number of professors at the university has risen to over 500 – an increase of around 40 percent – and the amount of external funding the university receives is continually growing. At the same time, the demands for transparency in terms of how resources are used are also on the rise."
+    },
+    {
+      "heading": "More integrated view of budgets",
+      "text": "At the last count, almost 10,000 funds had been set up, with origin (such as government, third parties and internal financing) being used as one of the ways of categorising the resources. “This complex situation was becoming increasingly difficult to manage,” explains Robert Perich, Vice President for Finance and Controlling.\n\n“With the new system, we’re switching to a more comprehensive means of resource management, with the origin of the funds no longer playing a central role.” According to Perich, the new system also gives academic units greater room for manoeuvre in terms of the time by which they need to use resources."
+    },
+    {
+      "heading": "The end is in sight",
+      "text": "Professors can transfer unused budgets, freed from their original intended purpose and from any origin, to a reserve and use these funds at a later time. Researchers can now also temporarily overdraw this reserve, for example to pre-finance projects.\n\n“This liberalisation provides significantly more entrepreneurial scope for both teaching and research. Having access to a comprehensive overview of all available budgets will be crucial for financial management processes in the future,” says Perich."
+    },
+    {
+      "heading": "Simple information for complex projects",
+      "text": "This liberalisation does not apply, however, to service-oriented units such as platforms, Executive Board staff units and administrative departments. These units are subject to business management and will continue to return any unused budgets. In this way, the new management model takes into account the different tasks of the academic and administrative departments.\n\nCollaborative projects and mixed financing are becoming increasingly important for ETH, for example in the form of external funding projects or the ETH+ initiative. This is another area where the new financial system is moving with the times: it is no longer necessary to manually collect all the required financial information for such projects; instead, everything can simply be retrieved at the same time from ETHIS 2019. This helps to reduce administrative effort."
+    },
+    {
+      "heading": "The end is in sight",
+      "text": "With the launch of ETHIS 2019, the conversion is not yet complete. For ETHIS users, it is now a matter of becoming familiar with partially altered rules and the new financial and personnel reports, which are being made available incrementally.\n\nThe “refine” team will remain active until 2020: “For the launch, the focus was on stable basic functionalities. Now the scheduled completion will follow,” says project leader Markus Knaus. “We’ll be back to normal operation in the first quarter of 2020 once a full business cycle has been completed. This will mark the end of the ‘refine’ project,” says Perich.\n\nThis article first appeared in a slightly abbreviated version in life - the magazine for the ETH community April 2019."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "the month of January",
+        "label": "DATE",
+        "start": 4,
+        "end": 24
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "FAC",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "text": "9 January 2019",
+        "label": "DATE",
+        "start": 146,
+        "end": 160
+      },
+      {
+        "text": "four years",
+        "label": "DATE",
+        "start": 162,
+        "end": 172
+      },
+      {
+        "text": "the ETH Information",
+        "label": "ORG",
+        "start": 215,
+        "end": 234
+      },
+      {
+        "text": "SAP",
+        "label": "ORG",
+        "start": 288,
+        "end": 291
+      },
+      {
+        "text": "Over 1,200",
+        "label": "CARDINAL",
+        "start": 311,
+        "end": 321
+      },
+      {
+        "text": "the first day",
+        "label": "DATE",
+        "start": 397,
+        "end": 410
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 489,
+        "end": 492
+      },
+      {
+        "text": "Finance",
+        "label": "ORG",
+        "start": 522,
+        "end": 529
+      },
+      {
+        "text": "Human Resources",
+        "label": "ORG",
+        "start": 547,
+        "end": 562
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 734,
+        "end": 737
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 865,
+        "end": 875
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 913,
+        "end": 916
+      },
+      {
+        "text": "around 40 percent",
+        "label": "PERCENT",
+        "start": 1138,
+        "end": 1155
+      },
+      {
+        "text": "almost 10,000",
+        "label": "CARDINAL",
+        "start": 19,
+        "end": 32
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 89,
+        "end": 94
+      },
+      {
+        "text": "Robert Perich",
+        "label": "PERSON",
+        "start": 269,
+        "end": 282
+      },
+      {
+        "text": "Finance",
+        "label": "ORG",
+        "start": 303,
+        "end": 310
+      },
+      {
+        "text": "Perich",
+        "label": "GPE",
+        "start": 497,
+        "end": 503
+      },
+      {
+        "text": "Perich",
+        "label": "PERSON",
+        "start": 493,
+        "end": 499
+      },
+      {
+        "text": "Executive Board",
+        "label": "ORG",
+        "start": 90,
+        "end": 105
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 453,
+        "end": 456
+      },
+      {
+        "text": "Markus Knaus",
+        "label": "PERSON",
+        "start": 420,
+        "end": 432
+      },
+      {
+        "text": "the first quarter of 2020",
+        "label": "DATE",
+        "start": 472,
+        "end": 497
+      },
+      {
+        "text": "Perich",
+        "label": "PERSON",
+        "start": 599,
+        "end": 605
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 620,
+        "end": 625
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 700,
+        "end": 703
+      },
+      {
+        "text": "April 2019",
+        "label": "DATE",
+        "start": 714,
+        "end": 724
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Markus Knaus",
+        "Perich",
+        "Robert Perich"
+      ],
+      "ORG": [
+        "ETH",
+        "Executive Board",
+        "Finance",
+        "Human Resources",
+        "SAP",
+        "the ETH Information"
+      ],
+      "LOCATION": [
+        "ETH Zurich",
+        "Perich"
+      ],
+      "DATE": [
+        "9 January 2019",
+        "April 2019",
+        "four years",
+        "the first day",
+        "the first quarter of 2020",
+        "the month of January"
+      ],
+      "MISC": [
+        "Over 1,200",
+        "almost 10,000",
+        "around 40 percent",
+        "first",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "Perich": 3,
+      "ETH Zurich": 2,
+      "Finance": 2,
+      "the month of January": 1,
+      "9 January 2019": 1,
+      "four years": 1,
+      "the ETH Information": 1,
+      "SAP": 1,
+      "Over 1,200": 1,
+      "the first day": 1,
+      "Human Resources": 1,
+      "around 40 percent": 1,
+      "almost 10,000": 1,
+      "third": 1,
+      "Robert Perich": 1,
+      "Executive Board": 1,
+      "Markus Knaus": 1,
+      "the first quarter of 2020": 1,
+      "first": 1
+    },
+    "total_entities": 29,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "the-key-to-more-flexibility-refine.md",
+      "title": "En Internal/2019/04/the Key To More Flexibility Refine",
+      "language": "en",
+      "source_path": "en_internal/2019/04/the-key-to-more-flexibility-refine.html"
+    },
+    "temporal": {
+      "publication_date": "2019-04",
+      "mentioned_years": [
+        "2000",
+        "2019",
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Markus Knaus",
+        "Perich",
+        "Robert Perich"
+      ],
+      "people_with_roles": {
+        "Perich": [
+          "president"
+        ],
+        "Robert Perich": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "professor",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "computer_science"
+      ],
+      "research_topics": [
+        "Over 1,200",
+        "almost 10,000",
+        "around 40 percent",
+        "first",
+        "third"
+      ],
+      "grants_funding": [
+        "ERC",
+        "EU",
+        "funding"
+      ],
+      "projects": [
+        "ETH Information",
+        "Since ETH",
+        "Vice President",
+        "Robert Perich",
+        "Refine For",
+        "IT Services",
+        "More Flexibility",
+        "Key To",
+        "En Internal",
+        "Executive Board",
+        "For ETHIS",
+        "Human Resources",
+        "Markus Knaus",
+        "ETH Zurich"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Executive Board",
+        "Finance",
+        "Human Resources",
+        "SAP",
+        "the ETH Information"
+      ],
+      "locations": [
+        "ETH Zurich",
+        "Perich"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Perich",
+        "ETH Zurich",
+        "Finance",
+        "the month of January",
+        "9 January 2019",
+        "four years",
+        "the ETH Information",
+        "SAP",
+        "Over 1,200"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "More integrated view of budgets",
+          "More integrated view of budgets",
+          "The end is in sight",
+          "Simple information for complex projects",
+          "The end is in sight"
+        ],
+        "content_length": 4104
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the ETH Information",
+        "ETH",
+        "Robert Perich",
+        "Perich",
+        "2019",
+        "EU",
+        "SAP",
+        "Executive Board",
+        "2020",
+        "funding",
+        "Finance",
+        "Markus Knaus",
+        "Human Resources",
+        "ETH Zurich",
+        "2000",
+        "ERC"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Over 1,200",
+        "third",
+        "who",
+        "around 40 percent",
+        "what",
+        "how",
+        "computer_science",
+        "almost 10,000",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Perich_has_role_president",
+        "Robert Perich_has_role_president",
+        "research_domain_technology",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

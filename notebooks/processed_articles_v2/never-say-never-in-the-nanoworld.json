@@ -1,0 +1,381 @@
+{
+  "filename": "never-say-never-in-the-nanoworld.md",
+  "original_filename": "never-say-never-in-the-nanoworld.html",
+  "source_path": "en_news_events/2014/03/never-say-never-in-the-nanoworld.html",
+  "date": "2014-03",
+  "title": "Never Say Never In The Nanoworld",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Determining probability of a violation",
+      "text": "Watching a film run in reverse often makes us laugh because unexpected and mysterious things seem to happen: snow starts to form from a water puddle in the sun, growing steadily until an entire snowman appears. Many processes in nature cannot be reversed, such as a melting snowman. This irreversible behaviour is described in the second law of thermodynamics, which posits that the entropy of a system – a measure of the disorder – can never be decreased spontaneously, favouring disorder (high entropy) over order (low entropy).\n\nHowever, when we zoom into the microscopic world of atoms and molecules, this statement weakens and loses its absolute validity. Although the second law of thermodynamics remains valid at the nanoscale, it can also be temporarily violated. This leads to rare events that one would never observe in our daily, macroscopic world; for example, heat transfer from a cold body to a warm body."
+    },
+    {
+      "heading": "Determining probability of a violation",
+      "text": "A team of scientists led by Lukas Novotny, Professor of Photonics, in collaboration with researchers from Barcelona and Vienna, succeeded in accurately predicting the probability that the second law of thermodynamics would be temporarily violated. They confirmed their predictions in an experiment in which a tiny glass sphere with a diameter of less than 100 nanometres was captured and held in a trap of laser light.\n\nDuring the experiment, the researchers cooled the nano-sphere to below the temperature of the surrounding gas. They then switched off the cooling and watched how the nano-sphere heated up through energy transfer from the gas molecules.\n\nHowever, they observed that the tiny glass sphere sometimes, although rarely, did not behave as one would expect according to the second law: it occasionally released energy to the warmer environment rather than absorbing heat from it. “The probability of the glass sphere cooling further immediately after the cooling has been switched off is 50 per cent; a tenth of a second later there is still a 10 per cent chance and, after a second, it is vanishingly small. From then on, conventional thermodynamics apply,” explains Novotny. As the scientists point out, the theory derived by the researchers to analyse their experiment confirms the emerging picture about the limitations of the second law at the nanoscale."
+    },
+    {
+      "heading": "Important for nanomachine construction",
+      "text": "“The experimental and theoretical framework that we present in the study has a wide range of applications,” said Christoph Dellago from the University of Vienna in a press release from that institution. “Due to miniaturisation, we will be able to make increasingly smaller nanomachines and the smaller they are, the more they will feel the impact of the thermal movement of their environment.”\n\nContinuing studies will take a closer look at the fundamental physical properties of nanosystems out of thermal equilibrium. The planned research will make a significant contribution to an understanding of how nanomachines perform under fluctuating conditions.\n\nThis text is based on a press release from the University of Vienna.\n\nGieseler J, Quidant R, Dellago C, Novotny L: Dynamic relaxation of a levitated nanoparticle from a non-equilibrium steady state. Nature Nanotechnology, Advance online publiaction 30 March 2014, doi: 10.1038/nnano.2014.40"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Say Never",
+        "label": "ORG",
+        "start": 29,
+        "end": 38
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 331,
+        "end": 337
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 673,
+        "end": 679
+      },
+      {
+        "text": "daily",
+        "label": "DATE",
+        "start": 833,
+        "end": 838
+      },
+      {
+        "text": "Lukas Novotny",
+        "label": "ORG",
+        "start": 28,
+        "end": 41
+      },
+      {
+        "text": "Photonics",
+        "label": "ORG",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "text": "Barcelona",
+        "label": "GPE",
+        "start": 106,
+        "end": 115
+      },
+      {
+        "text": "Vienna",
+        "label": "GPE",
+        "start": 120,
+        "end": 126
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 188,
+        "end": 194
+      },
+      {
+        "text": "less than 100",
+        "label": "CARDINAL",
+        "start": 346,
+        "end": 359
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 785,
+        "end": 791
+      },
+      {
+        "text": "50 per cent",
+        "label": "MONEY",
+        "start": 999,
+        "end": 1010
+      },
+      {
+        "text": "a tenth",
+        "label": "CARDINAL",
+        "start": 1012,
+        "end": 1019
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1025,
+        "end": 1031
+      },
+      {
+        "text": "10 per cent",
+        "label": "MONEY",
+        "start": 1055,
+        "end": 1066
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1087,
+        "end": 1093
+      },
+      {
+        "text": "Novotny",
+        "label": "ORG",
+        "start": 1179,
+        "end": 1186
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 1342,
+        "end": 1348
+      },
+      {
+        "text": "Christoph Dellago",
+        "label": "PERSON",
+        "start": 113,
+        "end": 130
+      },
+      {
+        "text": "the University of Vienna",
+        "label": "ORG",
+        "start": 136,
+        "end": 160
+      },
+      {
+        "text": "the University of Vienna",
+        "label": "ORG",
+        "start": 698,
+        "end": 722
+      },
+      {
+        "text": "Gieseler J",
+        "label": "PERSON",
+        "start": 724,
+        "end": 734
+      },
+      {
+        "text": "Dellago C",
+        "label": "PERSON",
+        "start": 747,
+        "end": 756
+      },
+      {
+        "text": "Nature Nanotechnology",
+        "label": "PERSON",
+        "start": 853,
+        "end": 874
+      },
+      {
+        "text": "30 March 2014",
+        "label": "DATE",
+        "start": 903,
+        "end": 916
+      },
+      {
+        "text": "10.1038/nnano.2014.40",
+        "label": "CARDINAL",
+        "start": 923,
+        "end": 944
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Christoph Dellago",
+        "Dellago C",
+        "Gieseler J",
+        "Nature Nanotechnology"
+      ],
+      "ORG": [
+        "En News",
+        "Lukas Novotny",
+        "Novotny",
+        "Photonics",
+        "Say Never",
+        "the University of Vienna"
+      ],
+      "LOCATION": [
+        "Barcelona",
+        "Vienna"
+      ],
+      "DATE": [
+        "30 March 2014",
+        "daily"
+      ],
+      "MISC": [
+        "10 per cent",
+        "10.1038/nnano.2014.40",
+        "50 per cent",
+        "a tenth",
+        "less than 100",
+        "second"
+      ]
+    },
+    "entity_counts": {
+      "second": 7,
+      "the University of Vienna": 2,
+      "En News": 1,
+      "Say Never": 1,
+      "daily": 1,
+      "Lukas Novotny": 1,
+      "Photonics": 1,
+      "Barcelona": 1,
+      "Vienna": 1,
+      "less than 100": 1,
+      "50 per cent": 1,
+      "a tenth": 1,
+      "10 per cent": 1,
+      "Novotny": 1,
+      "Christoph Dellago": 1,
+      "Gieseler J": 1,
+      "Dellago C": 1,
+      "Nature Nanotechnology": 1,
+      "30 March 2014": 1,
+      "10.1038/nnano.2014.40": 1
+    },
+    "total_entities": 27,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "never-say-never-in-the-nanoworld.md",
+      "title": "En News Events/2014/03/never Say Never in The Nanoworld",
+      "language": "en",
+      "source_path": "en_news_events/2014/03/never-say-never-in-the-nanoworld.html"
+    },
+    "temporal": {
+      "publication_date": "2014-03",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": "until, during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Christoph Dellago",
+        "Dellago C",
+        "Gieseler J",
+        "Nature Nanotechnology"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "10 per cent",
+        "10.1038/nnano.2014.40",
+        "50 per cent",
+        "a tenth",
+        "less than 100",
+        "second"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Lukas Novotny",
+        "En News",
+        "Nature Nanotechnology",
+        "Gieseler J",
+        "Novotny L",
+        "The Nanoworld",
+        "Christoph Dellago",
+        "Dellago C",
+        "Quidant R",
+        "Say Never"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "En News",
+        "Lukas Novotny",
+        "Novotny",
+        "Photonics",
+        "Say Never",
+        "the University of Vienna"
+      ],
+      "locations": [
+        "Barcelona",
+        "Vienna"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "second",
+        "the University of Vienna",
+        "En News",
+        "Say Never",
+        "daily",
+        "Lukas Novotny",
+        "Photonics",
+        "Barcelona",
+        "Vienna",
+        "less than 100"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Determining probability of a violation",
+          "Determining probability of a violation",
+          "Important for nanomachine construction"
+        ],
+        "content_length": 3296
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lukas Novotny",
+        "Photonics",
+        "the University of Vienna",
+        "En News",
+        "Nature Nanotechnology",
+        "Gieseler J",
+        "Novotny",
+        "Christoph Dellago",
+        "Dellago C",
+        "Say Never",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "50 per cent",
+        "who",
+        "a tenth",
+        "when",
+        "where",
+        "what",
+        "second",
+        "how",
+        "10.1038/nnano.2014.40",
+        "10 per cent",
+        "less than 100"
+      ],
+      "graph_relations": [
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

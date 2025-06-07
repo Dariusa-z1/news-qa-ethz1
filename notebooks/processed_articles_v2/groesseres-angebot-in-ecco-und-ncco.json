@@ -1,0 +1,227 @@
+{
+  "filename": "groesseres-angebot-in-ecco-und-ncco.md",
+  "original_filename": "groesseres-angebot-in-ecco-und-ncco.html",
+  "source_path": "de_internal/2015/03/groesseres-angebot-in-ecco-und-ncco.html",
+  "date": "2015-03",
+  "title": "Groesseres Angebot In Ecco Und Ncco",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ECCO (Eighteenth Century Collections Online) gibt Einblick in das Wissen der englischsprachigen Welt im 18. Jahrhundert. Die ETH-Bibliothek hat hiervon die SammlungScience, Technology and Medicine erworben, die rund 60 000 Titel umfasst.\n\nDie Datenbank externe Seite NCCO (Nineteenth Century Collections Online) beinhaltet Werke aus dem 19. Jahrhundert. Die ETH-Bibliothek hat darin die Teilgebiete Mapping the World (Karten und Reiseliteratur), Fotografie, Wissenschaft, Technologie und Medizin lizenziert. Die Sammlungen enthalten Titel aus den Jahren 1780 bis 1925."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2015/03/groesseres Angebot",
+        "label": "LOC",
+        "start": 0,
+        "end": 38
+      },
+      {
+        "text": "Ecco",
+        "label": "LOC",
+        "start": 42,
+        "end": 46
+      },
+      {
+        "text": "Ncco",
+        "label": "PER",
+        "start": 51,
+        "end": 55
+      },
+      {
+        "text": "ECCO",
+        "label": "MISC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Eighteenth Century Collections",
+        "label": "PER",
+        "start": 6,
+        "end": 36
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 125,
+        "end": 139
+      },
+      {
+        "text": "SammlungScience",
+        "label": "ORG",
+        "start": 156,
+        "end": 171
+      },
+      {
+        "text": "NCCO",
+        "label": "MISC",
+        "start": 266,
+        "end": 270
+      },
+      {
+        "text": "Nineteenth Century Collections",
+        "label": "PER",
+        "start": 272,
+        "end": 302
+      },
+      {
+        "text": "ETH-Bibliothek",
+        "label": "MISC",
+        "start": 357,
+        "end": 371
+      },
+      {
+        "text": "Mapping the World",
+        "label": "MISC",
+        "start": 398,
+        "end": 415
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eighteenth Century Collections",
+        "Ncco",
+        "Nineteenth Century Collections"
+      ],
+      "ORG": [
+        "SammlungScience"
+      ],
+      "LOCATION": [
+        "De Internal/2015/03/groesseres Angebot",
+        "Ecco"
+      ],
+      "DATE": [],
+      "MISC": [
+        "ECCO",
+        "ETH-Bibliothek",
+        "Mapping the World",
+        "NCCO"
+      ]
+    },
+    "entity_counts": {
+      "ETH-Bibliothek": 2,
+      "De Internal/2015/03/groesseres Angebot": 1,
+      "Ecco": 1,
+      "Ncco": 1,
+      "ECCO": 1,
+      "Eighteenth Century Collections": 1,
+      "SammlungScience": 1,
+      "NCCO": 1,
+      "Nineteenth Century Collections": 1,
+      "Mapping the World": 1
+    },
+    "total_entities": 11,
+    "unique_entities": 10
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "groesseres-angebot-in-ecco-und-ncco.md",
+      "title": "De Internal/2015/03/groesseres Angebot in Ecco und Ncco",
+      "language": "de",
+      "source_path": "de_internal/2015/03/groesseres-angebot-in-ecco-und-ncco.html"
+    },
+    "temporal": {
+      "publication_date": "2015-03",
+      "mentioned_years": [
+        "1925",
+        "2015"
+      ],
+      "time_periods": [
+        [
+          "1780",
+          "1925"
+        ]
+      ],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Eighteenth Century Collections",
+        "Ncco",
+        "Nineteenth Century Collections"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "ECCO",
+        "ETH-Bibliothek",
+        "Mapping the World",
+        "NCCO"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Collections Online",
+        "Die Datenbank",
+        "Seite NCCO",
+        "De Internal",
+        "Teilgebiete Mapping",
+        "Die ETH",
+        "Nineteenth Century",
+        "Ncco ECCO",
+        "Die Sammlungen",
+        "Eighteenth Century"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "SammlungScience"
+      ],
+      "locations": [
+        "De Internal/2015/03/groesseres Angebot",
+        "Ecco"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "when"
+      ],
+      "key_concepts": [
+        "ETH-Bibliothek",
+        "De Internal/2015/03/groesseres Angebot",
+        "Ecco",
+        "Ncco",
+        "ECCO",
+        "Eighteenth Century Collections",
+        "SammlungScience",
+        "NCCO",
+        "Nineteenth Century Collections",
+        "Mapping the World"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 624
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "SammlungScience",
+        "2015",
+        "Nineteenth Century Collections",
+        "1925",
+        "Ncco",
+        "Eighteenth Century Collections"
+      ],
+      "semantic_concepts": [
+        "ETH-Bibliothek",
+        "NCCO",
+        "what",
+        "ECCO",
+        "when",
+        "Mapping the World"
+      ],
+      "graph_relations": []
+    }
+  }
+}

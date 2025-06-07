@@ -1,0 +1,340 @@
+{
+  "filename": "federal-council-approves-the-horizon-2020-package.md",
+  "original_filename": "federal-council-approves-the-horizon-2020-package.html",
+  "source_path": "en_news_events/2014/10/federal-council-approves-the-horizon-2020-package.html",
+  "date": "2014-10",
+  "title": "Federal Council Approves The Horizon 2020 Package",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Period of association",
+      "text": "It allows researchers from Switzerland to take full part in selected parts of Horizon 2020 and to apply for the sought-after grants provided by the European Research Council. The agreement provides for Switzerland’s full association to Horizon 2020 between 2017 and 2020, provided a solution can be found to the issue of the free movement of persons.\n\nPartial association, which is in effect until 2016, allows researchers from Switzerland to take part in the different instruments of Horizon 2020 in a variety of ways. Switzerland can be fully involved as an associated country in the following parts of the programme:"
+    },
+    {
+      "heading": "Period of association",
+      "text": "The agreement is due to be signed at the end of this year. However, it has been applied retroactively, allowing Swiss researchers to participate in project calls since 15 September.\n\nIf the Agreement on the Free Movement of Persons is repealed or if the protocol to extend it to Croatia is not ratified by 9 February 2017, the agreement on Switzerland's participation in the Horizon 2020 packet will lapse. In this case Switzerland would be able to take part in all areas of the EU Framework Programmes (Horizon 2020, Euratom programme ITER project) as a third country only from 1 January 2017. If, however, a solution can be found regarding the free movement of persons, the agreement will continue to apply and will automatically be extended to all parts of Horizon 2020 from 1 January 2017 onwards."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Council Approves",
+        "label": "ORG",
+        "start": 31,
+        "end": 47
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 27,
+        "end": 38
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 78,
+        "end": 90
+      },
+      {
+        "text": "the European Research Council",
+        "label": "ORG",
+        "start": 144,
+        "end": 173
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 202,
+        "end": 213
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 236,
+        "end": 248
+      },
+      {
+        "text": "between 2017",
+        "label": "DATE",
+        "start": 249,
+        "end": 261
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 427,
+        "end": 438
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 484,
+        "end": 496
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 519,
+        "end": 530
+      },
+      {
+        "text": "the end of this year",
+        "label": "DATE",
+        "start": 37,
+        "end": 57
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 112,
+        "end": 117
+      },
+      {
+        "text": "15 September",
+        "label": "DATE",
+        "start": 168,
+        "end": 180
+      },
+      {
+        "text": "the Free Movement of Persons",
+        "label": "ORG",
+        "start": 202,
+        "end": 230
+      },
+      {
+        "text": "Croatia",
+        "label": "GPE",
+        "start": 278,
+        "end": 285
+      },
+      {
+        "text": "9 February 2017",
+        "label": "DATE",
+        "start": 305,
+        "end": 320
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 339,
+        "end": 350
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 374,
+        "end": 386
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 419,
+        "end": 430
+      },
+      {
+        "text": "the EU Framework Programmes",
+        "label": "ORG",
+        "start": 474,
+        "end": 501
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 503,
+        "end": 515
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 554,
+        "end": 559
+      },
+      {
+        "text": "1 January 2017",
+        "label": "DATE",
+        "start": 578,
+        "end": 592
+      },
+      {
+        "text": "Horizon 2020",
+        "label": "EVENT",
+        "start": 759,
+        "end": 771
+      },
+      {
+        "text": "1 January 2017",
+        "label": "DATE",
+        "start": 777,
+        "end": 791
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Council Approves",
+        "the EU Framework Programmes",
+        "the European Research Council",
+        "the Free Movement of Persons"
+      ],
+      "LOCATION": [
+        "Croatia",
+        "Switzerland"
+      ],
+      "DATE": [
+        "1 January 2017",
+        "15 September",
+        "9 February 2017",
+        "between 2017",
+        "the end of this year"
+      ],
+      "MISC": [
+        "Horizon 2020",
+        "Swiss",
+        "third"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 6,
+      "Horizon 2020": 6,
+      "1 January 2017": 2,
+      "Council Approves": 1,
+      "the European Research Council": 1,
+      "between 2017": 1,
+      "the end of this year": 1,
+      "Swiss": 1,
+      "15 September": 1,
+      "the Free Movement of Persons": 1,
+      "Croatia": 1,
+      "9 February 2017": 1,
+      "the EU Framework Programmes": 1,
+      "third": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 14
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "federal-council-approves-the-horizon-2020-package.md",
+      "title": "En News Events/2014/10/federal Council Approves The Horizon 2020 Package",
+      "language": "en",
+      "source_path": "en_news_events/2014/10/federal-council-approves-the-horizon-2020-package.html"
+    },
+    "temporal": {
+      "publication_date": "2014-10",
+      "mentioned_years": [
+        "2014",
+        "2016",
+        "2017",
+        "2020"
+      ],
+      "time_periods": [
+        [
+          "2017",
+          "2020"
+        ]
+      ],
+      "temporal_context": "since, until, between, from"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Horizon 2020",
+        "Swiss",
+        "third"
+      ],
+      "grants_funding": [
+        "EU",
+        "Horizon",
+        "grant"
+      ],
+      "projects": [
+        "The Horizon",
+        "EU Framework",
+        "European Research",
+        "En News",
+        "Council Approves",
+        "Free Movement",
+        "Package It"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Council Approves",
+        "the EU Framework Programmes",
+        "the European Research Council",
+        "the Free Movement of Persons"
+      ],
+      "locations": [
+        "Croatia",
+        "Switzerland"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "Horizon 2020",
+        "1 January 2017",
+        "Council Approves",
+        "the European Research Council",
+        "between 2017",
+        "the end of this year",
+        "Swiss",
+        "15 September",
+        "the Free Movement of Persons"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "Period of association",
+          "Period of association"
+        ],
+        "content_length": 1494
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the Free Movement of Persons",
+        "grant",
+        "2017",
+        "EU",
+        "Council Approves",
+        "2020",
+        "2016",
+        "the EU Framework Programmes",
+        "the European Research Council",
+        "Horizon",
+        "2014"
+      ],
+      "semantic_concepts": [
+        "third",
+        "who",
+        "Horizon 2020",
+        "Swiss",
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "graph_relations": []
+    }
+  }
+}

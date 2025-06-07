@@ -1,0 +1,221 @@
+{
+  "filename": "inspiring-learning-the-latest-eth-community-magazine-life-has-been-released.md",
+  "original_filename": "inspiring-learning-the-latest-eth-community-magazine-life-has-been-released.html",
+  "source_path": "en_internal/2015/10/inspiring-learning-the-latest-eth-community-magazine-life-has-been-released.html",
+  "date": "2015-10",
+  "title": "Inspiring Learning The Latest Eth Community Magazine Life Has Been Released",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "The October edition of life , ETH's community magazine, gives you the results of the 2015 student survey . You can read why for Rector Sarah Springman, it is all about independent learning and the feeling of being part of the university community.\n\nAnd Lukas Vonesch, the new Head of HR , speaks about the autonomy of ETH members, their competitive position, and the areas he wants to focus on.\n\nYou'll also get a glimpse into the working life of the ETH Store , the ETH Zurich Industry Relations Team and the Pioneer Fellow , Claudia Kuster."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Learning The Latest Eth Community Magazine Life Has Been Released",
+        "label": "ORG",
+        "start": 30,
+        "end": 95
+      },
+      {
+        "text": "October",
+        "label": "DATE",
+        "start": 4,
+        "end": 11
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 30,
+        "end": 33
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 135,
+        "end": 150
+      },
+      {
+        "text": "Lukas Vonesch",
+        "label": "ORG",
+        "start": 252,
+        "end": 265
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 317,
+        "end": 320
+      },
+      {
+        "text": "the ETH Store",
+        "label": "FAC",
+        "start": 445,
+        "end": 458
+      },
+      {
+        "text": "the ETH Zurich Industry Relations Team",
+        "label": "ORG",
+        "start": 461,
+        "end": 499
+      },
+      {
+        "text": "the Pioneer Fellow",
+        "label": "ORG",
+        "start": 504,
+        "end": 522
+      },
+      {
+        "text": "Claudia Kuster",
+        "label": "PERSON",
+        "start": 525,
+        "end": 539
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Claudia Kuster",
+        "Sarah Springman"
+      ],
+      "ORG": [
+        "ETH",
+        "Learning The Latest Eth Community Magazine Life Has Been Released",
+        "Lukas Vonesch",
+        "the ETH Zurich Industry Relations Team",
+        "the Pioneer Fellow"
+      ],
+      "LOCATION": [
+        "the ETH Store"
+      ],
+      "DATE": [
+        "October"
+      ],
+      "MISC": []
+    },
+    "entity_counts": {
+      "ETH": 2,
+      "Learning The Latest Eth Community Magazine Life Has Been Released": 1,
+      "October": 1,
+      "Sarah Springman": 1,
+      "Lukas Vonesch": 1,
+      "the ETH Store": 1,
+      "the ETH Zurich Industry Relations Team": 1,
+      "the Pioneer Fellow": 1,
+      "Claudia Kuster": 1
+    },
+    "total_entities": 10,
+    "unique_entities": 9
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "inspiring-learning-the-latest-eth-community-magazine-life-has-been-released.md",
+      "title": "En Internal/2015/10/inspiring Learning The Latest Eth Community Magazine Life Has Been Released",
+      "language": "en",
+      "source_path": "en_internal/2015/10/inspiring-learning-the-latest-eth-community-magazine-life-has-been-released.html"
+    },
+    "temporal": {
+      "publication_date": "2015-10",
+      "mentioned_years": [
+        "2015"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Claudia Kuster",
+        "Sarah Springman"
+      ],
+      "people_with_roles": {
+        "Sarah Springman": [
+          "rector"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Been Released",
+        "Rector Sarah",
+        "Industry Relations",
+        "Community Magazine",
+        "ETH Store",
+        "Latest Eth",
+        "En Internal",
+        "Pioneer Fellow",
+        "Learning The",
+        "Claudia Kuster",
+        "Life Has",
+        "ETH Zurich",
+        "And Lukas",
+        "The October"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "Learning The Latest Eth Community Magazine Life Has Been Released",
+        "Lukas Vonesch",
+        "the ETH Zurich Industry Relations Team",
+        "the Pioneer Fellow"
+      ],
+      "locations": [
+        "the ETH Store"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH",
+        "Learning The Latest Eth Community Magazine Life Has Been Released",
+        "October",
+        "Sarah Springman",
+        "Lukas Vonesch",
+        "the ETH Store",
+        "the ETH Zurich Industry Relations Team",
+        "the Pioneer Fellow",
+        "Claudia Kuster"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 638
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "the ETH Zurich Industry Relations Team",
+        "the Pioneer Fellow",
+        "2015",
+        "Learning The Latest Eth Community Magazine Life Has Been Released",
+        "Sarah Springman",
+        "Claudia Kuster",
+        "Lukas Vonesch"
+      ],
+      "semantic_concepts": [
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Sarah Springman_has_role_rector"
+      ]
+    }
+  }
+}

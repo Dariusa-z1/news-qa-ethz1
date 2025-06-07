@@ -1,0 +1,139 @@
+{
+  "filename": "mendeley--literaturverwaltung.md",
+  "original_filename": "mendeley--literaturverwaltung.html",
+  "source_path": "de_internal/2014/05/mendeley--literaturverwaltung.html",
+  "date": "2014-05",
+  "title": "Mendeley Literaturverwaltung",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Gezeigt werden das Einrichten eines Mendeley-Benutzerkontos und der Beitritt zur ETH Zürich Institutional Group.Sie lernen darüber hinaus unter anderem die Übernahme und Verwaltung von Referenzen, das Erstellen von Literaturlisten sowie das Hochladen und Organisieren von PDFs.\n\nWeitere Informationen und Anmeldung"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2014/05",
+        "label": "LOC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "mendeley",
+        "label": "PER",
+        "start": 20,
+        "end": 28
+      },
+      {
+        "text": "Beitritt",
+        "label": "MISC",
+        "start": 68,
+        "end": 76
+      },
+      {
+        "text": "ETH Zürich Institutional Group",
+        "label": "ORG",
+        "start": 81,
+        "end": 111
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "mendeley"
+      ],
+      "ORG": [
+        "ETH Zürich Institutional Group"
+      ],
+      "LOCATION": [
+        "De Internal/2014/05"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Beitritt"
+      ]
+    },
+    "entity_counts": {
+      "De Internal/2014/05": 1,
+      "mendeley": 1,
+      "Beitritt": 1,
+      "ETH Zürich Institutional Group": 1
+    },
+    "total_entities": 4,
+    "unique_entities": 4
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "mendeley--literaturverwaltung.md",
+      "title": "De Internal/2014/05/mendeley Literaturverwaltung",
+      "language": "de",
+      "source_path": "de_internal/2014/05/mendeley--literaturverwaltung.html"
+    },
+    "temporal": {
+      "publication_date": "2014-05",
+      "mentioned_years": [
+        "2014"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "mendeley"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "Beitritt"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "De Internal",
+        "Literaturverwaltung Gezeigt",
+        "Mendeley-Benutzerkontos",
+        "Institutional Group",
+        "Weitere Informationen"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich Institutional Group"
+      ],
+      "locations": [
+        "De Internal/2014/05"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "De Internal/2014/05",
+        "mendeley",
+        "Beitritt",
+        "ETH Zürich Institutional Group"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 363
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "mendeley",
+        "2014",
+        "ETH Zürich Institutional Group"
+      ],
+      "semantic_concepts": [
+        "Beitritt"
+      ],
+      "graph_relations": []
+    }
+  }
+}

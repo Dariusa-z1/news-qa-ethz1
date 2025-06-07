@@ -1,0 +1,279 @@
+{
+  "filename": "brazil-on-the-wrong-track.md",
+  "original_filename": "brazil-on-the-wrong-track.html",
+  "source_path": "en_news_events/2022/10/brazil-on-the-wrong-track.html",
+  "date": "2022-10",
+  "title": "Brazil On The Wrong Track",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "References",
+      "text": "Gollnow F, Cammelli F, Carlson K, Garrett R. Gaps in Adoption and Implementation Limit the Current and Potential Effectiveness of Zero-Deforestation Supply Chain Policies for Soy. Environmental Research Letters 28 October 2022, doi: 10.1088/1748-9326/ac97f6\n\nVilloria N, Garrett R, Gollnow F, Carlson K. Leakage Does Not Fully Offset Soy Supply-Chain Efforts to Reduce Deforestation in Brazil. Nature Communications 13, 5476 (2022), doi: 10.1038/s41467-022-33213-z"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 23,
+        "end": 29
+      },
+      {
+        "text": "Gollnow F",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Cammelli F",
+        "label": "PERSON",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "text": "Carlson K",
+        "label": "PERSON",
+        "start": 23,
+        "end": 32
+      },
+      {
+        "text": "Garrett R. Gaps",
+        "label": "PERSON",
+        "start": 34,
+        "end": 49
+      },
+      {
+        "text": "Soy",
+        "label": "PERSON",
+        "start": 175,
+        "end": 178
+      },
+      {
+        "text": "28 October 2022",
+        "label": "DATE",
+        "start": 211,
+        "end": 226
+      },
+      {
+        "text": "10.1088/1748-9326",
+        "label": "CARDINAL",
+        "start": 233,
+        "end": 250
+      },
+      {
+        "text": "Villoria N",
+        "label": "ORG",
+        "start": 258,
+        "end": 268
+      },
+      {
+        "text": "Gollnow F",
+        "label": "PERSON",
+        "start": 281,
+        "end": 290
+      },
+      {
+        "text": "Carlson K. Leakage",
+        "label": "PERSON",
+        "start": 292,
+        "end": 310
+      },
+      {
+        "text": "Supply-Chain Efforts to Reduce Deforestation",
+        "label": "ORG",
+        "start": 337,
+        "end": 381
+      },
+      {
+        "text": "Brazil",
+        "label": "GPE",
+        "start": 385,
+        "end": 391
+      },
+      {
+        "text": "Nature Communications",
+        "label": "ORG",
+        "start": 393,
+        "end": 414
+      },
+      {
+        "text": "13, 5476",
+        "label": "DATE",
+        "start": 415,
+        "end": 423
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 437,
+        "end": 444
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Cammelli F",
+        "Carlson K",
+        "Carlson K. Leakage",
+        "Garrett R. Gaps",
+        "Gollnow F",
+        "Soy"
+      ],
+      "ORG": [
+        "Nature Communications",
+        "Supply-Chain Efforts to Reduce Deforestation",
+        "Villoria N"
+      ],
+      "LOCATION": [
+        "Brazil",
+        "brazil"
+      ],
+      "DATE": [
+        "13, 5476",
+        "28 October 2022"
+      ],
+      "MISC": [
+        "10.1038",
+        "10.1088/1748-9326"
+      ]
+    },
+    "entity_counts": {
+      "Gollnow F": 2,
+      "brazil": 1,
+      "Cammelli F": 1,
+      "Carlson K": 1,
+      "Garrett R. Gaps": 1,
+      "Soy": 1,
+      "28 October 2022": 1,
+      "10.1088/1748-9326": 1,
+      "Villoria N": 1,
+      "Carlson K. Leakage": 1,
+      "Supply-Chain Efforts to Reduce Deforestation": 1,
+      "Brazil": 1,
+      "Nature Communications": 1,
+      "13, 5476": 1,
+      "10.1038": 1
+    },
+    "total_entities": 16,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "brazil-on-the-wrong-track.md",
+      "title": "En News Events/2022/10/brazil On The Wrong Track",
+      "language": "en",
+      "source_path": "en_news_events/2022/10/brazil-on-the-wrong-track.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Cammelli F",
+        "Carlson K",
+        "Carlson K. Leakage",
+        "Garrett R. Gaps",
+        "Gollnow F",
+        "Soy"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1038",
+        "10.1088/1748-9326"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Gollnow F",
+        "Reduce Deforestation",
+        "Cammelli F",
+        "Not Fully",
+        "Supply-Chain",
+        "Supply Chain",
+        "Potential Effectiveness",
+        "Villoria N",
+        "Zero-Deforestation",
+        "On The",
+        "Implementation Limit",
+        "Environmental Research",
+        "Offset Soy",
+        "Wrong Track",
+        "Nature Communications",
+        "Carlson K",
+        "Leakage Does",
+        "En News",
+        "Garrett R"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Nature Communications",
+        "Supply-Chain Efforts to Reduce Deforestation",
+        "Villoria N"
+      ],
+      "locations": [
+        "Brazil",
+        "brazil"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what"
+      ],
+      "key_concepts": [
+        "Gollnow F",
+        "brazil",
+        "Cammelli F",
+        "Carlson K",
+        "Garrett R. Gaps",
+        "Soy",
+        "28 October 2022",
+        "10.1088/1748-9326",
+        "Villoria N",
+        "Carlson K. Leakage"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "References"
+        ],
+        "content_length": 513
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Gollnow F",
+        "Garrett R. Gaps",
+        "Villoria N",
+        "Carlson K. Leakage",
+        "Soy",
+        "Cammelli F",
+        "2022",
+        "Nature Communications",
+        "Carlson K",
+        "Supply-Chain Efforts to Reduce Deforestation"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "10.1088/1748-9326",
+        "what",
+        "10.1038"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

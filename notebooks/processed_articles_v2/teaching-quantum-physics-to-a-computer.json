@@ -1,0 +1,477 @@
+{
+  "filename": "teaching-quantum-physics-to-a-computer.md",
+  "original_filename": "teaching-quantum-physics-to-a-computer.html",
+  "source_path": "en_news_events/2018/02/teaching-quantum-physics-to-a-computer.html",
+  "date": "2018-02",
+  "title": "Teaching Quantum Physics To A Computer",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Quantum physics and handwriting",
+      "text": "Physics students spend many years learning to master the often counterintuitive laws and effects of quantum mechanics. For instance, the quantum state of a physical system may be undetermined until a measurement is made, and a measurement on one part of the system can influence the state of a distant part without any exchange of information. It is enough to make the mind boggle. Once the students graduate and start doing research, the problems continue: to exactly determine the state of some quantum system in an experiment, one has to carefully prepare it and make lots of measurements, over and over again.\n\nVery often, what one is actually interested in cannot even be measured directly. An international team of researchers led by Giuseppe Carleo, a lecturer at the Institute for Theoretical Physics of ETH Zurich, has now developed machine learning software that enables a computer to “learn” the quantum state of a complex physical system based on experimental observations and to predict the outcomes of hypothetical measurements. In the future, their software could be used to test the accuracy of quantum computers."
+    },
+    {
+      "heading": "Quantum physics and handwriting",
+      "text": "The principle of his approach, Carleo explains, is rather simple. He uses an intuitive analogy that avoids the complications of quantum physics: “What we do, in a nutshell, is like teaching the computer to imitate my handwriting. We will show it a bunch of written samples, and step by step it then learns to replicate all my a’s, l’s and so forth.”\n\nThe way the computer does this is by looking at the ways, for instance, in which an “l” is written when it follows an “a”. These may not always be the same, so the computer will calculate a probability distribution that expresses mathematically how often a letter is written in a certain way when it is preceded by some other letter. “Once the computer has figured out that distribution, it could then reproduce something that looks very much like my handwriting”, Carleo says."
+    },
+    {
+      "heading": "Testing quantum computers",
+      "text": "Quantum physics is, of course, much more complicated than a person’s handwriting. Still, the principle that Carleo (who recently moved to the Flatiron Institute in New York), together with Matthias Troyer, Guglielmo Mazzola (both at ETH) and Giacomo Torlai from the University of Waterloo as well as colleagues at the Perimeter Institute and the company D-Wave in Canada have used for their machine learning algorithm is quite similar.\n\nThe quantum state of the physical system is encoded in a so-called neural network, and learning is achieved in small steps by translating the current state of the network into predicted measurement probabilities. Those probabilities are then compared to the actually measured data, and adjustments are made to the network in order to make them match better in the next round. Once this training period is finished, one can then use the quantum state stored in the neural network for “virtual” experiments without actually performing them in the laboratory."
+    },
+    {
+      "heading": "Faster tomography for quantum states",
+      "text": "“Using machine learning to extract a quantum state from measurements has a number of advantages”, Carleo explains. He cites one striking example, in which the quantum state of a collection of just eight quantum objects (trapped ions) had to be experimentally determined. Using a standard approached called quantum tomography, around one million measurements were needed to achieve the desired accuracy. With the new method, a much smaller number of measurements could do the same job, and substantially larger systems, previously inaccessible, could be studied.\n\nThis is encouraging, since common wisdom has it that the number of calculations necessary to simulate a complex quantum system on a classical computer grows exponentially with the number of quantum objects in the system. This is mainly because of a phenomenon called entanglement, which causes distant parts of the quantum system to be intimately connected although they do not exchange information. The approach used by Carleo and his collaborators takes this into account by using a layer of “hidden” neurons, which allow the computer to encode the correct quantum state in a much more compact fashion.\n\nBeing able to study quantum systems with a large number of components – or “qubits”, as they are often called – also has important implications for future quantum technologies, as Carleo points out: “If we want to test quantum computers with more than a handful of qubits, that won’t be possible with conventional means because of the exponential scaling. Our machine learning approach, however, should put us in a position to test quantum computers with as many as 100 qubits.”\n\nAlso, the machine learning software can help experimental physicists by allowing them to perform virtual measurements that would be hard to do in the laboratory, such as measuring the degree of entanglement of a system composed of many interacting qubits. So far, the method has only been tested on artificially generated data, but the researchers plan to use it for analysing real quantum experiments very soon.\n\nTorlai G, Mazzola G, Carrasquilla J, Troyer M, Melko R, Carleo G: Neural-network quantum state tomography. Nature Physics (2018), published online 26th Feb 2018. doi: 10.1038/s41567-018-0048-5"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News Events/2018/02",
+        "label": "ORG",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "Quantum Physics",
+        "label": "ORG",
+        "start": 32,
+        "end": 47
+      },
+      {
+        "text": "many years",
+        "label": "DATE",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 242,
+        "end": 245
+      },
+      {
+        "text": "Giuseppe Carleo",
+        "label": "PERSON",
+        "start": 739,
+        "end": 754
+      },
+      {
+        "text": "the Institute for Theoretical Physics",
+        "label": "ORG",
+        "start": 770,
+        "end": 807
+      },
+      {
+        "text": "Carleo",
+        "label": "ORG",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "Carleo",
+        "label": "ORG",
+        "start": 815,
+        "end": 821
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Carleo",
+        "label": "PRODUCT",
+        "start": 108,
+        "end": 114
+      },
+      {
+        "text": "the Flatiron Institute",
+        "label": "ORG",
+        "start": 138,
+        "end": 160
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "start": 164,
+        "end": 172
+      },
+      {
+        "text": "Matthias Troyer",
+        "label": "ORG",
+        "start": 189,
+        "end": 204
+      },
+      {
+        "text": "Guglielmo Mazzola",
+        "label": "PERSON",
+        "start": 206,
+        "end": 223
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 233,
+        "end": 236
+      },
+      {
+        "text": "Giacomo Torlai",
+        "label": "PERSON",
+        "start": 242,
+        "end": 256
+      },
+      {
+        "text": "the University of Waterloo",
+        "label": "ORG",
+        "start": 262,
+        "end": 288
+      },
+      {
+        "text": "the Perimeter Institute",
+        "label": "ORG",
+        "start": 314,
+        "end": 337
+      },
+      {
+        "text": "Canada",
+        "label": "GPE",
+        "start": 364,
+        "end": 370
+      },
+      {
+        "text": "Carleo",
+        "label": "ORG",
+        "start": 98,
+        "end": 104
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 124,
+        "end": 127
+      },
+      {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 197,
+        "end": 202
+      },
+      {
+        "text": "around one million",
+        "label": "CARDINAL",
+        "start": 326,
+        "end": 344
+      },
+      {
+        "text": "Carleo",
+        "label": "PRODUCT",
+        "start": 983,
+        "end": 989
+      },
+      {
+        "text": "Carleo",
+        "label": "PRODUCT",
+        "start": 1347,
+        "end": 1353
+      },
+      {
+        "text": "as many as 100",
+        "label": "CARDINAL",
+        "start": 1622,
+        "end": 1636
+      },
+      {
+        "text": "Torlai G",
+        "label": "PERSON",
+        "start": 2059,
+        "end": 2067
+      },
+      {
+        "text": "Carrasquilla J",
+        "label": "PERSON",
+        "start": 2080,
+        "end": 2094
+      },
+      {
+        "text": "Troyer M",
+        "label": "ORG",
+        "start": 2096,
+        "end": 2104
+      },
+      {
+        "text": "Melko",
+        "label": "PERSON",
+        "start": 2106,
+        "end": 2111
+      },
+      {
+        "text": "Carleo",
+        "label": "PRODUCT",
+        "start": 2115,
+        "end": 2121
+      },
+      {
+        "text": "Nature Physics",
+        "label": "ORG",
+        "start": 2166,
+        "end": 2180
+      },
+      {
+        "text": "26th Feb 2018",
+        "label": "DATE",
+        "start": 2206,
+        "end": 2219
+      },
+      {
+        "text": "10.1038",
+        "label": "CARDINAL",
+        "start": 2226,
+        "end": 2233
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Carrasquilla J",
+        "Giacomo Torlai",
+        "Giuseppe Carleo",
+        "Guglielmo Mazzola",
+        "Melko",
+        "Torlai G"
+      ],
+      "ORG": [
+        "Carleo",
+        "ETH",
+        "En News Events/2018/02",
+        "Matthias Troyer",
+        "Nature Physics",
+        "Quantum",
+        "Quantum Physics",
+        "Troyer M",
+        "the Flatiron Institute",
+        "the Institute for Theoretical Physics",
+        "the Perimeter Institute",
+        "the University of Waterloo"
+      ],
+      "LOCATION": [
+        "Canada",
+        "New York"
+      ],
+      "DATE": [
+        "26th Feb 2018",
+        "many years"
+      ],
+      "MISC": [
+        "10.1038",
+        "Carleo",
+        "around one million",
+        "as many as 100",
+        "eight",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "Carleo": 7,
+      "one": 2,
+      "En News Events/2018/02": 1,
+      "Quantum Physics": 1,
+      "many years": 1,
+      "Giuseppe Carleo": 1,
+      "the Institute for Theoretical Physics": 1,
+      "Quantum": 1,
+      "the Flatiron Institute": 1,
+      "New York": 1,
+      "Matthias Troyer": 1,
+      "Guglielmo Mazzola": 1,
+      "ETH": 1,
+      "Giacomo Torlai": 1,
+      "the University of Waterloo": 1,
+      "the Perimeter Institute": 1,
+      "Canada": 1,
+      "eight": 1,
+      "around one million": 1,
+      "as many as 100": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 27
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "teaching-quantum-physics-to-a-computer.md",
+      "title": "En News Events/2018/02/teaching Quantum Physics To A Computer",
+      "language": "en",
+      "source_path": "en_news_events/2018/02/teaching-quantum-physics-to-a-computer.html"
+    },
+    "temporal": {
+      "publication_date": "2018-02",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, until, from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Carrasquilla J",
+        "Giacomo Torlai",
+        "Giuseppe Carleo",
+        "Guglielmo Mazzola",
+        "Melko",
+        "Torlai G"
+      ],
+      "people_with_roles": {
+        "Giuseppe Carleo": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "student",
+        "graduate"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "computer_science",
+        "mathematics"
+      ],
+      "research_topics": [
+        "10.1038",
+        "Carleo",
+        "around one million",
+        "as many as 100",
+        "eight"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Computer Physics",
+        "Giacomo Torlai",
+        "Theoretical Physics",
+        "D-Wave",
+        "Flatiron Institute",
+        "Perimeter Institute",
+        "Melko R",
+        "Carrasquilla J",
+        "To A",
+        "Nature Physics",
+        "Guglielmo Mazzola",
+        "En News",
+        "Mazzola G",
+        "Troyer M",
+        "ETH Zurich",
+        "New York",
+        "Carleo G",
+        "Torlai G",
+        "Matthias Troyer",
+        "Giuseppe Carleo",
+        "Quantum Physics"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Theoretical Physics of ETH Zurich"
+      ],
+      "institutions": [
+        "Carleo",
+        "ETH",
+        "En News Events/2018/02",
+        "Matthias Troyer",
+        "Nature Physics",
+        "Quantum",
+        "Quantum Physics",
+        "Troyer M",
+        "the Flatiron Institute",
+        "the Institute for Theoretical Physics",
+        "the Perimeter Institute",
+        "the University of Waterloo"
+      ],
+      "locations": [
+        "Canada",
+        "New York"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how"
+      ],
+      "key_concepts": [
+        "Carleo",
+        "one",
+        "En News Events/2018/02",
+        "Quantum Physics",
+        "many years",
+        "Giuseppe Carleo",
+        "the Institute for Theoretical Physics",
+        "Quantum",
+        "the Flatiron Institute",
+        "New York"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Quantum physics and handwriting",
+          "Quantum physics and handwriting",
+          "Testing quantum computers",
+          "Faster tomography for quantum states"
+        ],
+        "content_length": 5270
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Carleo",
+        "Giacomo Torlai",
+        "2018",
+        "Melko",
+        "the Institute for Theoretical Physics",
+        "En News Events/2018/02",
+        "the Flatiron Institute",
+        "Carrasquilla J",
+        "EU",
+        "the Perimeter Institute",
+        "the University of Waterloo",
+        "Quantum",
+        "Nature Physics",
+        "Guglielmo Mazzola",
+        "Troyer M",
+        "Torlai G",
+        "Matthias Troyer",
+        "Giuseppe Carleo",
+        "Quantum Physics"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "mathematics",
+        "who",
+        "eight",
+        "10.1038",
+        "Carleo",
+        "as many as 100",
+        "what",
+        "how",
+        "computer_science",
+        "around one million",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Giuseppe Carleo_has_role_researcher",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_computer_science",
+        "research_domain_mathematics"
+      ]
+    }
+  }
+}

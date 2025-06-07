@@ -1,0 +1,506 @@
+{
+  "filename": "rock-print-pavilion-in-winterthur.md",
+  "original_filename": "rock-print-pavilion-in-winterthur.html",
+  "source_path": "en_news_events/2018/09/rock-print-pavilion-in-winterthur.html",
+  "date": "2018-09",
+  "title": "Rock Print Pavilion In Winterthur",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Thirty tonnes of loose stones, 120 kilometres of string – and a construction robot: the Rock Print Pavilion was built using nothing more than these three key elements. The temporary installation at Kirchplatz, in front of the Gewerbemuseum in Winterthur, is a research project run by Gramazio Kohler Research, the ETH Chair of Architecture an Digital Fabrication, and is part of the “Hello, Robot. Design between Human and Machine” exhibition.\n\nOver the last four weeks, the construction robot “In situ Fabricator” has been working to construct a total of 11 three-metre-high pillars. But how can a structure made of loose stones and string be so stable that it can support the eight-tonne steel roof?\n\nThe phenomenon is known as “jamming”. The ETH research project “Design and Robotic Fabrication of Jammed Architectural Structures” is focused on the robot-based assembly of simple, loose and granular base materials. The loose stones interlock together; when combined with the arrangement of string between the gravel layers – which is continuously calculated by the robot – this creates a stable, highly durable structure.\n\nThe Rock Print Pavilion is exploring the possibilities offered by digital and robotic manufacturing. Recycling is also embedded into the project: the components can be easily dismantled and the material reused.\n\n4 October 2018 – 4 November 2018, Gewerbemuseum Winterthur\n\nOpening: Thursday, 4 October 2018, 6.30 p.m.\n\n- “Digital Materiality”: Introduction by Professor Fabio Gramazio (in German) - “Jammed Architectural Structures”: Lecture by Petrus Aejmelaeus-Lindström and Gergana Rusenova (in English)\n\n- Saturday, 6 October 2018, 11 a.m. - Sunday, 14 October 2018, 11 a.m. - Saturday, 20 October 2018, 11 a.m. - Sunday, 4 November 2018, 2 p.m."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Print Pavilion",
+        "label": "ORG",
+        "start": 28,
+        "end": 42
+      },
+      {
+        "text": "Winterthur",
+        "label": "PERSON",
+        "start": 46,
+        "end": 56
+      },
+      {
+        "text": "Thirty tonnes",
+        "label": "QUANTITY",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "120 kilometres",
+        "label": "QUANTITY",
+        "start": 31,
+        "end": 45
+      },
+      {
+        "text": "the Rock Print Pavilion",
+        "label": "ORG",
+        "start": 84,
+        "end": 107
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 148,
+        "end": 153
+      },
+      {
+        "text": "Kirchplatz",
+        "label": "PERSON",
+        "start": 198,
+        "end": 208
+      },
+      {
+        "text": "Winterthur",
+        "label": "PERSON",
+        "start": 243,
+        "end": 253
+      },
+      {
+        "text": "Gramazio Kohler Research",
+        "label": "ORG",
+        "start": 284,
+        "end": 308
+      },
+      {
+        "text": "the ETH Chair of Architecture",
+        "label": "ORG",
+        "start": 310,
+        "end": 339
+      },
+      {
+        "text": "Digital Fabrication",
+        "label": "ORG",
+        "start": 343,
+        "end": 362
+      },
+      {
+        "text": "the “Hello, Robot",
+        "label": "ORG",
+        "start": 379,
+        "end": 396
+      },
+      {
+        "text": "Machine",
+        "label": "ORG",
+        "start": 423,
+        "end": 430
+      },
+      {
+        "text": "the last four weeks",
+        "label": "DATE",
+        "start": 449,
+        "end": 468
+      },
+      {
+        "text": "three-metre",
+        "label": "QUANTITY",
+        "start": 558,
+        "end": 569
+      },
+      {
+        "text": "eight-tonne",
+        "label": "QUANTITY",
+        "start": 677,
+        "end": 688
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 743,
+        "end": 746
+      },
+      {
+        "text": "Design and Robotic Fabrication of Jammed Architectural Structures",
+        "label": "WORK_OF_ART",
+        "start": 765,
+        "end": 830
+      },
+      {
+        "text": "The Rock Print Pavilion",
+        "label": "ORG",
+        "start": 1124,
+        "end": 1147
+      },
+      {
+        "text": "4 October 2018",
+        "label": "DATE",
+        "start": 1335,
+        "end": 1349
+      },
+      {
+        "text": "November 2018",
+        "label": "DATE",
+        "start": 1354,
+        "end": 1367
+      },
+      {
+        "text": "Thursday",
+        "label": "DATE",
+        "start": 1403,
+        "end": 1411
+      },
+      {
+        "text": "4 October 2018",
+        "label": "DATE",
+        "start": 1413,
+        "end": 1427
+      },
+      {
+        "text": "6.30 p.m.",
+        "label": "TIME",
+        "start": 1429,
+        "end": 1438
+      },
+      {
+        "text": "Digital Materiality",
+        "label": "ORG",
+        "start": 1442,
+        "end": 1461
+      },
+      {
+        "text": "Fabio Gramazio",
+        "label": "PERSON",
+        "start": 1490,
+        "end": 1504
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 1509,
+        "end": 1515
+      },
+      {
+        "text": "Jammed Architectural Structures",
+        "label": "WORK_OF_ART",
+        "start": 1520,
+        "end": 1551
+      },
+      {
+        "text": "Petrus Aejmelaeus-Lindström",
+        "label": "PERSON",
+        "start": 1565,
+        "end": 1592
+      },
+      {
+        "text": "Gergana Rusenova",
+        "label": "PERSON",
+        "start": 1597,
+        "end": 1613
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "start": 1618,
+        "end": 1625
+      },
+      {
+        "text": "Saturday",
+        "label": "DATE",
+        "start": 1629,
+        "end": 1637
+      },
+      {
+        "text": "6 October 2018",
+        "label": "DATE",
+        "start": 1639,
+        "end": 1653
+      },
+      {
+        "text": "11 a.m. - Sunday",
+        "label": "TIME",
+        "start": 1655,
+        "end": 1671
+      },
+      {
+        "text": "14 October 2018",
+        "label": "DATE",
+        "start": 1673,
+        "end": 1688
+      },
+      {
+        "text": "11 a.m. - Saturday",
+        "label": "TIME",
+        "start": 1690,
+        "end": 1708
+      },
+      {
+        "text": "20 October 2018",
+        "label": "DATE",
+        "start": 1710,
+        "end": 1725
+      },
+      {
+        "text": "11 a.m. - Sunday",
+        "label": "TIME",
+        "start": 1727,
+        "end": 1743
+      },
+      {
+        "text": "November 2018",
+        "label": "DATE",
+        "start": 1747,
+        "end": 1760
+      },
+      {
+        "text": "2 p.m.",
+        "label": "TIME",
+        "start": 1762,
+        "end": 1768
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Fabio Gramazio",
+        "Gergana Rusenova",
+        "Kirchplatz",
+        "Petrus Aejmelaeus-Lindström",
+        "Winterthur"
+      ],
+      "ORG": [
+        "Digital Fabrication",
+        "Digital Materiality",
+        "ETH",
+        "Gramazio Kohler Research",
+        "Machine",
+        "Print Pavilion",
+        "The Rock Print Pavilion",
+        "the ETH Chair of Architecture",
+        "the Rock Print Pavilion",
+        "the “Hello, Robot"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "11 a.m. - Saturday",
+        "11 a.m. - Sunday",
+        "14 October 2018",
+        "2 p.m.",
+        "20 October 2018",
+        "4 October 2018",
+        "6 October 2018",
+        "6.30 p.m.",
+        "November 2018",
+        "Saturday",
+        "Thursday",
+        "the last four weeks"
+      ],
+      "MISC": [
+        "120 kilometres",
+        "Design and Robotic Fabrication of Jammed Architectural Structures",
+        "English",
+        "German",
+        "Jammed Architectural Structures",
+        "Thirty tonnes",
+        "eight-tonne",
+        "three",
+        "three-metre"
+      ]
+    },
+    "entity_counts": {
+      "Winterthur": 2,
+      "4 October 2018": 2,
+      "November 2018": 2,
+      "11 a.m. - Sunday": 2,
+      "Print Pavilion": 1,
+      "Thirty tonnes": 1,
+      "120 kilometres": 1,
+      "the Rock Print Pavilion": 1,
+      "three": 1,
+      "Kirchplatz": 1,
+      "Gramazio Kohler Research": 1,
+      "the ETH Chair of Architecture": 1,
+      "Digital Fabrication": 1,
+      "the “Hello, Robot": 1,
+      "Machine": 1,
+      "the last four weeks": 1,
+      "three-metre": 1,
+      "eight-tonne": 1,
+      "ETH": 1,
+      "Design and Robotic Fabrication of Jammed Architectural Structures": 1
+    },
+    "total_entities": 40,
+    "unique_entities": 36
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "rock-print-pavilion-in-winterthur.md",
+      "title": "En News Events/2018/09/rock Print Pavilion in Winterthur",
+      "language": "en",
+      "source_path": "en_news_events/2018/09/rock-print-pavilion-in-winterthur.html"
+    },
+    "temporal": {
+      "publication_date": "2018-09",
+      "mentioned_years": [
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": "between"
+    },
+    "people": {
+      "mentioned_people": [
+        "Fabio Gramazio",
+        "Gergana Rusenova",
+        "Kirchplatz",
+        "Petrus Aejmelaeus-Lindström",
+        "Winterthur"
+      ],
+      "people_with_roles": {
+        "Fabio Gramazio": [
+          "Professor",
+          "professor"
+        ],
+        "Gergana Rusenova": [
+          "professor"
+        ],
+        "Kirchplatz": [
+          "chair"
+        ],
+        "Petrus Aejmelaeus-Lindström": [
+          "professor"
+        ],
+        "Winterthur": [
+          "chair"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "chair"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "120 kilometres",
+        "Design and Robotic Fabrication of Jammed Architectural Structures",
+        "English",
+        "German",
+        "Jammed Architectural Structures",
+        "Thirty tonnes",
+        "eight-tonne",
+        "three",
+        "three-metre"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Rock Print",
+        "Gramazio Kohler",
+        "Jammed Architectural",
+        "Petrus Aejmelaeus",
+        "Gewerbemuseum Winterthur",
+        "En News",
+        "Robotic Fabrication",
+        "Gergana Rusenova",
+        "ETH Chair",
+        "The Rock",
+        "Digital Materiality",
+        "Winterthur Thirty",
+        "Professor Fabio",
+        "Digital Fabrication",
+        "The ETH",
+        "Print Pavilion"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Digital Fabrication",
+        "Digital Materiality",
+        "ETH",
+        "Gramazio Kohler Research",
+        "Machine",
+        "Print Pavilion",
+        "The Rock Print Pavilion",
+        "the ETH Chair of Architecture",
+        "the Rock Print Pavilion",
+        "the “Hello, Robot"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Winterthur",
+        "4 October 2018",
+        "November 2018",
+        "11 a.m. - Sunday",
+        "Print Pavilion",
+        "Thirty tonnes",
+        "120 kilometres",
+        "the Rock Print Pavilion",
+        "three",
+        "Kirchplatz"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1832
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "ETH",
+        "the “Hello, Robot",
+        "Fabio Gramazio",
+        "The Rock Print Pavilion",
+        "Petrus Aejmelaeus-Lindström",
+        "Gramazio Kohler Research",
+        "Kirchplatz",
+        "EU",
+        "the ETH Chair of Architecture",
+        "Digital Materiality",
+        "Winterthur",
+        "Print Pavilion",
+        "Machine",
+        "Digital Fabrication",
+        "Gergana Rusenova",
+        "the Rock Print Pavilion"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "three",
+        "who",
+        "Thirty tonnes",
+        "Design and Robotic Fabrication of Jammed Architectural Structures",
+        "English",
+        "eight-tonne",
+        "three-metre",
+        "what",
+        "German",
+        "how",
+        "120 kilometres",
+        "Jammed Architectural Structures",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Fabio Gramazio_has_role_Professor",
+        "Fabio Gramazio_has_role_professor",
+        "Gergana Rusenova_has_role_professor",
+        "Kirchplatz_has_role_chair",
+        "Petrus Aejmelaeus-Lindström_has_role_professor",
+        "Winterthur_has_role_chair",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "filename": "should-eth-introduce-rules-for-meetings.md",
+  "original_filename": "should-eth-introduce-rules-for-meetings.html",
+  "source_path": "en_internal/2022/10/should-eth-introduce-rules-for-meetings.html",
+  "date": "2022-10",
+  "title": "Should Eth Introduce Rules For Meetings",
+  "language": "unknown",
+  "paragraphs": [],
+  "ner": {
+    "entities": [
+      {
+        "text": "En Internal/2022/10",
+        "label": "MISC",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Eth Introduce Rules For Meetings",
+        "label": "PER",
+        "start": 27,
+        "end": 59
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Eth Introduce Rules For Meetings"
+      ],
+      "ORG": [],
+      "LOCATION": [],
+      "DATE": [],
+      "MISC": [
+        "En Internal/2022/10"
+      ]
+    },
+    "entity_counts": {
+      "En Internal/2022/10": 1,
+      "Eth Introduce Rules For Meetings": 1
+    },
+    "total_entities": 2,
+    "unique_entities": 2
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "should-eth-introduce-rules-for-meetings.md",
+      "title": "En Internal/2022/10/should Eth Introduce Rules For Meetings",
+      "language": "unknown",
+      "source_path": "en_internal/2022/10/should-eth-introduce-rules-for-meetings.html"
+    },
+    "temporal": {
+      "publication_date": "2022-10",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Eth Introduce Rules For Meetings"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [],
+      "research_topics": [
+        "En Internal/2022/10"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Eth Introduce",
+        "Rules For",
+        "En Internal"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "En Internal/2022/10",
+        "Eth Introduce Rules For Meetings"
+      ],
+      "document_structure": {
+        "total_sections": 0,
+        "section_titles": [],
+        "content_length": 60
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Eth Introduce Rules For Meetings",
+        "2022"
+      ],
+      "semantic_concepts": [
+        "En Internal/2022/10"
+      ],
+      "graph_relations": []
+    }
+  }
+}

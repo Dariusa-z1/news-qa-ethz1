@@ -1,0 +1,865 @@
+{
+  "filename": "swissloop-in-top-3.md",
+  "original_filename": "swissloop-in-top-3.html",
+  "source_path": "en_news_events/2019/07/swissloop-in-top-3.html",
+  "date": "2019-07",
+  "title": "Swissloop In Top 3",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Innovation Award for self-developed linear motor",
+      "text": "This is the fourth year that Elon Musk has challenged student teams from all over the world to build transport pods for the Hyperloop competition. The speed trial organised by the SpaceX founder is designed to refine the Hyperloop technology to the point where it will be possible one day to transport people and goods in pods through vacuum tubes at speeds of up to 1,200 kilometres per hour.\n\nSeveral hundred teams of students had applied, 21 were invited by SpaceX to the test site in Los Angeles. However, only four of them performed well enough in the test week to make it through to the final on 21 July. The finalists included Swissloop, an association of students from ETH Zurich and other Swiss universities."
+    },
+    {
+      "heading": "Innovation Award for self-developed linear motor",
+      "text": "Swissloop raced against teams from TU Munich, TU Delft and EPFL on the 1.25 kilometre long SpaceX test track. Their pod, named \"Claude Nicollier\" after the first Swiss astronaut, accelerated to a top speed of 252 km/h in twelve seconds , winning the second place. Swissloop was only beaten by the Team of TU Munich, whose pod rocketed through the tube at 463 km/h, beating its own record from last year of 457 km/h. The EPFL team finished third with a speed of 238 km/h.\n\nAlthough not fast enough to win the competition, the Swissloop team is happy with the result. Daniel Kaufmann, ETH student and Head of Mechanical Design for Swissloop, says: \"We’re delighted to come second! With the support of ETH and our sponsors, we have managed to build a completely new pod in just 10 months and at the same time develop our own linear induction motor. In the process we have acquired a vast amount of know-how and have grown together as a team.” Swissloop received the SpaceX Innovation Award for its self-developed linear motor. Although this kind of propulsion had already been suggested as viable for the Hyperloop in 2013 by Elon Musk in a white paper, it is the first year this type of motor has been used in the Hyperloop Pod Competition.\n\nETH Rector Sarah Springman has supported Swissloop from the very start and is just as delighted as the students. \"What the Swissloop team has achieved is very impressive. Warmest congratulations to the team and I hope their example motivates other young people to work hard for their goals, overcome any setbacks and never give up.”"
+    },
+    {
+      "heading": "Top-3 finish for the second time",
+      "text": "Back in February, the Swissloop team already qualified for the Hyperloop Pod Competition for the third year in a row. Their first pod, “Escher”, came third two years ago, while their “Mujinga” pod just missed qualifying for the final last year.\n\nThe new pod, “Claude Nicollier” is 3.27 metres long, weighs 200 kilos and comprises over 1,400 individual components, around 147 of them custom-made. Unlike “Escher’s” cold-gas propulsion system and “Mujinga’s” four electronic motors, the new pod is run by a linear induction motor with a propulsive power of 5.4 kilonewton.\n\nSwissloop will continue after the competition. The team will resume their work in the autumn as part of a research project for students at ETH Zurich. Nathalie Nick, studying mechanical engineering at ETH and in charge of the aerodynamic design of this year’s pod, will join the team leadership next year and says: “We’ve acquired so much more knowledge this year that we definitely want to incorporate into the development of the next pod.\"\n\nSwissloop is an association of students from ETH Zurich, the University of Zurich (UZH), the University of St. Gallen and the University of Applied Sciences and Arts North-western Switzerland (FHNW). Over 50 students have contributed to the project since its inception in the autumn of 2016. The prototypes were designed and developed by ETH students in mechanical engineering, electrical engineering and materials science. The pod's housing is a joint endeavour involving the FHNW.\n\nWebsite of Swissloop"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "the fourth year",
+        "label": "DATE",
+        "start": 8,
+        "end": 23
+      },
+      {
+        "text": "Elon Musk",
+        "label": "PERSON",
+        "start": 29,
+        "end": 38
+      },
+      {
+        "text": "Hyperloop",
+        "label": "ORG",
+        "start": 124,
+        "end": 133
+      },
+      {
+        "text": "SpaceX",
+        "label": "PERSON",
+        "start": 180,
+        "end": 186
+      },
+      {
+        "text": "Hyperloop",
+        "label": "ORG",
+        "start": 221,
+        "end": 230
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "start": 281,
+        "end": 288
+      },
+      {
+        "text": "up to 1,200 kilometres per hour",
+        "label": "QUANTITY",
+        "start": 361,
+        "end": 392
+      },
+      {
+        "text": "Several hundred",
+        "label": "CARDINAL",
+        "start": 394,
+        "end": 409
+      },
+      {
+        "text": "Los Angeles",
+        "label": "GPE",
+        "start": 487,
+        "end": 498
+      },
+      {
+        "text": "only four",
+        "label": "CARDINAL",
+        "start": 509,
+        "end": 518
+      },
+      {
+        "text": "the test week",
+        "label": "DATE",
+        "start": 552,
+        "end": 565
+      },
+      {
+        "text": "21 July",
+        "label": "DATE",
+        "start": 601,
+        "end": 608
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 633,
+        "end": 642
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 676,
+        "end": 686
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 697,
+        "end": 702
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "TU Munich",
+        "label": "ORG",
+        "start": 35,
+        "end": 44
+      },
+      {
+        "text": "TU Delft",
+        "label": "ORG",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "text": "1.25 kilometre",
+        "label": "QUANTITY",
+        "start": 71,
+        "end": 85
+      },
+      {
+        "text": "Claude Nicollier",
+        "label": "WORK_OF_ART",
+        "start": 128,
+        "end": 144
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 156,
+        "end": 161
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 162,
+        "end": 167
+      },
+      {
+        "text": "252 km",
+        "label": "QUANTITY",
+        "start": 209,
+        "end": 215
+      },
+      {
+        "text": "twelve seconds",
+        "label": "TIME",
+        "start": 221,
+        "end": 235
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 250,
+        "end": 256
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 264,
+        "end": 273
+      },
+      {
+        "text": "the Team of TU Munich",
+        "label": "ORG",
+        "start": 293,
+        "end": 314
+      },
+      {
+        "text": "463 km",
+        "label": "QUANTITY",
+        "start": 355,
+        "end": 361
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 393,
+        "end": 402
+      },
+      {
+        "text": "457 km",
+        "label": "QUANTITY",
+        "start": 406,
+        "end": 412
+      },
+      {
+        "text": "EPFL",
+        "label": "ORG",
+        "start": 420,
+        "end": 424
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 439,
+        "end": 444
+      },
+      {
+        "text": "238 km/h.",
+        "label": "QUANTITY",
+        "start": 461,
+        "end": 470
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 524,
+        "end": 533
+      },
+      {
+        "text": "Daniel Kaufmann",
+        "label": "PERSON",
+        "start": 565,
+        "end": 580
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 582,
+        "end": 585
+      },
+      {
+        "text": "Head of Mechanical Design for Swissloop",
+        "label": "ORG",
+        "start": 598,
+        "end": 637
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 670,
+        "end": 676
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 698,
+        "end": 701
+      },
+      {
+        "text": "just 10 months",
+        "label": "DATE",
+        "start": 769,
+        "end": 783
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 939,
+        "end": 948
+      },
+      {
+        "text": "linear motor",
+        "label": "ORG",
+        "start": 1009,
+        "end": 1021
+      },
+      {
+        "text": "Hyperloop",
+        "label": "ORG",
+        "start": 1101,
+        "end": 1110
+      },
+      {
+        "text": "Elon Musk",
+        "label": "PERSON",
+        "start": 1122,
+        "end": 1131
+      },
+      {
+        "text": "the first year",
+        "label": "DATE",
+        "start": 1156,
+        "end": 1170
+      },
+      {
+        "text": "the Hyperloop Pod Competition",
+        "label": "ORG",
+        "start": 1207,
+        "end": 1236
+      },
+      {
+        "text": "Sarah Springman",
+        "label": "PERSON",
+        "start": 1249,
+        "end": 1264
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 1279,
+        "end": 1288
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 1361,
+        "end": 1370
+      },
+      {
+        "text": "February",
+        "label": "DATE",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 22,
+        "end": 31
+      },
+      {
+        "text": "the Hyperloop Pod Competition",
+        "label": "ORG",
+        "start": 59,
+        "end": 88
+      },
+      {
+        "text": "the third year in a row",
+        "label": "DATE",
+        "start": 93,
+        "end": 116
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 124,
+        "end": 129
+      },
+      {
+        "text": "third two years ago",
+        "label": "DATE",
+        "start": 150,
+        "end": 169
+      },
+      {
+        "text": "Mujinga",
+        "label": "GPE",
+        "start": 184,
+        "end": 191
+      },
+      {
+        "text": "last year",
+        "label": "DATE",
+        "start": 234,
+        "end": 243
+      },
+      {
+        "text": "Claude Nicollier",
+        "label": "WORK_OF_ART",
+        "start": 259,
+        "end": 275
+      },
+      {
+        "text": "3.27 metres",
+        "label": "QUANTITY",
+        "start": 280,
+        "end": 291
+      },
+      {
+        "text": "200 kilos",
+        "label": "QUANTITY",
+        "start": 305,
+        "end": 314
+      },
+      {
+        "text": "over 1,400",
+        "label": "CARDINAL",
+        "start": 329,
+        "end": 339
+      },
+      {
+        "text": "around 147",
+        "label": "CARDINAL",
+        "start": 363,
+        "end": 373
+      },
+      {
+        "text": "Escher",
+        "label": "PERSON",
+        "start": 403,
+        "end": 409
+      },
+      {
+        "text": "Mujinga",
+        "label": "GPE",
+        "start": 445,
+        "end": 452
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 456,
+        "end": 460
+      },
+      {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 554,
+        "end": 557
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 570,
+        "end": 579
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 709,
+        "end": 719
+      },
+      {
+        "text": "Nathalie Nick",
+        "label": "PERSON",
+        "start": 721,
+        "end": 734
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 771,
+        "end": 774
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 823,
+        "end": 827
+      },
+      {
+        "text": "next year",
+        "label": "DATE",
+        "start": 865,
+        "end": 874
+      },
+      {
+        "text": "this year",
+        "label": "DATE",
+        "start": 924,
+        "end": 933
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 1012,
+        "end": 1021
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 1057,
+        "end": 1067
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 1069,
+        "end": 1093
+      },
+      {
+        "text": "UZH",
+        "label": "ORG",
+        "start": 1095,
+        "end": 1098
+      },
+      {
+        "text": "the University of St. Gallen",
+        "label": "ORG",
+        "start": 1101,
+        "end": 1129
+      },
+      {
+        "text": "the University of Applied Sciences and",
+        "label": "ORG",
+        "start": 1134,
+        "end": 1172
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 1192,
+        "end": 1203
+      },
+      {
+        "text": "FHNW",
+        "label": "ORG",
+        "start": 1205,
+        "end": 1209
+      },
+      {
+        "text": "the autumn of",
+        "label": "DATE",
+        "start": 1284,
+        "end": 1297
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1350,
+        "end": 1353
+      },
+      {
+        "text": "FHNW",
+        "label": "ORG",
+        "start": 1489,
+        "end": 1493
+      },
+      {
+        "text": "Swissloop",
+        "label": "ORG",
+        "start": 1506,
+        "end": 1515
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Daniel Kaufmann",
+        "Elon Musk",
+        "Escher",
+        "Nathalie Nick",
+        "Sarah Springman",
+        "SpaceX"
+      ],
+      "ORG": [
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "FHNW",
+        "Head of Mechanical Design for Swissloop",
+        "Hyperloop",
+        "Swissloop",
+        "TU Delft",
+        "TU Munich",
+        "UZH",
+        "linear motor",
+        "the Hyperloop Pod Competition",
+        "the Team of TU Munich",
+        "the University of Applied Sciences and",
+        "the University of St. Gallen",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Los Angeles",
+        "Mujinga",
+        "Switzerland"
+      ],
+      "DATE": [
+        "21 July",
+        "February",
+        "just 10 months",
+        "last year",
+        "next year",
+        "one day",
+        "the autumn of",
+        "the first year",
+        "the fourth year",
+        "the test week",
+        "the third year in a row",
+        "third two years ago",
+        "this year",
+        "twelve seconds",
+        "year"
+      ],
+      "MISC": [
+        "1.25 kilometre",
+        "200 kilos",
+        "238 km/h.",
+        "252 km",
+        "3.27 metres",
+        "457 km",
+        "463 km",
+        "5.4",
+        "Claude Nicollier",
+        "Several hundred",
+        "Swiss",
+        "around 147",
+        "first",
+        "four",
+        "only four",
+        "over 1,400",
+        "second",
+        "third",
+        "up to 1,200 kilometres per hour"
+      ]
+    },
+    "entity_counts": {
+      "Swissloop": 11,
+      "ETH": 4,
+      "Hyperloop": 3,
+      "ETH Zurich": 3,
+      "Elon Musk": 2,
+      "Swiss": 2,
+      "Claude Nicollier": 2,
+      "first": 2,
+      "second": 2,
+      "last year": 2,
+      "the Hyperloop Pod Competition": 2,
+      "Mujinga": 2,
+      "FHNW": 2,
+      "En News": 1,
+      "the fourth year": 1,
+      "SpaceX": 1,
+      "one day": 1,
+      "up to 1,200 kilometres per hour": 1,
+      "Several hundred": 1,
+      "Los Angeles": 1
+    },
+    "total_entities": 86,
+    "unique_entities": 60
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "swissloop-in-top-3.md",
+      "title": "En News Events/2019/07/swissloop in Top 3",
+      "language": "en",
+      "source_path": "en_news_events/2019/07/swissloop-in-top-3.html"
+    },
+    "temporal": {
+      "publication_date": "2019-07",
+      "mentioned_years": [
+        "2013",
+        "2016",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Daniel Kaufmann",
+        "Elon Musk",
+        "Escher",
+        "Nathalie Nick",
+        "Sarah Springman",
+        "SpaceX"
+      ],
+      "people_with_roles": {
+        "Daniel Kaufmann": [
+          "student",
+          "head"
+        ],
+        "Elon Musk": [
+          "student"
+        ],
+        "Sarah Springman": [
+          "student",
+          "rector"
+        ],
+        "SpaceX": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "rector",
+        "head",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering"
+      ],
+      "research_topics": [
+        "1.25 kilometre",
+        "200 kilos",
+        "238 km/h.",
+        "252 km",
+        "3.27 metres",
+        "457 km",
+        "463 km",
+        "Claude Nicollier",
+        "Several hundred",
+        "Swiss",
+        "around 147",
+        "first",
+        "four",
+        "only four",
+        "over 1,400",
+        "second",
+        "third",
+        "up to 1,200 kilometres per hour"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Claude Nicollier",
+        "SpaceX Innovation",
+        "Applied Sciences",
+        "Los Angeles",
+        "En News",
+        "TU Munich",
+        "Daniel Kaufmann",
+        "ETH Rector",
+        "Sarah Springman",
+        "Mechanical Design",
+        "Nathalie Nick",
+        "ETH Zurich",
+        "Arts North",
+        "The EPFL",
+        "TU Delft",
+        "Elon Musk",
+        "Hyperloop Pod"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "EPFL",
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "FHNW",
+        "Head of Mechanical Design for Swissloop",
+        "Hyperloop",
+        "Swissloop",
+        "TU Delft",
+        "TU Munich",
+        "UZH",
+        "linear motor",
+        "the Hyperloop Pod Competition",
+        "the Team of TU Munich",
+        "the University of Applied Sciences and",
+        "the University of St. Gallen",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Los Angeles",
+        "Mujinga",
+        "Switzerland"
+      ],
+      "programs": [
+        "competition"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Swissloop",
+        "ETH",
+        "Hyperloop",
+        "ETH Zurich",
+        "Elon Musk",
+        "Swiss",
+        "Claude Nicollier",
+        "first",
+        "second",
+        "last year"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Innovation Award for self-developed linear motor",
+          "Innovation Award for self-developed linear motor",
+          "Top-3 finish for the second time"
+        ],
+        "content_length": 3852
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "EPFL",
+        "ETH",
+        "the University of Zurich",
+        "2016",
+        "ERC",
+        "the University of Applied Sciences and",
+        "the University of St. Gallen",
+        "linear motor",
+        "TU Munich",
+        "2019",
+        "Daniel Kaufmann",
+        "Sarah Springman",
+        "Nathalie Nick",
+        "UZH",
+        "SpaceX",
+        "TU Delft",
+        "the Team of TU Munich",
+        "FHNW",
+        "Elon Musk",
+        "the Hyperloop Pod Competition",
+        "Escher",
+        "En News",
+        "2013",
+        "Head of Mechanical Design for Swissloop",
+        "Swissloop",
+        "ETH Zurich",
+        "Hyperloop"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "1.25 kilometre",
+        "up to 1,200 kilometres per hour",
+        "when",
+        "engineering",
+        "200 kilos",
+        "third",
+        "four",
+        "over 1,400",
+        "only four",
+        "463 km",
+        "Several hundred",
+        "who",
+        "3.27 metres",
+        "252 km",
+        "238 km/h.",
+        "what",
+        "how",
+        "457 km",
+        "Claude Nicollier",
+        "first",
+        "around 147",
+        "Swiss",
+        "second",
+        "why",
+        "where"
+      ],
+      "graph_relations": [
+        "Daniel Kaufmann_has_role_student",
+        "Daniel Kaufmann_has_role_head",
+        "Elon Musk_has_role_student",
+        "Sarah Springman_has_role_student",
+        "Sarah Springman_has_role_rector",
+        "SpaceX_has_role_student",
+        "research_domain_technology",
+        "research_domain_engineering"
+      ]
+    }
+  }
+}

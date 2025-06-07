@@ -1,0 +1,194 @@
+{
+  "filename": "gastronomy-pages-now-in-attractive-new-design.md",
+  "original_filename": "gastronomy-pages-now-in-attractive-new-design.html",
+  "source_path": "en_internal/2016/05/gastronomy-pages-now-in-attractive-new-design.html",
+  "date": "2016-05",
+  "title": "Gastronomy Pages Now In Attractive New Design",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "New functions in the ETH Zurich app",
+      "text": "Thousands of students and staff at ETH Zurich check the gastronomy pages on the ETH Zurich website every day to find out what is available where, and whether anything new has been added to the selection. The gastronomy pages have now been migrated to ETH Zurich’s new design.\n\nThe update includes improvements to the menu search function: you can now search for vegan dishes or exclude specific allergens from the search. Want to pay without cash, enjoy your meal on a terrace, or need highchairs for children? You can now filter results by these criteria.\n\nOne thing that remains unchanged is the guest feedback form . This helps to ensure the continual improvement of ETH Zurich’s catering services."
+    },
+    {
+      "heading": "New functions in the ETH Zurich app",
+      "text": "Even those who look up lunch on their smartphones will find something of interest among the new functions. It is now possible to apply filters so only options that are available at your favourite restaurants and meet your dietary preferences and allergy requirements are displayed. The update to the ETH Zurich app will be available in the next few days."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Thousands",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "the ETH Zurich",
+        "label": "ORG",
+        "start": 76,
+        "end": 90
+      },
+      {
+        "text": "every day",
+        "label": "DATE",
+        "start": 99,
+        "end": 108
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 251,
+        "end": 263
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 556,
+        "end": 559
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 668,
+        "end": 680
+      },
+      {
+        "text": "the next few days",
+        "label": "DATE",
+        "start": 336,
+        "end": 353
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich’s"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "the ETH Zurich"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "every day",
+        "the next few days"
+      ],
+      "MISC": [
+        "One",
+        "Thousands"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich’s": 2,
+      "Thousands": 1,
+      "ETH Zurich": 1,
+      "the ETH Zurich": 1,
+      "every day": 1,
+      "One": 1,
+      "the next few days": 1
+    },
+    "total_entities": 8,
+    "unique_entities": 7
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "gastronomy-pages-now-in-attractive-new-design.md",
+      "title": "En Internal/2016/05/gastronomy Pages Now in Attractive New Design",
+      "language": "en",
+      "source_path": "en_internal/2016/05/gastronomy-pages-now-in-attractive-new-design.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich’s"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "chair",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "Thousands"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Design Thousands",
+        "Attractive New",
+        "En Internal",
+        "ETH Zurich",
+        "Pages Now"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "the ETH Zurich"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where"
+      ],
+      "key_concepts": [
+        "ETH Zurich’s",
+        "Thousands",
+        "ETH Zurich",
+        "the ETH Zurich",
+        "every day",
+        "One",
+        "the next few days"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "New functions in the ETH Zurich app",
+          "New functions in the ETH Zurich app"
+        ],
+        "content_length": 1122
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH Zurich",
+        "ETH Zurich’s",
+        "the ETH Zurich",
+        "2016"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "Thousands",
+        "what",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

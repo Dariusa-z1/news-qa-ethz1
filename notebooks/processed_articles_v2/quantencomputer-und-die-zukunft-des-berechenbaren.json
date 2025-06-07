@@ -1,0 +1,758 @@
+{
+  "filename": "quantencomputer-und-die-zukunft-des-berechenbaren.md",
+  "original_filename": "quantencomputer-und-die-zukunft-des-berechenbaren.html",
+  "source_path": "de_news_events/2019/08/quantencomputer-und-die-zukunft-des-berechenbaren.html",
+  "date": "2019-08",
+  "title": "Quantencomputer Und Die Zukunft Des Berechenbaren",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Vordenker und Zoowรคrter der Komplexitรคten",
+      "text": "2007 lief in Australien ein TV-Werbespot. Darin unterhielten sich zwei Models in der Garderobe über Quantenmechanik. Interessant sei, so die beiden, dass sie anders als sonst in der Physik üblich nicht von Materie, Energie oder Wellen handle, sondern von Information, Wahrscheinlichkeiten und Beobachtungsgrössen.\n\nBemerkenswert an diesem Werbefilm ist nicht, dass sich zwei Mannequins über eine Theorie der Physik unterhalten, sondern vielmehr, dass der Film die Quantenmechanik nicht nur als interessante Forschungsperspektive für die Physik darstellt, sondern auch für die Informatik. Diese wissenschaftliche Position war vor zwölf Jahren noch nicht so verbreitet wie heute, da sich die Quanteninformatik schnell entwickelt und sich auch an der ETH Zürich ausserhalb der Physik etabliert ."
+    },
+    {
+      "heading": "Vordenker und Zoowärter der Komplexitäten",
+      "text": "Ein Computerwissenschaftler, der immer wieder originelle Argumente vorträgt, inwiefern Quantencomputer dereinst auch Probleme lösen könnten, die für heutige Computer zu komplex sind, ist Scott Aaronson, Professor für Informatik und Gründungsdirektor des Quantum Information Center an der Universität von Texas in Austin. Der Dialog der Models ist denn auch ein einziges wörtliches Zitat, das man in seinem Buch «Quantenrechnen seit Demokrit» nachlesen kann.\n\n«Typisch für Scott Aaronson ist, dass er über das klassische Computer­mo­dell hinausdenkt und ganz grundsätzlich danach fragt, welche Typen von Computern vermutlich mehr Probleme lösen können als die heutigen Computer», sagt ETH-Professor Renato Renner. Der Physiker ist ein Spezialist für Quanteninformationstheorie. Er hat schon selber intensiv mit Aaronson auf dessen Blog debattiert (vgl. externe Seite Diskussion unter «Responses »). Aaronson seinerseits war früher bereits Gast an der ETH Zürich, etwa am Zurich Physics Colloquium 2009 .\n\nMan hat Scott Aaronson schon einmal einen « externe Seite Komplexonauten » genannt, weil er sich bis zu den komplexesten Problemen vorwagt, um die prinzipiellen Möglichkeiten und Grenzen von Computern auszuloten – seien das nun Computer wie wir sie heute kennen, Quantencomputer oder ganz andere Typen von Computern, die man sich heute noch fast nicht vorstellen kann. In seinem bekannten und im Internet abrufbaren « externe Seite Zoo der Kom­plexi­täten » gruppiert er verschiedene Klassen von Problemen so, dass man sieht, wie gut die Computer diese Probleme jeweils berechnen und lösen können.\n\nAuf jeden Fall ist Scott Aaronson ein Forscher, der sich gern grossen und grundsätzlichen Fragen stellt. So wird er auch in Zürich, wo er im Rahmen der Bernays Lectures 2019 auftritt, drei Schlüsselfragen der theoretischen Informatik und Physik diskutieren.\n\nAaronsons Überlegungen setzen bei den theoretischen Grundlagen und der «Church-Turing-These» an. Diese zentrale These der Computer­wis­sen­schaft geht auf die Mathematiker und Computerpioniere Alonzo Church (1903-1995) und Alan Turing (1912-1954) zurück. Stark vereinfacht besagt sie, dass alle Probleme, zu denen man sich intuitiv eine Lösung vorstellen und formulieren kann, auch auf einem Computer berechenbar sind. Damit sind im Prinzip alle Probleme, die heutige Computermodelle prinzipiell berechnen können, mit heutigen Computern auch wirklich lösbar."
+    },
+    {
+      "heading": "Lösen Quantencomputer mehr Probleme?",
+      "text": "Alle? Nicht ganz. Es gibt auch Probleme, die sich im Prinzip zwar durchaus berechnen und lösen lassen, ein Computer bräuchte aber viel zu viel Zeit, um sie zu berechnen. Solche Probleme, die Computer nicht innert nützlicher Frist lösen können, bezeichnen die Computerwissenschaftler als nicht effizient lösbar.\n\nTypischerweise sind viele Erscheinungen der Quantenphysik heute nicht effizient berechenbar. Darum untersuchen sowohl Physiker als auch Informatiker, ob Quantencomputer mehr Probleme effizient lösen könnten als konventionelle. «Nach dem heutigen Stand des Wissens sind sich fast alle einig, dass Quantencomputer schneller rechnen als klassische. Beweisen konnte das aber noch niemand. Darum zählt diese Vermutung zu den grossen Fragen der Computerwissenschaft», sagt Renato Renner, der Scott Aaronson an den Paul Bernays Lectures vorstellt.\n\nEs gibt Gegenargumente: Die Church-Turing-These sagt, dass alle lösbaren Probleme auf einem klassischen Computer lösbar sind. Ihre Er­wei­terung besagt, dass alle effizient lösbaren Probleme auch auf einem klassischen Computer effizient lösbar sind. Bekannt ist, dass ein klassischer Computer einen Quantencomputer simulieren kann – bloss nicht effizient.\n\nWenn es gelingt, auf einem klassischen Computer einen Quantencomputer effizient zu simulieren, dann könnte ein klassischer Computer dieselben Probleme lösen wie ein Quantencomputer – und dann könnte umgekehrt kein Quantencomputer grundsätzlich andere Probleme lösen als ein klassischer. Aaronson selbst argumentiert in die andere Richtung."
+    },
+    {
+      "heading": "Verschlüsselung und Gravitation",
+      "text": "Ein bekanntes Beispiel, bei dem man heute für klassische Computer keinen Algorithmus kennt, der das effizient berechnen kann, betrifft die Faktorisierung, also die Zerlegung einer grossen, zusammengesetzten Zahl in einzelne Teiler. «Im Fall des Faktorisierens gibt es jedoch Algo­rithmen, die dieses Problem effizient lösen können. Diese laufen aber nur auf einem Quantencomputer», sagt Renner. Da heutige Verschlüsselungs- und Sicherheitstechniken im Internet auf dem Faktorisierungsproblem beruhen, forscht Aaronson auch über die sicherheitsrelevanten externe Seite Implikationen von Quantencomputern .\n\nMit Blick auf die Zukunft des Computers denken Aaronson und Renner noch weiter: Vielleicht gibt es dereinst gar noch ganz andere Computer, die andere physikalische Phänomene nutzen als Quantenmechanik? Gravitationstheorie zum Beispiel. Dann liessen sich vielleicht sogar Probleme lösen, die nicht einmal Quantencomputer effizient lösen?"
+    },
+    {
+      "heading": "Neu mit Beteiligung der Informatik",
+      "text": "2012 erstmals ausgetragen, sind die Paul Bernays Lectures der ETH Zürich eine jährlich stattfindende, dreiteilige Ehrenvorlesungsreihe, die der Philosophie der exakten Wissenschaften gewidmet ist.\n\nBisher beteiligen sich die Departemente Mathematik und Physik an der vom Departement Geistes-, Sozial- und Staatswissenschaften organisierten Ehrenvorlesungsreihe. Etliche Themen haben Berührungspunkte mit den Computerwissenschaften. Neu beteiligt sich deshalb seit diesem Jahr auch das Departement Informatik an den Paul Bernays Lectures."
+    },
+    {
+      "heading": "Paul Bernays Vorlesungen 2019",
+      "text": "Prof. Scott Joel Aaronson, Universität von Texas in Austin. Einführung Prof. Renato Renner, Department Physik, ETH Zürich. Montag, 2. September 2019, 17.00 Uhr, Auditorium E7, ETH Hauptgebäude\n\nWeitere Informationen zu den Vorlesungen für ein Fachpublikum finden Sie unter: www.ethz.ch/bernays .\n\nShtetl-Optimized. The Blog of Scott Aaronson. externe Seite www.scottaaronson.com/blog\n\nAaronson, S. Read the fine print, in: Nature Physics, 2015, Vol. 11(4), pp. 291–293, DOI: externe Seite 10.1038/nphys3272\n\nAaronson, S. Quantum Computing since Democritus. Cambridge: Cambridge University Press, 2013. DOI: externe Seite 10.1017/CBO9780511979309"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Australien",
+        "label": "LOC",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 747,
+        "end": 757
+      },
+      {
+        "text": "Quantencomputer",
+        "label": "PER",
+        "start": 87,
+        "end": 102
+      },
+      {
+        "text": "Scott Aaronson",
+        "label": "PER",
+        "start": 187,
+        "end": 201
+      },
+      {
+        "text": "Quantum Information Center",
+        "label": "LOC",
+        "start": 254,
+        "end": 280
+      },
+      {
+        "text": "Universität von Texas",
+        "label": "ORG",
+        "start": 288,
+        "end": 309
+      },
+      {
+        "text": "Austin",
+        "label": "LOC",
+        "start": 313,
+        "end": 319
+      },
+      {
+        "text": "Scott Aaronson",
+        "label": "PER",
+        "start": 471,
+        "end": 485
+      },
+      {
+        "text": "Computern",
+        "label": "MISC",
+        "start": 602,
+        "end": 611
+      },
+      {
+        "text": "ETH-Professor Renato Renner",
+        "label": "PER",
+        "start": 683,
+        "end": 710
+      },
+      {
+        "text": "Aaronson",
+        "label": "PER",
+        "start": 809,
+        "end": 817
+      },
+      {
+        "text": "Aaronson",
+        "label": "PER",
+        "start": 897,
+        "end": 905
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 949,
+        "end": 959
+      },
+      {
+        "text": "Zurich Physics Colloquium",
+        "label": "ORG",
+        "start": 969,
+        "end": 994
+      },
+      {
+        "text": "Scott Aaronson",
+        "label": "PER",
+        "start": 1010,
+        "end": 1024
+      },
+      {
+        "text": "Computern",
+        "label": "MISC",
+        "start": 1193,
+        "end": 1202
+      },
+      {
+        "text": "Computern",
+        "label": "MISC",
+        "start": 1308,
+        "end": 1317
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 1398,
+        "end": 1406
+      },
+      {
+        "text": "Scott Aaronson",
+        "label": "PER",
+        "start": 1619,
+        "end": 1633
+      },
+      {
+        "text": "Zürich",
+        "label": "LOC",
+        "start": 1724,
+        "end": 1730
+      },
+      {
+        "text": "Lectures",
+        "label": "PER",
+        "start": 1760,
+        "end": 1768
+      },
+      {
+        "text": "Grundlagen",
+        "label": "LOC",
+        "start": 1910,
+        "end": 1920
+      },
+      {
+        "text": "Church-Turing-These",
+        "label": "LOC",
+        "start": 1930,
+        "end": 1949
+      },
+      {
+        "text": "Alonzo Church",
+        "label": "PER",
+        "start": 2051,
+        "end": 2064
+      },
+      {
+        "text": "Alan Turing",
+        "label": "PER",
+        "start": 2081,
+        "end": 2092
+      },
+      {
+        "text": "Computermodelle",
+        "label": "LOC",
+        "start": 2326,
+        "end": 2341
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 143,
+        "end": 147
+      },
+      {
+        "text": "Quantencomputer",
+        "label": "PER",
+        "start": 464,
+        "end": 479
+      },
+      {
+        "text": "Wissens",
+        "label": "LOC",
+        "start": 567,
+        "end": 574
+      },
+      {
+        "text": "Quantencomputer",
+        "label": "PER",
+        "start": 607,
+        "end": 622
+      },
+      {
+        "text": "Beweisen",
+        "label": "PER",
+        "start": 657,
+        "end": 665
+      },
+      {
+        "text": "Renato Renner",
+        "label": "PER",
+        "start": 778,
+        "end": 791
+      },
+      {
+        "text": "Scott Aaronson",
+        "label": "PER",
+        "start": 797,
+        "end": 811
+      },
+      {
+        "text": "Paul Bernays",
+        "label": "PER",
+        "start": 819,
+        "end": 831
+      },
+      {
+        "text": "Lectures",
+        "label": "PER",
+        "start": 832,
+        "end": 840
+      },
+      {
+        "text": "Church-Turing-These",
+        "label": "ORG",
+        "start": 880,
+        "end": 899
+      },
+      {
+        "text": "Er­wei­terung",
+        "label": "MISC",
+        "start": 983,
+        "end": 996
+      },
+      {
+        "text": "Aaronson",
+        "label": "PER",
+        "start": 1495,
+        "end": 1503
+      },
+      {
+        "text": "Internet",
+        "label": "MISC",
+        "start": 452,
+        "end": 460
+      },
+      {
+        "text": "Implikationen von Quantencomputern",
+        "label": "PER",
+        "start": 568,
+        "end": 602
+      },
+      {
+        "text": "Aaronson",
+        "label": "PER",
+        "start": 652,
+        "end": 660
+      },
+      {
+        "text": "Renner",
+        "label": "PER",
+        "start": 665,
+        "end": 671
+      },
+      {
+        "text": "Paul Bernays",
+        "label": "PER",
+        "start": 36,
+        "end": 48
+      },
+      {
+        "text": "Lectures",
+        "label": "PER",
+        "start": 49,
+        "end": 57
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 62,
+        "end": 72
+      },
+      {
+        "text": "Departement Geistes-, Sozial- und Staatswissenschaften",
+        "label": "ORG",
+        "start": 270,
+        "end": 324
+      },
+      {
+        "text": "Paul Bernays",
+        "label": "PER",
+        "start": 514,
+        "end": 526
+      },
+      {
+        "text": "Lectures",
+        "label": "PER",
+        "start": 527,
+        "end": 535
+      },
+      {
+        "text": "Scott Joel Aaronson",
+        "label": "PER",
+        "start": 6,
+        "end": 25
+      },
+      {
+        "text": "Universität von Texas",
+        "label": "ORG",
+        "start": 27,
+        "end": 48
+      },
+      {
+        "text": "Austin",
+        "label": "LOC",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "Renato Renner",
+        "label": "PER",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 111,
+        "end": 121
+      },
+      {
+        "text": "Auditorium E7",
+        "label": "LOC",
+        "start": 161,
+        "end": 174
+      },
+      {
+        "text": "ETH Hauptgebäude",
+        "label": "ORG",
+        "start": 176,
+        "end": 192
+      },
+      {
+        "text": "Shtetl-Optimized",
+        "label": "ORG",
+        "start": 295,
+        "end": 311
+      },
+      {
+        "text": "The Blog of Scott Aaronson",
+        "label": "MISC",
+        "start": 313,
+        "end": 339
+      },
+      {
+        "text": "Aaronson",
+        "label": "LOC",
+        "start": 382,
+        "end": 390
+      },
+      {
+        "text": "S. Read",
+        "label": "PER",
+        "start": 392,
+        "end": 399
+      },
+      {
+        "text": "Nature Physics",
+        "label": "ORG",
+        "start": 420,
+        "end": 434
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 467,
+        "end": 470
+      },
+      {
+        "text": "nphys3272 Aaronson",
+        "label": "PER",
+        "start": 494,
+        "end": 512
+      },
+      {
+        "text": "Cambridge",
+        "label": "ORG",
+        "start": 553,
+        "end": 562
+      },
+      {
+        "text": "Cambridge University Press",
+        "label": "ORG",
+        "start": 564,
+        "end": 590
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 598,
+        "end": 601
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aaronson",
+        "Alan Turing",
+        "Alonzo Church",
+        "Beweisen",
+        "De News",
+        "ETH-Professor Renato Renner",
+        "Implikationen von Quantencomputern",
+        "Lectures",
+        "Paul Bernays",
+        "Quantencomputer",
+        "Renato Renner",
+        "Renner",
+        "S. Read",
+        "Scott Aaronson",
+        "Scott Joel Aaronson",
+        "nphys3272 Aaronson"
+      ],
+      "ORG": [
+        "Cambridge",
+        "Cambridge University Press",
+        "Church-Turing-These",
+        "DOI",
+        "Departement Geistes-, Sozial- und Staatswissenschaften",
+        "ETH Hauptgebäude",
+        "ETH Zürich",
+        "Nature Physics",
+        "Shtetl-Optimized",
+        "Universität von Texas",
+        "Zurich Physics Colloquium"
+      ],
+      "LOCATION": [
+        "Aaronson",
+        "Auditorium E7",
+        "Austin",
+        "Australien",
+        "Church-Turing-These",
+        "Computermodelle",
+        "Grundlagen",
+        "Quantum Information Center",
+        "Wissens",
+        "Zürich"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Computern",
+        "Er­wei­terung",
+        "Internet",
+        "The Blog of Scott Aaronson",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "Scott Aaronson": 5,
+      "Aaronson": 5,
+      "ETH Zürich": 4,
+      "Lectures": 4,
+      "Quantencomputer": 3,
+      "Computern": 3,
+      "Paul Bernays": 3,
+      "Universität von Texas": 2,
+      "Austin": 2,
+      "Internet": 2,
+      "Church-Turing-These": 2,
+      "Renato Renner": 2,
+      "DOI": 2,
+      "De News": 1,
+      "Australien": 1,
+      "Quantum Information Center": 1,
+      "ETH-Professor Renato Renner": 1,
+      "Zurich Physics Colloquium": 1,
+      "Zürich": 1,
+      "Grundlagen": 1
+    },
+    "total_entities": 66,
+    "unique_entities": 40
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "quantencomputer-und-die-zukunft-des-berechenbaren.md",
+      "title": "De News Events/2019/08/quantencomputer und die Zukunft des Berechenbaren",
+      "language": "de",
+      "source_path": "de_news_events/2019/08/quantencomputer-und-die-zukunft-des-berechenbaren.html"
+    },
+    "temporal": {
+      "publication_date": "2019-08",
+      "mentioned_years": [
+        "1903",
+        "1912",
+        "1954",
+        "1995",
+        "2007",
+        "2009",
+        "2012",
+        "2013",
+        "2015",
+        "2019"
+      ],
+      "time_periods": [],
+      "temporal_context": "since"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aaronson",
+        "Alan Turing",
+        "Alonzo Church",
+        "Beweisen",
+        "De News",
+        "ETH-Professor Renato Renner",
+        "Implikationen von Quantencomputern",
+        "Lectures",
+        "Paul Bernays",
+        "Quantencomputer",
+        "Renato Renner",
+        "Renner",
+        "S. Read",
+        "Scott Aaronson",
+        "Scott Joel Aaronson",
+        "nphys3272 Aaronson"
+      ],
+      "people_with_roles": {
+        "Aaronson": [
+          "professor"
+        ],
+        "ETH-Professor Renato Renner": [
+          "professor"
+        ],
+        "Quantencomputer": [
+          "professor"
+        ],
+        "Renato Renner": [
+          "Professor",
+          "professor"
+        ],
+        "Renner": [
+          "professor"
+        ],
+        "Scott Aaronson": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics"
+      ],
+      "research_topics": [
+        "Computern",
+        "Er­wei­terung",
+        "Internet",
+        "The Blog of Scott Aaronson",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Der Dialog",
+        "Quantum Computing",
+        "Shtetl-Optimized",
+        "Ein Computerwissenschaftler",
+        "Scott Aaronson",
+        "ETH-Professor",
+        "Seite Diskussion",
+        "The Blog",
+        "Departement Informatik",
+        "Ihre Er",
+        "Department Physik",
+        "Seite Komplexonauten",
+        "Departement Geistes",
+        "Mit Blick",
+        "Cambridge University",
+        "Alan Turing",
+        "Church-Turing",
+        "Im Fall",
+        "Scott Joel",
+        "Renato Renner",
+        "TV-Werbespot",
+        "Die Church",
+        "Departemente Mathematik",
+        "Seite Implikationen",
+        "Computerpioniere Alonzo",
+        "Der Physiker",
+        "Bernays Lectures",
+        "Nature Physics",
+        "Weitere Informationen",
+        "Seite Zoo",
+        "Quantum Information",
+        "Etliche Themen",
+        "Paul Bernays",
+        "De News",
+        "Zurich Physics",
+        "Turing-These",
+        "Solche Probleme"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Cambridge",
+        "Cambridge University Press",
+        "Church-Turing-These",
+        "DOI",
+        "Departement Geistes-, Sozial- und Staatswissenschaften",
+        "ETH Hauptgebäude",
+        "ETH Zürich",
+        "Nature Physics",
+        "Shtetl-Optimized",
+        "Universität von Texas",
+        "Zurich Physics Colloquium"
+      ],
+      "locations": [
+        "Aaronson",
+        "Auditorium E7",
+        "Austin",
+        "Australien",
+        "Church-Turing-These",
+        "Computermodelle",
+        "Grundlagen",
+        "Quantum Information Center",
+        "Wissens",
+        "Zürich"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "where"
+      ],
+      "key_concepts": [
+        "Scott Aaronson",
+        "Aaronson",
+        "ETH Zürich",
+        "Lectures",
+        "Quantencomputer",
+        "Computern",
+        "Paul Bernays",
+        "Universität von Texas",
+        "Austin",
+        "Internet"
+      ],
+      "document_structure": {
+        "total_sections": 6,
+        "section_titles": [
+          "Vordenker und Zoowรคrter der Komplexitรคten",
+          "Vordenker und Zoowärter der Komplexitäten",
+          "Lösen Quantencomputer mehr Probleme?",
+          "Verschlüsselung und Gravitation",
+          "Neu mit Beteiligung der Informatik",
+          "Paul Bernays Vorlesungen 2019"
+        ],
+        "content_length": 6964
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Lectures",
+        "DOI",
+        "Shtetl-Optimized",
+        "1995",
+        "Alonzo Church",
+        "Scott Aaronson",
+        "S. Read",
+        "Implikationen von Quantencomputern",
+        "2009",
+        "2007",
+        "ETH Hauptgebäude",
+        "2019",
+        "Beweisen",
+        "Departement Geistes-, Sozial- und Staatswissenschaften",
+        "ETH Zürich",
+        "Renner",
+        "Cambridge",
+        "Scott Joel Aaronson",
+        "1903",
+        "Alan Turing",
+        "2015",
+        "Universität von Texas",
+        "Zurich Physics Colloquium",
+        "1954",
+        "EU",
+        "2012",
+        "Aaronson",
+        "Renato Renner",
+        "nphys3272 Aaronson",
+        "Nature Physics",
+        "ETH-Professor Renato Renner",
+        "2013",
+        "1912",
+        "Paul Bernays",
+        "Quantencomputer",
+        "De News",
+        "Church-Turing-These",
+        "Cambridge University Press"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "Er­wei­terung",
+        "who",
+        "Internet",
+        "where",
+        "The Blog of Scott Aaronson",
+        "Zeit",
+        "Computern"
+      ],
+      "graph_relations": [
+        "Aaronson_has_role_professor",
+        "ETH-Professor Renato Renner_has_role_professor",
+        "Quantencomputer_has_role_professor",
+        "Renato Renner_has_role_Professor",
+        "Renato Renner_has_role_professor",
+        "Renner_has_role_professor",
+        "Scott Aaronson_has_role_professor",
+        "research_domain_technology",
+        "research_domain_physics"
+      ]
+    }
+  }
+}

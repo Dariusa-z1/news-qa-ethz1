@@ -1,0 +1,512 @@
+{
+  "filename": "3d-visualisierung-von-wolken-und-winden.md",
+  "original_filename": "3d-visualisierung-von-wolken-und-winden.html",
+  "source_path": "de_news_events/2018/04/3d-visualisierung-von-wolken-und-winden.html",
+  "date": "2018-04",
+  "title": "3D Visualisierung Von Wolken Und Winden",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Wolken dreidimensional visualisieren",
+      "text": "Visualisierungen spielen bei Untersuchungen von Wetterdaten wie Temperatur, Luftdruck oder dem Wassergehalt der Atmosphäre eine sehr grosse Rolle. Solche Daten grafisch darzustellen ist auch relativ einfach, da sie einen klaren räumlichen Bezug haben und sich daher gut auf Landkarten eintragen lassen.\n\nZurzeit sind in der Meteorologie zweidimensionale Darstellungen Usus, sowohl in der Forschung als auch in der Anwendung bei Wettervorhersagen. In der Regel reichen solche einfachen Visualisierungen aus. Einige Prozesse, wie etwa die vertikale Entwicklung von Wolken über die Zeit, lassen sich zweidimensional jedoch nur schlecht untersuchen.\n\nComputergrafiker aus der Gruppe von ETH-Informatikprofessor Markus Gross haben deshalb Ansätze entwickelt, um basierend auf numerischen Wettersimulationen die Entwicklung und Dynamik von Wolken und Luftströmungen hochaufgelöst dreidimensional zu visualisieren.\n\nIhre Arbeit präsentierten die Forscher an zwei internationalen Fachkongressen, wo die neue 3D-Visualisierungsmethode vom Publikum gut aufgenommen worden sei, sagt Tobias Günther, Senior Scientist bei Gross. Der von Günther betreute Student Noël Rimensberger hat die Methoden als Bachelorarbeit entwickelt, ausgebaut und die Visualisierungen auf dem Computer berechnet."
+    },
+    {
+      "heading": "Neue Möglichkeiten ausloten",
+      "text": "Die Grundlage für Rimensbergers Visualisierungen waren Wind-, Wolken- und Regendaten, die im Rahmen eines internationalen Visualisierungswettbewerbs, dem IEEE Scientific Visualization Contest 2017, der Wissenschaft frei zur Verfügung gestellt wurden. Die zugrunde liegende Simulation bildet die Wetterlage am Abend des 26. April 2013 nach und entstand im Rahmen eines grossangelegten Meteorologie-Forschungsprojektes namens HD(CP)2, an welchem sich mehr als 100 Forscher aus 19 Institutionen beteiligen.\n\nDer Informatikstudent kombinierte bestehende Algorithmen, um die Wolkenentwicklung und die Luftströmungen zu visualisieren und wandte dabei aktuelle Methoden aus dem Forschungsfeld der wissenschaftlichen Visualisierung an.\n\nDabei ging es ihm weniger darum, für die Meteorologie brauchbare Prognosewerkzeuge zu schaffen, als die Möglichkeiten auszuloten, Wetter «relativ simpel und verständlich darzustellen», wie er betont. Der Wert für die Wissenschaft sei, dass die 3D-Grafiken etwas sichtbar machen, was auf 2D-Grafiken nicht sichtbar sei, um dadurch einen Überblick gewinnen zu können.\n\nSo zeigen Rimensbergers Visualisierungen, wie sich Wolken über Deutschland formieren und über die Zeit verändern, mit Aufwinden in die Höhe getragen und schliesslich von Winden in der Troposphäre mehr als 10 Kilometer über den Boden verfrachtet werden. In unterschiedlichen Farben dargestellt werden Wolkenzonen, die einen identischen Wasser- oder Eisgehalt haben.\n\nWeiter analysierte der Informatikstudent auch Luftströmungen. Die Linien stellen die Pfade von Luftpaketen dar und deren Farben zeigen an, wie stark sich ein Luftpaket um seine eigene Achse dreht. Die Länge der Linien gibt Aufschluss über den zurückgelegten Weg und visualisiert damit die Strömungsgeschwindigkeit. Aufsteigende Wolken erzeugen Turbulenzen, die stärkere Verwirbelungen hervorrufen oder deren Flugbahn verändern. Beides ist an den berechneten Pfadlinien ablesbar."
+    },
+    {
+      "heading": "Unsichtbares aufdecken",
+      "text": "Den Simulationen der Wolkenentwicklung überlagerte Rimensberger zudem die Flugbahnen von startenden Passagierflugzeugen. «Ich wollte herausfinden, ob und wie Gewitterzonen den Flugverkehr beeinflussen», sagt er.\n\nDie Flugbahnen der in Frankfurt startenden Maschinen verlaufen allerdings quer durch die simulierten Gewitterzellen hindurch. Lediglich ein in München startender Flieger weicht einer Regenzelle über Regensburg ein wenig aus. Der Computerforscher folgert daraus, dass die Gewitter zu wenig heftig waren, um eine Verlagerung des Flugverkehrs zu notwendig zu machen, oder zu wenig Messdaten vorhanden waren.\n\nDie neuen Visualisierungen erleichtern die Klassifizierung von Wolkenformationen, weil Wolken «sichtbar» werden, die weder Satelliten von oben noch ein Beobachter vom Boden aus sehen können. Ein Vergleich mit der heute üblichen 2D-Kategorisierung zeigte, dass die neuen Algorithmen auch übereinander angeordnete Wolkenstrukturen erkennen können."
+    },
+    {
+      "heading": "Unsichtbares aufdecken",
+      "text": "«Der wissenschaftliche Wert unserer Visualisierung liegt darin, dass wir etwas sichtbar machen, was mit bisherigen Tools nicht sichtbar ist», sagt Rimensberger. Für Echtzeitsimulationen sei aber die Zeit noch nicht reif. Auch aufwändige Grafiken wie diejenige der Luftströmungen über ganz Deutschland haben den Weg in die Praxis bisher nicht gefunden. «Die Berechnungen hierfür dauern derzeit zu lang. Wir versuchen, sie mit verbesserten Algorithmen zu verkürzen», ergänzt Günther. «Einige der Visualisierungen oder etwa die Wolkenklassifizierung könnte man aber bereits jetzt in existierende Tools integrieren.»\n\nFür die Flugsicherung könnte die Visualisierung von turbulenten Strömungsregionen oder von Regionen mit starken Auftrieb und Unwetterentwicklung ebenfalls von Interesse sein.\n\nFolgeprojekte sind geplant oder bereits in Arbeit, wie jenes einer interaktiven Auswertung von grossen meteorologischen Datensätzen. Die Computergrafiker sind zudem daran, wichtige Strukturen in diesen Daten besser sichtbar zu machen und die aufwändigen Visualisierungen von Luftströmungen zu beschleunigen. Wer weiss, vielleicht präsentiert dereinst der TV-Wetterfrosch 3D-Wetterkarten, welche auf ETH-Algorithmen beruhen.\n\nRimensberger N, Gross M, Günther T: Visualization of Clouds and Atmospheric Air Flows. IEEE Scientific Visualization (SciVis 2016), Phoenix, AZ, USA, October 1-5, 2017. DOI: externe Seite 10.3929/ethz-b-000237747"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De News",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 578,
+        "end": 582
+      },
+      {
+        "text": "Computergrafiker",
+        "label": "PER",
+        "start": 645,
+        "end": 661
+      },
+      {
+        "text": "Markus Gross",
+        "label": "PER",
+        "start": 705,
+        "end": 717
+      },
+      {
+        "text": "Tobias Günther",
+        "label": "PER",
+        "start": 1069,
+        "end": 1083
+      },
+      {
+        "text": "Senior Scientist",
+        "label": "MISC",
+        "start": 1085,
+        "end": 1101
+      },
+      {
+        "text": "Gross",
+        "label": "LOC",
+        "start": 1106,
+        "end": 1111
+      },
+      {
+        "text": "Günther",
+        "label": "PER",
+        "start": 1121,
+        "end": 1128
+      },
+      {
+        "text": "Noël Rimensberger",
+        "label": "PER",
+        "start": 1146,
+        "end": 1163
+      },
+      {
+        "text": "Rimensbergers Visualisierungen",
+        "label": "ORG",
+        "start": 18,
+        "end": 48
+      },
+      {
+        "text": "IEEE Scientific Visualization Contest 2017",
+        "label": "MISC",
+        "start": 154,
+        "end": 196
+      },
+      {
+        "text": "Wetterlage",
+        "label": "LOC",
+        "start": 295,
+        "end": 305
+      },
+      {
+        "text": "Meteorologie-Forschungsprojektes",
+        "label": "LOC",
+        "start": 384,
+        "end": 416
+      },
+      {
+        "text": "Deutschland",
+        "label": "LOC",
+        "start": 1156,
+        "end": 1167
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 1191,
+        "end": 1195
+      },
+      {
+        "text": "Aufwinden",
+        "label": "PER",
+        "start": 1211,
+        "end": 1220
+      },
+      {
+        "text": "Rimensberger",
+        "label": "PER",
+        "start": 51,
+        "end": 63
+      },
+      {
+        "text": "Frankfurt",
+        "label": "LOC",
+        "start": 234,
+        "end": 243
+      },
+      {
+        "text": "München",
+        "label": "LOC",
+        "start": 355,
+        "end": 362
+      },
+      {
+        "text": "Regensburg",
+        "label": "LOC",
+        "start": 411,
+        "end": 421
+      },
+      {
+        "text": "Rimensberger",
+        "label": "MISC",
+        "start": 147,
+        "end": 159
+      },
+      {
+        "text": "Zeit",
+        "label": "MISC",
+        "start": 199,
+        "end": 203
+      },
+      {
+        "text": "Deutschland",
+        "label": "LOC",
+        "start": 289,
+        "end": 300
+      },
+      {
+        "text": "Günther",
+        "label": "PER",
+        "start": 473,
+        "end": 480
+      },
+      {
+        "text": "TV-Wetterfrosch 3D-Wetterkarten",
+        "label": "MISC",
+        "start": 1143,
+        "end": 1174
+      },
+      {
+        "text": "ETH-Algorithmen",
+        "label": "MISC",
+        "start": 1187,
+        "end": 1202
+      },
+      {
+        "text": "Gross M",
+        "label": "PER",
+        "start": 1228,
+        "end": 1235
+      },
+      {
+        "text": "Günther T",
+        "label": "PER",
+        "start": 1237,
+        "end": 1246
+      },
+      {
+        "text": "Visualization of Clouds and Atmospheric Air Flows",
+        "label": "ORG",
+        "start": 1248,
+        "end": 1297
+      },
+      {
+        "text": "IEEE",
+        "label": "ORG",
+        "start": 1299,
+        "end": 1303
+      },
+      {
+        "text": "SciVis",
+        "label": "MISC",
+        "start": 1330,
+        "end": 1336
+      },
+      {
+        "text": "Phoenix",
+        "label": "ORG",
+        "start": 1344,
+        "end": 1351
+      },
+      {
+        "text": "AZ",
+        "label": "MISC",
+        "start": 1353,
+        "end": 1355
+      },
+      {
+        "text": "USA",
+        "label": "LOC",
+        "start": 1357,
+        "end": 1360
+      },
+      {
+        "text": "DOI",
+        "label": "ORG",
+        "start": 1381,
+        "end": 1384
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aufwinden",
+        "Computergrafiker",
+        "De News",
+        "Gross M",
+        "Günther",
+        "Günther T",
+        "Markus Gross",
+        "Noël Rimensberger",
+        "Rimensberger",
+        "Tobias Günther"
+      ],
+      "ORG": [
+        "DOI",
+        "IEEE",
+        "Phoenix",
+        "Rimensbergers Visualisierungen",
+        "Visualization of Clouds and Atmospheric Air Flows"
+      ],
+      "LOCATION": [
+        "Deutschland",
+        "Frankfurt",
+        "Gross",
+        "Meteorologie-Forschungsprojektes",
+        "München",
+        "Regensburg",
+        "USA",
+        "Wetterlage"
+      ],
+      "DATE": [],
+      "MISC": [
+        "AZ",
+        "ETH-Algorithmen",
+        "IEEE Scientific Visualization Contest 2017",
+        "Rimensberger",
+        "SciVis",
+        "Senior Scientist",
+        "TV-Wetterfrosch 3D-Wetterkarten",
+        "Zeit"
+      ]
+    },
+    "entity_counts": {
+      "Zeit": 3,
+      "Günther": 2,
+      "Deutschland": 2,
+      "Rimensberger": 2,
+      "De News": 1,
+      "Computergrafiker": 1,
+      "Markus Gross": 1,
+      "Tobias Günther": 1,
+      "Senior Scientist": 1,
+      "Gross": 1,
+      "Noël Rimensberger": 1,
+      "Rimensbergers Visualisierungen": 1,
+      "IEEE Scientific Visualization Contest 2017": 1,
+      "Wetterlage": 1,
+      "Meteorologie-Forschungsprojektes": 1,
+      "Aufwinden": 1,
+      "Frankfurt": 1,
+      "München": 1,
+      "Regensburg": 1,
+      "TV-Wetterfrosch 3D-Wetterkarten": 1
+    },
+    "total_entities": 35,
+    "unique_entities": 30
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "3d-visualisierung-von-wolken-und-winden.md",
+      "title": "De News Events/2018/04/3d Visualisierung von Wolken und Winden",
+      "language": "de",
+      "source_path": "de_news_events/2018/04/3d-visualisierung-von-wolken-und-winden.html"
+    },
+    "temporal": {
+      "publication_date": "2018-04",
+      "mentioned_years": [
+        "2013",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Aufwinden",
+        "Computergrafiker",
+        "De News",
+        "Gross M",
+        "Günther",
+        "Günther T",
+        "Markus Gross",
+        "Noël Rimensberger",
+        "Rimensberger",
+        "Tobias Günther"
+      ],
+      "people_with_roles": {
+        "Computergrafiker": [
+          "professor"
+        ],
+        "Günther": [
+          "scientist",
+          "student"
+        ],
+        "Markus Gross": [
+          "professor"
+        ],
+        "Noël Rimensberger": [
+          "student"
+        ],
+        "Rimensberger": [
+          "student"
+        ],
+        "Tobias Günther": [
+          "scientist"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "ETH-Algorithmen",
+        "IEEE Scientific Visualization Contest 2017",
+        "Rimensberger",
+        "SciVis",
+        "Senior Scientist",
+        "TV-Wetterfrosch 3D-Wetterkarten",
+        "Zeit"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Markus Gross",
+        "Atmospheric Air",
+        "Die Linien",
+        "Der Informatikstudent",
+        "TV-Wetterfrosch",
+        "Aufsteigende Wolken",
+        "Meteorologie-Forschungsprojektes",
+        "Rimensbergers Visualisierungen",
+        "Ein Vergleich",
+        "Ihre Arbeit",
+        "Der Wert",
+        "Die Flugbahnen",
+        "Einige Prozesse",
+        "Die Computergrafiker",
+        "Der Computerforscher",
+        "Senior Scientist",
+        "ETH-Algorithmen",
+        "Gross M",
+        "Darstellungen Usus",
+        "Rimensberger N",
+        "Visualization Contest",
+        "IEEE Scientific",
+        "Den Simulationen",
+        "Die Grundlage",
+        "Die Berechnungen",
+        "Winden Visualisierungen",
+        "Solche Daten",
+        "De News",
+        "ETH-Informatikprofessor"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "DOI",
+        "IEEE",
+        "Phoenix",
+        "Rimensbergers Visualisierungen",
+        "Visualization of Clouds and Atmospheric Air Flows"
+      ],
+      "locations": [
+        "Deutschland",
+        "Frankfurt",
+        "Gross",
+        "Meteorologie-Forschungsprojektes",
+        "München",
+        "Regensburg",
+        "USA",
+        "Wetterlage"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Zeit",
+        "Günther",
+        "Deutschland",
+        "Rimensberger",
+        "De News",
+        "Computergrafiker",
+        "Markus Gross",
+        "Tobias Günther",
+        "Senior Scientist",
+        "Gross"
+      ],
+      "document_structure": {
+        "total_sections": 4,
+        "section_titles": [
+          "Wolken dreidimensional visualisieren",
+          "Neue Möglichkeiten ausloten",
+          "Unsichtbares aufdecken",
+          "Unsichtbares aufdecken"
+        ],
+        "content_length": 5674
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Computergrafiker",
+        "Markus Gross",
+        "DOI",
+        "Tobias Günther",
+        "Aufwinden",
+        "2016",
+        "IEEE",
+        "Günther",
+        "Rimensbergers Visualisierungen",
+        "2018",
+        "Noël Rimensberger",
+        "Visualization of Clouds and Atmospheric Air Flows",
+        "Gross M",
+        "Phoenix",
+        "EU",
+        "Günther T",
+        "2017",
+        "2013",
+        "De News",
+        "Rimensberger"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "Zeit",
+        "ETH-Algorithmen",
+        "who",
+        "TV-Wetterfrosch 3D-Wetterkarten",
+        "IEEE Scientific Visualization Contest 2017",
+        "Senior Scientist",
+        "what",
+        "how",
+        "SciVis",
+        "Rimensberger",
+        "when"
+      ],
+      "graph_relations": [
+        "Computergrafiker_has_role_professor",
+        "Günther_has_role_scientist",
+        "Günther_has_role_student",
+        "Markus Gross_has_role_professor",
+        "Noël Rimensberger_has_role_student",
+        "Rimensberger_has_role_student",
+        "Tobias Günther_has_role_scientist",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

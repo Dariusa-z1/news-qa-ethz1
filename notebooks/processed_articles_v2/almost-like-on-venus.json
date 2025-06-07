@@ -1,0 +1,558 @@
+{
+  "filename": "almost-like-on-venus.md",
+  "original_filename": "almost-like-on-venus.html",
+  "source_path": "en_news_events/2020/11/almost-like-on-venus.html",
+  "date": "2020-11",
+  "title": "Almost Like On Venus",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Making magma in the laboratory",
+      "text": "Four-and-a-half billion years ago, Earth would have been hard to recognise. Instead of the forests, mountains and oceans that we know today, the surface of our planet was covered entirely by magma – the molten rocky material that emerges when volcanoes erupt. This much the scientific community agrees on. What is less clear is what the atmosphere at the time was like. New international research efforts led by Paolo Sossi, senior research fellow at ETH Zurich and the NCCR PlanetS, attempt to lift some of the mysteries of Earth’s primeval atmosphere. The findings were published today in the journal Science Advances .\n\n“Four-and-a-half billion years ago, the magma constantly exchanged gases with the overlying atmosphere,” Sossi begins to explain. “The air and the magma influenced each other. So, you can learn about one from the other.”\n\nTo learn about Earth’s primeval atmosphere, which was very different from what it is today, the researchers therefore created their own magma in the laboratory. They did so by mixing a powder that matched the composition of Earth’s molten mantle and heating it. What sounds straightforward required the latest technological advances, as Sossi points out: “The composition of our mantle-like powder made it difficult to melt – we needed very high temperatures of around 2,000° Celsius.”"
+    },
+    {
+      "heading": "A new view of the emergence of life",
+      "text": "The laser-heated aerodynamic levitation furnace which Sossi’s group used in the experiments. (Image: IPGP)\n\nThat required a special furnace, which was heated by a laser and within which the researchers could levitate the magma by letting streams of gas mixtures flow around it. These gas mixtures were plausible candidates for the primeval atmosphere that, as 4.5 billion years ago, influenced the magma. Thus, with each mixture of gases that flowed around the sample, the magma turned out a little different.\n\n“The key difference we looked for was how oxidised the iron within the magma became,” Sossi explains. In less accurate words: how rusty. When iron meets oxygen, it oxidises and turns into what we commonly refer to as rust. Thus, when the gas mixture that the scientists blew over their magma contained a lot of oxygen, the iron within the magma became more oxidised.\n\nThis level of iron oxidation in the cooled-down magma gave Sossi and his colleagues something that they could compare to naturally occurring rocks that make up Earth’s mantle today – so-called peridotites. The iron oxidation in these rocks still has the influence of the primeval atmosphere imprinted within it. Comparing the natural peridotites and the ones from the lab therefore gave the scientists clues about which of their gas mixtures came closest to Earth’s primeval atmosphere."
+    },
+    {
+      "heading": "A new view of the emergence of life",
+      "text": "“What we found was that, after cooling down from the magma state, the young Earth had an atmosphere that was slightly oxidising, with carbon dioxide as its main constituent, as well as nitrogen and some water,” Sossi reports. The surface pressure was also much higher, almost one hundred times that of today and the atmosphere was much higher, due to the hot surface. These characteristics made it more similar to the atmosphere of today’s Venus than to that of today’s Earth.\n\nThis result has two main conclusions, according to Sossi and his colleagues: The first is that Earth and Venus started out with quite similar atmospheres but the latter subsequently lost its water due to the closer proximity to the sun and the associated higher temperatures. Earth, however, kept its water, primarily in the form of oceans. These absorbed much of the CO 2 from the air, thereby reducing the CO 2 levels significantly.\n\nThe second conclusion is that a popular theory on the emergence of life on Earth now seems much less likely. This so-called “Miller–Urey experiment”, in which lightning strikes interact with certain gases (notably ammonia and methane) to create amino acids – the building blocks of life – would have been difficult to realise. The necessary gases were simply not sufficiently abundant.\n\nSossi, PA, Burnham, AD, Badro, J, Lanzirotti, A, Newville, M & O’Neill, HSC: Redox state of Earth’s magma ocean and its Venus-like early atmosphere. Science Advances, November 25 2020. doi: 10.1126/sciadv.abd1387"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Four",
+        "label": "CARDINAL",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 35,
+        "end": 40
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 134,
+        "end": 139
+      },
+      {
+        "text": "Paolo Sossi",
+        "label": "PERSON",
+        "start": 412,
+        "end": 423
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 451,
+        "end": 461
+      },
+      {
+        "text": "NCCR",
+        "label": "ORG",
+        "start": 470,
+        "end": 474
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 525,
+        "end": 530
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 582,
+        "end": 587
+      },
+      {
+        "text": "Science Advances",
+        "label": "ORG",
+        "start": 603,
+        "end": 619
+      },
+      {
+        "text": "Four",
+        "label": "CARDINAL",
+        "start": 623,
+        "end": 627
+      },
+      {
+        "text": "Sossi",
+        "label": "PERSON",
+        "start": 727,
+        "end": 732
+      },
+      {
+        "text": "about one",
+        "label": "CARDINAL",
+        "start": 816,
+        "end": 825
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 858,
+        "end": 863
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 928,
+        "end": 933
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1067,
+        "end": 1072
+      },
+      {
+        "text": "Sossi",
+        "label": "GPE",
+        "start": 1180,
+        "end": 1185
+      },
+      {
+        "text": "around 2,000",
+        "label": "CARDINAL",
+        "start": 1305,
+        "end": 1317
+      },
+      {
+        "text": "Sossi’s",
+        "label": "ORG",
+        "start": 54,
+        "end": 61
+      },
+      {
+        "text": "IPGP",
+        "label": "PERSON",
+        "start": 101,
+        "end": 105
+      },
+      {
+        "text": "as 4.5 billion years ago",
+        "label": "MONEY",
+        "start": 356,
+        "end": 380
+      },
+      {
+        "text": "Sossi",
+        "label": "PERSON",
+        "start": 595,
+        "end": 600
+      },
+      {
+        "text": "Sossi",
+        "label": "GPE",
+        "start": 935,
+        "end": 940
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1036,
+        "end": 1041
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 1051,
+        "end": 1056
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1334,
+        "end": 1339
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 76,
+        "end": 81
+      },
+      {
+        "text": "Sossi",
+        "label": "PERSON",
+        "start": 211,
+        "end": 216
+      },
+      {
+        "text": "almost one hundred",
+        "label": "CARDINAL",
+        "start": 269,
+        "end": 287
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 302,
+        "end": 307
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 432,
+        "end": 437
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 470,
+        "end": 475
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 493,
+        "end": 496
+      },
+      {
+        "text": "Sossi",
+        "label": "GPE",
+        "start": 528,
+        "end": 533
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 558,
+        "end": 563
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 572,
+        "end": 577
+      },
+      {
+        "text": "Venus",
+        "label": "PERSON",
+        "start": 582,
+        "end": 587
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 753,
+        "end": 758
+      },
+      {
+        "text": "the CO 2",
+        "label": "PRODUCT",
+        "start": 841,
+        "end": 849
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 916,
+        "end": 922
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 987,
+        "end": 992
+      },
+      {
+        "text": "Miller",
+        "label": "PERSON",
+        "start": 1037,
+        "end": 1043
+      },
+      {
+        "text": "Urey",
+        "label": "PERSON",
+        "start": 1044,
+        "end": 1048
+      },
+      {
+        "text": "Sossi",
+        "label": "GPE",
+        "start": 1298,
+        "end": 1303
+      },
+      {
+        "text": "Burnham",
+        "label": "GPE",
+        "start": 1309,
+        "end": 1316
+      },
+      {
+        "text": "Badro",
+        "label": "PERSON",
+        "start": 1322,
+        "end": 1327
+      },
+      {
+        "text": "Lanzirotti",
+        "label": "PERSON",
+        "start": 1332,
+        "end": 1342
+      },
+      {
+        "text": "Newville, M & O’Neill",
+        "label": "ORG",
+        "start": 1347,
+        "end": 1368
+      },
+      {
+        "text": "Redox",
+        "label": "GPE",
+        "start": 1375,
+        "end": 1380
+      },
+      {
+        "text": "Earth",
+        "label": "LOC",
+        "start": 1390,
+        "end": 1395
+      },
+      {
+        "text": "Venus",
+        "label": "ORG",
+        "start": 1418,
+        "end": 1423
+      },
+      {
+        "text": "Science Advances",
+        "label": "ORG",
+        "start": 1447,
+        "end": 1463
+      },
+      {
+        "text": "November 25 2020",
+        "label": "DATE",
+        "start": 1465,
+        "end": 1481
+      },
+      {
+        "text": "10.1126",
+        "label": "CARDINAL",
+        "start": 1488,
+        "end": 1495
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Badro",
+        "IPGP",
+        "Lanzirotti",
+        "Miller",
+        "Paolo Sossi",
+        "Sossi",
+        "Urey",
+        "Venus"
+      ],
+      "ORG": [
+        "ETH Zurich",
+        "NCCR",
+        "Newville, M & O’Neill",
+        "Science Advances",
+        "Sossi’s",
+        "Venus"
+      ],
+      "LOCATION": [
+        "Burnham",
+        "Earth",
+        "Redox",
+        "Sossi"
+      ],
+      "DATE": [
+        "November 25 2020",
+        "today"
+      ],
+      "MISC": [
+        "10.1126",
+        "Four",
+        "about one",
+        "almost one hundred",
+        "around 2,000",
+        "as 4.5 billion years ago",
+        "first",
+        "second",
+        "the CO 2",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "Earth": 12,
+      "Sossi": 7,
+      "today": 6,
+      "Four": 2,
+      "Science Advances": 2,
+      "Venus": 2,
+      "Paolo Sossi": 1,
+      "ETH Zurich": 1,
+      "NCCR": 1,
+      "about one": 1,
+      "around 2,000": 1,
+      "Sossi’s": 1,
+      "IPGP": 1,
+      "as 4.5 billion years ago": 1,
+      "almost one hundred": 1,
+      "two": 1,
+      "first": 1,
+      "the CO 2": 1,
+      "second": 1,
+      "Miller": 1
+    },
+    "total_entities": 53,
+    "unique_entities": 28
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "almost-like-on-venus.md",
+      "title": "En News Events/2020/11/almost Like On Venus",
+      "language": "en",
+      "source_path": "en_news_events/2020/11/almost-like-on-venus.html"
+    },
+    "temporal": {
+      "publication_date": "2020-11",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Badro",
+        "IPGP",
+        "Lanzirotti",
+        "Miller",
+        "Paolo Sossi",
+        "Sossi",
+        "Urey",
+        "Venus"
+      ],
+      "people_with_roles": {
+        "IPGP": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.1126",
+        "Four",
+        "about one",
+        "almost one hundred",
+        "around 2,000",
+        "as 4.5 billion years ago",
+        "first",
+        "second",
+        "the CO 2"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "NCCR PlanetS",
+        "Paolo Sossi",
+        "Venus Four",
+        "ETH Zurich",
+        "Like On",
+        "Science Advances"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zurich",
+        "NCCR",
+        "Newville, M & O’Neill",
+        "Science Advances",
+        "Sossi’s",
+        "Venus"
+      ],
+      "locations": [
+        "Burnham",
+        "Earth",
+        "Redox",
+        "Sossi"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "Earth",
+        "Sossi",
+        "today",
+        "Four",
+        "Science Advances",
+        "Venus",
+        "Paolo Sossi",
+        "ETH Zurich",
+        "NCCR",
+        "about one"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Making magma in the laboratory",
+          "A new view of the emergence of life",
+          "A new view of the emergence of life"
+        ],
+        "content_length": 4254
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "IPGP",
+        "NCCR",
+        "Badro",
+        "Sossi’s",
+        "Venus",
+        "2020",
+        "Newville, M & O’Neill",
+        "Science Advances",
+        "Sossi",
+        "Miller",
+        "Paolo Sossi",
+        "ETH Zurich",
+        "Urey",
+        "Lanzirotti"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "almost one hundred",
+        "the CO 2",
+        "as 4.5 billion years ago",
+        "who",
+        "Four",
+        "10.1126",
+        "about one",
+        "second",
+        "what",
+        "how",
+        "when",
+        "around 2,000"
+      ],
+      "graph_relations": [
+        "IPGP_has_role_researcher",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

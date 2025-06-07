@@ -1,0 +1,378 @@
+{
+  "filename": "eth-at-the-wef.md",
+  "original_filename": "eth-at-the-wef.html",
+  "source_path": "en_news_events/2020/01/eth-at-the-wef.html",
+  "date": "2020-01",
+  "title": "Eth At The Wef",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "The mystery of quanta",
+      "text": "As the squadron of helicopters accompanying the US president roars across the sky, black limousines stand bumper to bumper in the street below and, in the style of Greta Thunberg, a young woman protests against current climate policy on the pavement nearby. The Annual Meeting of the World Economic Forum (WEF) in Davos brings together a series of contrasts within a confined space and creates a bustling confusion in the highest town in Europe.\n\nA stream of visitors flocked to the ETH Zurich pavilion outside the gates to the WEF’s official Annual Meeting. Shortly after the opening of the “RETHINKING Creativity” exhibition on Tuesday lunchtime, the space is full to capacity with several school classes, WEF visitors and local residents jostling around the exhibits. “Interdisciplinarity is the key concept that describes ETH’s exhibition at this year’s WEF,” says ETH President Joël Mesot at the opening ceremony. “Our exhibits cover everything from quantum computing to robotics and a knitted piano, bringing together the worlds of art and technology.”"
+    },
+    {
+      "heading": "The mystery of quanta",
+      "text": "In the middle of the room, the “Pond of Possibilities” hangs from the ceiling. This exhibit uses waves in water and their interference to illustrate how a quantum computer explores a large number of possibilities in parallel in order to find the right answer. Visitors can influence the interference patterns by selectively placing obstacles in their path and thus designing “algorithms”.\n\nThe pond is just one of many installations on the subject of quantum computing. With active support from designers, ETH researchers created these exhibits to bring the key concepts of quantum physics to life. On the evening of the opening ceremony, an expert panel at the “Demystifying Quantum” event attempts to explain the world of quantum physics to the audience, but as ETH quantum physicist, Jonathan Home says, “Quantum mechanics follows rules that defy our everyday experience.” The mystery remains, at least for the time being.\n\nDiving into new worlds and chaotic states requires new ways of thinking. It thus marks the start of a creative process – or at least that is the view of Joe Paradiso (find the ETH podcast with him here) . For the MIT Media Lab researcher, one thing is certain: “Creativity needs disorder. Ideas arise from chaotic environments.” People combine existing knowledge from different disciplines to create something new – be it concrete columns from a 3D printer, pianos from a loom or industrial robots that play with dolls."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "US",
+        "label": "GPE",
+        "start": 48,
+        "end": 50
+      },
+      {
+        "text": "Greta Thunberg",
+        "label": "PERSON",
+        "start": 164,
+        "end": 178
+      },
+      {
+        "text": "the World Economic Forum",
+        "label": "ORG",
+        "start": 280,
+        "end": 304
+      },
+      {
+        "text": "Davos",
+        "label": "GPE",
+        "start": 314,
+        "end": 319
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 438,
+        "end": 444
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 482,
+        "end": 492
+      },
+      {
+        "text": "WEF",
+        "label": "ORG",
+        "start": 527,
+        "end": 530
+      },
+      {
+        "text": "Annual Meeting",
+        "label": "PERSON",
+        "start": 542,
+        "end": 556
+      },
+      {
+        "text": "Tuesday",
+        "label": "DATE",
+        "start": 629,
+        "end": 636
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 825,
+        "end": 828
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "start": 850,
+        "end": 854
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 868,
+        "end": 871
+      },
+      {
+        "text": "Joël Mesot",
+        "label": "PERSON",
+        "start": 882,
+        "end": 892
+      },
+      {
+        "text": "the “Pond of Possibilities",
+        "label": "LAW",
+        "start": 27,
+        "end": 53
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 505,
+        "end": 508
+      },
+      {
+        "text": "the evening",
+        "label": "TIME",
+        "start": 601,
+        "end": 612
+      },
+      {
+        "text": "the “Demystifying Quantum",
+        "label": "ORG",
+        "start": 657,
+        "end": 682
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 763,
+        "end": 766
+      },
+      {
+        "text": "Jonathan Home",
+        "label": "PERSON",
+        "start": 786,
+        "end": 799
+      },
+      {
+        "text": "Quantum",
+        "label": "ORG",
+        "start": 807,
+        "end": 814
+      },
+      {
+        "text": "Joe Paradiso",
+        "label": "PERSON",
+        "start": 1078,
+        "end": 1090
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 1101,
+        "end": 1104
+      },
+      {
+        "text": "MIT",
+        "label": "ORG",
+        "start": 1138,
+        "end": 1141
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1164,
+        "end": 1167
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Annual Meeting",
+        "Greta Thunberg",
+        "Joe Paradiso",
+        "Jonathan Home",
+        "Joël Mesot"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "MIT",
+        "Quantum",
+        "WEF",
+        "the World Economic Forum",
+        "the “Demystifying Quantum"
+      ],
+      "LOCATION": [
+        "Davos",
+        "Europe",
+        "US"
+      ],
+      "DATE": [
+        "Tuesday",
+        "the evening",
+        "year"
+      ],
+      "MISC": [
+        "one",
+        "the “Pond of Possibilities"
+      ]
+    },
+    "entity_counts": {
+      "ETH": 5,
+      "En News": 1,
+      "US": 1,
+      "Greta Thunberg": 1,
+      "the World Economic Forum": 1,
+      "Davos": 1,
+      "Europe": 1,
+      "ETH Zurich": 1,
+      "WEF": 1,
+      "Annual Meeting": 1,
+      "Tuesday": 1,
+      "year": 1,
+      "Joël Mesot": 1,
+      "the “Pond of Possibilities": 1,
+      "the evening": 1,
+      "the “Demystifying Quantum": 1,
+      "Jonathan Home": 1,
+      "Quantum": 1,
+      "Joe Paradiso": 1,
+      "MIT": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 21
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "eth-at-the-wef.md",
+      "title": "En News Events/2020/01/eth At The Wef",
+      "language": "en",
+      "source_path": "en_news_events/2020/01/eth-at-the-wef.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Annual Meeting",
+        "Greta Thunberg",
+        "Joe Paradiso",
+        "Jonathan Home",
+        "Joël Mesot"
+      ],
+      "people_with_roles": {
+        "Greta Thunberg": [
+          "president"
+        ],
+        "Joël Mesot": [
+          "president"
+        ]
+      },
+      "institutional_roles": [
+        "president",
+        "researcher"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "physics",
+        "computer_science"
+      ],
+      "research_topics": [
+        "the “Pond of Possibilities"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Wef As",
+        "At The",
+        "ETH President",
+        "En News",
+        "World Economic",
+        "Annual Meeting",
+        "Joe Paradiso",
+        "ETH Zurich",
+        "MIT Media",
+        "Demystifying Quantum",
+        "Greta Thunberg",
+        "The Annual",
+        "RETHINKING Creativity",
+        "Jonathan Home"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "MIT",
+        "Quantum",
+        "WEF",
+        "the World Economic Forum",
+        "the “Demystifying Quantum"
+      ],
+      "locations": [
+        "Davos",
+        "Europe",
+        "US"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "how"
+      ],
+      "key_concepts": [
+        "ETH",
+        "En News",
+        "US",
+        "Greta Thunberg",
+        "the World Economic Forum",
+        "Davos",
+        "Europe",
+        "ETH Zurich",
+        "WEF",
+        "Annual Meeting"
+      ],
+      "document_structure": {
+        "total_sections": 2,
+        "section_titles": [
+          "The mystery of quanta",
+          "The mystery of quanta"
+        ],
+        "content_length": 2543
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "Joël Mesot",
+        "WEF",
+        "En News",
+        "EU",
+        "Annual Meeting",
+        "the World Economic Forum",
+        "2020",
+        "Joe Paradiso",
+        "ETH Zurich",
+        "the “Demystifying Quantum",
+        "MIT",
+        "Greta Thunberg",
+        "Quantum",
+        "Jonathan Home"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "physics",
+        "who",
+        "what",
+        "how",
+        "computer_science",
+        "the “Pond of Possibilities",
+        "when"
+      ],
+      "graph_relations": [
+        "Greta Thunberg_has_role_president",
+        "Joël Mesot_has_role_president",
+        "research_domain_technology",
+        "research_domain_physics",
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

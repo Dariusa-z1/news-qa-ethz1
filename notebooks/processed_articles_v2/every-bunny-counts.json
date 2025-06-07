@@ -1,0 +1,572 @@
+{
+  "filename": "every-bunny-counts.md",
+  "original_filename": "every-bunny-counts.html",
+  "source_path": "en_news_events/2021/03/every-bunny-counts.html",
+  "date": "2021-03",
+  "title": "Every Bunny Counts",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Fairly traded, but not much in demand",
+      "text": "(Photograph: ETH Zurich)\n\nEaster is chocolate time. About half of the sought-after chocolate Easter bunny consists of cocoa beans. More than 70 percent of the cocoa beans consumed worldwide are produced in only four West African countries: Côte d’Ivoire, Ghana, Nigeria and Cameroon. We’ve all heard about the precarious living conditions of cocoa farmers and their children: an estimated two million children still work on cocoa fields in Côte d’Ivoire and Ghana alone. You may also have read that cocoa farmers in these countries often receive less than five percent of the price we pay for chocolate in Switzerland. 1"
+    },
+    {
+      "heading": "Fairly traded, but not much in demand",
+      "text": "Chocolate that guarantees farmers a minimum price is a first step toward better living conditions – at least for one percent of the approximately 500 million small farmers who are certified worldwide. However, studies show that certification only has a limited effect on producers’ lives. Producers do receive a better price for their cacao and so achieve slightly higher revenues, but household income doesn’t increase significantly, and children are rarely healthier or better educated. 2"
+    },
+    {
+      "heading": "Give thought to the chocolate you buy",
+      "text": "A key reason here is the meagre demand for chocolate that pays a higher price to farmers. Even in Switzerland, the world leader in responsible consumption, we spend on average only 100 Swiss francs a year on fairly traded food — less than two percent of our total food spending. Only 10 percent of the chocolate consumed in Switzerland is Fairtrade. Because global demand is so low, not even half of Fairtrade cocoa can be sold at Fairtrade conditions on international markets. Farmers are only able to sell just under half of their product through certified channels, while the costs of certification are often incurred for the entire production."
+    },
+    {
+      "heading": "Why don’t we buy ethical chocolate?",
+      "text": "The results of an online survey we conducted in Switzerland with 2,500 participants indicate that we’re certainly willing to pay significantly more for chocolate that pays a higher price to producers. However, we’re easily distracted when buying – by the packaging, for instance. Consumers seldom consciously decide between conventionally traded chocolate and the somewhat more expensive, but fairly traded chocolate. 3 When we’re standing in front of the supermarket shelf, our good intentions get quickly forgotten and we simply reach for the cheaper (and better-known) chocolate.\n\nIn a subsequent representative survey, many Swiss confirmed that they buy chocolate spontaneously, without paying attention to the origin of the cocoa bean. In addition, we found that most Swiss people do have a high level of trust in chocolate from fair trade. However, while consumers recognise and trust labels, this doesn’t necessarily mean they’re well-informed about the production conditions of cocoa."
+    },
+    {
+      "heading": "Give thought to the chocolate you buy",
+      "text": "Last autumn, even though the Responsible Business Initiative was rejected by the cantons, the majority of the Swiss population voted in favour of responsible business practices abroad. So, let’s be consistent; even without a law on it, consumers can still buy responsibly.\n\nFor most people, price isn’t the obstacle; it’s more down to our lack of focus while shopping. So with Easter around the corner, let’s pay more attention to the origin of the sweet bunny we buy — and also be more mindful about the 10 kilograms of chocolate that we buy per capita each year in this country.\n\nThis text also appears as an opinion piece in the «St. Galler Tagblatt» (German only).\n\n1 Fountain, A.C. & Hütz-Adams, F. (2018). Cocoa Barometer 2018 .\n\n2 Oya, C., Schaefer, F. & Skalidou, D. (2018). The effectiveness of agricultural certification in developing countries: A systematic review. World Development, 112, 282-312.\n\n3 Günther I., Lefoll, E. & M. Veronesi (2020). Why Don’t Swiss Buy more Fair Trade Chocolate? ETH NADEL Policy Brief.\n\nIsabel Günther Professor of Development Economics at ETH Zürich"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "text": "About half",
+        "label": "CARDINAL",
+        "start": 51,
+        "end": 61
+      },
+      {
+        "text": "Easter",
+        "label": "LOC",
+        "start": 92,
+        "end": 98
+      },
+      {
+        "text": "More than 70 percent",
+        "label": "PERCENT",
+        "start": 130,
+        "end": 150
+      },
+      {
+        "text": "only four",
+        "label": "CARDINAL",
+        "start": 205,
+        "end": 214
+      },
+      {
+        "text": "West African",
+        "label": "NORP",
+        "start": 215,
+        "end": 227
+      },
+      {
+        "text": "Côte",
+        "label": "PERSON",
+        "start": 239,
+        "end": 243
+      },
+      {
+        "text": "Ghana",
+        "label": "GPE",
+        "start": 254,
+        "end": 259
+      },
+      {
+        "text": "Nigeria",
+        "label": "GPE",
+        "start": 261,
+        "end": 268
+      },
+      {
+        "text": "Cameroon",
+        "label": "ORG",
+        "start": 273,
+        "end": 281
+      },
+      {
+        "text": "an estimated two million",
+        "label": "CARDINAL",
+        "start": 375,
+        "end": 399
+      },
+      {
+        "text": "Côte",
+        "label": "ORG",
+        "start": 439,
+        "end": 443
+      },
+      {
+        "text": "Ghana",
+        "label": "GPE",
+        "start": 457,
+        "end": 462
+      },
+      {
+        "text": "less than five percent",
+        "label": "PERCENT",
+        "start": 545,
+        "end": 567
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 605,
+        "end": 616
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 55,
+        "end": 60
+      },
+      {
+        "text": "one percent",
+        "label": "PERCENT",
+        "start": 113,
+        "end": 124
+      },
+      {
+        "text": "approximately 500 million",
+        "label": "CARDINAL",
+        "start": 132,
+        "end": 157
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 98,
+        "end": 109
+      },
+      {
+        "text": "only 100 Swiss francs",
+        "label": "MONEY",
+        "start": 176,
+        "end": 197
+      },
+      {
+        "text": "less than two percent",
+        "label": "PERCENT",
+        "start": 229,
+        "end": 250
+      },
+      {
+        "text": "Only 10 percent",
+        "label": "PERCENT",
+        "start": 279,
+        "end": 294
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 324,
+        "end": 335
+      },
+      {
+        "text": "Fairtrade",
+        "label": "GPE",
+        "start": 339,
+        "end": 348
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL",
+        "start": 392,
+        "end": 396
+      },
+      {
+        "text": "Fairtrade",
+        "label": "LOC",
+        "start": 431,
+        "end": 440
+      },
+      {
+        "text": "just under half",
+        "label": "CARDINAL",
+        "start": 508,
+        "end": 523
+      },
+      {
+        "text": "Switzerland",
+        "label": "GPE",
+        "start": 48,
+        "end": 59
+      },
+      {
+        "text": "2,500",
+        "label": "CARDINAL",
+        "start": 65,
+        "end": 70
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 627,
+        "end": 632
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 772,
+        "end": 777
+      },
+      {
+        "text": "Last autumn",
+        "label": "DATE",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "the Responsible Business Initiative",
+        "label": "ORG",
+        "start": 25,
+        "end": 60
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 110,
+        "end": 115
+      },
+      {
+        "text": "10 kilograms",
+        "label": "QUANTITY",
+        "start": 504,
+        "end": 516
+      },
+      {
+        "text": "each year",
+        "label": "DATE",
+        "start": 553,
+        "end": 562
+      },
+      {
+        "text": "St. Galler Tagblatt",
+        "label": "FAC",
+        "start": 631,
+        "end": 650
+      },
+      {
+        "text": "German",
+        "label": "NORP",
+        "start": 653,
+        "end": 659
+      },
+      {
+        "text": "Fountain",
+        "label": "GPE",
+        "start": 669,
+        "end": 677
+      },
+      {
+        "text": "A.C. & Hütz-Adams, F. (",
+        "label": "ORG",
+        "start": 679,
+        "end": 702
+      },
+      {
+        "text": "D.",
+        "label": "NORP",
+        "start": 768,
+        "end": 770
+      },
+      {
+        "text": "World Development",
+        "label": "ORG",
+        "start": 873,
+        "end": 890
+      },
+      {
+        "text": "Günther I.,",
+        "label": "PERSON",
+        "start": 908,
+        "end": 919
+      },
+      {
+        "text": "Swiss",
+        "label": "NORP",
+        "start": 963,
+        "end": 968
+      },
+      {
+        "text": "Fair Trade Chocolate",
+        "label": "ORG",
+        "start": 978,
+        "end": 998
+      },
+      {
+        "text": "Development Economics",
+        "label": "ORG",
+        "start": 1052,
+        "end": 1073
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "FAC",
+        "start": 1077,
+        "end": 1087
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Côte",
+        "ETH Zurich",
+        "Günther I.,"
+      ],
+      "ORG": [
+        "A.C. & Hütz-Adams, F. (",
+        "Cameroon",
+        "Côte",
+        "Development Economics",
+        "Fair Trade Chocolate",
+        "World Development",
+        "the Responsible Business Initiative"
+      ],
+      "LOCATION": [
+        "ETH Zürich",
+        "Easter",
+        "Fairtrade",
+        "Fountain",
+        "Ghana",
+        "Nigeria",
+        "St. Galler Tagblatt",
+        "Switzerland"
+      ],
+      "DATE": [
+        "Last autumn",
+        "each year"
+      ],
+      "MISC": [
+        "10 kilograms",
+        "2,500",
+        "About half",
+        "D.",
+        "German",
+        "More than 70 percent",
+        "Only 10 percent",
+        "Swiss",
+        "West African",
+        "an estimated two million",
+        "approximately 500 million",
+        "first",
+        "half",
+        "just under half",
+        "less than five percent",
+        "less than two percent",
+        "one percent",
+        "only 100 Swiss francs",
+        "only four"
+      ]
+    },
+    "entity_counts": {
+      "Switzerland": 4,
+      "Swiss": 4,
+      "Côte": 2,
+      "Ghana": 2,
+      "Fairtrade": 2,
+      "ETH Zurich": 1,
+      "About half": 1,
+      "Easter": 1,
+      "More than 70 percent": 1,
+      "only four": 1,
+      "West African": 1,
+      "Nigeria": 1,
+      "Cameroon": 1,
+      "an estimated two million": 1,
+      "less than five percent": 1,
+      "first": 1,
+      "one percent": 1,
+      "approximately 500 million": 1,
+      "only 100 Swiss francs": 1,
+      "less than two percent": 1
+    },
+    "total_entities": 47,
+    "unique_entities": 38
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "every-bunny-counts.md",
+      "title": "En News Events/2021/03/every Bunny Counts",
+      "language": "en",
+      "source_path": "en_news_events/2021/03/every-bunny-counts.html"
+    },
+    "temporal": {
+      "publication_date": "2021-03",
+      "mentioned_years": [
+        "2018",
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Côte",
+        "ETH Zurich",
+        "Günther I.,"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": [
+        "professor"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology"
+      ],
+      "research_topics": [
+        "10 kilograms",
+        "2,500",
+        "About half",
+        "German",
+        "More than 70 percent",
+        "Only 10 percent",
+        "Swiss",
+        "West African",
+        "an estimated two million",
+        "approximately 500 million",
+        "first",
+        "half",
+        "just under half",
+        "less than five percent",
+        "less than two percent",
+        "one percent",
+        "only 100 Swiss francs",
+        "only four"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Cocoa Barometer",
+        "ETH NADEL",
+        "Development Economics",
+        "En News",
+        "Galler Tagblatt",
+        "West African",
+        "Responsible Business",
+        "Fair Trade",
+        "Swiss Buy",
+        "World Development",
+        "Why Don",
+        "ETH Zurich",
+        "Bunny Counts",
+        "Policy Brief"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "A.C. & Hütz-Adams, F. (",
+        "Cameroon",
+        "Côte",
+        "Development Economics",
+        "Fair Trade Chocolate",
+        "World Development",
+        "the Responsible Business Initiative"
+      ],
+      "locations": [
+        "ETH Zürich",
+        "Easter",
+        "Fairtrade",
+        "Fountain",
+        "Ghana",
+        "Nigeria",
+        "St. Galler Tagblatt",
+        "Switzerland"
+      ],
+      "programs": [
+        "initiative"
+      ]
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Switzerland",
+        "Swiss",
+        "Côte",
+        "Ghana",
+        "Fairtrade",
+        "ETH Zurich",
+        "About half",
+        "Easter",
+        "More than 70 percent",
+        "only four"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Fairly traded, but not much in demand",
+          "Fairly traded, but not much in demand",
+          "Give thought to the chocolate you buy",
+          "Why don’t we buy ethical chocolate?",
+          "Give thought to the chocolate you buy"
+        ],
+        "content_length": 3888
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "2018",
+        "Development Economics",
+        "A.C. & Hütz-Adams, F. (",
+        "Côte",
+        "Günther I.,",
+        "2020",
+        "the Responsible Business Initiative",
+        "World Development",
+        "Cameroon",
+        "ETH Zurich",
+        "2021",
+        "ERC",
+        "Fair Trade Chocolate"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "half",
+        "Only 10 percent",
+        "less than five percent",
+        "2,500",
+        "when",
+        "About half",
+        "just under half",
+        "only four",
+        "medical_research",
+        "who",
+        "10 kilograms",
+        "More than 70 percent",
+        "one percent",
+        "what",
+        "how",
+        "only 100 Swiss francs",
+        "first",
+        "an estimated two million",
+        "West African",
+        "Swiss",
+        "approximately 500 million",
+        "German",
+        "why",
+        "where",
+        "less than two percent"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

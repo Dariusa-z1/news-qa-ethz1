@@ -1,0 +1,300 @@
+{
+  "filename": "podcast-joe-paradiso.md",
+  "original_filename": "podcast-joe-paradiso.html",
+  "source_path": "en_news_events/2020/01/podcast-joe-paradiso.html",
+  "date": "2020-01",
+  "title": "Podcast Joe Paradiso",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Joe Paradiso is Professor at the MIT Media Lab in Media Arts and Sciences, and he also plays an important role in the international scene of electronic music. Much of what Joe does today started in the 1980ies as a postdoc in the department of physics at ETH Zurich. While he was researching in Zurich in the daytime, he created sounds and started to build a synthesizer (the Paradiso Synth.) at night. One of his favourite places to record audio material was the parking garage at the ETH Campus Hönggerberg. In our Podcast, he explains how his fascination for that obscure place grew, and why it is essential for scientists like him to think out of the box. We will also be listening to audio material, and stream sounds from Joe’s massive synthesizer that is sitting in his basement in Massachusetts.\n\nJoe stopped by at the ETH Podcast-​Studio before traveling to Davos during the World Economic Forum."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Joe Paradiso",
+        "label": "PERSON",
+        "start": 31,
+        "end": 43
+      },
+      {
+        "text": "Joe Paradiso",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Media Arts and Sciences",
+        "label": "ORG",
+        "start": 50,
+        "end": 73
+      },
+      {
+        "text": "Joe",
+        "label": "PERSON",
+        "start": 172,
+        "end": 175
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 181,
+        "end": 186
+      },
+      {
+        "text": "the 1980ies",
+        "label": "DATE",
+        "start": 198,
+        "end": 209
+      },
+      {
+        "text": "the department of physics",
+        "label": "ORG",
+        "start": 226,
+        "end": 251
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 255,
+        "end": 265
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 295,
+        "end": 301
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 396,
+        "end": 401
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 403,
+        "end": 406
+      },
+      {
+        "text": "the ETH Campus Hönggerberg",
+        "label": "FAC",
+        "start": 482,
+        "end": 508
+      },
+      {
+        "text": "Joe",
+        "label": "PERSON",
+        "start": 728,
+        "end": 731
+      },
+      {
+        "text": "Massachusetts",
+        "label": "GPE",
+        "start": 789,
+        "end": 802
+      },
+      {
+        "text": "Joe",
+        "label": "PERSON",
+        "start": 804,
+        "end": 807
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 826,
+        "end": 829
+      },
+      {
+        "text": "the World Economic Forum",
+        "label": "EVENT",
+        "start": 879,
+        "end": 903
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Joe",
+        "Joe Paradiso"
+      ],
+      "ORG": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Media Arts and Sciences",
+        "the department of physics"
+      ],
+      "LOCATION": [
+        "Massachusetts",
+        "Zurich",
+        "the ETH Campus Hönggerberg"
+      ],
+      "DATE": [
+        "night",
+        "the 1980ies",
+        "today"
+      ],
+      "MISC": [
+        "One",
+        "the World Economic Forum"
+      ]
+    },
+    "entity_counts": {
+      "Joe": 3,
+      "Joe Paradiso": 2,
+      "En News": 1,
+      "Media Arts and Sciences": 1,
+      "today": 1,
+      "the 1980ies": 1,
+      "the department of physics": 1,
+      "ETH Zurich": 1,
+      "Zurich": 1,
+      "night": 1,
+      "One": 1,
+      "the ETH Campus Hönggerberg": 1,
+      "Massachusetts": 1,
+      "ETH": 1,
+      "the World Economic Forum": 1
+    },
+    "total_entities": 18,
+    "unique_entities": 15
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "podcast-joe-paradiso.md",
+      "title": "En News Events/2020/01/podcast Joe Paradiso",
+      "language": "en",
+      "source_path": "en_news_events/2020/01/podcast-joe-paradiso.html"
+    },
+    "temporal": {
+      "publication_date": "2020-01",
+      "mentioned_years": [
+        "2020"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Joe",
+        "Joe Paradiso"
+      ],
+      "people_with_roles": {
+        "Joe": [
+          "professor"
+        ],
+        "Joe Paradiso": [
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "the World Economic Forum"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "En News",
+        "ETH Podcast",
+        "World Economic",
+        "Joe Paradiso",
+        "ETH Campus",
+        "MIT Media",
+        "ETH Zurich",
+        "Paradiso Synth",
+        "Media Arts"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "physics at ETH Zurich"
+      ],
+      "institutions": [
+        "ETH",
+        "ETH Zurich",
+        "En News",
+        "Media Arts and Sciences",
+        "the department of physics"
+      ],
+      "locations": [
+        "Massachusetts",
+        "Zurich",
+        "the ETH Campus Hönggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Joe",
+        "Joe Paradiso",
+        "En News",
+        "Media Arts and Sciences",
+        "today",
+        "the 1980ies",
+        "the department of physics",
+        "ETH Zurich",
+        "Zurich",
+        "night"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 949
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "ETH",
+        "En News",
+        "Joe",
+        "2020",
+        "Joe Paradiso",
+        "Media Arts and Sciences",
+        "the department of physics",
+        "ETH Zurich"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "who",
+        "the World Economic Forum",
+        "what",
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Joe_has_role_professor",
+        "Joe Paradiso_has_role_professor",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

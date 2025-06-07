@@ -1,0 +1,301 @@
+{
+  "filename": "antimicrobial-masks-now-available-at-ETH%20Store.md",
+  "original_filename": "antimicrobial-masks-now-available-at-ETH%20Store.html",
+  "source_path": "en_internal/2021/01/antimicrobial-masks-now-available-at-ETH%20Store.html",
+  "date": "2021-01",
+  "title": "Antimicrobial Masks Now Available At Eth%20Store",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "Founded in 2005, HeiQ is an ETH spin-off that develops chemicals to equip textiles with special properties such as being anti-static, water resistant or odour neutral. Currently HeiQ has been enjoying success with its antimicrobial textile treatment, which has been shown to be effective against SARS-CoV-2*. According to HeiQ, this product is responsible for more than doubling the company's revenues in the first half of 2020. HeiQ has been listed on the London Stock Exchange since December 2020.\n\nIn addition to ETH masks treated with anti-virus technology, you can also purchase HeiQ tube scarves and gloves from the ETH Store. These items are available both with and without ETH branding. Members of the ETH community will be granted a special discount.\n\nThe first ten online orders of ETH Zurich masks will receive an additional mask free of charge.\n\n* M.J. (2020) Report on \"Viral Stability and Persistence of SARS-CoV-2 on Treated Material\". Doherty Institute for Infection and Immunity, Australia"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "HeiQ",
+        "label": "ORG",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "HeiQ",
+        "label": "ORG",
+        "start": 178,
+        "end": 182
+      },
+      {
+        "text": "HeiQ",
+        "label": "ORG",
+        "start": 322,
+        "end": 326
+      },
+      {
+        "text": "the first half of 2020",
+        "label": "DATE",
+        "start": 405,
+        "end": 427
+      },
+      {
+        "text": "HeiQ",
+        "label": "ORG",
+        "start": 429,
+        "end": 433
+      },
+      {
+        "text": "the London Stock Exchange",
+        "label": "ORG",
+        "start": 453,
+        "end": 478
+      },
+      {
+        "text": "December 2020",
+        "label": "DATE",
+        "start": 485,
+        "end": 498
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 515,
+        "end": 518
+      },
+      {
+        "text": "HeiQ",
+        "label": "ORG",
+        "start": 583,
+        "end": 587
+      },
+      {
+        "text": "the ETH Store",
+        "label": "FAC",
+        "start": 617,
+        "end": 630
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 680,
+        "end": 683
+      },
+      {
+        "text": "ETH",
+        "label": "ORG",
+        "start": 709,
+        "end": 712
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 763,
+        "end": 768
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 769,
+        "end": 772
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 790,
+        "end": 800
+      },
+      {
+        "text": "M.J.",
+        "label": "GPE",
+        "start": 857,
+        "end": 861
+      },
+      {
+        "text": "Viral Stability and Persistence of SARS-CoV-2 on Treated Material",
+        "label": "WORK_OF_ART",
+        "start": 880,
+        "end": 945
+      },
+      {
+        "text": "Doherty Institute for Infection and Immunity",
+        "label": "ORG",
+        "start": 948,
+        "end": 992
+      },
+      {
+        "text": "Australia",
+        "label": "GPE",
+        "start": 994,
+        "end": 1003
+      }
+    ],
+    "categorized": {
+      "PERSON": [],
+      "ORG": [
+        "Doherty Institute for Infection and Immunity",
+        "ETH",
+        "ETH Zurich",
+        "HeiQ",
+        "the London Stock Exchange"
+      ],
+      "LOCATION": [
+        "Australia",
+        "M.J.",
+        "the ETH Store"
+      ],
+      "DATE": [
+        "December 2020",
+        "the first half of 2020"
+      ],
+      "MISC": [
+        "Viral Stability and Persistence of SARS-CoV-2 on Treated Material",
+        "first",
+        "ten"
+      ]
+    },
+    "entity_counts": {
+      "HeiQ": 5,
+      "ETH": 4,
+      "the first half of 2020": 1,
+      "the London Stock Exchange": 1,
+      "December 2020": 1,
+      "the ETH Store": 1,
+      "first": 1,
+      "ten": 1,
+      "ETH Zurich": 1,
+      "M.J.": 1,
+      "Viral Stability and Persistence of SARS-CoV-2 on Treated Material": 1,
+      "Doherty Institute for Infection and Immunity": 1,
+      "Australia": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "antimicrobial-masks-now-available-at-ETH%20Store.md",
+      "title": "En Internal/2021/01/antimicrobial Masks Now Available At Eth%20store",
+      "language": "en",
+      "source_path": "en_internal/2021/01/antimicrobial-masks-now-available-at-ETH%20Store.html"
+    },
+    "temporal": {
+      "publication_date": "2021-01",
+      "mentioned_years": [
+        "2005",
+        "2020",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "since, from, currently"
+    },
+    "people": {
+      "mentioned_people": [],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Viral Stability and Persistence of SARS-CoV-2 on Treated Material",
+        "first"
+      ],
+      "grants_funding": [
+        "EU",
+        "grant"
+      ],
+      "projects": [
+        "London Stock",
+        "Treated Material",
+        "SARS-CoV",
+        "Doherty Institute",
+        "ETH Store",
+        "En Internal",
+        "Currently HeiQ",
+        "Masks Now",
+        "Available At",
+        "ETH Zurich",
+        "Viral Stability"
+      ]
+    },
+    "institutional": {
+      "departments": [
+        "Infection and Immunity"
+      ],
+      "institutions": [
+        "Doherty Institute for Infection and Immunity",
+        "ETH",
+        "ETH Zurich",
+        "HeiQ",
+        "the London Stock Exchange"
+      ],
+      "locations": [
+        "Australia",
+        "M.J.",
+        "the ETH Store"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "what",
+        "how"
+      ],
+      "key_concepts": [
+        "HeiQ",
+        "ETH",
+        "the first half of 2020",
+        "the London Stock Exchange",
+        "December 2020",
+        "the ETH Store",
+        "first",
+        "ten",
+        "ETH Zurich",
+        "M.J."
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 1075
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "the London Stock Exchange",
+        "ETH",
+        "grant",
+        "EU",
+        "2005",
+        "2020",
+        "HeiQ",
+        "Doherty Institute for Infection and Immunity",
+        "ETH Zurich",
+        "2021"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Viral Stability and Persistence of SARS-CoV-2 on Treated Material",
+        "chemistry",
+        "what",
+        "how",
+        "medical_research"
+      ],
+      "graph_relations": [
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

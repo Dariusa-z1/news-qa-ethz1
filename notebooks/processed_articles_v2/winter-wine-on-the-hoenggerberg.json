@@ -1,0 +1,169 @@
+{
+  "filename": "winter-wine-on-the-hoenggerberg.md",
+  "original_filename": "winter-wine-on-the-hoenggerberg.html",
+  "source_path": "en_internal/2016/12/winter-wine-on-the-hoenggerberg.html",
+  "date": "2016-12",
+  "title": "Winter Wine On The Hoenggerberg",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "ETH Zurich, the Association of Students VSETH and other associations are bringing Saint Nicholas to the Hönggerberg campus!"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Hoenggerberg",
+        "label": "GPE",
+        "start": 39,
+        "end": 51
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "the Association of Students VSETH",
+        "label": "ORG",
+        "start": 12,
+        "end": 45
+      },
+      {
+        "text": "Saint Nicholas",
+        "label": "PERSON",
+        "start": 82,
+        "end": 96
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 104,
+        "end": 115
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Saint Nicholas"
+      ],
+      "ORG": [
+        "the Association of Students VSETH"
+      ],
+      "LOCATION": [
+        "Hoenggerberg"
+      ],
+      "DATE": [],
+      "MISC": []
+    },
+    "entity_counts": {
+      "Hoenggerberg": 1,
+      "ETH Zurich": 1,
+      "the Association of Students VSETH": 1,
+      "Saint Nicholas": 1,
+      "Hönggerberg": 1
+    },
+    "total_entities": 5,
+    "unique_entities": 5
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "winter-wine-on-the-hoenggerberg.md",
+      "title": "En Internal/2016/12/winter Wine On The Hoenggerberg",
+      "language": "en",
+      "source_path": "en_internal/2016/12/winter-wine-on-the-hoenggerberg.html"
+    },
+    "temporal": {
+      "publication_date": "2016-12",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "ETH Zurich",
+        "Hönggerberg",
+        "Saint Nicholas"
+      ],
+      "people_with_roles": {
+        "ETH Zurich": [
+          "student"
+        ],
+        "Hönggerberg": [
+          "student"
+        ],
+        "Saint Nicholas": [
+          "student"
+        ]
+      },
+      "institutional_roles": [
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [],
+      "grants_funding": [],
+      "projects": [
+        "Students VSETH",
+        "En Internal",
+        "The Hoenggerberg",
+        "ETH Zurich",
+        "Wine On",
+        "Saint Nicholas"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "the Association of Students VSETH"
+      ],
+      "locations": [
+        "Hoenggerberg"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "Hoenggerberg",
+        "ETH Zurich",
+        "the Association of Students VSETH",
+        "Saint Nicholas",
+        "Hönggerberg"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 175
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Hönggerberg",
+        "2016",
+        "the Association of Students VSETH",
+        "ETH Zurich",
+        "Saint Nicholas"
+      ],
+      "semantic_concepts": [
+        "technology"
+      ],
+      "graph_relations": [
+        "ETH Zurich_has_role_student",
+        "Hönggerberg_has_role_student",
+        "Saint Nicholas_has_role_student",
+        "research_domain_technology"
+      ]
+    }
+  }
+}

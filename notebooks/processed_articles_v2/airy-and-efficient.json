@@ -1,0 +1,497 @@
+{
+  "filename": "airy-and-efficient.md",
+  "original_filename": "airy-and-efficient.html",
+  "source_path": "en_news_events/2021/11/airy-and-efficient.html",
+  "date": "2021-11",
+  "title": "Airy And Efficient",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Broadening the spectrum with nitrogen doping",
+      "text": "Aerogels are extraordinary materials that have set Guinness World Records more than a dozen times, including as the world’s lightest solids.\n\nProfessor Markus Niederberger from the Laboratory for Multifunctional Materials at ETH Zurich has been working with these special materials for some time. His lab specialises in aerogels composed of crystalline semiconductor nanoparticles. “We are the only group in the world that can produce this kind of aerogel at such high quality,” he says.\n\nOne use for aerogels based on nanoparticles is as photocatalysts. These are employed whenever a chemical reaction needs to be enabled or accelerated with the aid of sunlight – one example being the production of hydrogen.\n\nThe material of choice for photocatalysts is titanium dioxide (TiO 2 ), a semiconductor. But TiO 2 has a major disadvantage: it can absorb only the UV portion of sunlight – just about 5 percent of the spectrum. If photocatalysis is to be efficient and industrially useful, the catalyst must be able to utilise a broader range of wavelengths."
+    },
+    {
+      "heading": "Broadening the spectrum with nitrogen doping",
+      "text": "That is why Niederberger’s doctoral student Junggou Kwon has been looking for a new way to optimise an aerogel made of TiO 2 nanoparticles. And she had a brilliant idea: if the TiO 2 nanoparticle aerogel is “doped” (to use the technical term) with nitrogen, such that individual oxygen atoms in the material are replaced by nitrogen atoms, the aerogel can then absorb further visible portions of the spectrum. The doping process leaves the aerogel’s porous structure intact. The study on this method was recently published in the journal Applied Materials & Interfaces .\n\nKwon first produced the aerogel using TiO 2 nanoparticles and small amounts of the noble metal palladium, which plays a key role in the photocatalytic production of hydrogen. She then placed the aerogel in a reactor and infused it with ammonia gas. This caused individual nitrogen atoms to embed themselves in the crystal structure of the TiO 2 nanoparticles."
+    },
+    {
+      "heading": "Modified aerogel makes reaction more efficient",
+      "text": "To test whether an aerogel modified in this way actually increases the efficiency of a desired chemical reaction – in this case, the production of hydrogen from methanol and water – Kwon developed a special reactor into which she directly placed the aerogel monolith. She then introduced a vapour of water and methanol to the aerogel in the reactor before irradiating it with two LED lights. The gaseous mixture diffuses through the aerogel’s pores, where it is converted into the desired hydrogen on the surface of the TiO 2 and palladium nanoparticles."
+    },
+    {
+      "heading": "A material like “frozen smoke”",
+      "text": "Kwon stopped the experiment after five days, but up to that point, the reaction was stable and proceeded continuously in the test system. “The process would probably have been stable for longer,” Niederberger says. “Especially with regard to industrial applications, it’s important for it to be stable for as long as possible.” The researchers were satisfied with the reaction’s results as well. Adding the noble metal palladium significantly increased the conversion efficiency: using aerogels with palladium produced up to 70 times more hydrogen than using those without."
+    },
+    {
+      "heading": "Increasing the gas flow",
+      "text": "This experiment served the researchers primarily as a feasibility study. As a new class of photocatalysts, aerogels offer an exceptional three-dimensional structure and offer potential for many other interesting gas-phase reactions in addition to hydrogen production. Compared to the electrolysis commonly used today, photocatalysts have the advantage that they could be used to produce hydrogen using only light rather than electricity.\n\nWhether the aerogel developed by Niederberger’s group will ever be used on a large scale is still uncertain. For example, there is still a question of how to accelerate the gas flow through the aerogel; at the moment, the extremely small pores hinder the gas flow too much. “To operate such a system on an industrial scale, we first have to increase the gas flow and also improve the irradiation of the aerogels,” Niederberger says. He and his group are already working on these issues.\n\nAerogels are exceptional materials. They are extremely light and porous, and boast a huge surface area: one gram of the material can have a surface area of up to 1,200 square metres. Due to their transparency, aerogels have the appearance of “frozen smoke”. They are excellent thermal insulators and so are used in aerospace applications and, increasingly, in the thermal insulation of buildings as well. However, their manufacture still requires a huge amount of energy, so the materials are expensive. The first aerogel was produced from silica by the chemist Samuel Kistler in 1931.\n\nKwon J, Choi K, Schreck M, Liu T, Tervoort E, Niederberger M: Gas-Phase Nitrogen Doping of Monolithic TiO 2 Nanoparticle-Based Aerogels for Efficient Visible Light-Driven Photocatalytic H 2 Production. ACS Applied Materials & Interfaces 2021 13 (45), 53691-53701. DOI: 10.1021/acsami.1c12579"
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "En News",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Efficient",
+        "label": "ORG",
+        "start": 32,
+        "end": 41
+      },
+      {
+        "text": "Aerogels",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Guinness World Records",
+        "label": "ORG",
+        "start": 51,
+        "end": 73
+      },
+      {
+        "text": "more than a dozen",
+        "label": "CARDINAL",
+        "start": 74,
+        "end": 91
+      },
+      {
+        "text": "Markus Niederberger",
+        "label": "PERSON",
+        "start": 151,
+        "end": 170
+      },
+      {
+        "text": "the Laboratory for Multifunctional Materials",
+        "label": "ORG",
+        "start": 176,
+        "end": 220
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 228,
+        "end": 234
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "start": 487,
+        "end": 490
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 663,
+        "end": 666
+      },
+      {
+        "text": "just about 5 percent",
+        "label": "PERCENT",
+        "start": 882,
+        "end": 902
+      },
+      {
+        "text": "Niederberger",
+        "label": "ORG",
+        "start": 12,
+        "end": 24
+      },
+      {
+        "text": "Junggou Kwon",
+        "label": "PERSON",
+        "start": 44,
+        "end": 56
+      },
+      {
+        "text": "Applied Materials & Interfaces",
+        "label": "ORG",
+        "start": 538,
+        "end": 568
+      },
+      {
+        "text": "Kwon",
+        "label": "PERSON",
+        "start": 571,
+        "end": 575
+      },
+      {
+        "text": "crystal",
+        "label": "FAC",
+        "start": 885,
+        "end": 892
+      },
+      {
+        "text": "Kwon",
+        "label": "PERSON",
+        "start": 182,
+        "end": 186
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 376,
+        "end": 379
+      },
+      {
+        "text": "Kwon",
+        "label": "PERSON",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "five days",
+        "label": "DATE",
+        "start": 34,
+        "end": 43
+      },
+      {
+        "text": "Niederberger",
+        "label": "PERSON",
+        "start": 196,
+        "end": 208
+      },
+      {
+        "text": "today",
+        "label": "DATE",
+        "start": 311,
+        "end": 316
+      },
+      {
+        "text": "Niederberger’s",
+        "label": "ORG",
+        "start": 471,
+        "end": 485
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 765,
+        "end": 770
+      },
+      {
+        "text": "Niederberger",
+        "label": "PERSON",
+        "start": 852,
+        "end": 864
+      },
+      {
+        "text": "one gram",
+        "label": "CARDINAL",
+        "start": 1029,
+        "end": 1037
+      },
+      {
+        "text": "up to 1,200 square metres",
+        "label": "QUANTITY",
+        "start": 1081,
+        "end": 1106
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1433,
+        "end": 1438
+      },
+      {
+        "text": "Samuel Kistler",
+        "label": "PERSON",
+        "start": 1487,
+        "end": 1501
+      },
+      {
+        "text": "Schreck M",
+        "label": "PERSON",
+        "start": 1527,
+        "end": 1536
+      },
+      {
+        "text": "ACS Applied Materials & Interfaces",
+        "label": "ORG",
+        "start": 1713,
+        "end": 1747
+      },
+      {
+        "text": "2021 13",
+        "label": "DATE",
+        "start": 1748,
+        "end": 1755
+      },
+      {
+        "text": "53691-53701",
+        "label": "DATE",
+        "start": 1762,
+        "end": 1773
+      },
+      {
+        "text": "10.1021",
+        "label": "CARDINAL",
+        "start": 1780,
+        "end": 1787
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Junggou Kwon",
+        "Kwon",
+        "Markus Niederberger",
+        "Niederberger",
+        "Samuel Kistler",
+        "Schreck M"
+      ],
+      "ORG": [
+        "ACS Applied Materials & Interfaces",
+        "Aerogels",
+        "Applied Materials & Interfaces",
+        "Efficient",
+        "En News",
+        "Guinness World Records",
+        "Niederberger",
+        "Niederberger’s",
+        "the Laboratory for Multifunctional Materials"
+      ],
+      "LOCATION": [
+        "Zurich",
+        "crystal"
+      ],
+      "DATE": [
+        "2021 13",
+        "53691-53701",
+        "five days",
+        "today"
+      ],
+      "MISC": [
+        "10.1021",
+        "One",
+        "first",
+        "just about 5 percent",
+        "more than a dozen",
+        "one",
+        "one gram",
+        "two",
+        "up to 1,200 square metres"
+      ]
+    },
+    "entity_counts": {
+      "Niederberger": 3,
+      "Kwon": 3,
+      "first": 2,
+      "En News": 1,
+      "Efficient": 1,
+      "Aerogels": 1,
+      "Guinness World Records": 1,
+      "more than a dozen": 1,
+      "Markus Niederberger": 1,
+      "the Laboratory for Multifunctional Materials": 1,
+      "Zurich": 1,
+      "One": 1,
+      "one": 1,
+      "just about 5 percent": 1,
+      "Junggou Kwon": 1,
+      "Applied Materials & Interfaces": 1,
+      "crystal": 1,
+      "two": 1,
+      "five days": 1,
+      "today": 1
+    },
+    "total_entities": 34,
+    "unique_entities": 29
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "airy-and-efficient.md",
+      "title": "En News Events/2021/11/airy And Efficient",
+      "language": "en",
+      "source_path": "en_news_events/2021/11/airy-and-efficient.html"
+    },
+    "temporal": {
+      "publication_date": "2021-11",
+      "mentioned_years": [
+        "1931",
+        "2021"
+      ],
+      "time_periods": [],
+      "temporal_context": "from, recently"
+    },
+    "people": {
+      "mentioned_people": [
+        "Junggou Kwon",
+        "Kwon",
+        "Markus Niederberger",
+        "Niederberger",
+        "Samuel Kistler",
+        "Schreck M"
+      ],
+      "people_with_roles": {
+        "Junggou Kwon": [
+          "student"
+        ],
+        "Kwon": [
+          "student"
+        ],
+        "Markus Niederberger": [
+          "Professor",
+          "professor"
+        ],
+        "Niederberger": [
+          "student",
+          "professor"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "student"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "technology",
+        "engineering",
+        "chemistry"
+      ],
+      "research_topics": [
+        "10.1021",
+        "first",
+        "just about 5 percent",
+        "more than a dozen",
+        "one gram",
+        "up to 1,200 square metres"
+      ],
+      "grants_funding": [
+        "ERC"
+      ],
+      "projects": [
+        "Tervoort E",
+        "Professor Markus",
+        "ACS Applied",
+        "Monolithic TiO",
+        "Junggou Kwon",
+        "Guinness World",
+        "Efficient Visible",
+        "Multifunctional Materials",
+        "Applied Materials",
+        "Kwon J",
+        "Schreck M",
+        "Samuel Kistler",
+        "Nanoparticle-Based",
+        "Light-Driven",
+        "Photocatalytic H",
+        "En News",
+        "Niederberger M",
+        "Choi K",
+        "Liu T",
+        "Gas-Phase",
+        "Nitrogen Doping",
+        "ETH Zurich",
+        "But TiO",
+        "And Efficient"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ACS Applied Materials & Interfaces",
+        "Aerogels",
+        "Applied Materials & Interfaces",
+        "Efficient",
+        "En News",
+        "Guinness World Records",
+        "Niederberger",
+        "Niederberger’s",
+        "the Laboratory for Multifunctional Materials"
+      ],
+      "locations": [
+        "Zurich",
+        "crystal"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "Niederberger",
+        "Kwon",
+        "first",
+        "En News",
+        "Efficient",
+        "Aerogels",
+        "Guinness World Records",
+        "more than a dozen",
+        "Markus Niederberger",
+        "the Laboratory for Multifunctional Materials"
+      ],
+      "document_structure": {
+        "total_sections": 5,
+        "section_titles": [
+          "Broadening the spectrum with nitrogen doping",
+          "Broadening the spectrum with nitrogen doping",
+          "Modified aerogel makes reaction more efficient",
+          "A material like “frozen smoke”",
+          "Increasing the gas flow"
+        ],
+        "content_length": 4962
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Samuel Kistler",
+        "Aerogels",
+        "Guinness World Records",
+        "En News",
+        "ACS Applied Materials & Interfaces",
+        "Applied Materials & Interfaces",
+        "ERC",
+        "Niederberger’s",
+        "the Laboratory for Multifunctional Materials",
+        "1931",
+        "Efficient",
+        "2021",
+        "Kwon",
+        "Schreck M",
+        "Junggou Kwon",
+        "Niederberger",
+        "Markus Niederberger"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "just about 5 percent",
+        "who",
+        "chemistry",
+        "up to 1,200 square metres",
+        "where",
+        "10.1021",
+        "more than a dozen",
+        "one gram",
+        "what",
+        "how",
+        "why",
+        "when",
+        "engineering"
+      ],
+      "graph_relations": [
+        "Junggou Kwon_has_role_student",
+        "Kwon_has_role_student",
+        "Markus Niederberger_has_role_Professor",
+        "Markus Niederberger_has_role_professor",
+        "Niederberger_has_role_student",
+        "Niederberger_has_role_professor",
+        "research_domain_technology",
+        "research_domain_engineering",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}

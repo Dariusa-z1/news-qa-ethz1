@@ -1,0 +1,313 @@
+{
+  "filename": "konsortium-fuer-sichere-online-pruefungen-gegruendet.md",
+  "original_filename": "konsortium-fuer-sichere-online-pruefungen-gegruendet.html",
+  "source_path": "de_internal/2016/06/konsortium-fuer-sichere-online-pruefungen-gegruendet.html",
+  "date": "2016-06",
+  "title": "Konsortium Fuer Sichere Online Pruefungen Gegruendet",
+  "language": "de",
+  "paragraphs": [
+    {
+      "heading": "Konsortium mit weiteren Mitgliedern",
+      "text": "Online-Prüfungen gewinnen innerhalb der traditionellen Bildungseinrichtungen zunehmend an Bedeutung. Darüber hinaus sind sie essentiell für die neuen, vollständig online angebotenen Lernangebote wie zum Beispiel MOOCs (Massive Open Online Courses).\n\nUm Online-Prüfungen abgesichert durchführen zu können, ist neben geeigneten organisatorischen Vorkehrungen das passende Software-Werkzeug notwendig. Der Safe Exam Browser ( externe Seite SEB ) ist ein solches Produkt. SEB ist eine abgesicherte Browser-Applikation, mit der man Online-Prüfungen auf webbasierten Prüfungssystemen zuverlässig durchführen kann."
+    },
+    {
+      "heading": "Konsortium mit weiteren Mitgliedern",
+      "text": "Nun haben die ETH Zürich und die Stiftung SWITCH, die Technologie- und Dienstleistungsplattform der Schweizer Hochschulen, im Juni ein Konsortium gegründet mit dem Ziel, die Pflege und funktionale Weiterentwicklung des SEB-Browsers nachhaltig zu finanzieren. Das Konsortium steht weiteren Mitgliedern aus dem Bereich der Bildungsinstitutionen, Unternehmen, Behörden sowie Stiftungen offen. Mit der Beteiligung weiterer Konsortiumsmitglieder und der SEB Open Source Community wird die weitere Zukunft dieser Open-Source Software sichergestellt."
+    },
+    {
+      "heading": "Sichere Prüfungen im Kioskmodus",
+      "text": "Durch den Start der SEB-Applikation wird ein herkömmlicher Desktop-Computer oder ein Tablet in einen sogenannten Kioskmodus versetzt und somit zu einer temporär abgesicherte Prüfungsstation. SEB regelt den Zugriff auf Hilfsmittel wie Systemfunktionen, andere Websites und Programme und unterbindet die Verwendung von unerlaubten Ressourcen während einer Prüfung.\n\nSEB ist ein Open-Source-Produkt, das an der ETH Zürich seit Jahren eingesetzt und weiterentwickelt wird. Heute wird SEB weltweit eingesetzt und setzt Standards hinsichtlich Qualität, Funktionalität und Sicherheit."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "De Internal/2016/06/konsortium",
+        "label": "LOC",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Fuer",
+        "label": "PER",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "text": "Online-Prüfungen",
+        "label": "LOC",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "Massive Open Online Courses",
+        "label": "MISC",
+        "start": 219,
+        "end": 246
+      },
+      {
+        "text": "Online-Prüfungen",
+        "label": "LOC",
+        "start": 252,
+        "end": 268
+      },
+      {
+        "text": "Exam Browser",
+        "label": "PER",
+        "start": 407,
+        "end": 419
+      },
+      {
+        "text": "SEB",
+        "label": "ORG",
+        "start": 436,
+        "end": 439
+      },
+      {
+        "text": "SEB",
+        "label": "ORG",
+        "start": 467,
+        "end": 470
+      },
+      {
+        "text": "Browser-Applikation",
+        "label": "LOC",
+        "start": 493,
+        "end": 512
+      },
+      {
+        "text": "Online-Prüfungen",
+        "label": "LOC",
+        "start": 526,
+        "end": 542
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 14,
+        "end": 24
+      },
+      {
+        "text": "Stiftung SWITCH",
+        "label": "ORG",
+        "start": 33,
+        "end": 48
+      },
+      {
+        "text": "Schweizer",
+        "label": "MISC",
+        "start": 100,
+        "end": 109
+      },
+      {
+        "text": "SEB-Browsers",
+        "label": "MISC",
+        "start": 219,
+        "end": 231
+      },
+      {
+        "text": "SEB Open Source Community",
+        "label": "MISC",
+        "start": 449,
+        "end": 474
+      },
+      {
+        "text": "SEB-Applikation",
+        "label": "ORG",
+        "start": 20,
+        "end": 35
+      },
+      {
+        "text": "SEB",
+        "label": "ORG",
+        "start": 191,
+        "end": 194
+      },
+      {
+        "text": "SEB",
+        "label": "ORG",
+        "start": 363,
+        "end": 366
+      },
+      {
+        "text": "ETH Zürich",
+        "label": "ORG",
+        "start": 407,
+        "end": 417
+      },
+      {
+        "text": "SEB",
+        "label": "ORG",
+        "start": 479,
+        "end": 482
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Exam Browser",
+        "Fuer"
+      ],
+      "ORG": [
+        "ETH Zürich",
+        "SEB",
+        "SEB-Applikation",
+        "Stiftung SWITCH"
+      ],
+      "LOCATION": [
+        "Browser-Applikation",
+        "De Internal/2016/06/konsortium",
+        "Online-Prüfungen"
+      ],
+      "DATE": [],
+      "MISC": [
+        "Massive Open Online Courses",
+        "SEB Open Source Community",
+        "SEB-Browsers",
+        "Schweizer"
+      ]
+    },
+    "entity_counts": {
+      "SEB": 5,
+      "Online-Prüfungen": 3,
+      "ETH Zürich": 2,
+      "De Internal/2016/06/konsortium": 1,
+      "Fuer": 1,
+      "Massive Open Online Courses": 1,
+      "Exam Browser": 1,
+      "Browser-Applikation": 1,
+      "Stiftung SWITCH": 1,
+      "Schweizer": 1,
+      "SEB-Browsers": 1,
+      "SEB Open Source Community": 1,
+      "SEB-Applikation": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 13
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "konsortium-fuer-sichere-online-pruefungen-gegruendet.md",
+      "title": "De Internal/2016/06/konsortium Fuer Sichere Online Pruefungen Gegruendet",
+      "language": "de",
+      "source_path": "de_internal/2016/06/konsortium-fuer-sichere-online-pruefungen-gegruendet.html"
+    },
+    "temporal": {
+      "publication_date": "2016-06",
+      "mentioned_years": [
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": ""
+    },
+    "people": {
+      "mentioned_people": [
+        "Exam Browser",
+        "Fuer"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "computer_science"
+      ],
+      "research_topics": [
+        "Massive Open Online Courses",
+        "SEB Open Source Community",
+        "SEB-Browsers",
+        "Schweizer"
+      ],
+      "grants_funding": [
+        "EU"
+      ],
+      "projects": [
+        "Schweizer Hochschulen",
+        "Online Pruefungen",
+        "SEB Open",
+        "Beispiel MOOCs",
+        "Gegruendet Online",
+        "Fuer Sichere",
+        "Seite SEB",
+        "Online Courses",
+        "Massive Open",
+        "Source Community",
+        "Browser-Applikation",
+        "SEB-Applikation",
+        "SEB-Browsers",
+        "Exam Browser",
+        "Desktop-Computer",
+        "Der Safe",
+        "Um Online",
+        "Stiftung SWITCH",
+        "Software-Werkzeug",
+        "De Internal",
+        "Open-Source",
+        "Das Konsortium"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "ETH Zürich",
+        "SEB",
+        "SEB-Applikation",
+        "Stiftung SWITCH"
+      ],
+      "locations": [
+        "Browser-Applikation",
+        "De Internal/2016/06/konsortium",
+        "Online-Prüfungen"
+      ],
+      "programs": [
+        "program",
+        "programme"
+      ]
+    },
+    "content": {
+      "question_types": [],
+      "key_concepts": [
+        "SEB",
+        "Online-Prüfungen",
+        "ETH Zürich",
+        "De Internal/2016/06/konsortium",
+        "Fuer",
+        "Massive Open Online Courses",
+        "Exam Browser",
+        "Browser-Applikation",
+        "Stiftung SWITCH",
+        "Schweizer"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Konsortium mit weiteren Mitgliedern",
+          "Konsortium mit weiteren Mitgliedern",
+          "Sichere Prüfungen im Kioskmodus"
+        ],
+        "content_length": 1802
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "SEB-Applikation",
+        "Stiftung SWITCH",
+        "EU",
+        "SEB",
+        "Exam Browser",
+        "2016",
+        "ETH Zürich",
+        "Fuer"
+      ],
+      "semantic_concepts": [
+        "Massive Open Online Courses",
+        "Schweizer",
+        "SEB-Browsers",
+        "SEB Open Source Community",
+        "computer_science"
+      ],
+      "graph_relations": [
+        "research_domain_computer_science"
+      ]
+    }
+  }
+}

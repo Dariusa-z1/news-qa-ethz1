@@ -1,0 +1,318 @@
+{
+  "filename": "thomas-mann-archive-extended-opening-times-and-change-in-location.md",
+  "original_filename": "thomas-mann-archive-extended-opening-times-and-change-in-location.html",
+  "source_path": "en_internal/2016/05/thomas-mann-archive-extended-opening-times-and-change-in-location.html",
+  "date": "2016-05",
+  "title": "Thomas Mann Archive Extended Opening Times And Change In Location",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Main article",
+      "text": "From Monday 11 July, the archive, library and Thomas Mann’s last study will be accessible at the new location with extended opening times: Monday to Friday from 10.00 to 17.00.\n\nThe provisional location is on the Hönggerberg Campus :\n\nHCP Building/G Level Room no. 21.2 – 24.2 Leopold-Ruzicka-Weg 4 8093 Zurich\n\nYou can reach Hönggerberg in 15 minutes from Zentrum with the convenient ETH-Link, ETH Zurich’s shuttlebus between the two campuses .\n\nOnce the building has been fully renovated, the University of Zurich will find a new purpose for the Bodmer-Haus, where the Thomas Mann Archive was housed from 1961. The Thomas Mann Archive is scheduled to move to a new, permanent site in ETH Zurich’s main building in the medium term."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "thomas Mann Archive",
+        "label": "PERSON",
+        "start": 20,
+        "end": 39
+      },
+      {
+        "text": "Monday 11 July",
+        "label": "DATE",
+        "start": 5,
+        "end": 19
+      },
+      {
+        "text": "Thomas Mann’s",
+        "label": "PERSON",
+        "start": 46,
+        "end": 59
+      },
+      {
+        "text": "Monday to Friday",
+        "label": "DATE",
+        "start": 139,
+        "end": 155
+      },
+      {
+        "text": "10.00",
+        "label": "CARDINAL",
+        "start": 161,
+        "end": 166
+      },
+      {
+        "text": "17.00",
+        "label": "CARDINAL",
+        "start": 170,
+        "end": 175
+      },
+      {
+        "text": "the Hönggerberg Campus",
+        "label": "FAC",
+        "start": 208,
+        "end": 230
+      },
+      {
+        "text": "HCP Building/G Level Room no",
+        "label": "ORG",
+        "start": 233,
+        "end": 261
+      },
+      {
+        "text": "21.2",
+        "label": "CARDINAL",
+        "start": 263,
+        "end": 267
+      },
+      {
+        "text": "24.2",
+        "label": "CARDINAL",
+        "start": 270,
+        "end": 274
+      },
+      {
+        "text": "Leopold-Ruzicka-Weg 4 8093",
+        "label": "ORG",
+        "start": 275,
+        "end": 301
+      },
+      {
+        "text": "Hönggerberg",
+        "label": "PERSON",
+        "start": 323,
+        "end": 334
+      },
+      {
+        "text": "15 minutes",
+        "label": "TIME",
+        "start": 338,
+        "end": 348
+      },
+      {
+        "text": "Zentrum",
+        "label": "PERSON",
+        "start": 354,
+        "end": 361
+      },
+      {
+        "text": "ETH Zurich’s",
+        "label": "PERSON",
+        "start": 392,
+        "end": 404
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 428,
+        "end": 431
+      },
+      {
+        "text": "the University of Zurich",
+        "label": "ORG",
+        "start": 487,
+        "end": 511
+      },
+      {
+        "text": "Bodmer-Haus",
+        "label": "PERSON",
+        "start": 544,
+        "end": 555
+      },
+      {
+        "text": "the Thomas Mann Archive",
+        "label": "FAC",
+        "start": 563,
+        "end": 586
+      },
+      {
+        "text": "Zurich",
+        "label": "GPE",
+        "start": 686,
+        "end": 692
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Bodmer-Haus",
+        "ETH Zurich’s",
+        "Hönggerberg",
+        "Thomas Mann’s",
+        "Zentrum",
+        "thomas Mann Archive"
+      ],
+      "ORG": [
+        "HCP Building/G Level Room no",
+        "Leopold-Ruzicka-Weg 4 8093",
+        "the University of Zurich"
+      ],
+      "LOCATION": [
+        "Zurich",
+        "the Hönggerberg Campus",
+        "the Thomas Mann Archive"
+      ],
+      "DATE": [
+        "15 minutes",
+        "Monday 11 July",
+        "Monday to Friday"
+      ],
+      "MISC": [
+        "10.00",
+        "17.00",
+        "21.2",
+        "24.2",
+        "two"
+      ]
+    },
+    "entity_counts": {
+      "thomas Mann Archive": 1,
+      "Monday 11 July": 1,
+      "Thomas Mann’s": 1,
+      "Monday to Friday": 1,
+      "10.00": 1,
+      "17.00": 1,
+      "the Hönggerberg Campus": 1,
+      "HCP Building/G Level Room no": 1,
+      "21.2": 1,
+      "24.2": 1,
+      "Leopold-Ruzicka-Weg 4 8093": 1,
+      "Hönggerberg": 1,
+      "15 minutes": 1,
+      "Zentrum": 1,
+      "ETH Zurich’s": 1,
+      "two": 1,
+      "the University of Zurich": 1,
+      "Bodmer-Haus": 1,
+      "the Thomas Mann Archive": 1,
+      "Zurich": 1
+    },
+    "total_entities": 20,
+    "unique_entities": 20
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "thomas-mann-archive-extended-opening-times-and-change-in-location.md",
+      "title": "En Internal/2016/05/thomas Mann Archive Extended Opening Times And Change in Location",
+      "language": "en",
+      "source_path": "en_internal/2016/05/thomas-mann-archive-extended-opening-times-and-change-in-location.html"
+    },
+    "temporal": {
+      "publication_date": "2016-05",
+      "mentioned_years": [
+        "1961",
+        "2016"
+      ],
+      "time_periods": [],
+      "temporal_context": "between, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Bodmer-Haus",
+        "ETH Zurich’s",
+        "Hönggerberg",
+        "Thomas Mann’s",
+        "Zentrum",
+        "thomas Mann Archive"
+      ],
+      "people_with_roles": {},
+      "institutional_roles": []
+    },
+    "research": {
+      "research_domains": [
+        "technology"
+      ],
+      "research_topics": [
+        "10.00",
+        "17.00",
+        "21.2",
+        "24.2"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "Bodmer-Haus",
+        "ETH-Link",
+        "The Thomas",
+        "G Level",
+        "Thomas Mann",
+        "En Internal",
+        "ETH Zurich",
+        "Location From",
+        "Leopold-Ruzicka",
+        "Extended Opening",
+        "Times And",
+        "Mann Archive",
+        "HCP Building"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "HCP Building/G Level Room no",
+        "Leopold-Ruzicka-Weg 4 8093",
+        "the University of Zurich"
+      ],
+      "locations": [
+        "Zurich",
+        "the Hönggerberg Campus",
+        "the Thomas Mann Archive"
+      ],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "when",
+        "where",
+        "why"
+      ],
+      "key_concepts": [
+        "thomas Mann Archive",
+        "Monday 11 July",
+        "Thomas Mann’s",
+        "Monday to Friday",
+        "10.00",
+        "17.00",
+        "the Hönggerberg Campus",
+        "HCP Building/G Level Room no",
+        "21.2",
+        "24.2"
+      ],
+      "document_structure": {
+        "total_sections": 1,
+        "section_titles": [
+          "Main article"
+        ],
+        "content_length": 818
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Bodmer-Haus",
+        "Hönggerberg",
+        "HCP Building/G Level Room no",
+        "1961",
+        "Leopold-Ruzicka-Weg 4 8093",
+        "Thomas Mann’s",
+        "the University of Zurich",
+        "2016",
+        "Zentrum",
+        "thomas Mann Archive",
+        "ETH Zurich’s"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "21.2",
+        "17.00",
+        "24.2",
+        "10.00",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "research_domain_technology"
+      ]
+    }
+  }
+}

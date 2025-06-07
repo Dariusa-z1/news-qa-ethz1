@@ -1,0 +1,382 @@
+{
+  "filename": "pr-breastcancer-is-nocturnal.md",
+  "original_filename": "pr-breastcancer-is-nocturnal.html",
+  "source_path": "en_news_events/2022/06/pr-breastcancer-is-nocturnal.html",
+  "date": "2022-06",
+  "title": "Pr Breastcancer Is Nocturnal",
+  "language": "en",
+  "paragraphs": [
+    {
+      "heading": "Circadian rhythm-regulated hormones control metastasis",
+      "text": "Breast cancer is one of the most common forms of cancer, according to the World Health Organization (WHO). Each year, around 2.3 million people worldwide contract the disease. If doctors detect breast cancer early enough, patients usually respond well to treatment. However, things become much more difficult if the cancer has already metastasised. Metastasis occurs when circulating cancer cells break away from the original tumour, travel through the body via blood vessels and form new tumours in other organs.\n\nTo date, cancer research has not paid much attention to the question of when tumours shed metastatic cells. Researchers previously assumed that tumours release such cells continuously. However, a new study by researchers at ETH Zurich, the University Hospital Basel and the University of Basel has now come to a surprising conclusion: circulating cancer cells that later form metastases mainly arise during the sleep phase of the affected individuals. The results of the study have just been published in the journal Nature ."
+    },
+    {
+      "heading": "Circadian rhythm-regulated hormones control metastasis",
+      "text": "“When the affected person is asleep, the tumour awakens,” summarises study leader Nicola Aceto, Professor of Molecular Oncology at ETH Zurich. During their study, which included 30 female cancer patients and mouse models, the researchers found that the tumour generates more circulating cells when the organism is asleep. Cells that leave the tumour at night also divide more quickly and therefore have a higher potential to form metastases, compared to circulating cells that leave the tumour during the day.\n\n“Our research shows that the escape of circulating cancer cells from the original tumour is controlled by hormones such as melatonin, which determine our rhythms of day and night,” says Zoi Diamantopoulou, the study’s lead author and a postdoctoral researcher at ETH Zurich."
+    },
+    {
+      "heading": "Adjusting therapies to the tumour",
+      "text": "In addition, the study indicates that the time in which tumour or blood samples are taken for diagnosis may influence the findings of oncologists. It was an accidental finding along these lines that first put the researchers on the right track, “Some of my colleagues work early in the morning or late in the evening; sometimes they’ll also analyse blood at unusual hours,\" Aceto says with a smile. The scientists were surprised to find that samples taken at different times of the day had very different levels of circulating cancer cells.\n\nAnother clue was the surprisingly high number of cancer cells found per unit of blood in mice compared to humans. The reason was that as nocturnal animals, mice sleep during the day, which is when scientists collect most of their samples.\n\n“In our view, these findings may indicate the need for healthcare professionals to systematically record the time at which they perform biopsies,” Aceto says. “It may help to make the data truly comparable.”\n\nThe researchers’ next step will be to figure out how these findings can be incorporated into existing cancer treatments to optimise therapies. As part of further studies with patients, ETH Professor Nicola Aceto wants to investigate whether different types of cancer behave similarly to breast cancer and whether existing therapies can be made more successful if patients are treated at different times."
+    }
+  ],
+  "ner": {
+    "entities": [
+      {
+        "text": "Breastcancer Is Nocturnal",
+        "label": "ORG",
+        "start": 26,
+        "end": 51
+      },
+      {
+        "text": "Breast",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "the World Health Organization (WHO",
+        "label": "ORG",
+        "start": 70,
+        "end": 104
+      },
+      {
+        "text": "Each year",
+        "label": "DATE",
+        "start": 107,
+        "end": 116
+      },
+      {
+        "text": "around 2.3 million",
+        "label": "CARDINAL",
+        "start": 118,
+        "end": 136
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 738,
+        "end": 748
+      },
+      {
+        "text": "the University Hospital Basel",
+        "label": "ORG",
+        "start": 750,
+        "end": 779
+      },
+      {
+        "text": "the University of Basel",
+        "label": "ORG",
+        "start": 784,
+        "end": 807
+      },
+      {
+        "text": "Nature",
+        "label": "WORK_OF_ART",
+        "start": 1031,
+        "end": 1037
+      },
+      {
+        "text": "Nicola Aceto",
+        "label": "PERSON",
+        "start": 82,
+        "end": 94
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 131,
+        "end": 141
+      },
+      {
+        "text": "night",
+        "label": "TIME",
+        "start": 353,
+        "end": 358
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 501,
+        "end": 508
+      },
+      {
+        "text": "Zoi Diamantopoulou",
+        "label": "PERSON",
+        "start": 696,
+        "end": 714
+      },
+      {
+        "text": "ETH Zurich",
+        "label": "ORG",
+        "start": 773,
+        "end": 783
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 199,
+        "end": 204
+      },
+      {
+        "text": "early in the morning",
+        "label": "TIME",
+        "start": 273,
+        "end": 293
+      },
+      {
+        "text": "unusual hours",
+        "label": "TIME",
+        "start": 358,
+        "end": 371
+      },
+      {
+        "text": "Aceto",
+        "label": "PERSON",
+        "start": 374,
+        "end": 379
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 478,
+        "end": 485
+      },
+      {
+        "text": "the day",
+        "label": "DATE",
+        "start": 715,
+        "end": 722
+      },
+      {
+        "text": "Aceto",
+        "label": "PERSON",
+        "start": 927,
+        "end": 932
+      },
+      {
+        "text": "ETH Professor",
+        "label": "ORG",
+        "start": 1173,
+        "end": 1186
+      },
+      {
+        "text": "Nicola Aceto",
+        "label": "PERSON",
+        "start": 1187,
+        "end": 1199
+      }
+    ],
+    "categorized": {
+      "PERSON": [
+        "Aceto",
+        "Nicola Aceto",
+        "Zoi Diamantopoulou"
+      ],
+      "ORG": [
+        "Breast",
+        "Breastcancer Is Nocturnal",
+        "ETH Professor",
+        "ETH Zurich",
+        "the University Hospital Basel",
+        "the University of Basel",
+        "the World Health Organization (WHO"
+      ],
+      "LOCATION": [],
+      "DATE": [
+        "Each year",
+        "early in the morning",
+        "night",
+        "the day",
+        "unusual hours"
+      ],
+      "MISC": [
+        "Nature",
+        "around 2.3 million",
+        "first",
+        "one"
+      ]
+    },
+    "entity_counts": {
+      "ETH Zurich": 3,
+      "the day": 3,
+      "Nicola Aceto": 2,
+      "Aceto": 2,
+      "Breastcancer Is Nocturnal": 1,
+      "Breast": 1,
+      "one": 1,
+      "the World Health Organization (WHO": 1,
+      "Each year": 1,
+      "around 2.3 million": 1,
+      "the University Hospital Basel": 1,
+      "the University of Basel": 1,
+      "Nature": 1,
+      "night": 1,
+      "Zoi Diamantopoulou": 1,
+      "first": 1,
+      "early in the morning": 1,
+      "unusual hours": 1,
+      "ETH Professor": 1
+    },
+    "total_entities": 25,
+    "unique_entities": 19
+  },
+  "rag_metadata": {
+    "basic_info": {
+      "filename": "pr-breastcancer-is-nocturnal.md",
+      "title": "En News Events/2022/06/pr Breastcancer Is Nocturnal",
+      "language": "en",
+      "source_path": "en_news_events/2022/06/pr-breastcancer-is-nocturnal.html"
+    },
+    "temporal": {
+      "publication_date": "2022-06",
+      "mentioned_years": [
+        "2022"
+      ],
+      "time_periods": [],
+      "temporal_context": "during, from"
+    },
+    "people": {
+      "mentioned_people": [
+        "Aceto",
+        "Nicola Aceto",
+        "Zoi Diamantopoulou"
+      ],
+      "people_with_roles": {
+        "Aceto": [
+          "researcher",
+          "professor"
+        ],
+        "Nicola Aceto": [
+          "Professor",
+          "professor"
+        ],
+        "Zoi Diamantopoulou": [
+          "researcher"
+        ]
+      },
+      "institutional_roles": [
+        "professor",
+        "researcher",
+        "scientist"
+      ]
+    },
+    "research": {
+      "research_domains": [
+        "medical_research",
+        "technology",
+        "biology",
+        "chemistry"
+      ],
+      "research_topics": [
+        "Nature",
+        "around 2.3 million",
+        "first"
+      ],
+      "grants_funding": [],
+      "projects": [
+        "World Health",
+        "Molecular Oncology",
+        "En News",
+        "Zoi Diamantopoulou",
+        "Nocturnal Breast",
+        "Breastcancer Is",
+        "University Hospital",
+        "ETH Professor",
+        "ETH Zurich",
+        "Nicola Aceto"
+      ]
+    },
+    "institutional": {
+      "departments": [],
+      "institutions": [
+        "Breast",
+        "Breastcancer Is Nocturnal",
+        "ETH Professor",
+        "ETH Zurich",
+        "the University Hospital Basel",
+        "the University of Basel",
+        "the World Health Organization (WHO"
+      ],
+      "locations": [],
+      "programs": []
+    },
+    "content": {
+      "question_types": [
+        "who",
+        "what",
+        "when",
+        "where",
+        "how",
+        "why"
+      ],
+      "key_concepts": [
+        "ETH Zurich",
+        "the day",
+        "Nicola Aceto",
+        "Aceto",
+        "Breastcancer Is Nocturnal",
+        "Breast",
+        "one",
+        "the World Health Organization (WHO",
+        "Each year",
+        "around 2.3 million"
+      ],
+      "document_structure": {
+        "total_sections": 3,
+        "section_titles": [
+          "Circadian rhythm-regulated hormones control metastasis",
+          "Circadian rhythm-regulated hormones control metastasis",
+          "Adjusting therapies to the tumour"
+        ],
+        "content_length": 3273
+      }
+    },
+    "retrieval_tags": {
+      "bm25_keywords": [
+        "Zoi Diamantopoulou",
+        "Breastcancer Is Nocturnal",
+        "the University of Basel",
+        "the University Hospital Basel",
+        "ETH Professor",
+        "the World Health Organization (WHO",
+        "2022",
+        "Aceto",
+        "ETH Zurich",
+        "Nicola Aceto",
+        "Breast"
+      ],
+      "semantic_concepts": [
+        "technology",
+        "first",
+        "Nature",
+        "who",
+        "chemistry",
+        "around 2.3 million",
+        "biology",
+        "what",
+        "how",
+        "medical_research",
+        "why",
+        "when",
+        "where"
+      ],
+      "graph_relations": [
+        "Aceto_has_role_researcher",
+        "Aceto_has_role_professor",
+        "Nicola Aceto_has_role_Professor",
+        "Nicola Aceto_has_role_professor",
+        "Zoi Diamantopoulou_has_role_researcher",
+        "research_domain_medical_research",
+        "research_domain_technology",
+        "research_domain_biology",
+        "research_domain_chemistry"
+      ]
+    }
+  }
+}
