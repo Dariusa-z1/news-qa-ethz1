@@ -1,0 +1,92 @@
+# 18-professorinnen-und-professoren-an-der-eth-zuerich-ernannt.html
+
+**Source:** de_news_events/2016/05/18-professorinnen-und-professoren-an-der-eth-zuerich-ernannt.html
+
+## Ernennungen ETH Zürich
+
+Der ETH-Rat hat an seiner Sitzung vom 25./26. Mai 2016 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, 18 Professorinnen und Professoren ernannt, einen Professorentitel verliehen und den Rücktritt von einem Professor mit Verdankung zur Kenntnis genommen.
+
+Ueli Angst (Bild: Christoph Engeli)
+
+Dr. Ueli Angst (*1980) , zurzeit Postdoktorand und Lehrbeauftragter an der ETH Zürich sowie beratend in der Privatwirtschaft tätig, zum Assistenzprofessor für Dauerhaftigkeit von Werkstoffen. Ueli Angst ist ein Spezialist für die Dauerhaftigkeit von Stahl­betonbauwerken – ein Thema, das Kenntnisse in Material­wissenschaften, Chemie, Elektrochemie und Bauingenieurwesen verlangt. Er erkannte rasch, dass Antworten auf die drängenden Fragen der Dauerhaftigkeit von Infrastrukturbauten – von der Instandsetzung bestehender Bauten bis zum Einsatz neuer, noch unbekannter Zemente – nur mit einem wissenschaftlichen Ansatz gefunden werden können. Ueli Angst wird mit seiner SNF-Förderungsprofessur wesentliche Beiträge zu volkswirtschaftlich relevanten Themen wie der Erhaltung wichtiger Infrastruktur­bauten leisten.
+
+Denis Burdakov (Bild: Denis Burdakov)
+
+Prof. Dr. Denis Burdakov (*1979) , zurzeit Professor am King’s College, London, zum ordentlichen Professor für Neurowissenschaften. Denis Burdakovs Forschung konzentriert sich auf neuronale Netzwerke und Prozesse, die effizi­ente und gesunde Interaktionen zwischen Umwelt und Verhalten herstellen. Sein Inte­resse gilt insbesondere der Frage, wie das Gehirn Informationen verarbeitet, um wichti­ge Verhaltensweisen wie Essen und Schlafen energieeffizient zu steu­ern. Seine Erkenntnisse tragen zur Behandlung von Krankheiten wie Fettleibigkeit und Schlafstörungen bei. Die Berufung von Denis Burdakov stellt für verschiedene Forschungsbereiche der ETH Zürich sowie für die Zusammenarbeit mit dem Universitätsspital Zürich eine grosse Bereicherung dar.
+
+Sebastiano Cantalupo (Bild: ETH Zürich / Heidi Hostettler)
+
+Dr. Sebastiano Cantalupo (*1980) , zurzeit Oberassistent an der ETH Zürich, zum Assistenzprofessor für Kosmische Strukturbildung. Sebastiano Cantalupos Spezialgebiet ist die Strukturbildung im frü­hen Universum. Er hat ein viel beachtetes Forschungsprogramm aufgebaut, in dem er Beobachtungsprojekte mit numerischen Simulationsprojekten und analy­tischer Theorie kombiniert. Für die Beobachtungen arbeitet er mit weltweit führen­den Observatorien zusammen. Mit der Entdeckung von sehr grossen Gasstrukturen um Quasare mit hoher Rot­verschiebung löste Sebastiano Cantalupo in der internationalen Fachwelt grosses Interesse aus. Mit seiner SNF-Förderungsprofessur wird er die Aktivitäten der ETH Zürich in den Bereichen Kosmologie und Galaxienentwicklung in idealer Weise ergänzen und verstärken.
+
+Alessandro Carlotto (Bild: Alessandro Carlotto)
+
+Dr. Alessandro Carlotto (*1984) , zurzeit Junior Fellow an der ETH Zürich, zum Assistenzprofessor für Mathematik. Alessandro Carlotto ist ein vielversprechender Nachwuchswissenschaftler. Sein Arbeitsgebiet umspannt Differentialgeometrie, nichtlineare Analysis und mathematische Physik. Der Schwerpunkt seines Forschungsinteresses sind geometrische Variationsprobleme in der allgemeinen Relativitätstheorie und der kon­formen Geometrie. Die internationale Ausstrahlung Alessandro Carlottos, sein Engagement für die Förderung des akademischen Nachwuchses sowie sein vielfältiges, diverse Themen der Mathematik umspannendes wissenschaftliches Interesse, bedeuten eine grosse Bereiche­rung für die ETH Zürich.
+
+Nathalie Dubois (Bild: Eawag)
+
+Dr. Nathalie Dubois (*1981) , zurzeit Gruppenleiterin an der Eawag, zur Assistenzprofessorin für Paläolimnologie. Nathalie Dubois ist eine international anerkannte Spezialistin für die Untersuchung von Seeablagerungen. Mithilfe von Sedimentkernen rekonstruiert sie vergangene Umweltbedingungen. An der ETH Zürich wird sie sich auf die Auswirkung früher menschlicher Aktivitäten auf die Ökosysteme von ursprünglich unbewohnten Inseln im fernöstlichen Pazifik fokussieren. Die Resultate ihrer Forschungsarbeiten werden unter anderem dazu dienen, Parallelen zwischen früheren und heutigen Klimaveränderungen zu ziehen. Die SNF-Förderungsprofessorin bringt neue Forschungs­fragen und eine ergänzende Expertise in die ETH Zürich ein und wird die bereits bestehende Zusammenarbeit mit der Eawag im Bereich der Paläolimnologie weiter intensivieren.
+
+Collin Y. Ewald (Bild: Harvard Medical School / Stephanie M. McPherson)
+
+Dr. Collin Y. Ewald (*1980) , zurzeit Postdoktorand an der ETH Zürich, zum Assistenzprofessor für Regeneration von Extrazellulärer Matrix. Collin Ewald ist ein international anerkannter Forscher auf dem Gebiet der moleku­laren Biologie des Alterns. Ihm gelang es unter anderem zu zeigen, dass fast alle Interventionen, die das Leben verlängern, nicht nur das Zellinnere schützen und reparie­ren, sondern in unerwarteter Weise auch das Zelläussere (die extrazelluläre Matrix). Seine Berufung wird die Grundlagen­forschung zum Schwerpunktthema alternde Gesellschaft / gesundes Altern an der ETH Zürich erheblich verstärken. Das Ziel des SNF-Förderungsprofessors wird sein, her­auszufinden, wie sich die verbesserte Regeneration der extrazellulären Matrix auf die Verlängerung der gesunden Lebensspanne auswirkt.
+
+## Verleihung des Titels «Professor»
+
+Mohsen Ghaffari (Bild: Matilde Barbosa)
+
+Mohsen Ghaffari (*1987) , zurzeit Doktorand am Massachusetts Institute of Technology (MIT), Cambridge, USA, zum Tenure-Track-Assistenzprofessor für Informatik. Mohsen Ghaffari ist ein höchst vielversprechender Nachwuchsforscher, der in der Theoretischen Informatik mit Schwerpunkt auf verteiltem Rechnen und Netzwerkalgorithmen forscht. Seine mehrfach ausgezeichneten Arbeiten verbinden mathematische Methoden aus Wahrscheinlichkeitstheo­rie und Graphentheorie mit Algorithmendesign und Analyse. Er schafft dabei Bezüge zu etablierten Themen der ETH Zürich und zu neuen Schwerpunkten im Bereich der Verarbeitung grosser Datenmengen und der sozialen Netzwerke. Die führende Rolle der Hochschule in diesen zukunftsträchtigen Gebieten wird mit der Berufung von Mohsen Ghaffari gestärkt.
+
+Manu Kapur (Bild: Manu Kapur)
+
+Prof. Dr. Manu Kapur (*1974) , zurzeit Professor am Hong Kong Institute of Education, China, zum ordentlichen Professor für Lernwissenschaften mit Schwerpunkt Universitätslehre. Manu Kapur ist international bekannt für seine Arbeiten zum Thema Lernen aus Fehlern. So gestaltete er neuartige Lernprogramme in Mathematik, welche den Lernenden ihre Missverständnisse aufzeigen und so einen Lerneffekt ermöglichen. Zudem konnte er unproduktiven Lernerfolg nachweisen. Dieser tritt ein, wenn ein oberflächliches Verständnis erworben wird, das langfristig den Lernerfolg beeinträchtigt. Manu Kapur wird das Forschungsgebiet Higher STEM-Education (MINT-Ausbildung) voranbringen und die Lehre an der ETH Zürich im Austausch mit den Dozierenden und vor dem Hintergrund aktueller wissenschaftlicher Erkenntnisse optimieren.
+
+Michael Nash (Bild: Julian Fuhrmann)
+
+Dr. Michael Nash (*1982) , zurzeit Gruppenleiter an der Ludwig-Maximilians-Universität München im Rahmen eines Branco Weiss Fellowships der ETH Zürich, zum Tenure-Track-Assistenzprofessor für Engineering von Synthetischen Systemen. Michael Nash ist ein Wissenschaftler mit grossem Potenzial. Seine Forschungsabsichten richten sich auf die genaue Untersuchung, das Verständnis und die Entwicklung molekularer Mechanismen, die den Aufbau mecha­nisch robuster Multienzymkomplexe regulieren. Mit dieser Ausrichtung passt Michael Nash ausgezeichnet zum Nationalen Forschungs­schwerpunkt «Molecular Systems Engineering», in dessen Rahmen er als Doppelprofessor der Universität Basel und der ETH Zürich tätig sein wird.
+
+Berend Snijder (Bild: Berend Snijder)
+
+Dr. Berend Snijder (*1981) , zurzeit Postdoktorand an der Österreichischen Akademie der Wissenschaften in Wien, zum Assistenzprofessor für Molekulare Systembiologie. Berend Snijder ist ein hoch innovativer Forscher. Er entwickelt bildgebende Methoden für grosse Perturbationsexperimente von Einzelzellen. Die Ziele seiner Forschung reichen von der Erlangung fundamentaler Einsichten in das Verhalten von Zellen über Anwendungen in der personalisierten Medizin bis zur Entwicklung neuer Medikamente. Berend Snijder wird mit seiner SNF-Förderungsprofessur zukunftsträchtige Schwerpunktthemen im Bereich der computergestützten Systemanalyse von Zellen und in der personalisierten Medizin vorantreiben und so die international führende Rolle der ETH Zürich auf diesen Gebieten stärken.
+
+Bruno Studer (Bild: ETH Zürich/Giulia Marthaler)
+
+Prof. Dr. Bruno Studer (*1977) , zurzeit SNF-Förderungsprofessor an der ETH Zürich, zum ausserordentlichen Professor für Molekulare Pflanzenzüchtung. Im Zentrum von Bruno Studers Forschung steht die Entwicklung von Züchtungsverfahren für futter­baulich genutzte Pflanzen, um deren Leistungs­fähigkeit und Effizienz zu verbessern. Diese Züch­tungsverfahren beinhalten klassische Anwendungen von funktionellen molekularen Markern sowie neue Konzepte der genomischen Selektion. Seine Erkenntnisse tragen dazu bei, tierische Produkte ökologischer und ökonomischer herzustellen. Mit der Berufung von Bruno Studer zum ausserordentlichen Professor stärkt die ETH Zürich ihren For­schungsschwerpunkt Ernährungssicherung und intensiviert die Zusammenarbeit mit Agroscope weiter.
+
+Shinichi Sunagawa (Bild: Shinichi Sunagawa)
+
+Dr. Shinichi Sunagawa (*1978) , zurzeit wissenschaftlicher Mitarbeiter am Europäischen Labor für Molekularbiologie, Heidelberg, zum Assistenzprofessor für Mikrobiomforschung. Shinichi Sunagawa ist ein äusserst kom­peten­ter und engagierter Nachwuchswissenschaftler. In seiner bisherigen Forschungsaktivität leistete er mit der Implementierung computergestützter Analysen hoch ­komplexer mikrobieller Konsortien Pionierarbeit. Auf internationale Aufmerksamkeit stiessen insbesondere seine Methoden, um aus grossen Sequenzdatensätzen Erkenntnisse über spezifische Mikroorganismen zu gewinnen. Shinichi Sunagawas kombinierte Expertise im Bereich der Biochemie und der Bioinformatik stellt für den international führenden Bereich Life Sciences der ETH Zürich eine wichtige und erfolgverspre­chende Ergänzung dar.
+
+Vincent Tassion (Bild: Maria Kondrattieva)
+
+Dr. Vincent Tassion (*1986) , zurzeit Postdoktorand an der Universität Genf, zum Assistenzprofessor für Mathematik. Vincent Tassions Forschungsgebiet sind Phasenübergänge in Modellen der statistischen Physik – ein Hauptthema der Wahrschein­lichkeitstheorie. Dabei geht es darum, Phänomene aus der Physik oder Chemie anhand von dis­kreten Modellen zu beschreiben und zu erklären. Vincent Tassion hat in den letzten Jahren zu verschiedenen offenen Fragen in diesem Themenbereich geforscht, unter anderem zu den Phasenübergängen für Modelle in drei Dimensionen. Dabei konnte er langjährige offene Probleme lösen. Mit seiner Berufung gewinnt die ETH Zürich einen hervorragenden jungen Mathe­matiker, der für seine Kolleginnen und Kollegen sowie für seine Studierenden eine grosse Bereicherung sein wird.
+
+Konrad Tiefenbacher (Bild: Konrad Tiefenbacher)
+
+Prof. Dr. Konrad Tiefenbacher (*1980) , zurzeit Juniorprofessor an der Technischen Universität München, zum Tenure-Track-Assistenzprofessor für Synthese von Funktionellen Modulen. Konrad Tiefenbacher hat sich einen Namen als origineller und innovativer Forscher gemacht. Sein Spezialgebiet sind sich selbst aufbauende supra­molekulare Käfige als katalytische Nanoreaktoren für chemische Transformationen. Mit seiner Forschung will er unter anderem die Reaktoren für ein breiteres Lösungsmittelspektrum zugänglich machen. Mit seiner stark synthetisch-organisch geprägten Expertise wird Konrad Tiefenbacher den Nationalen Forschungsschwerpunkt «Molecular Systems Engineering» als Doppelprofessor der Universität Basel und der ETH Zürich ideal ergänzen.
+
+## Verabschiedung ETH Zürich
+
+Roy Wagner (Bild: Roy Wagner)
+
+Dr. Roy Wagner (*1973), zurzeit Research Fellow an der Tel Aviv University, Israel, zum ordentlichen Professor für Geschichte und Philosophie der Mathematischen Wissenschaften. Roy Wagner ist ein weltweit anerkannter Wissenschaftler, der über eine in dieser Ausprägung sehr seltene Mehrfach­qualifikation als Mathematiker, Wissenschafts­philosoph und Mathematikhistoriker verfügt. Dies macht ihn zu einem gefragten und kompetenten Übersetzer zwischen den Ansätzen und Methoden der Mathematik, Ingenieur-, Natur- und Geisteswissenschaften. Für die neugeschaffene Professur für Ge­schichte und Philosophie der Mathematischen Wissenschaften an der ETH Zürich stellt Roy Wagner daher eine ideale Besetzung dar.
+
+Karin Würtz (Bild: Karin Würtz)
+
+Dr. Karin Würtz (*1978) , zurzeit Oberassistentin und Lehrbeauftragte an der ETH Zürich, zur Assistenzprofessorin für Immunoengineering und Regenerative Medizin. Karin Würtz ist eine international anerkannte Spezialistin für Entzündungsprozesse in der Bandscheibe und in anderen Geweben des Bewegungsapparats. Das Hauptziel ihrer Forschung ist, die Entzündung des Gewebes mittels natürlicher und synthetischer Wirkstoffe so zu steuern, dass eine Degeneration verhindert werden kann bzw. eine Regeneration des Organs be­günstigt wird. Mit der Berufung von Karin Würtz, die vom SNF eine Förderungsprofessur erhält, kann die ETH Zürich ihre weltweit beachteten Forschungsaktivitäten in der regenerativen Medizin und im aufkommenden Bereich des Immunoengineerings weiter stärken.
+
+Samuel Zeeman (Bild: ETH Zürich/Giulia Marthaler)
+
+Prof. Dr. Samuel Zeeman (*1970) , zurzeit ausserordentlicher Professor an der ETH Zürich, zum ordentlichen Professor für Pflanzenbiochemie. Samuel Zeeman hat sich als international führender Experte im Bereich Stärkemetabolismus von Pflanzen etabliert. Er untersucht insbesondere, wie Pflanzen die primären Produkte der Photosynthese – Zucker und Stärke – verwenden. Seine Resultate leisten wesent­liche Beiträge zum Verständnis der Anpassungsfähigkeit der Pflanzen an sich verändernde Umwelt­bedingungen. Seine Erkenntnisse sind von grösster praktischer Relevanz und fliessen in die Debatte über die Ernährungssicherheit künftiger Generationen ein. Samuel Zeeman leistet mit seinem Engagement für die Lehre zudem einen essentiellen Beitrag zum Wissens- und Technologietransfer an der ETH Zürich.
+
+Oded Zilberberg (Bild: ETH Zürich / Heidi Hostettler)
+
+Dr. Oded Zilberberg (*1979) , zurzeit wissenschaftlicher Mitarbeiter im Forschungszentrum eines renommierten Schweizer Unternehmens, zum Assistenzprofessor für Quantenphysik der Kondensierten Materie. Oded Zilberberg ist ein vielseitiger Forscher, der mit seinen Erkenntnissen in internationalen Fachkreisen Aufsehen erregt hat. Seine Arbeit konzentriert sich auf quantenkohärente Phänomene im Grenz­bereich der Festkörperphysik und der Quantenoptik und zielt darauf ab, neue Anwendungen in der Sensorik und in der Informationsverarbeitung zu ermöglichen. Mit der Berufung von Oded Zilberberg, der vom SNF eine Förderungsprofessur erhält, stärkt die ETH Zürich ihre Forschungsaktivität auf dem Ge­biet des Nationalen Forschungsschwerpunktes «Quantum Science and Technology» signifikant.
+
+Ita Heinze-Greenberg (Bild: Barbara Sigg)
+
+Dr. Ita Heinze-Greenberg (*1956) , leitende wissenschaftliche Mitarbeiterin und Lehrbeauftragte an der ETH Zürich, zur Titularprofessorin der ETH Zürich. Ita Heinze-Greenberg ist eine international anerkannte Expertin für die Architektur des 19. und 20. Jahrhunderts. Sie wirkt am Institut für Geschichte und Theorie der Architektur an der ETH Zürich und prägt dessen Forschung und Lehre in wesentlichen Themenfeldern.
+
+Prof. Dr. Savas Tay (*1977) , zurzeit Assistenzprofessor für Bioengineering, wird Ende Juni 2016 aus der ETH Zürich ausscheiden. Savas Tay wurde 2011 an die ETH Zürich berufen. Er verbindet in seiner viel beachteten Forschung die Gebiete der Systembiologie und der Mikrofluidik. Savas Tay hat unter anderem durch die Konzipierung eines einzigartigen Kurses zu Optofluidik und Biosystemanalyse wesentlich zur Weiterentwicklung der Lehre an der Schnittstelle von Tech­nologie und Biologie beigetragen. Er verlässt die ETH Zürich, um dem Ruf an eine andere Hochschule zu folgen.
+
+Der ETH-Rat verdankt die Leistungen des scheidenden Professors in Wissenschaft, Lehre und akademischer Verwaltung.
+

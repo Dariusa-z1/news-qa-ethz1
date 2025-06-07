@@ -4,7 +4,7 @@ Wraps ChromaDB vector search to provide a unified interface
 """
 import sys
 import os
-#sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 import chromadb
 from chromadb.utils import embedding_functions
@@ -12,61 +12,48 @@ from typing import List, Dict, Any, Tuple
 import json
 
 
-from pathlib import Path
-
 class DenseAdapter:
     """Adapter for ChromaDB dense retrieval to work with hybrid system"""
-    def __init__(self, 
-                 chroma_db_path: str = None,
-                 collection_name: str = "news_multilingual_recursive",
-                 model_name: str = "paraphrase-multilingual-mpnet-base-v2"):
+    
+    def __init__(self, chroma_db_path: str = "chroma_db", 
+                 collection_name: str = "ethz_news",
+                 model_name: str = "paraphrase-multilingual-MiniLM-L12-v2"):
         """
-        Initialize Dense/ChromaDB adapter.
-
+        Initialize Dense/ChromaDB adapter
+        
         Args:
-            chroma_db_path: Path to ChromaDB database. If None, auto-detect path.
+            chroma_db_path: Path to ChromaDB database
             collection_name: Name of the collection to use
-            model_name: Sentence-transformer model to use
+            model_name: Name of the sentence transformer model
         """
-
-        # 🔁 Auto-detect chroma_db path if not provided
-
-        if chroma_db_path is None:
-            chroma_db_path = Path(__file__).resolve().parent.parent.parent / "notebooks" / "chroma_db"
-    
-        chroma_db_path = str(chroma_db_path)  # Ensure string type
-    
-        # ✅ Put print statement here — inside __init__
-        print(f"📂 Loading ChromaDB from: {chroma_db_path}")
-    
-        # 🔄 Optional reassembly from parts if missing
+        # Check if ChromaDB needs to be reassembled
         if not os.path.exists(chroma_db_path) and os.path.exists("chromadb_parts"):
             print("ChromaDB not found, attempting to reassemble from parts...")
             from scripts.chromadb_utils import reassemble_chromadb
             reassemble_chromadb(".", chroma_db_path)
-
-        # ✅ Initialize ChromaDB client
+        
+        # Initialize ChromaDB client
         self.client = chromadb.PersistentClient(path=chroma_db_path)
-
-        # Embedding model
+        
+        # Get or create collection with embedding function
         self.embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
             model_name=model_name
         )
-
-        # Load or create collection
+        
         try:
             self.collection = self.client.get_collection(
                 name=collection_name,
                 embedding_function=self.embedding_function
             )
         except:
+            # Collection doesn't exist, create it
             self.collection = self.client.create_collection(
                 name=collection_name,
                 embedding_function=self.embedding_function
             )
-
+        
         self.name = "Dense_ChromaDB"
-        print(f"✅ ChromaDB initialized with {self.collection.count():,} documents from '{collection_name}'")
+        print(f"ChromaDB initialized with {self.collection.count()} documents")
     
     def retrieve(self, query: str, top_k: int = 10) -> List[Tuple[Dict[str, Any], float]]:
         """
@@ -113,7 +100,3 @@ class DenseAdapter:
     def get_name(self) -> str:
         """Return the name of this retriever"""
         return self.name
-
-    def get_document_count(self) -> int:
-        """Return the number of documents in the collection"""
-        return self.collection.count()
