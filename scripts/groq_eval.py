@@ -5,7 +5,7 @@ import re
 import time
 
 # === Configuration ===
-GROQ_API_KEY = ""  # Replace with your actual API key
+GROQ_API_KEY = "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"  
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 RESULTS_DIR = Path(__file__).resolve().parent.parent / "notebooks" / "bm25_results"
 
