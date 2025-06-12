@@ -83,29 +83,29 @@ news-qa-ethz1/
 ├── graphrag/                          # Graph-based retriever module
 ├── hybrid_retrieval/                  # Core hybrid retriever logic
 │   ├── adapters/                      # Wrapper modules for each retriever
-│   ├── evaluation/                    # Evaluation pipeline scripts
-│   ├── tests/                         # Unit and integration tests
 │   ├── benchmark_qa.json              # Sample Q&A pairs
-│   ├── hybrid_retriever.py
-│   ├── score_fusion.py
-│   ├── reranking.py                   # Placeholder for future re-ranking
+│   ├── hybrid_retriever.py	       # Orchestrates hybrid retrieval by combining BM25, Dense, and GraphRAG methods with optional score fusion and multi-model reranking.
+│   ├── score_fusion.py		       # Implements RRF and weighted score fusion algorithms to combine results from multiple retrievers.
+│   ├── reranking.py                   # Implements multi-model re-ranking using cross-encoders, ensemble RRF, summary-based, keyword boosting, and Cohere API.
 │   ├── generate_answers_groq.py       # Groq LLM-based answer generation
-│   ├── groq_generated_answers.json    # Generated answers (11 samples)
+│   ├── groq_generated_answers.json    # Generated answers 
 │   ├── groq_top5_scores.json          # Top-5 retrieved results
 │   ├── evaluation_results.json        # Evaluation metrics
 │   ├── semantic_eval_results.json
-│   └── test_hybrid.py                 # Run script for hybrid system
+│   ├── rag_pipeline.py 	       # Tests hybrid retrieval with and without reranking, and generates answers using top documents via GPT-2.
+│   ├── evaluate_semantic_similarity.py # Evaluates retrieval quality using semantic similarity to ground-truth answers across baseline and reranked results.
+│   └── test_hybrid.py                 # Runs and compares hybrid retrieval with and without reranking using real or sample data.
 ├── lib/                               # Supporting libraries (custom)
 ├── multilingual_bm25/                 # BM25 with multilingual support
 ├── notebooks/                         # Development notebooks
 │   ├── chroma_db/                     # ChromaDB embeddings (two collections)
 │   ├── parsed_markdown/               # Markdown-extracted article content
 │   ├── processed_articles/            # Cleaned JSON articles w/ metadata
-│   ├── 01_html_parsing_comparison.ipynb
-│   ├── 02_hybrid_parsing.ipynb
+│   ├── 01_html_parsing_comparison.ipynb #  Compares BeautifulSoup and Docling for HTML parsing to optimize content extraction for RAG.
+│   ├── 02_hybrid_parsing.ipynb	       # Implements a hybrid BeautifulSoup–Docling parser to robustly extract and clean HTML news content.
 │   ├── 2_1_bm25_experiments.ipynb     # Multilingual BM25 retrieval with query translation for EN/DE search.
 │   ├── 2_2_v2_updated_script.ipynb    # Dense Vector Retrieval + Chunking Analysis
-│   ├── 2_5_pre_retrieval.ipynb
+│   ├── 2_5_pre_retrieval.ipynb	       # Implements query expansion, rewriting, and routing strategies to enhance retrieval precision and adaptability.
 │   └── eth_benchmark_qa.json
 ├── scripts/                           # Utilities and helpers
 ├── .gitignore
