@@ -1,7 +1,3 @@
-Thanks! Here’s the updated README.md with the new Groq integration, evaluation results, and current project status reflected. This version maintains clarity, professionalism, and communicates both your accomplishments and critical insights for your professor.
-
-⸻
-
 
 # 🧠 ETH News RAG System
 **Multilingual Retrieval-Augmented Generation (RAG) with Hybrid Retrieval**
