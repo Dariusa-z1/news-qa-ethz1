@@ -31,3 +31,7 @@ python -m spacy download de_core_news_lg
 ## License
 
 [Add license information here]
+
+## Repository
+
+GitHub: https://github.com/Dariusa-z1/news-qa-ethz1
