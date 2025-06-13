@@ -1,49 +1,57 @@
 # Python
 __pycache__/
 *.py[cod]
-*.class
+*$py.class
 *.so
 .Python
 env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Large files
-*.whl
-*.model
-*.vec
-*.bin
-*.pkl
-
-# Virtual Environment
 venv/
 ENV/
 
-# IDE files
-.idea/
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Large data files
+*.bin
+*.pkl
+*.pickle
+chromadb_parts/
+notebooks/chroma_db*/
+*.sqlite3
+*.db
+
+# Data directories (large)
+HKNews/
+bm25_query_results/
+multilingual_bm25/
+/var/
+
+# Temporary files
+*.tmp
+tmp/
+temp/
+
+# API Keys - IMPORTANT!
+.env
+*.key
+api_keys.txt
+groq_api_key.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
 .vscode/
+.idea/
 *.swp
 *.swo
 
-# OS specific
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-chroma_db/
-Open
+# Large result files
+groq_generated_answers.json
+full_evaluation_results.json
+enhanced_evaluation_results.json
+
+# Keep only essential evaluation results
+!hybrid_retrieval/evaluation_results.json

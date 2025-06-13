@@ -1,3 +1,6 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
 from pathlib import Path
 import json
 import requests
@@ -5,7 +8,7 @@ import re
 import time
 
 # === Configuration ===
-GROQ_API_KEY = "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"  
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")  
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 RESULTS_DIR = Path(__file__).resolve().parent.parent / "notebooks" / "bm25_results"
 
