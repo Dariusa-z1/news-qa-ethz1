@@ -103,6 +103,7 @@ news-qa-ethz1/
 │   ├── processed_articles/            # Cleaned JSON articles w/ metadata
 │   ├── 01_html_parsing_comparison.ipynb #  Compares BeautifulSoup and Docling for HTML parsing to optimize content extraction for RAG.
 │   ├── 02_hybrid_parsing.ipynb	       # Implements a hybrid BeautifulSoup–Docling parser to robustly extract and clean HTML news content.
+│   ├── 1_2_v2_updated_script.ipynb    # Extracts and cleans text, detects language, enriches with metadata and tags for hybrid RAG retrieval.
 │   ├── 2_1_bm25_experiments.ipynb     # Multilingual BM25 retrieval with query translation for EN/DE search.
 │   ├── 2_2_v2_updated_script.ipynb    # Dense Vector Retrieval + Chunking Analysis
 │   ├── 2_5_pre_retrieval.ipynb	       # Implements query expansion, rewriting, and routing strategies to enhance retrieval precision and adaptability.
