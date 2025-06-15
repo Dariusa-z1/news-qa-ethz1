@@ -2,7 +2,7 @@
 # 🧠 ETH News RAG System
 **Multilingual Retrieval-Augmented Generation (RAG) with Hybrid Retrieval**
 
-**Last Updated:** June 3, 2025  
+**Last Updated:** June 14, 2025  
 **Branch:** `graph-rag-implementation`  
 **Repository:** [news-qa-ethz1](https://github.com/ArntheGitHub/news-qa-ethz1)
 
