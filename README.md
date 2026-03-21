@@ -187,7 +187,7 @@ The system is robust in identifying relevant topics, but answer synthesis is lim
 
 👨‍💻 Contributors
 	•	Arnold Olympio
-	•	Daria Onishchuk
+	•	Daria Horica
 	•	Yaqun Wu
 
 
